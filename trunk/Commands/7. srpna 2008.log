@@ -1,0 +1,667 @@
+##############################
+Log started on 7.8.2008 0:57:21
+
+7.8.2008 0:58:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+7.8.2008 0:58:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MaxRange' of 0x40019A26 (AdminKatana) to '50'
+7.8.2008 0:58:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+7.8.2008 0:59:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+7.8.2008 1:02:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 7.8.2008 1:04:13
+
+7.8.2008 1:11:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+7.8.2008 1:11:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013A74 (DemonForks)
+7.8.2008 1:11:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013B0D (ArmsOfTacticalExcellence)
+7.8.2008 1:11:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013CAB (FluteOfRenewal)
+7.8.2008 1:11:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go zento'
+7.8.2008 1:11:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+7.8.2008 1:12:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+7.8.2008 1:12:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+7.8.2008 1:13:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 12000000'
+7.8.2008 1:13:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '12000000'
+7.8.2008 1:13:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 120000000'
+7.8.2008 1:13:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '120000000'
+7.8.2008 1:14:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setskill wrestling 255'
+7.8.2008 1:14:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Wrestling.Base' of 0x1 "Elamorius" ('Elamor') to '255'
+7.8.2008 1:14:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 255'
+7.8.2008 1:15:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '255'
+7.8.2008 1:18:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+7.8.2008 1:18:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: True) (Save: True)
+7.8.2008 1:19:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '
+##############################
+Log started on 7.8.2008 1:20:51
+
+7.8.2008 1:24:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 150000000'
+7.8.2008 1:24:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '150000000'
+7.8.2008 1:24:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 7.8.2008 1:26:46
+
+7.8.2008 1:35:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 7.8.2008 1:38:03
+
+##############################
+Log started on 7.8.2008 1:43:24
+
+##############################
+Log started on 7.8.2008 1:58:26
+
+##############################
+Log started on 7.8.2008 2:10:01
+
+7.8.2008 2:13:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'ggsreset '
+7.8.2008 2:14:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'ggsreset 1'
+7.8.2008 2:14:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'ggsreset 0'
+7.8.2008 2:14:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'ggsreset 1'
+7.8.2008 2:14:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'ggsreset 10'
+7.8.2008 2:14:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'ggsreset '
+7.8.2008 2:14:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'ggsreset full'
+7.8.2008 2:14:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'GGSReset <full>'
+7.8.2008 2:15:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'GGSReset <full>'
+7.8.2008 2:15:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'GGSReset full'
+7.8.2008 2:18:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'rotreset '
+7.8.2008 2:36:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 7.8.2008 2:55:35
+
+##############################
+Log started on 7.8.2008 8:57:38
+
+7.8.2008 9:03:30: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+7.8.2008 11:54:08: 89.102.85.219: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+7.8.2008 11:55:14: 89.102.85.219: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+7.8.2008 11:55:18: 89.102.85.219: Owner 0x1 "Elamorius" ('Elamor') moving 0x8E68 "Arion" (no account) to (990, 521, -50)
+7.8.2008 11:55:27: 89.102.85.219: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+7.8.2008 11:57:30: 89.102.85.219: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 120000000'
+7.8.2008 11:57:32: 89.102.85.219: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '120000000'
+7.8.2008 12:27:53: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'c '
+7.8.2008 12:28:28: 62.24.75.40: Player 0x958A "Rozhodnozka" ('Svatej') used command 'pm elam'
+7.8.2008 12:31:36: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'props '
+7.8.2008 12:31:42: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') set property 'LowerRegCost' of ... to '100'
+7.8.2008 12:31:51: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') set property 'Luck' of ... to '10000'
+7.8.2008 12:32:22: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'add rewa'
+7.8.2008 12:32:30: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') building at (992, 519, -50) in Malas: "RewardRobe"
+7.8.2008 12:32:30: 62.24.75.40: Serials: 0x4002CD9E; 
+7.8.2008 12:32:35: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'set hue 1150'
+7.8.2008 12:32:36: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') set property 'hue' of 0x4002CD9E (RewardRobe) to '1150'
+7.8.2008 12:32:40: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'set hue 1153'
+7.8.2008 12:32:40: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') set property 'hue' of 0x4002CD9E (RewardRobe) to '1153'
+7.8.2008 17:48:48: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+7.8.2008 17:48:52: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c zdravicko'
+7.8.2008 17:52:49: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c muze nekdo pomoct? pls'
+7.8.2008 19:19:18: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'c '
+7.8.2008 19:19:25: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'c ahoj'
+7.8.2008 19:19:32: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'add sca'
+7.8.2008 19:19:42: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') building at (986, 520, -50) in Malas: "ScrappersCompendium"
+7.8.2008 19:19:42: 62.24.75.40: Serials: 0x40032EE5; 
+7.8.2008 19:19:55: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'set hue 1420'
+7.8.2008 19:19:56: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') set property 'hue' of 0x40032EE5 (ScrappersCompendium) to '1420'
+7.8.2008 19:39:07: 62.24.75.40: Player 0x958A "Rozhodnozka" ('Svatej') used command 'c ee'
+7.8.2008 19:39:17: 62.24.75.40: Player 0x958A "Rozhodnozka" ('Svatej') used command 'c jj muzes'
+7.8.2008 19:44:12: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') used command 'set name Fred.'
+7.8.2008 19:44:12: 62.24.75.40: GameMaster 0x4B4C "Death" ('Svatej') set property 'name' of 0x4B4C "Death" ('Svatej') to 'Fred.'
+7.8.2008 19:45:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 0'
+7.8.2008 19:45:05: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x4B4C "Fred." ('Svatej') to '0'
+7.8.2008 19:45:11: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set huename 33'
+7.8.2008 19:45:19: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set namehue 33'
+7.8.2008 19:45:19: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'namehue' of 0x4B4C "Fred." ('Svatej') to '33'
+7.8.2008 19:45:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add hoo'
+7.8.2008 19:45:29: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (997, 519, -50) in Malas: "HoodedShroudOfShadows"
+7.8.2008 19:45:29: 62.24.75.40: Serials: 0x400334CE; 
+7.8.2008 19:45:34: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 0'
+7.8.2008 19:45:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334CE (HoodedShroudOfShadows) to '0'
+7.8.2008 19:45:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 19:45:40: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400247F8 (Backpack) to '1150'
+7.8.2008 19:45:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add axi'
+7.8.2008 19:46:02: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (998, 518, -50) in Malas: "HeaterShield"
+7.8.2008 19:46:02: 62.24.75.40: Serials: 0x400334CF; 
+7.8.2008 19:46:08: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 19:46:09: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334CF (HeaterShield) to '1150'
+7.8.2008 19:46:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add warfork'
+7.8.2008 19:46:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (1000, 519, -50) in Malas: "warfork"
+7.8.2008 19:46:14: 62.24.75.40: Serials: 0x400334D0; 
+7.8.2008 19:46:21: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 19:46:22: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334D0 (WarFork) to '1150'
+7.8.2008 19:46:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'setallskills 100'
+7.8.2008 19:46:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'EverySkill.Base' of 0x4B4C "Fred." ('Svatej') to '100'
+7.8.2008 19:46:47: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set rewstr 100'
+7.8.2008 19:46:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set str 100'
+7.8.2008 19:46:55: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'str' of 0x4B4C "Fred." ('Svatej') to '100'
+7.8.2008 19:46:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set dex 100'
+7.8.2008 19:46:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'dex' of 0x4B4C "Fred." ('Svatej') to '100'
+7.8.2008 19:47:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set int 100'
+7.8.2008 19:47:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'int' of 0x4B4C "Fred." ('Svatej') to '100'
+7.8.2008 19:47:22: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add horse'
+7.8.2008 19:47:23: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (1007, 520, -50) in Malas: "horse"
+7.8.2008 19:47:23: 62.24.75.40: Serials: 0x9659; 
+7.8.2008 19:47:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 19:47:28: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x9659 "a horse" (no account) to '1175'
+7.8.2008 19:47:34: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'kill '
+7.8.2008 19:47:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') killing 0x9659 "a horse" (no account)
+7.8.2008 19:47:38: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add horse'
+7.8.2008 19:47:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (1015, 519, -70) in Malas: "horse"
+7.8.2008 19:47:39: 62.24.75.40: Serials: 0x965B; 
+7.8.2008 19:47:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 19:47:44: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x965B "a horse" (no account) to '1175'
+7.8.2008 19:47:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1153'
+7.8.2008 19:47:58: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x965B "a horse" (no account) to '1153'
+7.8.2008 19:48:03: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 19:48:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x965B "a horse" (no account) to '1150'
+7.8.2008 19:48:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'kill '
+7.8.2008 19:48:11: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') killing 0x965B "a horse" (no account)
+7.8.2008 19:48:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add ethe'
+7.8.2008 19:48:22: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add horse'
+7.8.2008 19:48:23: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (1016, 507, -70) in Malas: "horse"
+7.8.2008 19:48:23: 62.24.75.40: Serials: 0x9661; 
+7.8.2008 19:48:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add horsse'
+7.8.2008 19:48:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add hors'
+7.8.2008 19:48:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (1016, 509, -70) in Malas: "SLWarHorse"
+7.8.2008 19:48:39: 62.24.75.40: Serials: 0x9667; 
+7.8.2008 19:48:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 19:48:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1420'
+7.8.2008 19:48:58: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334CF (HeaterShield) to '1420'
+7.8.2008 19:49:02: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1420'
+7.8.2008 19:49:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334D0 (WarFork) to '1420'
+7.8.2008 19:49:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add boots'
+7.8.2008 19:49:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (1016, 519, -70) in Malas: "boots"
+7.8.2008 19:49:10: 62.24.75.40: Serials: 0x40033543; 
+7.8.2008 19:49:17: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 0'
+7.8.2008 19:49:18: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400247F8 (Backpack) to '0'
+7.8.2008 19:49:30: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'unhide '
+7.8.2008 19:49:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') unhiding 0x4B4C "Fred." ('Svatej')
+7.8.2008 19:50:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 500'
+7.8.2008 19:50:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x4B4C "Fred." ('Svatej') to '500'
+7.8.2008 19:50:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add quiver'
+7.8.2008 19:50:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2705, 2230, 0) in Felucca: "QuiverOfInfinity"
+7.8.2008 19:50:39: 62.24.75.40: Serials: 0x40033584; 
+7.8.2008 19:50:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1420'
+7.8.2008 19:50:51: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033584 (QuiverOfInfinity) to '1420'
+7.8.2008 19:50:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 500'
+7.8.2008 19:50:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x4B4C "Fred." ('Svatej') to '500'
+7.8.2008 19:51:02: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add kryss'
+7.8.2008 19:51:03: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2707, 2227, 0) in Felucca: "kryss"
+7.8.2008 19:51:03: 62.24.75.40: Serials: 0x400335C9; 
+7.8.2008 19:51:09: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1420'
+7.8.2008 19:51:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400335C9 (Kryss) to '1420'
+7.8.2008 19:51:16: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 19:51:24: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'Poison' of 0x400335C9 (Kryss) to 'Greater'
+7.8.2008 19:51:36: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'PoisonCharges' of 0x400335C9 (Kryss) to '50'
+7.8.2008 19:51:49: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 19:51:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitLightning' of ... to '56'
+7.8.2008 19:52:30: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 5000'
+7.8.2008 19:52:30: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x4B4C "Fred." ('Svatej') to '5000'
+7.8.2008 19:52:36: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 500'
+7.8.2008 19:52:37: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0xCE "jimmy dragon X" ('darius03') to '500'
+7.8.2008 19:52:48: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add storm'
+7.8.2008 19:52:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2710, 2229, 0) in Felucca: "Stormgrip"
+7.8.2008 19:52:59: 62.24.75.40: Serials: 0x400335DC; 
+7.8.2008 19:52:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set itemid 11010'
+7.8.2008 19:53:00: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'itemid' of 0x400335DC (Stormgrip) to '11010'
+7.8.2008 19:53:11: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set itemid 1101'
+7.8.2008 19:53:12: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'itemid' of 0x400335DC (Stormgrip) to '1101'
+7.8.2008 19:53:16: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add ninj'
+7.8.2008 19:53:29: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2710, 2224, 0) in Felucca: "LeatherNinjaJacket"
+7.8.2008 19:53:29: 62.24.75.40: Serials: 0x40033601; 
+7.8.2008 19:53:34: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add mitt'
+7.8.2008 19:53:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2709, 2225, 0) in Felucca: "LeatherNinjaMitts"
+7.8.2008 19:53:35: 62.24.75.40: Serials: 0x40033614; 
+7.8.2008 19:53:38: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 19:54:09: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set itemid 10130'
+7.8.2008 19:54:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'itemid' of 0x400335DC (Stormgrip) to '10130'
+7.8.2008 19:54:18: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 19:54:20: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400335DC (Stormgrip) to '1150'
+7.8.2008 19:54:28: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 19:54:28: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334CF (HeaterShield) to '1150'
+7.8.2008 19:54:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 19:54:47: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400335C9 (Kryss) to '1150'
+7.8.2008 19:54:55: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 19:54:56: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033584 (QuiverOfInfinity) to '1150'
+7.8.2008 19:55:34: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 500'
+7.8.2008 19:55:34: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x4B4C "Fred." ('Svatej') to '500'
+7.8.2008 19:55:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 500'
+7.8.2008 19:55:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x4B4C "Fred." ('Svatej') to '500'
+7.8.2008 19:56:07: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 5000'
+7.8.2008 19:56:08: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x4B4C "Fred." ('Svatej') to '5000'
+7.8.2008 19:56:28: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 500'
+7.8.2008 19:56:28: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x4B4C "Fred." ('Svatej') to '500'
+7.8.2008 19:56:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add banda'
+7.8.2008 19:56:33: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2688, 2209, 0) in Felucca: "Bandage"
+7.8.2008 19:56:33: 62.24.75.40: Serials: 0x40033723; 
+7.8.2008 19:56:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 19:56:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'Amount' of 0x40033723 (Bandage) to '100'
+7.8.2008 19:57:20: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 19:57:30: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitFireball' of ... to '56'
+7.8.2008 19:57:47: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitDispel' of ... to '48'
+7.8.2008 19:58:33: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 19:58:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitLightning' of ... to '100'
+7.8.2008 19:59:33: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 19:59:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'AttackChance' of ... to '100'
+7.8.2008 19:59:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'BonusHits' of ... to '100'
+7.8.2008 20:00:09: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c deje se neco?'
+7.8.2008 20:00:24: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c li ted pude koukat na josef a li'
+7.8.2008 20:00:33: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c sup Bucca'
+7.8.2008 20:00:39: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c fred neeeee'
+7.8.2008 20:00:39: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+7.8.2008 20:00:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'who '
+7.8.2008 20:00:58: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c remains of jimmyd dragon?!'
+7.8.2008 20:01:11: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c a to vadfi?'
+7.8.2008 20:01:13: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c je tu naka gate'
+7.8.2008 20:02:08: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk sleeping'
+7.8.2008 20:02:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 20:03:06: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 500'
+7.8.2008 20:03:06: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x95C7 "Li" ('Equites') to '500'
+7.8.2008 20:03:09: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c jak to myslis?'
+7.8.2008 20:03:14: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'afk '
+7.8.2008 20:03:14: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c jimmy dragon delal elmy'
+7.8.2008 20:03:18: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'afk '
+7.8.2008 20:03:24: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:03:32: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'CastRecovery' of ... to '100'
+7.8.2008 20:03:36: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'CastSpeed' of ... to '100'
+7.8.2008 20:03:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'LowerManaCost' of ... to '100'
+7.8.2008 20:03:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'LowerRegCost' of ... to '100'
+7.8.2008 20:04:12: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'setallskills 120'
+7.8.2008 20:04:16: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add '
+7.8.2008 20:04:22: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'setallskills 120'
+7.8.2008 20:04:22: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'EverySkill.Base' of 0x4B4C "Fred." ('Svatej') to '120'
+7.8.2008 20:05:17: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add ninju'
+7.8.2008 20:05:23: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2673, 2198, 0) in Felucca: "BookOfNinjitsu"
+7.8.2008 20:05:23: 62.24.75.40: Serials: 0x40033A97; 
+7.8.2008 20:05:25: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c vole co to je za poisn'
+7.8.2008 20:05:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 20:05:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c leath'
+7.8.2008 20:05:33: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c ta kasa nejak nefungujeeeee'
+7.8.2008 20:05:49: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c by ses divil :D'
+7.8.2008 20:05:56: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c to je lower mana cost'
+7.8.2008 20:06:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add arance'
+7.8.2008 20:06:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'who '
+7.8.2008 20:07:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'who '
+7.8.2008 20:07:38: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') moving 0x4B4C "Fred." ('Svatej') to (2698, 2228, 0)
+7.8.2008 20:07:51: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:08:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add jack'
+7.8.2008 20:08:37: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2710, 2230, 0) in Felucca: "JackalsCollar"
+7.8.2008 20:08:37: 62.24.75.40: Serials: 0x40033C18; 
+7.8.2008 20:08:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 20:08:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033C18 (JackalsCollar) to '1150'
+7.8.2008 20:08:49: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:08:52: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334CE (HoodedShroudOfShadows) to '1175'
+7.8.2008 20:08:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 0'
+7.8.2008 20:08:58: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334CE (HoodedShroudOfShadows) to '0'
+7.8.2008 20:09:03: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:09:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033543 (Boots) to '1175'
+7.8.2008 20:09:08: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:09:09: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x9667 "a war horse" (no account) to '1175'
+7.8.2008 20:09:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:09:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400335DC (Stormgrip) to '1175'
+7.8.2008 20:09:19: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:09:20: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033C18 (JackalsCollar) to '1175'
+7.8.2008 20:09:24: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:09:25: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033584 (QuiverOfInfinity) to '1175'
+7.8.2008 20:09:34: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add crim'
+7.8.2008 20:09:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2713, 2221, 0) in Felucca: "CrimsonCincture"
+7.8.2008 20:09:35: 62.24.75.40: Serials: 0x40033C5C; 
+7.8.2008 20:09:40: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add crim'
+7.8.2008 20:09:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2714, 2220, 0) in Felucca: "CrimsonCincture"
+7.8.2008 20:09:41: 62.24.75.40: Serials: 0x40033C5D; 
+7.8.2008 20:09:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2715, 2222, 0) in Felucca: "CrimsonCinicture"
+7.8.2008 20:09:42: 62.24.75.40: Serials: 0x40033C5E; 
+7.8.2008 20:09:49: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:09:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033C5E (CrimsonCinicture) to '1175'
+7.8.2008 20:09:53: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'm remove'
+7.8.2008 20:09:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x40033C5D (CrimsonCincture)
+7.8.2008 20:09:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x40033C5C (CrimsonCincture)
+7.8.2008 20:10:22: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add rune'
+7.8.2008 20:10:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2713, 2222, 0) in Felucca: "RuneBeetleCarapace"
+7.8.2008 20:10:26: 62.24.75.40: Serials: 0x40033C61; 
+7.8.2008 20:10:34: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:10:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033C61 (RuneBeetleCarapace) to '1175'
+7.8.2008 20:10:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add magi'
+7.8.2008 20:10:44: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2713, 2227, 0) in Felucca: "MagicalShortbow"
+7.8.2008 20:10:44: 62.24.75.40: Serials: 0x40033CA3; 
+7.8.2008 20:11:07: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 20:11:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033CA3 (MagicalShortbow) to '1150'
+7.8.2008 20:11:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:11:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033CA3 (MagicalShortbow) to '1175'
+7.8.2008 20:11:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 20:11:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:11:51: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334CF (HeaterShield) to '1175'
+7.8.2008 20:11:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'm remove'
+7.8.2008 20:11:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x400334CF (HeaterShield)
+7.8.2008 20:12:01: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x400334D0 (WarFork)
+7.8.2008 20:12:03: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x400335C9 (Kryss)
+7.8.2008 20:12:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x40033601 (LeatherNinjaJacket)
+7.8.2008 20:12:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'dupe '
+7.8.2008 20:12:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') duping 0x40039485 (ShieldOfInvulnerability) (inBag=False; amount=1)
+7.8.2008 20:12:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') duped 0x40039485 (ShieldOfInvulnerability) creating 0x40033CF4 (ShieldOfInvulnerability)
+7.8.2008 20:12:24: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:12:25: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033CF4 (ShieldOfInvulnerability) to '1175'
+7.8.2008 20:12:38: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add crossbow'
+7.8.2008 20:12:38: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2708, 2230, 0) in Felucca: "crossbow"
+7.8.2008 20:12:38: 62.24.75.40: Serials: 0x40033CF8; 
+7.8.2008 20:12:46: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:12:47: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033CF8 (Crossbow) to '1175'
+7.8.2008 20:12:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:12:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'AttackChance' of ... to '14'
+7.8.2008 20:13:13: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponDamage' of ... to '35'
+7.8.2008 20:13:19: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponSpeed' of ... to '15'
+7.8.2008 20:13:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'AttackChance' of ... to '11'
+7.8.2008 20:13:48: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'MaxDamage' of 0x40033CF8 (Crossbow) to '15'
+7.8.2008 20:13:53: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'MinDamage' of 0x40033CF8 (Crossbow) to '10'
+7.8.2008 20:13:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add meli'
+7.8.2008 20:14:02: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2722, 2237, 20) in Felucca: "LadyMelisande"
+7.8.2008 20:14:02: 62.24.75.40: Serials: 0x9700; 
+7.8.2008 20:14:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 20:14:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add bolt'
+7.8.2008 20:14:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2711, 2230, 0) in Felucca: "bolt"
+7.8.2008 20:14:15: 62.24.75.40: Serials: 0x40033D91; 
+7.8.2008 20:14:19: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:14:22: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'Amount' of 0x40033D91 (Bolt) to '1000'
+7.8.2008 20:14:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:14:49: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'LowerManaCost' of ... to '150'
+7.8.2008 20:14:52: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'RegenMana' of ... to '30'
+7.8.2008 20:14:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:15:02: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'MageArmor' of ... to '1'
+7.8.2008 20:15:17: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add tali'
+7.8.2008 20:15:19: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2705, 2232, 0) in Felucca: "PrimerOnArmsTalisman"
+7.8.2008 20:15:19: 62.24.75.40: Serials: 0x40033DF2; 
+7.8.2008 20:15:24: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:15:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033DF2 (PrimerOnArmsTalisman) to '1175'
+7.8.2008 20:15:30: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1150'
+7.8.2008 20:15:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033DF2 (PrimerOnArmsTalisman) to '1150'
+7.8.2008 20:15:36: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:15:37: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033DF2 (PrimerOnArmsTalisman) to '1109'
+7.8.2008 20:15:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:15:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033584 (QuiverOfInfinity) to '1109'
+7.8.2008 20:15:48: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:15:48: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033C5E (CrimsonCinicture) to '1109'
+7.8.2008 20:15:52: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:15:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033543 (Boots) to '1109'
+7.8.2008 20:15:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:15:58: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033CF8 (Crossbow) to '1109'
+7.8.2008 20:16:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:16:05: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400335DC (Stormgrip) to '1109'
+7.8.2008 20:16:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:16:12: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334CE (HoodedShroudOfShadows) to '1109'
+7.8.2008 20:16:16: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:16:17: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033C18 (JackalsCollar) to '1109'
+7.8.2008 20:16:21: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 0'
+7.8.2008 20:16:22: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033CF8 (Crossbow) to '0'
+7.8.2008 20:16:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 0'
+7.8.2008 20:16:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400334CE (HoodedShroudOfShadows) to '0'
+7.8.2008 20:16:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:16:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitFireball' of ... to '72'
+7.8.2008 20:16:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:17:05: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:17:06: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033CF8 (Crossbow) to '1109'
+7.8.2008 20:17:11: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'go luna'
+7.8.2008 20:17:17: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:17:18: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x9667 "a war horse" (no account) to '1109'
+7.8.2008 20:17:28: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1175'
+7.8.2008 20:17:29: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x9667 "a war horse" (no account) to '1175'
+7.8.2008 20:17:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:17:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitFireball' of ... to '0'
+7.8.2008 20:18:00: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitLightning' of ... to '64'
+7.8.2008 20:18:06: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitLeechMana' of ... to '48'
+7.8.2008 20:18:16: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:18:32: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponSpeed' of ... to '30'
+7.8.2008 20:18:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add dread'
+7.8.2008 20:18:45: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (1058, 518, -90) in Malas: "DreadHorn"
+7.8.2008 20:18:45: 62.24.75.40: Serials: 0x9709; 
+7.8.2008 20:18:48: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 20:19:13: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'kill '
+7.8.2008 20:19:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') killing 0x9709 "a Dread Horn" (no account)
+7.8.2008 20:19:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:19:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:19:32: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40033C61 (RuneBeetleCarapace) to '1109'
+7.8.2008 20:19:55: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:20:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponSpeed' of ... to '10'
+7.8.2008 20:21:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:21:19: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponSpeed' of ... to '5'
+7.8.2008 20:21:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:22:06: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'setallskills 100'
+7.8.2008 20:22:07: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'EverySkill.Base' of 0x4B4C "Fred." ('Svatej') to '100'
+7.8.2008 20:22:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property '[Ninjitsu: 200].Base' of 0x4B4C "Fred." ('Svatej') to '200'
+7.8.2008 20:22:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:23:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property '[Ninjitsu: 150].Base' of 0x4B4C "Fred." ('Svatej') to '150'
+7.8.2008 20:24:06: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'kill '
+7.8.2008 20:24:12: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') killing 0x9700 "a lady melisande" (no account)
+7.8.2008 20:24:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add shield'
+7.8.2008 20:24:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2723, 2220, 0) in Felucca: "ArcaneShield"
+7.8.2008 20:24:43: 62.24.75.40: Serials: 0x40034234; 
+7.8.2008 20:24:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set itemid 11009'
+7.8.2008 20:24:51: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'itemid' of 0x40034234 (ArcaneShield) to '11009'
+7.8.2008 20:24:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:25:00: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40034234 (ArcaneShield) to '1109'
+7.8.2008 20:25:06: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add warfork'
+7.8.2008 20:25:07: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2714, 2228, 0) in Felucca: "warfork"
+7.8.2008 20:25:07: 62.24.75.40: Serials: 0x40034235; 
+7.8.2008 20:25:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add kryss'
+7.8.2008 20:25:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2715, 2220, 0) in Felucca: "kryss"
+7.8.2008 20:25:15: 62.24.75.40: Serials: 0x4003424C; 
+7.8.2008 20:25:21: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 20:25:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponSpeed' of ... to '30'
+7.8.2008 20:25:45: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'AttackChance' of ... to '12'
+7.8.2008 20:25:56: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add dreadhorn'
+7.8.2008 20:25:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2712, 2226, 0) in Felucca: "dreadhorn"
+7.8.2008 20:25:57: 62.24.75.40: Serials: 0x972D; 
+7.8.2008 20:26:12: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 20:26:12: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x4B4C "Fred." ('Svatej')
+7.8.2008 20:26:20: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'kill '
+7.8.2008 20:26:21: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') killing 0x972D "a Dread Horn" (no account)
+7.8.2008 20:42:40: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+7.8.2008 20:44:03: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamor'
+7.8.2008 20:57:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c '
+7.8.2008 20:59:11: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c Svolávám vás Lidi Pojdte do Buceners den veci zadarmo'
+7.8.2008 20:59:25: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add kas'
+7.8.2008 20:59:30: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (985, 520, -50) in Malas: "KasaOfTheRajin"
+7.8.2008 20:59:30: 62.24.75.40: Serials: 0x40034923; 
+7.8.2008 20:59:38: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 20:59:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40034923 (KasaOfTheRajin) to '1109'
+7.8.2008 20:59:55: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add arm'
+7.8.2008 21:00:20: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'remove '
+7.8.2008 21:00:21: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x40034923 (KasaOfTheRajin)
+7.8.2008 21:00:25: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add bri'
+7.8.2008 21:00:28: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (988, 522, -50) in Malas: "BrightsightLenses"
+7.8.2008 21:00:28: 62.24.75.40: Serials: 0x40034AE1; 
+7.8.2008 21:00:36: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 1109'
+7.8.2008 21:00:37: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40034AE1 (BrightsightLenses) to '1109'
+7.8.2008 21:00:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:01:16: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property '[Animal Taming: 100].Base' of 0x988B "tamer" ('Theogil') to '100'
+7.8.2008 21:01:37: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'remove '
+7.8.2008 21:01:38: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x40034AE1 (BrightsightLenses)
+7.8.2008 21:02:23: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c '
+7.8.2008 21:02:36: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:03:13: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property '[Animal Lore: 100].Base' of 0x988B "tamer" ('Theogil') to '100'
+7.8.2008 21:04:37: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:04:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'Amount' of 0x40033723 (Bandage) to '690'
+7.8.2008 21:05:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c '
+7.8.2008 21:06:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'go bucceners den'
+7.8.2008 21:06:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'dupe '
+7.8.2008 21:06:44: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') duping 0x40034234 (ArcaneShield) (inBag=False; amount=1)
+7.8.2008 21:06:44: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') duped 0x40034234 (ArcaneShield) creating 0x40034C09 (ArcaneShield)
+7.8.2008 21:07:23: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add dupe'
+7.8.2008 21:07:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add duper'
+7.8.2008 21:07:29: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (1024, 525, -23) in Malas: "dupe"
+7.8.2008 21:08:09: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:08:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:08:58: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c hm to uberes tak jako tak'
+7.8.2008 21:09:06: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c :D'
+7.8.2008 21:09:52: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 21:10:01: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 21:10:07: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 21:10:12: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c pky'
+7.8.2008 21:10:18: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c pjy'
+7.8.2008 21:10:19: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'who '
+7.8.2008 21:10:20: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c pky'
+7.8.2008 21:10:22: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c hele'
+7.8.2008 21:10:23: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c ok'
+7.8.2008 21:10:25: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c jako duel'
+7.8.2008 21:10:29: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c myslim tim'
+7.8.2008 21:10:34: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c ze nebudes pouzivat GM portu'
+7.8.2008 21:10:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c ok'
+7.8.2008 21:10:40: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c to pak nema cenu'
+7.8.2008 21:11:47: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c gate bucca'
+7.8.2008 21:12:03: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'who '
+7.8.2008 21:12:05: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c okay'
+7.8.2008 21:12:14: 89.102.85.219: Player 0x988B "tamer" ('Theogil') used command 'c '
+7.8.2008 21:13:13: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:13:13: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:13:14: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c lol ze tys to dispelnul pres nakou GM moznost'
+7.8.2008 21:13:48: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:13:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'ColdBonus' of 0x40034C09 (ArcaneShield) to '10'
+7.8.2008 21:14:17: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:14:18: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:14:33: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:14:45: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'EnergyBonus' of 0x40034C09 (ArcaneShield) to '10'
+7.8.2008 21:14:51: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'FireBonus' of 0x40034C09 (ArcaneShield) to '10'
+7.8.2008 21:14:58: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'BonusInt' of ... to '500'
+7.8.2008 21:15:05: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set mana 500'
+7.8.2008 21:15:05: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c canot focus concentratiopn'
+7.8.2008 21:15:06: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'mana' of 0x95C7 "Li" ('Equites') to '500'
+7.8.2008 21:16:02: 89.102.85.219: Player 0x988B "tamer" ('Theogil') used command 'pm fred'
+7.8.2008 21:16:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:16:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:16:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set mana 5000'
+7.8.2008 21:16:58: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'mana' of 0x95C7 "Li" ('Equites') to '5000'
+7.8.2008 21:17:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'kill '
+7.8.2008 21:17:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') killing 0x99AE "Eracove" (no account)
+7.8.2008 21:18:07: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c lol'
+7.8.2008 21:18:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'kill '
+7.8.2008 21:18:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') killing 0x99B8 "Eleogap" (no account)
+7.8.2008 21:18:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:18:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:18:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set mana 200'
+7.8.2008 21:18:58: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'mana' of 0x95C7 "Li" ('Equites') to '200'
+7.8.2008 21:19:06: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set mana 20000'
+7.8.2008 21:19:08: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'mana' of 0x95C7 "Li" ('Equites') to '20000'
+7.8.2008 21:19:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:19:18: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'BonusHits' of ... to '200'
+7.8.2008 21:19:32: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:19:32: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:19:37: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:19:37: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:20:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 21:22:16: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 300'
+7.8.2008 21:22:16: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x95C7 "Li" ('Equites') to '300'
+7.8.2008 21:24:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:24:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:24:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:24:55: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 5000'
+7.8.2008 21:24:56: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x95C7 "Li" ('Equites') to '5000'
+7.8.2008 21:26:10: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:26:11: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x4B4C "Fred." ('Svatej')
+7.8.2008 21:27:02: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 500'
+7.8.2008 21:27:02: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x4B4C "Fred." ('Svatej') to '500'
+7.8.2008 21:27:41: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c blbost'
+7.8.2008 21:27:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:27:45: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:27:58: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add arrow'
+7.8.2008 21:27:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2712, 2226, 0) in Felucca: "arrow"
+7.8.2008 21:27:59: 62.24.75.40: Serials: 0x40035465; 
+7.8.2008 21:28:04: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:28:08: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'Amount' of 0x40035465 (Arrow) to '1000'
+7.8.2008 21:28:52: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:28:53: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:28:57: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:28:58: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:28:59: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c lol a kdo dava RK'
+7.8.2008 21:29:08: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:29:18: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponSpeed' of ... to '30'
+7.8.2008 21:29:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponDamage' of ... to '40'
+7.8.2008 21:29:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponDamage' of ... to '60'
+7.8.2008 21:29:44: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitFireball' of ... to '46'
+7.8.2008 21:30:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 500'
+7.8.2008 21:30:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x95C7 "Li" ('Equites') to '500'
+7.8.2008 21:31:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:31:32: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:31:34: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c dostava, dmg i kdyz me nevidis'
+7.8.2008 21:31:52: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:31:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponDamage' of ... to '35'
+7.8.2008 21:32:03: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'WeaponSpeed' of ... to '20'
+7.8.2008 21:32:16: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitFireball' of ... to '57'
+7.8.2008 21:32:40: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'who '
+7.8.2008 21:32:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') going to 0x95C7 "Li" ('Equites'), Location (2685, 2149, 0), Map Felucca
+7.8.2008 21:32:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'c cekám gate'
+7.8.2008 21:33:18: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:33:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitLightning' of ... to '49'
+7.8.2008 21:33:37: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'who '
+7.8.2008 21:33:39: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') going to 0x95C7 "Li" ('Equites'), Location (2671, 2115, 0), Map Felucca
+7.8.2008 21:34:33: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:34:33: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:34:35: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c nema cenu'
+7.8.2008 21:35:21: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add bows'
+7.8.2008 21:35:25: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2632, 2105, 12) in Felucca: "BarbedLongbow"
+7.8.2008 21:35:25: 62.24.75.40: Serials: 0x400355FD; 
+7.8.2008 21:35:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 21:35:46: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'remove '
+7.8.2008 21:35:47: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x400355FD (BarbedLongbow)
+7.8.2008 21:35:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'props '
+7.8.2008 21:35:59: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'HitDispel' of ... to '50'
+7.8.2008 21:37:40: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:37:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:37:50: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add stam'
+7.8.2008 21:37:51: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2638, 2095, 10) in Felucca: "SwordOfTheStampede"
+7.8.2008 21:37:51: 62.24.75.40: Serials: 0x40035762; 
+7.8.2008 21:38:00: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 21:38:24: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'setallskills 120'
+7.8.2008 21:38:25: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'EverySkill.Base' of 0x4B4C "Fred." ('Svatej') to '120'
+7.8.2008 21:39:08: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c demente'
+7.8.2008 21:39:09: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c uz musim'
+7.8.2008 21:39:15: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c jaky?'
+7.8.2008 21:39:18: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'm remove'
+7.8.2008 21:39:20: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x40034C09 (ArcaneShield)
+7.8.2008 21:39:24: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x40038492 (KasaOfTheRajin)
+7.8.2008 21:39:26: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c lol mama de spat vole musim to vypnout!'
+7.8.2008 21:39:27: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add kas'
+7.8.2008 21:39:31: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2673, 2205, 0) in Felucca: "KasaOfTheRajin"
+7.8.2008 21:39:31: 62.24.75.40: Serials: 0x400357B0; 
+7.8.2008 21:39:32: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c vrat to'
+7.8.2008 21:39:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 33'
+7.8.2008 21:39:36: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x400357B0 (KasaOfTheRajin) to '33'
+7.8.2008 21:39:39: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c a ressni me'
+7.8.2008 21:39:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:39:42: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:39:45: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:39:45: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c omg...'
+7.8.2008 21:39:46: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:39:48: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:39:49: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:39:52: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'm remove'
+7.8.2008 21:39:54: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') deleting 0x40035762 (SwordOfTheStampede)
+7.8.2008 21:40:00: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'tele '
+7.8.2008 21:40:01: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c vrat'
+7.8.2008 21:40:13: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'add kas'
+7.8.2008 21:40:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') building at (2673, 2202, 0) in Felucca: "KasaOfTheRajin"
+7.8.2008 21:40:15: 62.24.75.40: Serials: 0x40035842; 
+7.8.2008 21:40:21: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hue 33'
+7.8.2008 21:40:22: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hue' of 0x40035842 (KasaOfTheRajin) to '33'
+7.8.2008 21:40:38: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'who '
+7.8.2008 21:40:40: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') going to 0x95C7 "Li" ('Equites'), Location (2712, 2233, 0), Map Felucca
+7.8.2008 21:40:49: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:40:49: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:40:52: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:40:53: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:40:56: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:40:56: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:41:01: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c debile'
+7.8.2008 21:41:03: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:41:03: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:41:10: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c portni me do luny'
+7.8.2008 21:41:14: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'set hits 5000'
+7.8.2008 21:41:15: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') set property 'hits' of 0x95C7 "Li" ('Equites') to '5000'
+7.8.2008 21:41:25: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c debile'
+7.8.2008 21:41:25: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:41:26: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:41:31: 85.160.75.21: Player 0x95C7 "Li" ('Equites') used command 'c co delas?'
+7.8.2008 21:41:34: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'res '
+7.8.2008 21:41:35: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') resurrecting 0x95C7 "Li" ('Equites')
+7.8.2008 21:41:41: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'go luna'
+7.8.2008 21:41:43: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') used command 'who '
+7.8.2008 21:41:47: 62.24.75.40: GameMaster 0x4B4C "Fred." ('Svatej') moving 0x95C7 "Li" ('Equites') to (991, 518, -50)
+7.8.2008 21:56:07: 89.102.85.219: Player 0x988B "tamer" ('Theogil') used command 'c '
+7.8.2008 22:04:02: 89.102.85.219: Player 0x988B "tamer" ('Theogil') used command 'c '
+7.8.2008 22:11:01: 89.102.85.219: Player 0x988B "tamer" ('Theogil') used command 'c '
+8.8.2008 0:10:56: 89.103.93.124: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+8.8.2008 0:11:39: 89.103.93.124: Owner 0x1 "Elamorius" ('Elamor') used command 'hide '
+8.8.2008 0:11:41: 89.103.93.124: Owner 0x1 "Elamorius" ('Elamor') hiding 0x958A "Rozhodnozka" ('Svatej')
+8.8.2008 0:20:56: 89.103.93.124: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '

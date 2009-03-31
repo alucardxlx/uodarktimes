@@ -1,0 +1,21 @@
+##############################
+Log started on 5.12.2008 12:24:11
+
+5.12.2008 16:55:09: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'who '
+5.12.2008 16:56:09: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') playing sound 1343 (toAll=True)
+5.12.2008 16:56:09: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'sound 1343'
+5.12.2008 16:56:23: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') playing sound 1342 (toAll=True)
+5.12.2008 16:56:23: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'sound 1342'
+5.12.2008 16:56:34: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') playing sound 1343 (toAll=True)
+5.12.2008 16:56:34: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'sound 1343'
+5.12.2008 16:57:46: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'add cano'
+5.12.2008 16:57:53: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') building at (895, 425, -90) in Malas: "SiegeCannon"
+5.12.2008 16:57:53: 89.111.89.28: Serials: 0x400280C7; 
+5.12.2008 16:58:02: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') building at (896, 425, -90) in Malas: "ExplodingCannonball"
+5.12.2008 16:58:02: 89.111.89.28: Serials: 0x400280D6; 
+5.12.2008 16:58:02: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') building at (896, 425, -90) in Malas: "ExplodingCannonball"
+5.12.2008 16:58:02: 89.111.89.28: Serials: 0x400280D7; 
+5.12.2008 16:58:03: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') building at (896, 425, -89) in Malas: "ExplodingCannonball"
+5.12.2008 16:58:03: 89.111.89.28: Serials: 0x400280D8; 
+5.12.2008 16:58:36: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'delete '
+5.12.2008 16:58:37: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') deleting 0x400280C9 (SiegeComponent)

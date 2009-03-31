@@ -1,0 +1,100 @@
+###############################
+# 7.7.2008 - 10:01
+
+## Ending Auction a49740c8-6d1b-4fe4-ba67-ff1915abf2f8
+# Status : NoBids
+
+] [e893f279-cbc0-4096-9cdb-78e0348f0cd1] Becoming Pending on 7.7.2008 at 18:25. Reason : Reserve not met
+###############################
+# 7.7.2008 - 19:40
+
+## Ending Auction cb9204e1-c584-4926-90a5-ccd2834eb6a0
+# Status : NoBids
+
+## Ending Auction 58503f7d-96bb-47f4-9c82-97b5542ad2f2
+# Status : NoBids
+
+## Ending Auction 0f36a87a-3744-4c1f-9a83-a99bc00751cd
+# Status : NoBids
+
+## Ending Auction 78474843-0d34-403c-b042-76acf5a447b7
+# Status : NoBids
+
+## Ending Auction fb42a835-a83b-474d-94f5-1eb7e19e8b4d
+# Status : NoBids
+
+## Ending Auction de28a651-8bf5-436f-883b-b36a4c7a5567
+# Status : NoBids
+
+## Ending Auction 7270fa69-67f9-4411-8ec1-c32a37393ca2
+# Status : NoBids
+
+## Ending Auction 1ad81ef2-50ab-4dd4-918e-119f78fd3583
+# Status : NoBids
+
+## Ending Auction 45973512-b0e3-4e3d-b893-f0e0e572fa18
+# Status : NoBids
+
+## Ending Auction e81ed109-c262-402d-aa29-9bcd5c0fb248
+# Status : NoBids
+
+## Ending Auction 90da42a7-76ac-4b2d-9cbf-77d1707e6c3c
+# Status : NoBids
+
+## Ending Auction 5a49bb68-5a94-42cc-900e-3261e8527fb7
+# Status : NoBids
+
+## Ending Auction e89249b2-b04e-4bd6-99da-ea9ee41e841b
+# Status : NoBids
+
+## Ending Auction a6d13712-219f-43b3-8210-7b22536cacb7
+# Status : NoBids
+
+## Ending Auction 474e67d0-38ad-430b-a3ad-1a0d517efb10
+# Status : NoBids
+
+## Ending Auction bb9364ba-a4ee-4dc9-a8c7-837873bf9a47
+# Status : NoBids
+
+## Ending Auction 6b302d41-cba3-42b1-a2f5-b82d149f8c08
+# Status : NoBids
+
+## Ending Auction 1930afd9-51d0-4f5e-958c-bbea8f43dc69
+# Status : NoBids
+
+## Ending Auction 49a2bd66-0d1e-48fb-9b62-f60ce00fb5a8
+# Status : NoBids
+
+## Ending Auction 55200942-632a-4cf0-9f49-b8b4aa8529ea
+# Status : NoBids
+
+## Ending Auction 6fa5ed6b-0712-47c3-9331-fc35166a3d79
+# Status : NoBids
+
+## Ending Auction 8f8ac00c-22d4-4e93-b85a-764278f9ea27
+# Status : NoBids
+
+## Ending Auction 0aade9aa-7a08-4b55-8ecb-08d394c1b12b
+# Status : NoBids
+
+## Ending Auction 496578f3-105e-41ae-b8f0-6b9eb12c134d
+# Status : NoBids
+
+## Ending Auction 5e3e92be-9cc8-4c06-b281-005d06b0d168
+# Status : NoBids
+
+## Ending Auction 480e185d-23d0-47f1-934f-08ad1ba9200f
+# Status : NoBids
+
+## Ending Auction 89fae626-cd78-4bd5-8572-d119d96b7267
+# Status : NoBids
+
+## Ending Auction 4147e057-759e-4450-8aef-9aa83fd401e6
+# Status : NoBids
+
+## Ending Auction e72c0e61-657b-4b1a-8e2d-bd5bc1f94097
+# Status : NoBids
+
+## Ending Auction e893f279-cbc0-4096-9cdb-78e0348f0cd1
+# Status : PendingAccepted
+

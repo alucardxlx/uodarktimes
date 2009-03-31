@@ -1,0 +1,485 @@
+##############################
+Log started on 15.7.2008 11:04:34
+
+15.7.2008 11:16:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 11:16:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 11:16:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002BA77 (HolySword)
+15.7.2008 11:23:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+15.7.2008 11:24:16: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+15.7.2008 11:28:50: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+15.7.2008 11:30:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c na foru mas odpoved'
+15.7.2008 12:00:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+15.7.2008 12:00:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 12:14:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+15.7.2008 12:14:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x38F "Eldrod" ('Theogil')
+15.7.2008 12:20:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+15.7.2008 12:20:59: 85.70.219.31: Crafting 0x40020EA9 (Katana) with craft system DefBlacksmithy
+15.7.2008 12:21:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 12:21:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020EA9 (Katana)
+15.7.2008 12:21:17: 85.70.219.31: Crafting 0x40020ED5 (Katana) with craft system DefBlacksmithy
+15.7.2008 12:21:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 12:22:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 12:23:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 12:23:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawn'
+15.7.2008 12:23:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (5879, 1971, 0) in Trammel: "XmlSpawner"
+15.7.2008 12:23:32: 85.70.219.31: Serials: 0x400210D8; 
+15.7.2008 12:23:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x400210D8 'Spawner' [5879, 1971] (Trammel) : RedSolenWarrior
+15.7.2008 12:24:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add rune'
+15.7.2008 12:24:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1722, 815, 0) in Trammel: "RecallRune"
+15.7.2008 12:24:58: 85.70.219.31: Serials: 0x400211EE; 
+15.7.2008 12:24:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1722, 815, 0) in Trammel: "RecallRune"
+15.7.2008 12:24:58: 85.70.219.31: Serials: 0x400211F0; 
+15.7.2008 12:25:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1722, 816, 0) in Trammel: "RecallRune"
+15.7.2008 12:25:01: 85.70.219.31: Serials: 0x400211F1; 
+15.7.2008 12:25:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add recalls'
+15.7.2008 12:25:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1722, 815, 0) in Trammel: "RecallScroll"
+15.7.2008 12:25:53: 85.70.219.31: Serials: 0x400211FA; 
+15.7.2008 12:26:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gates'
+15.7.2008 12:26:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1722, 815, 0) in Trammel: "GateTravelScroll"
+15.7.2008 12:26:07: 85.70.219.31: Serials: 0x40021242; 
+15.7.2008 12:26:13: 85.70.219.31: Crafting 0x40021247 (Runebook) with craft system DefInscription
+15.7.2008 12:26:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+15.7.2008 12:26:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add rune'
+15.7.2008 12:26:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (936, 622, -90) in Malas: "RecallRune"
+15.7.2008 12:26:52: 85.70.219.31: Serials: 0x40021301; 
+15.7.2008 12:26:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (936, 622, -90) in Malas: "RecallRune"
+15.7.2008 12:26:53: 85.70.219.31: Serials: 0x40021306; 
+15.7.2008 12:27:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go britain'
+15.7.2008 12:28:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 12:29:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+15.7.2008 12:47:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 12:47:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspa'
+15.7.2008 12:47:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1717, 815, 0) in Trammel: "XmlSpawner"
+15.7.2008 12:47:54: 85.70.219.31: Serials: 0x4002380B; 
+15.7.2008 12:48:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002380B 'Spawner' [1717, 815] (Trammel) : WanderingHealer
+15.7.2008 12:49:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c tak odejdi a zase k nemu prijd :D'
+15.7.2008 12:50:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 12:51:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+15.7.2008 12:51:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001556F (PremiumSpawner) (inBag=False; amount=1)
+15.7.2008 12:51:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001556F (PremiumSpawner) creating 0x40023CC0 (PremiumSpawner)
+15.7.2008 12:51:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 12:51:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+15.7.2008 12:51:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40023CC0 (PremiumSpawner) to (5916, 1935, 3)
+15.7.2008 12:52:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c prodat? :D'
+15.7.2008 12:52:47: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+15.7.2008 12:52:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+15.7.2008 12:53:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jeweler'
+15.7.2008 12:54:20: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk sleep'
+15.7.2008 13:06:50: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk jidlo'
+15.7.2008 13:22:13: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk sleeping'
+15.7.2008 13:49:28: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+15.7.2008 13:54:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+15.7.2008 13:55:20: 85.70.219.31: Player 0x6D4 "Anthrax" ('Anthrax') used command 'afk obed'
+15.7.2008 14:14:30: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+15.7.2008 14:14:39: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c tak ja zas frcim do prace, custe :)'
+15.7.2008 14:17:49: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk sleeping'
+15.7.2008 14:40:58: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+15.7.2008 15:02:04: 85.70.219.31: Player 0x6D4 "Anthrax" ('Anthrax') used command 'c '
+15.7.2008 18:40:33: 85.70.219.31: Player 0x6D4 "Anthrax" ('Anthrax') used command 'c '
+15.7.2008 18:46:13: 85.70.219.31: Player 0x6D4 "Anthrax" ('Anthrax') used command 'afk '
+15.7.2008 18:46:21: 85.70.219.31: Player 0x6D4 "Anthrax" ('Anthrax') used command 'afk Neco delam... pm to jisti.'
+15.7.2008 19:19:23: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+15.7.2008 19:19:26: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+15.7.2008 19:19:34: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+15.7.2008 19:41:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 19:42:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go newhaven'
+15.7.2008 19:42:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go haven'
+15.7.2008 19:42:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 19:43:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'delete '
+15.7.2008 19:43:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016B0D (PremiumSpawner)
+15.7.2008 19:43:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'delete '
+15.7.2008 19:43:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400152BD (PremiumSpawner)
+15.7.2008 19:44:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'delete '
+15.7.2008 19:44:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016B0E (PremiumSpawner)
+15.7.2008 19:45:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+15.7.2008 19:45:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go 3485 2595 12'
+15.7.2008 19:45:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 19:45:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 19:45:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400152B9 (PremiumSpawner)
+15.7.2008 19:45:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 19:45:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 19:45:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+15.7.2008 19:46:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go 3464 2503 49'
+15.7.2008 19:46:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 19:46:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400152BE (PremiumSpawner)
+15.7.2008 19:46:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 19:48:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 19:48:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016B0C (PremiumSpawner)
+15.7.2008 19:48:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+15.7.2008 19:48:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go 3555 2525 13'
+15.7.2008 19:48:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 19:49:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016B0B (PremiumSpawner)
+15.7.2008 19:49:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 19:49:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4000F8AA (DaemonBloodChest)
+15.7.2008 19:50:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 19:51:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 19:52:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add banker'
+15.7.2008 19:52:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3485, 2573, 20) in Trammel: "banker"
+15.7.2008 19:52:29: 85.70.219.31: Serials: 0x9541; 
+15.7.2008 19:52:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add door'
+15.7.2008 19:52:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+15.7.2008 19:52:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001284D (DarkWoodDoor) (inBag=False; amount=1)
+15.7.2008 19:52:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'delete '
+15.7.2008 19:52:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x9541 "Morven" (no account)
+15.7.2008 19:53:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+15.7.2008 19:53:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+15.7.2008 19:53:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40016C21 (PremiumSpawner) (inBag=False; amount=1)
+15.7.2008 19:53:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40016C21 (PremiumSpawner) creating 0x4003334A (PremiumSpawner)
+15.7.2008 19:53:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+15.7.2008 19:53:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0xA2B2 "Gorrow" (no account) to (990, 518, -50)
+15.7.2008 19:53:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 19:53:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+15.7.2008 19:53:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003334A (PremiumSpawner) to (3484, 2572, 20)
+15.7.2008 19:54:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 19:54:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1358'
+15.7.2008 19:54:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '1358'
+15.7.2008 19:54:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1355'
+15.7.2008 19:54:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '1355'
+15.7.2008 19:54:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1354'
+15.7.2008 19:54:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '1354'
+15.7.2008 19:54:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1352'
+15.7.2008 19:54:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '1352'
+15.7.2008 19:54:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 135'
+15.7.2008 19:54:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '135'
+15.7.2008 19:54:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 13'
+15.7.2008 19:54:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '13'
+15.7.2008 19:55:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1'
+15.7.2008 19:55:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '1'
+15.7.2008 19:55:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 0'
+15.7.2008 19:55:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '0'
+15.7.2008 19:55:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 2'
+15.7.2008 19:55:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '2'
+15.7.2008 19:55:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 2589'
+15.7.2008 19:55:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '2589'
+15.7.2008 19:55:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 258'
+15.7.2008 19:55:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '258'
+15.7.2008 19:55:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+15.7.2008 19:55:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1150'
+15.7.2008 19:55:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40015689 (PublicMoongate) to '1150'
+15.7.2008 19:57:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add fanc'
+15.7.2008 19:57:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3497, 2553, 20) in Trammel: "FancyDress"
+15.7.2008 19:57:02: 85.70.219.31: Serials: 0x400333EE; 
+15.7.2008 19:57:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+15.7.2008 19:57:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bag'
+15.7.2008 19:57:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (986, 519, -50) in Malas: "bag"
+15.7.2008 19:57:55: 85.70.219.31: Serials: 0x40033431; 
+15.7.2008 20:08:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 20:08:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 20:08:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+15.7.2008 20:08:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 20:13:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 20:28:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 20:28:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') resurrecting 0x38F "Eldrod" ('Theogil')
+15.7.2008 20:28:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 20:28:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') resurrecting 0x38F "Eldrod" ('Theogil')
+15.7.2008 20:29:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go britain'
+15.7.2008 20:29:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go trammel'
+15.7.2008 20:29:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 20:29:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 20:31:02: 85.70.219.31: Crafting 0x40033B1C (StuddedChest) with craft system DefTailoring
+15.7.2008 20:35:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 20:36:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40033CAD (Corpse)
+15.7.2008 20:36:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40033C68 (Corpse)
+15.7.2008 20:36:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40033C21 (Corpse)
+15.7.2008 20:36:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40033BF0 (Corpse)
+15.7.2008 20:36:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40033B97 (Corpse)
+15.7.2008 20:37:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 20:38:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 20:41:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 20:41:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 20:42:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add caddl'
+15.7.2008 20:43:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1554, 1669, 20) in Trammel: "Peach"
+15.7.2008 20:43:10: 85.70.219.31: Serials: 0x40033F44; 
+15.7.2008 20:43:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1549, 1672, 20) in Trammel: "Peach"
+15.7.2008 20:43:11: 85.70.219.31: Serials: 0x40033F45; 
+15.7.2008 20:43:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1541, 1672, 20) in Trammel: "Peach"
+15.7.2008 20:43:12: 85.70.219.31: Serials: 0x40033F46; 
+15.7.2008 20:43:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1537, 1672, 20) in Trammel: "Peach"
+15.7.2008 20:43:13: 85.70.219.31: Serials: 0x40033F47; 
+15.7.2008 20:43:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1532, 1672, 20) in Trammel: "Peach"
+15.7.2008 20:43:14: 85.70.219.31: Serials: 0x40033F48; 
+15.7.2008 20:43:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1525, 1673, 20) in Trammel: "Peach"
+15.7.2008 20:43:16: 85.70.219.31: Serials: 0x40033F4B; 
+15.7.2008 20:43:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1520, 1673, 20) in Trammel: "Peach"
+15.7.2008 20:43:16: 85.70.219.31: Serials: 0x40033F4C; 
+15.7.2008 20:43:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1514, 1673, 20) in Trammel: "Peach"
+15.7.2008 20:43:17: 85.70.219.31: Serials: 0x40033F4D; 
+15.7.2008 20:43:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1506, 1674, 20) in Trammel: "Peach"
+15.7.2008 20:43:19: 85.70.219.31: Serials: 0x40033F4E; 
+15.7.2008 20:43:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1503, 1673, 20) in Trammel: "Peach"
+15.7.2008 20:43:19: 85.70.219.31: Serials: 0x40033F4F; 
+15.7.2008 20:43:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1497, 1671, 10) in Trammel: "Peach"
+15.7.2008 20:43:20: 85.70.219.31: Serials: 0x40033F50; 
+15.7.2008 20:43:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1489, 1676, 9) in Trammel: "Peach"
+15.7.2008 20:43:22: 85.70.219.31: Serials: 0x40033F51; 
+15.7.2008 20:43:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1487, 1678, 7) in Trammel: "Peach"
+15.7.2008 20:43:22: 85.70.219.31: Serials: 0x40033F52; 
+15.7.2008 20:43:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1493, 1670, 10) in Trammel: "Peach"
+15.7.2008 20:43:23: 85.70.219.31: Serials: 0x40033F53; 
+15.7.2008 20:43:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1483, 1678, 0) in Trammel: "Peach"
+15.7.2008 20:43:24: 85.70.219.31: Serials: 0x40033F54; 
+15.7.2008 20:43:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1478, 1679, 0) in Trammel: "Peach"
+15.7.2008 20:43:25: 85.70.219.31: Serials: 0x40033F55; 
+15.7.2008 20:43:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1471, 1679, 0) in Trammel: "Peach"
+15.7.2008 20:43:26: 85.70.219.31: Serials: 0x40033F56; 
+15.7.2008 20:43:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1466, 1679, 0) in Trammel: "Peach"
+15.7.2008 20:43:27: 85.70.219.31: Serials: 0x40033F57; 
+15.7.2008 20:43:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1460, 1686, 0) in Trammel: "Peach"
+15.7.2008 20:43:28: 85.70.219.31: Serials: 0x40033F58; 
+15.7.2008 20:43:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1461, 1690, 0) in Trammel: "Peach"
+15.7.2008 20:43:29: 85.70.219.31: Serials: 0x40033F59; 
+15.7.2008 20:43:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1461, 1695, 0) in Trammel: "Peach"
+15.7.2008 20:43:29: 85.70.219.31: Serials: 0x40033F5A; 
+15.7.2008 20:43:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1458, 1698, 0) in Trammel: "Peach"
+15.7.2008 20:43:30: 85.70.219.31: Serials: 0x40033F5B; 
+15.7.2008 20:43:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1454, 1698, 0) in Trammel: "Peach"
+15.7.2008 20:43:31: 85.70.219.31: Serials: 0x40033F5C; 
+15.7.2008 20:43:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1449, 1699, 0) in Trammel: "Peach"
+15.7.2008 20:43:32: 85.70.219.31: Serials: 0x40033F5D; 
+15.7.2008 20:43:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1445, 1697, 0) in Trammel: "Peach"
+15.7.2008 20:43:33: 85.70.219.31: Serials: 0x40033F5E; 
+15.7.2008 20:43:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1440, 1697, 0) in Trammel: "Peach"
+15.7.2008 20:43:34: 85.70.219.31: Serials: 0x40033F5F; 
+15.7.2008 20:43:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1433, 1696, 0) in Trammel: "Peach"
+15.7.2008 20:43:35: 85.70.219.31: Serials: 0x40033F60; 
+15.7.2008 20:43:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1427, 1696, 0) in Trammel: "Peach"
+15.7.2008 20:43:36: 85.70.219.31: Serials: 0x40033F61; 
+15.7.2008 20:43:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1428, 1697, 0) in Trammel: "Peach"
+15.7.2008 20:43:38: 85.70.219.31: Serials: 0x40033F62; 
+15.7.2008 20:43:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1426, 1697, 0) in Trammel: "Peach"
+15.7.2008 20:43:38: 85.70.219.31: Serials: 0x40033F63; 
+15.7.2008 20:43:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1430, 1698, 0) in Trammel: "Peach"
+15.7.2008 20:43:39: 85.70.219.31: Serials: 0x40033F64; 
+15.7.2008 20:43:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1429, 1694, 0) in Trammel: "Peach"
+15.7.2008 20:43:40: 85.70.219.31: Serials: 0x40033F65; 
+15.7.2008 20:54:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'e '
+15.7.2008 20:57:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add peach'
+15.7.2008 20:57:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add peac'
+15.7.2008 20:57:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1403, 1743, 3) in Trammel: "Peach"
+15.7.2008 20:57:58: 85.70.219.31: Serials: 0x4003411A; 
+15.7.2008 20:57:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1400, 1745, 2) in Trammel: "Peach"
+15.7.2008 20:57:58: 85.70.219.31: Serials: 0x4003411B; 
+15.7.2008 20:57:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1395, 1748, 0) in Trammel: "Peach"
+15.7.2008 20:57:59: 85.70.219.31: Serials: 0x4003411C; 
+15.7.2008 20:57:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1392, 1748, 0) in Trammel: "Peach"
+15.7.2008 20:57:59: 85.70.219.31: Serials: 0x4003411D; 
+15.7.2008 20:58:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1389, 1748, 0) in Trammel: "Peach"
+15.7.2008 20:58:00: 85.70.219.31: Serials: 0x4003411E; 
+15.7.2008 20:58:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1386, 1748, 0) in Trammel: "Peach"
+15.7.2008 20:58:01: 85.70.219.31: Serials: 0x4003411F; 
+15.7.2008 20:58:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1383, 1748, 0) in Trammel: "Peach"
+15.7.2008 20:58:01: 85.70.219.31: Serials: 0x40034120; 
+15.7.2008 20:58:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1380, 1749, 0) in Trammel: "Peach"
+15.7.2008 20:58:02: 85.70.219.31: Serials: 0x40034121; 
+15.7.2008 20:58:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1378, 1751, 0) in Trammel: "Peach"
+15.7.2008 20:58:03: 85.70.219.31: Serials: 0x40034122; 
+15.7.2008 20:58:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1375, 1754, 1) in Trammel: "Peach"
+15.7.2008 20:58:03: 85.70.219.31: Serials: 0x40034123; 
+15.7.2008 20:58:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1372, 1758, 4) in Trammel: "Peach"
+15.7.2008 20:58:04: 85.70.219.31: Serials: 0x40034124; 
+15.7.2008 20:58:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1369, 1761, 10) in Trammel: "Peach"
+15.7.2008 20:58:05: 85.70.219.31: Serials: 0x40034125; 
+15.7.2008 20:58:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1367, 1765, 14) in Trammel: "Peach"
+15.7.2008 20:58:06: 85.70.219.31: Serials: 0x40034126; 
+15.7.2008 20:58:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1364, 1770, 15) in Trammel: "Peach"
+15.7.2008 20:58:06: 85.70.219.31: Serials: 0x40034127; 
+15.7.2008 20:58:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1362, 1780, 15) in Trammel: "Peach"
+15.7.2008 20:58:07: 85.70.219.31: Serials: 0x40034128; 
+15.7.2008 20:58:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1362, 1785, 15) in Trammel: "Peach"
+15.7.2008 20:58:08: 85.70.219.31: Serials: 0x40034129; 
+15.7.2008 20:58:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1361, 1798, 0) in Trammel: "Peach"
+15.7.2008 20:58:10: 85.70.219.31: Serials: 0x4003412A; 
+15.7.2008 20:58:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1362, 1805, 0) in Trammel: "Peach"
+15.7.2008 20:58:10: 85.70.219.31: Serials: 0x4003412B; 
+15.7.2008 20:58:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1364, 1812, 2) in Trammel: "Peach"
+15.7.2008 20:58:11: 85.70.219.31: Serials: 0x4003412C; 
+15.7.2008 20:58:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1362, 1817, 0) in Trammel: "Peach"
+15.7.2008 20:58:12: 85.70.219.31: Serials: 0x4003412D; 
+15.7.2008 20:58:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1362, 1823, 0) in Trammel: "Peach"
+15.7.2008 20:58:12: 85.70.219.31: Serials: 0x4003412E; 
+15.7.2008 20:58:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1361, 1829, 0) in Trammel: "Peach"
+15.7.2008 20:58:13: 85.70.219.31: Serials: 0x4003412F; 
+15.7.2008 20:58:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1358, 1833, 0) in Trammel: "Peach"
+15.7.2008 20:58:14: 85.70.219.31: Serials: 0x40034130; 
+15.7.2008 20:58:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1357, 1846, 0) in Trammel: "Peach"
+15.7.2008 20:58:15: 85.70.219.31: Serials: 0x40034131; 
+15.7.2008 20:58:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1359, 1850, 0) in Trammel: "Peach"
+15.7.2008 20:58:15: 85.70.219.31: Serials: 0x40034132; 
+15.7.2008 20:58:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1359, 1857, 0) in Trammel: "Peach"
+15.7.2008 20:58:16: 85.70.219.31: Serials: 0x40034133; 
+15.7.2008 20:58:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1360, 1866, 2) in Trammel: "Peach"
+15.7.2008 20:58:17: 85.70.219.31: Serials: 0x40034134; 
+15.7.2008 20:58:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1364, 1867, 0) in Trammel: "Peach"
+15.7.2008 20:58:17: 85.70.219.31: Serials: 0x40034135; 
+15.7.2008 20:58:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1373, 1874, 0) in Trammel: "Peach"
+15.7.2008 20:58:19: 85.70.219.31: Serials: 0x40034136; 
+15.7.2008 20:58:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1379, 1874, 0) in Trammel: "Peach"
+15.7.2008 20:58:19: 85.70.219.31: Serials: 0x40034137; 
+15.7.2008 20:58:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1382, 1878, 0) in Trammel: "Peach"
+15.7.2008 20:58:20: 85.70.219.31: Serials: 0x40034138; 
+15.7.2008 20:58:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1389, 1899, 0) in Trammel: "Peach"
+15.7.2008 20:58:22: 85.70.219.31: Serials: 0x40034139; 
+15.7.2008 20:58:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1388, 1889, 0) in Trammel: "Peach"
+15.7.2008 20:58:23: 85.70.219.31: Serials: 0x4003413A; 
+15.7.2008 20:58:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1387, 1897, 0) in Trammel: "Peach"
+15.7.2008 20:58:24: 85.70.219.31: Serials: 0x4003413B; 
+15.7.2008 20:58:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1386, 1901, 0) in Trammel: "Peach"
+15.7.2008 20:58:24: 85.70.219.31: Serials: 0x4003413C; 
+15.7.2008 20:58:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1387, 1904, 0) in Trammel: "Peach"
+15.7.2008 20:58:25: 85.70.219.31: Serials: 0x4003413D; 
+15.7.2008 20:58:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1382, 1917, 0) in Trammel: "Peach"
+15.7.2008 20:58:27: 85.70.219.31: Serials: 0x4003413E; 
+15.7.2008 20:58:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1378, 1922, 0) in Trammel: "Peach"
+15.7.2008 20:58:27: 85.70.219.31: Serials: 0x4003413F; 
+15.7.2008 20:58:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1366, 1923, 0) in Trammel: "Peach"
+15.7.2008 20:58:30: 85.70.219.31: Serials: 0x40034140; 
+15.7.2008 20:58:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1358, 1925, 0) in Trammel: "Peach"
+15.7.2008 20:58:30: 85.70.219.31: Serials: 0x4003415B; 
+15.7.2008 20:58:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1355, 1929, 0) in Trammel: "Peach"
+15.7.2008 20:58:31: 85.70.219.31: Serials: 0x4003415C; 
+15.7.2008 20:58:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1350, 1934, 0) in Trammel: "Peach"
+15.7.2008 20:58:32: 85.70.219.31: Serials: 0x4003415D; 
+15.7.2008 20:58:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1346, 1945, 0) in Trammel: "Peach"
+15.7.2008 20:58:33: 85.70.219.31: Serials: 0x4003415E; 
+15.7.2008 20:58:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1346, 1953, 0) in Trammel: "Peach"
+15.7.2008 20:58:35: 85.70.219.31: Serials: 0x4003415F; 
+15.7.2008 20:58:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1347, 1960, 0) in Trammel: "Peach"
+15.7.2008 20:58:36: 85.70.219.31: Serials: 0x40034160; 
+15.7.2008 20:58:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1351, 1964, 0) in Trammel: "Peach"
+15.7.2008 20:58:37: 85.70.219.31: Serials: 0x40034161; 
+15.7.2008 20:58:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1351, 1971, 0) in Trammel: "Peach"
+15.7.2008 20:58:38: 85.70.219.31: Serials: 0x40034162; 
+15.7.2008 20:58:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1358, 1973, 0) in Trammel: "Peach"
+15.7.2008 20:58:38: 85.70.219.31: Serials: 0x40034163; 
+15.7.2008 20:58:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1363, 1979, 0) in Trammel: "Peach"
+15.7.2008 20:58:39: 85.70.219.31: Serials: 0x40034164; 
+15.7.2008 20:58:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1370, 1984, 0) in Trammel: "Peach"
+15.7.2008 20:58:40: 85.70.219.31: Serials: 0x40034165; 
+15.7.2008 20:58:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1376, 1990, 1) in Trammel: "Peach"
+15.7.2008 20:58:40: 85.70.219.31: Serials: 0x40034166; 
+15.7.2008 20:58:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1382, 1997, 0) in Trammel: "Peach"
+15.7.2008 20:58:41: 85.70.219.31: Serials: 0x40034167; 
+15.7.2008 20:58:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1384, 2006, 0) in Trammel: "Peach"
+15.7.2008 20:58:54: 85.70.219.31: Serials: 0x40034168; 
+15.7.2008 20:58:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1389, 2011, 0) in Trammel: "Peach"
+15.7.2008 20:58:55: 85.70.219.31: Serials: 0x40034169; 
+15.7.2008 20:58:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1391, 2018, 0) in Trammel: "Peach"
+15.7.2008 20:58:56: 85.70.219.31: Serials: 0x4003416A; 
+15.7.2008 20:58:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1396, 2028, 2) in Trammel: "Peach"
+15.7.2008 20:58:57: 85.70.219.31: Serials: 0x4003416B; 
+15.7.2008 20:58:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1392, 2031, 0) in Trammel: "Peach"
+15.7.2008 20:58:57: 85.70.219.31: Serials: 0x4003416C; 
+15.7.2008 20:58:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1392, 2036, 0) in Trammel: "Peach"
+15.7.2008 20:58:58: 85.70.219.31: Serials: 0x4003416D; 
+15.7.2008 20:58:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1400, 2043, 2) in Trammel: "Peach"
+15.7.2008 20:58:59: 85.70.219.31: Serials: 0x4003416E; 
+15.7.2008 20:59:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1394, 2050, 0) in Trammel: "Peach"
+15.7.2008 20:59:00: 85.70.219.31: Serials: 0x4003416F; 
+15.7.2008 20:59:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1401, 2059, 0) in Trammel: "Peach"
+15.7.2008 20:59:02: 85.70.219.31: Serials: 0x40034170; 
+15.7.2008 20:59:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1408, 2063, 0) in Trammel: "Peach"
+15.7.2008 20:59:02: 85.70.219.31: Serials: 0x40034171; 
+15.7.2008 20:59:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1413, 2068, 0) in Trammel: "Peach"
+15.7.2008 20:59:03: 85.70.219.31: Serials: 0x40034172; 
+15.7.2008 20:59:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1417, 2072, 0) in Trammel: "Peach"
+15.7.2008 20:59:04: 85.70.219.31: Serials: 0x40034173; 
+15.7.2008 20:59:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1424, 2079, 7) in Trammel: "Peach"
+15.7.2008 20:59:04: 85.70.219.31: Serials: 0x40034174; 
+15.7.2008 20:59:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1424, 2074, 0) in Trammel: "Peach"
+15.7.2008 20:59:05: 85.70.219.31: Serials: 0x40034175; 
+15.7.2008 20:59:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1425, 2076, 0) in Trammel: "Peach"
+15.7.2008 20:59:06: 85.70.219.31: Serials: 0x40034176; 
+15.7.2008 20:59:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1428, 2082, 5) in Trammel: "Peach"
+15.7.2008 20:59:06: 85.70.219.31: Serials: 0x40034177; 
+15.7.2008 20:59:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1430, 2085, 5) in Trammel: "Peach"
+15.7.2008 20:59:07: 85.70.219.31: Serials: 0x40034178; 
+15.7.2008 20:59:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1434, 2087, 5) in Trammel: "Peach"
+15.7.2008 20:59:08: 85.70.219.31: Serials: 0x40034179; 
+15.7.2008 20:59:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1437, 2092, 5) in Trammel: "Peach"
+15.7.2008 20:59:08: 85.70.219.31: Serials: 0x4003417A; 
+15.7.2008 20:59:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1440, 2097, 7) in Trammel: "Peach"
+15.7.2008 20:59:09: 85.70.219.31: Serials: 0x4003417B; 
+15.7.2008 20:59:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1434, 2098, 5) in Trammel: "Peach"
+15.7.2008 20:59:10: 85.70.219.31: Serials: 0x4003417C; 
+15.7.2008 20:59:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1436, 2106, 7) in Trammel: "Peach"
+15.7.2008 20:59:10: 85.70.219.31: Serials: 0x4003417D; 
+15.7.2008 20:59:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1426, 2103, 5) in Trammel: "Peach"
+15.7.2008 20:59:12: 85.70.219.31: Serials: 0x4003417E; 
+15.7.2008 20:59:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1430, 2104, 5) in Trammel: "Peach"
+15.7.2008 20:59:12: 85.70.219.31: Serials: 0x4003417F; 
+15.7.2008 20:59:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1428, 2105, 5) in Trammel: "Peach"
+15.7.2008 20:59:14: 85.70.219.31: Serials: 0x40034180; 
+15.7.2008 20:59:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1428, 2101, 5) in Trammel: "Peach"
+15.7.2008 20:59:14: 85.70.219.31: Serials: 0x40034181; 
+15.7.2008 20:59:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1428, 2104, 5) in Trammel: "Peach"
+15.7.2008 20:59:14: 85.70.219.31: Serials: 0x40034182; 
+15.7.2008 20:59:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1425, 2104, 5) in Trammel: "Peach"
+15.7.2008 20:59:15: 85.70.219.31: Serials: 0x40034183; 
+15.7.2008 20:59:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1417, 2104, 15) in Trammel: "Peach"
+15.7.2008 20:59:35: 85.70.219.31: Serials: 0x400341C3; 
+15.7.2008 20:59:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 15) in Trammel: "Peach"
+15.7.2008 20:59:38: 85.70.219.31: Serials: 0x400341C4; 
+15.7.2008 20:59:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 16) in Trammel: "Peach"
+15.7.2008 20:59:40: 85.70.219.31: Serials: 0x400341C5; 
+15.7.2008 20:59:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 17) in Trammel: "Peach"
+15.7.2008 20:59:40: 85.70.219.31: Serials: 0x400341C6; 
+15.7.2008 20:59:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 18) in Trammel: "Peach"
+15.7.2008 20:59:41: 85.70.219.31: Serials: 0x400341C7; 
+15.7.2008 20:59:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 19) in Trammel: "Peach"
+15.7.2008 20:59:42: 85.70.219.31: Serials: 0x400341C8; 
+15.7.2008 20:59:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 20) in Trammel: "Peach"
+15.7.2008 20:59:42: 85.70.219.31: Serials: 0x400341C9; 
+15.7.2008 20:59:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1414, 2102, 17) in Trammel: "Peach"
+15.7.2008 20:59:43: 85.70.219.31: Serials: 0x400341CA; 
+15.7.2008 20:59:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 21) in Trammel: "Peach"
+15.7.2008 20:59:43: 85.70.219.31: Serials: 0x400341CB; 
+15.7.2008 20:59:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 22) in Trammel: "Peach"
+15.7.2008 20:59:44: 85.70.219.31: Serials: 0x400341CC; 
+15.7.2008 20:59:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 23) in Trammel: "Peach"
+15.7.2008 20:59:44: 85.70.219.31: Serials: 0x400341CD; 
+15.7.2008 20:59:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 24) in Trammel: "Peach"
+15.7.2008 20:59:45: 85.70.219.31: Serials: 0x400341CE; 
+15.7.2008 20:59:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 25) in Trammel: "Peach"
+15.7.2008 20:59:46: 85.70.219.31: Serials: 0x400341CF; 
+15.7.2008 20:59:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 26) in Trammel: "Peach"
+15.7.2008 20:59:47: 85.70.219.31: Serials: 0x400341D0; 
+15.7.2008 20:59:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2102, 27) in Trammel: "Peach"
+15.7.2008 20:59:47: 85.70.219.31: Serials: 0x400341D1; 
+15.7.2008 21:00:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+15.7.2008 21:00:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspa'
+15.7.2008 21:00:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1435, 2108, 5) in Trammel: "XmlSpawner"
+15.7.2008 21:00:14: 85.70.219.31: Serials: 0x400341D2; 
+15.7.2008 21:00:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x400341D2 'Spawner' [1435, 2108] (Trammel) : WanderingHealer
+15.7.2008 21:00:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRange' of 0x400341D2 (XmlSpawner) to '10'
+15.7.2008 21:04:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+15.7.2008 21:04:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'AI' of 0x9D81 "Strazce Insignie" (no account) to 'AI_Melee'
+15.7.2008 21:04:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+15.7.2008 21:05:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400342DD (Corpse) to (1421, 2103, 5)
+15.7.2008 21:05:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+15.7.2008 21:05:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400138C0 (ThighBoots) to (1421, 2104, 5)
+15.7.2008 21:06:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+15.7.2008 21:06:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003439F (Corpse) to (1423, 2104, 5)
+15.7.2008 21:12:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+15.7.2008 21:13:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+15.7.2008 21:14:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 21:14:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add metal'
+15.7.2008 21:15:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1421, 2101, 35) in Trammel: "MetalBox"
+15.7.2008 21:15:01: 85.70.219.31: Serials: 0x4003450C; 
+15.7.2008 21:15:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 21:15:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003450C (MetalBox)
+15.7.2008 21:16:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add woodench'
+15.7.2008 21:16:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1421, 2101, 35) in Trammel: "WoodenChest"
+15.7.2008 21:16:31: 85.70.219.31: Serials: 0x4003450E; 
+15.7.2008 21:16:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+15.7.2008 21:16:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1283'
+15.7.2008 21:16:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x4003450E (WoodenChest) to '1283'
+15.7.2008 21:16:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+15.7.2008 21:17:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Name' of 0x4003450E (WoodenChest) to 'Truhla Insignie- Objevena Eldrodem'
+15.7.2008 21:17:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 21:17:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A068 (FillableMetalChest)
+15.7.2008 21:17:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+15.7.2008 21:17:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+15.7.2008 21:28:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 12000000'
+15.7.2008 21:28:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '12000000'
+15.7.2008 21:28:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+15.7.2008 21:28:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400342DF (DeathRobe)

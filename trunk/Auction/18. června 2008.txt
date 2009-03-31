@@ -1,0 +1,18 @@
+###############################
+# 18.6.2008 - 11:59
+
+## New Auction : 432dfa3e-a25f-46e4-9715-01389c010a45
+# Small Bag Of Holding
+# Created on 18.6.2008 at 12:00
+# Owner : Elamor [0x00000001] Account: Elamor
+# Expires on 25.6.2008 at 12:00
+# Starting Bid: 100000. Reserve: 100000. Buy Now: 1000000
+# Owner Description : bla
+# Web Link : 
+#### Selling 1 Items
+# 0. Small Bag Of Holding [0x4002EAE4] Type SmallBagofHolding Hue 2423
+Properties: <basefont color=#FFFFFF><p>Small Bag Of Holding<br>Cursed<br>Weight: 3 Stones<br>Contents: 0/10 Items, 0/0 Stones<br>
+
+###############################
+# 18.6.2008 - 12:17
+

@@ -1,0 +1,707 @@
+##############################
+Log started on 10.6.2008 22:16:54
+
+10.6.2008 22:17:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:17:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'createworld '
+10.6.2008 22:17:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:17:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'decorate '
+10.6.2008 22:18:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'doorgen '
+10.6.2008 22:18:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'moongen '
+10.6.2008 22:18:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'signgen '
+10.6.2008 22:18:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'telgen '
+10.6.2008 22:18:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'gengauntlet '
+10.6.2008 22:18:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'genchampions '
+10.6.2008 22:18:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'genkhaldun '
+10.6.2008 22:18:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'generatefactions '
+10.6.2008 22:18:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'genstealarties '
+10.6.2008 22:18:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+10.6.2008 22:18:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawntrammel '
+10.6.2008 22:18:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/BlightedGrove.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/BritainSewer.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Covetous.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Deceit.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Despise.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Destard.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Fire.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Graveyards.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Hythloth.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Ice.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/LostLands.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/OrcCaves.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Outdoors.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/PaintedCaves.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/PalaceOfParoxysmus.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/PrismOfLight.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Sanctuary.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/SeaLife.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Shame.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/SolenHive.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/TerathanKeep.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/TownsLife.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/TownsPeople.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/TrinsicPassage.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Vendors.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/WildLife.map'
+10.6.2008 22:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Wrong.map'
+10.6.2008 22:20:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawntrammel '
+10.6.2008 22:20:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/BlightedGrove.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/BritainSewer.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Covetous.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Deceit.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Despise.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Destard.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Fire.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Graveyards.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Hythloth.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Ice.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/LostLands.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/OrcCaves.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Outdoors.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/PaintedCaves.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/PalaceOfParoxysmus.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/PrismOfLight.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Sanctuary.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/SeaLife.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Shame.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/SolenHive.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/TerathanKeep.map'
+10.6.2008 22:20:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/TownsLife.map'
+10.6.2008 22:20:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/TownsPeople.map'
+10.6.2008 22:20:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/TrinsicPassage.map'
+10.6.2008 22:20:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Vendors.map'
+10.6.2008 22:20:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/WildLife.map'
+10.6.2008 22:20:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen trammel/Wrong.map'
+10.6.2008 22:20:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawnmalas '
+10.6.2008 22:20:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:20:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen malas/Doom.map'
+10.6.2008 22:20:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen malas/North.map'
+10.6.2008 22:20:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen malas/OrcForts.map'
+10.6.2008 22:20:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen malas/South.map'
+10.6.2008 22:20:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen malas/Vendors.map'
+10.6.2008 22:20:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen malas/Citadel.map'
+10.6.2008 22:20:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen malas/Labyrinth.map'
+10.6.2008 22:20:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawntokuno '
+10.6.2008 22:20:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:20:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen tokuno/FanDancersDojo.map'
+10.6.2008 22:20:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen tokuno/Outdoors.map'
+10.6.2008 22:20:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen tokuno/TownsLife.map'
+10.6.2008 22:20:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen tokuno/Vendors.map'
+10.6.2008 22:20:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen tokuno/WildLife.map'
+10.6.2008 22:20:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen tokuno/YomutsoMines.map'
+10.6.2008 22:20:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawnilshenar '
+10.6.2008 22:20:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Ancientlair.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Ankh.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Blood.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Exodus.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Mushroom.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Outdoors.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Ratmancave.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Rock.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Sorcerers.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Spectre.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Towns.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Vendors.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/Wisp.map'
+10.6.2008 22:20:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen ilshenar/TwistedWeald.map'
+10.6.2008 22:20:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawnfelucca '
+10.6.2008 22:20:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/BlightedGrove.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/BritainSewer.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Covetous.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Deceit.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Despise.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Destard.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Fire.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Graveyards.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Hythloth.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Ice.map'
+10.6.2008 22:20:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Khaldun.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/LostLands.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/OrcCaves.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Outdoors.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/PaintedCaves.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/PalaceOfParoxysmus.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/PrismOfLight.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Sanctuary.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/SeaLife.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Shame.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/SolenHive.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/TerathanKeep.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/TownsLife.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/TownsPeople.map'
+10.6.2008 22:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/TrinsicPassage.map'
+10.6.2008 22:20:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Vendors.map'
+10.6.2008 22:20:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/WildLife.map'
+10.6.2008 22:20:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/Wrong.map'
+10.6.2008 22:21:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawngen save'
+10.6.2008 22:21:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:21:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'gmbody '
+10.6.2008 22:21:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:21:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') is assuming a GM body
+10.6.2008 22:22:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'unhide '
+10.6.2008 22:22:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') unhiding 0x1 "Elamor" ('Elamor')
+10.6.2008 22:22:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:22:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:23:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'speedboost '
+10.6.2008 22:23:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 22:24:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+10.6.2008 22:24:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Blessed True'
+10.6.2008 22:24:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Blessed' of 0x1 "Elamor" ('Elamor') to 'True'
+10.6.2008 22:24:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 22:25:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 22:26:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:26:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'unloadfelucca '
+10.6.2008 22:26:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:26:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen unload 203'
+10.6.2008 22:26:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go felluca'
+10.6.2008 22:27:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawnfelucca '
+10.6.2008 22:27:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:27:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'createworld '
+10.6.2008 22:27:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:27:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'editor '
+10.6.2008 22:27:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:27:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'rse '
+10.6.2008 22:27:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:27:58: 85.70.219.31: Property has been set. (4923)
+10.6.2008 22:27:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'global set smartprs 1 where premiumspawner'
+10.6.2008 22:27:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:28:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawnfelucca '
+10.6.2008 22:28:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:28:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/PaintedCaves.map'
+10.6.2008 22:29:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 22:29:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go doom'
+10.6.2008 22:30:30: 85.70.219.31: Property has been set. (4925)
+10.6.2008 22:30:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'global set smartprs 1 where premiumspawner'
+10.6.2008 22:30:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:30:38: 85.70.219.31: Property has been set. (4925)
+10.6.2008 22:30:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'global set smartprs 0 where premiumspawner'
+10.6.2008 22:30:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:33:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:33:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x4FEC "a devourer of souls" (no account)
+10.6.2008 22:34:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add demonbone'
+10.6.2008 22:34:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:34:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x4FB9 "a patchwork skeleton" (no account)
+10.6.2008 22:34:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+10.6.2008 22:34:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+10.6.2008 22:35:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Amount' of 0x40036061 (DaemonBone) to '1000'
+10.6.2008 22:36:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:36:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E49 "a bone demon" (no account)
+10.6.2008 22:38:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:38:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013CB4 (MorphItem)
+10.6.2008 22:38:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:38:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013CB3 (MorphItem)
+10.6.2008 22:40:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add wall'
+10.6.2008 22:40:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:41:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'gumpremoveregion '
+10.6.2008 22:41:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:41:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'createworld '
+10.6.2008 22:41:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:41:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'gengauntlet '
+10.6.2008 22:41:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 22:42:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:42:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x9E52 "Nix" (no account)
+10.6.2008 22:42:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:42:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400361B3 (MetalDoor)
+10.6.2008 22:42:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:42:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400361B4 (MetalDoor)
+10.6.2008 22:42:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:42:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x9E51 "Chaya" (no account)
+10.6.2008 22:43:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:43:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4 "Vendodroth" (no account)
+10.6.2008 22:43:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+10.6.2008 22:43:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+10.6.2008 22:43:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40013D24 (GauntletSpawner) to (493, 454, -1)
+10.6.2008 22:43:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:43:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013D24 (GauntletSpawner)
+10.6.2008 22:43:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:44:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:44:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E53 "Pariah" (no account)
+10.6.2008 22:44:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:44:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013D25 (MetalDoor)
+10.6.2008 22:44:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:44:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013D26 (MetalDoor)
+10.6.2008 22:44:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:44:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40036235 (MetalDoor)
+10.6.2008 22:44:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:44:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40036234 (MetalDoor)
+10.6.2008 22:44:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 22:44:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:44:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013D31 (GauntletSpawner)
+10.6.2008 22:44:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:44:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E56 "a fleshrenderer" (no account)
+10.6.2008 22:45:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:45:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E54 "a fleshrenderer" (no account)
+10.6.2008 22:45:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:45:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E58 "an energy vortex" (no account)
+10.6.2008 22:45:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:45:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013D40 (MetalDoor)
+10.6.2008 22:45:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:45:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013D3F (MetalDoor)
+10.6.2008 22:46:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:46:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E59 "Scrill" (no account)
+10.6.2008 22:46:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:46:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E57 "Empalk" (no account)
+10.6.2008 22:48:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:48:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003624F (MetalDoor)
+10.6.2008 22:48:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:48:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003624E (MetalDoor)
+10.6.2008 22:48:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:48:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013D4B (GauntletSpawner)
+10.6.2008 22:48:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:49:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:49:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E5E "Doomor" (no account)
+10.6.2008 22:49:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:49:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E5F "Uhn" (no account)
+10.6.2008 22:50:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:50:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003625B (MetalDoor)
+10.6.2008 22:50:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:50:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003625C (MetalDoor)
+10.6.2008 22:50:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:50:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013D58 (GauntletSpawner)
+10.6.2008 22:50:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:50:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E66 "an abyssmal horror" (no account)
+10.6.2008 22:50:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:50:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E65 "an abyssmal horror" (no account)
+10.6.2008 22:50:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:50:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013D65 (GauntletSpawner)
+10.6.2008 22:51:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:51:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E6A "Turi'el" (no account)
+10.6.2008 22:52:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:52:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E69 "Peirazo" (no account)
+10.6.2008 22:52:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add ademonkn'
+10.6.2008 22:52:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (415, 430, -1) in Malas: "DemonKnight"
+10.6.2008 22:52:57: 85.70.219.31: Serials: 0x9E70; 
+10.6.2008 22:52:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (416, 424, -1) in Malas: "DemonKnight"
+10.6.2008 22:52:59: 85.70.219.31: Serials: 0x9E71; 
+10.6.2008 22:52:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (409, 429, -1) in Malas: "DemonKnight"
+10.6.2008 22:52:59: 85.70.219.31: Serials: 0x9E72; 
+10.6.2008 22:53:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (411, 422, -1) in Malas: "DemonKnight"
+10.6.2008 22:53:00: 85.70.219.31: Serials: 0x9E73; 
+10.6.2008 22:53:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (413, 429, -1) in Malas: "DemonKnight"
+10.6.2008 22:53:01: 85.70.219.31: Serials: 0x9E74; 
+10.6.2008 22:53:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (407, 429, 0) in Malas: "DemonKnight"
+10.6.2008 22:53:01: 85.70.219.31: Serials: 0x9E75; 
+10.6.2008 22:53:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (405, 424, -1) in Malas: "DemonKnight"
+10.6.2008 22:53:02: 85.70.219.31: Serials: 0x9E76; 
+10.6.2008 22:54:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:54:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E72 "Peirazo" (no account)
+10.6.2008 22:54:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:54:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E70 "Azazel" (no account)
+10.6.2008 22:54:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:54:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E73 "Turi'el" (no account)
+10.6.2008 22:54:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:54:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E71 "Keelus" (no account)
+10.6.2008 22:54:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:54:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E75 "Heksen" (no account)
+10.6.2008 22:54:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 22:54:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E74 "Armarus" (no account)
+10.6.2008 22:54:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add king'
+10.6.2008 22:55:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (413, 423, -1) in Malas: "VoiceOfTheFallenKing"
+10.6.2008 22:55:00: 85.70.219.31: Serials: 0x4003678A; 
+10.6.2008 22:55:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:55:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003678A (VoiceOfTheFallenKing)
+10.6.2008 22:56:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add ether'
+10.6.2008 22:56:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (2112, 1392, -80) in Malas: "EtherealUnicorn"
+10.6.2008 22:56:18: 85.70.219.31: Serials: 0x4003678B; 
+10.6.2008 22:56:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add char'
+10.6.2008 22:56:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (2110, 1392, -80) in Malas: "ChargerOfTheFallen"
+10.6.2008 22:56:29: 85.70.219.31: Serials: 0x4003678C; 
+10.6.2008 22:56:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:56:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003678B (EtherealUnicorn)
+10.6.2008 22:56:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:57:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003678C (ChargerOfTheFallen)
+10.6.2008 22:57:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 22:57:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x519B "a mummy" (no account)
+10.6.2008 22:57:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 22:58:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:58:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'unloadfelucca '
+10.6.2008 22:58:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:58:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen unload 214'
+10.6.2008 22:59:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawnfelucca '
+10.6.2008 22:59:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 22:59:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/PaintedCaves.map'
+10.6.2008 23:00:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 23:00:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E95 "a lurg" (no account)
+10.6.2008 23:00:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 23:00:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E8D "a troglodyte" (no account)
+10.6.2008 23:00:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:00:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40036843 (Corpse)
+10.6.2008 23:00:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:00:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40036844 (Corpse)
+10.6.2008 23:00:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:00:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x9E91 "a grobu" (no account)
+10.6.2008 23:02:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:02:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400367C0 (PremiumSpawner)
+10.6.2008 23:02:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:02:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400367C7 (PremiumSpawner)
+10.6.2008 23:03:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add spawner'
+10.6.2008 23:03:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6290, 893, -1) in Felucca: "spawner"
+10.6.2008 23:03:58: 85.70.219.31: Serials: 0x4003690F; 
+10.6.2008 23:04:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add spawner'
+10.6.2008 23:04:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6295, 870, -17) in Felucca: "spawner"
+10.6.2008 23:04:00: 85.70.219.31: Serials: 0x40036910; 
+10.6.2008 23:04:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add spawner'
+10.6.2008 23:04:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6279, 879, -1) in Felucca: "spawner"
+10.6.2008 23:04:03: 85.70.219.31: Serials: 0x40036951; 
+10.6.2008 23:04:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add spawner'
+10.6.2008 23:04:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6260, 880, 0) in Felucca: "spawner"
+10.6.2008 23:04:05: 85.70.219.31: Serials: 0x40036952; 
+10.6.2008 23:04:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add gub'
+10.6.2008 23:05:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add gru'
+10.6.2008 23:07:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add fur'
+10.6.2008 23:07:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add gru'
+10.6.2008 23:07:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add fur'
+10.6.2008 23:07:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6265, 879, 0) in Felucca: "GrobusFur"
+10.6.2008 23:07:41: 85.70.219.31: Serials: 0x400369BB; 
+10.6.2008 23:08:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:08:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40036952 (Spawner)
+10.6.2008 23:08:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add premiu'
+10.6.2008 23:08:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6261, 880, 0) in Felucca: "PremiumSpawner"
+10.6.2008 23:08:38: 85.70.219.31: Serials: 0x400369CE; 
+10.6.2008 23:10:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add premiu'
+10.6.2008 23:10:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6261, 881, 0) in Felucca: "PremiumSpawner"
+10.6.2008 23:10:35: 85.70.219.31: Serials: 0x400369EB; 
+10.6.2008 23:11:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:11:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400369BB (GrobusFur)
+10.6.2008 23:11:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:11:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawnfelucca '
+10.6.2008 23:11:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:12:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Spawngen felucca/PaintedCaves.map'
+10.6.2008 23:12:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:12:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400369F7 (PremiumSpawner)
+10.6.2008 23:13:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add trog'
+10.6.2008 23:13:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6284, 880, 0) in Felucca: "Troglodyte"
+10.6.2008 23:13:09: 85.70.219.31: Serials: 0x9EE6; 
+10.6.2008 23:32:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+10.6.2008 23:32:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Group' of 0x40036910 (Spawner) to 'True'
+10.6.2008 23:32:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Count' of 0x40036910 (Spawner) to '6'
+10.6.2008 23:33:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+10.6.2008 23:33:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Count' of 0x4003690F (Spawner) to '6'
+10.6.2008 23:33:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Group' of 0x4003690F (Spawner) to 'True'
+10.6.2008 23:35:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+10.6.2008 23:35:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HomeRange' of 0x40036910 (Spawner) to '12'
+10.6.2008 23:35:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+10.6.2008 23:35:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HomeRange' of 0x4003690F (Spawner) to '12'
+10.6.2008 23:36:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add spawner'
+10.6.2008 23:36:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6263, 878, 0) in Felucca: "spawner"
+10.6.2008 23:36:50: 85.70.219.31: Serials: 0x400372C3; 
+10.6.2008 23:37:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+10.6.2008 23:37:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Count' of 0x400372C3 (Spawner) to '2'
+10.6.2008 23:37:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HomeRange' of 0x400372C3 (Spawner) to '6'
+10.6.2008 23:37:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:37:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawngen save'
+10.6.2008 23:37:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:37:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawngen savebyhand'
+10.6.2008 23:37:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:38:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 23:38:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9FB2 "a troglodyte" (no account)
+10.6.2008 23:38:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+10.6.2008 23:38:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9ECD "a lurg" (no account)
+10.6.2008 23:39:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+10.6.2008 23:39:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add prem'
+10.6.2008 23:39:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (687, 829, 0) in Felucca: "PremiumStone"
+10.6.2008 23:39:29: 85.70.219.31: Serials: 0x4003736E; 
+10.6.2008 23:39:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:39:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:39:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003736E (PremiumStone)
+10.6.2008 23:40:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go mirkwood'
+10.6.2008 23:48:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go fire'
+10.6.2008 23:48:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 23:48:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 23:49:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:49:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+10.6.2008 23:49:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+10.6.2008 23:49:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 23:51:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go minoc'
+10.6.2008 23:52:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+10.6.2008 23:53:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:53:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawnfelucca '
+10.6.2008 23:53:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:53:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go felluca'
+10.6.2008 23:53:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go fell'
+10.6.2008 23:53:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go felucca'
+10.6.2008 23:53:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go felucca'
+10.6.2008 23:53:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go trammel'
+10.6.2008 23:53:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go felucca'
+10.6.2008 23:54:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:54:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawnfelucca '
+10.6.2008 23:54:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'spawner '
+10.6.2008 23:54:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go fire'
+10.6.2008 23:55:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add spawner'
+10.6.2008 23:55:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5866, 1474, -2) in Felucca: "spawner"
+10.6.2008 23:55:12: 85.70.219.31: Serials: 0x400373E6; 
+10.6.2008 23:55:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+10.6.2008 23:56:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+10.6.2008 23:56:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Blessed True'
+10.6.2008 23:56:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Blessed' of 0x9FC5 "a fire steed" (no account) to 'True'
+10.6.2008 23:56:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+10.6.2008 23:57:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'IsBonded' of 0x9FC5 "a fire steed" (no account) to 'True'
+10.6.2008 23:57:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'CanHearGhosts' of 0x9FC5 "a fire steed" (no account) to 'True'
+10.6.2008 23:57:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'CanSwim' of 0x9FC5 "a fire steed" (no account) to 'True'
+10.6.2008 23:59:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add pigment'
+10.6.2008 23:59:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5812, 1499, 19) in Felucca: "PigmentsOfTokuno"
+10.6.2008 23:59:14: 85.70.219.31: Serials: 0x40037400; 
+10.6.2008 23:59:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+10.6.2008 23:59:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037400 (PigmentsOfTokuno)
+10.6.2008 23:59:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add fir'
+10.6.2008 23:59:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5811, 1499, 19) in Felucca: "QuiverOfFire"
+10.6.2008 23:59:46: 85.70.219.31: Serials: 0x40037401; 
+11.6.2008 0:00:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5811, 1499, 19) in Felucca: "FireColumnAddon"
+11.6.2008 0:00:09: 85.70.219.31: Serials: 0x40037402; 
+11.6.2008 0:00:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:00:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037403 (AddonComponent)
+11.6.2008 0:00:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go '
+11.6.2008 0:00:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go tokuno'
+11.6.2008 0:01:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go '
+11.6.2008 0:01:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add pigm'
+11.6.2008 0:01:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (675, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:42: 85.70.219.31: Serials: 0x40037409; 
+11.6.2008 0:01:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:42: 85.70.219.31: Serials: 0x4003740A; 
+11.6.2008 0:01:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:43: 85.70.219.31: Serials: 0x4003740B; 
+11.6.2008 0:01:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:43: 85.70.219.31: Serials: 0x4003740C; 
+11.6.2008 0:01:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:44: 85.70.219.31: Serials: 0x4003740D; 
+11.6.2008 0:01:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:44: 85.70.219.31: Serials: 0x4003740E; 
+11.6.2008 0:01:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:44: 85.70.219.31: Serials: 0x4003740F; 
+11.6.2008 0:01:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:45: 85.70.219.31: Serials: 0x40037410; 
+11.6.2008 0:01:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:45: 85.70.219.31: Serials: 0x40037411; 
+11.6.2008 0:01:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1269, 47) in Tokuno: "PigmentsOfTokuno"
+11.6.2008 0:01:46: 85.70.219.31: Serials: 0x40037412; 
+11.6.2008 0:02:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add swordsof'
+11.6.2008 0:02:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (676, 1268, 47) in Tokuno: "SwordsOfProsperity"
+11.6.2008 0:02:38: 85.70.219.31: Serials: 0x40037414; 
+11.6.2008 0:02:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:02:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037413 (PigmentsOfTokuno)
+11.6.2008 0:02:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:03:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:03:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Hue' of 0x40019156 (AdminRobe) to '3'
+11.6.2008 0:03:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Hue' of 0x40019156 (AdminRobe) to '1359'
+11.6.2008 0:03:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:03:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Hue' of 0x40037401 (QuiverOfFire) to '1359'
+11.6.2008 0:04:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:04:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037414 (SwordsOfProsperity)
+11.6.2008 0:04:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:04:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037401 (QuiverOfFire)
+11.6.2008 0:04:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:05:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Name' of 0x9FC5 "PekelnyKun" (no account) to 'Pekelny Kun'
+11.6.2008 0:05:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:06:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Title' of 0x1 "Elamor" ('Elamor') to '[Administrator)'
+11.6.2008 0:06:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set karma 0'
+11.6.2008 0:06:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'karma' of 0x1 "Elamor" ('Elamor') to '0'
+11.6.2008 0:06:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set karma 15000'
+11.6.2008 0:06:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'karma' of 0x1 "Elamor" ('Elamor') to '15000'
+11.6.2008 0:06:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set karma 0'
+11.6.2008 0:06:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'karma' of 0x1 "Elamor" ('Elamor') to '0'
+11.6.2008 0:06:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set fame 25000'
+11.6.2008 0:06:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'fame' of 0x1 "Elamor" ('Elamor') to '25000'
+11.6.2008 0:07:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+11.6.2008 0:07:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add swoop'
+11.6.2008 0:07:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (990, 518, -50) in Malas: "swoop"
+11.6.2008 0:07:47: 85.70.219.31: Serials: 0x9FE1; 
+11.6.2008 0:08:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+11.6.2008 0:08:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9FE1 "a Swoop" (no account)
+11.6.2008 0:08:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:08:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400375AB (Corpse)
+11.6.2008 0:10:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go '
+11.6.2008 0:10:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+11.6.2008 0:10:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x6430 "a wisp" (no account)
+11.6.2008 0:11:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go doom'
+11.6.2008 0:12:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+11.6.2008 0:12:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+11.6.2008 0:18:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'teleport '
+11.6.2008 0:19:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+11.6.2008 0:19:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x504D "a rotting corpse" (no account)
+11.6.2008 0:19:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+11.6.2008 0:21:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+11.6.2008 0:22:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+11.6.2008 0:22:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E76 "Arhaios Ophis" (no account)
+11.6.2008 0:23:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+11.6.2008 0:23:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x9E6F "Crenabil" (no account)
+11.6.2008 0:24:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go tokuno'
+11.6.2008 0:24:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+11.6.2008 0:24:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go up'
+11.6.2008 0:24:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+11.6.2008 0:24:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go '
+11.6.2008 0:25:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+11.6.2008 0:30:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go fandancerdojo'
+11.6.2008 0:30:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go '
+11.6.2008 0:39:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'speedboost '
+11.6.2008 0:39:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'speedboost '
+11.6.2008 0:41:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+11.6.2008 0:41:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'bank '
+11.6.2008 0:41:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') opening bank box of 0x1 "Elamor" ('Elamor')
+11.6.2008 0:41:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:42:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Criminal' of 0x1 "Elamor" ('Elamor') to 'False'
+11.6.2008 0:42:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go britain'
+11.6.2008 0:42:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+11.6.2008 0:43:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add Rabbit'
+11.6.2008 0:43:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1371, 1464, 10) in Felucca: "Rabbit"
+11.6.2008 0:43:17: 85.70.219.31: Serials: 0xA08B; 
+11.6.2008 0:43:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:43:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:43:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Home' of 0xA08B "a rabbit" (no account) to '(1371, 1463, 10)'
+11.6.2008 0:44:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'IsParagon' of 0xA08B "a rabbit" (no account) to 'True'
+11.6.2008 0:44:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'CantWalk' of 0xA08B "a rabbit" (no account) to 'True'
+11.6.2008 0:44:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+11.6.2008 0:44:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0xA08B "a rabbit" (no account) to (1371, 1463, 10)
+11.6.2008 0:44:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'M move'
+11.6.2008 0:45:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set loot'
+11.6.2008 0:45:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:46:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Hue' of 0xA08B "a rabbit" (no account) to '1358'
+11.6.2008 0:46:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Name' of 0xA08B "a rabbit" (no account) to 'Azuritek'
+11.6.2008 0:47:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Fame' of 0xA08B "Azuritek" (no account) to '250000'
+11.6.2008 0:47:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+11.6.2008 0:48:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+11.6.2008 0:48:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add chest'
+11.6.2008 0:48:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 523, -50) in Malas: "AssassinChest"
+11.6.2008 0:48:11: 85.70.219.31: Serials: 0x40037E5F; 
+11.6.2008 0:48:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 521, -50) in Malas: "RarewoodChest"
+11.6.2008 0:48:37: 85.70.219.31: Serials: 0x40037E7A; 
+11.6.2008 0:48:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:48:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037E7A (RarewoodChest)
+11.6.2008 0:48:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:48:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037E5F (AssassinChest)
+11.6.2008 0:48:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add tre'
+11.6.2008 0:48:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (995, 520, -50) in Malas: "LargeTreasureBag"
+11.6.2008 0:48:58: 85.70.219.31: Serials: 0x40037EBC; 
+11.6.2008 0:49:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:49:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037EBC (LargeTreasureBag)
+11.6.2008 0:49:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 520, -50) in Malas: "LargeTreasureBag"
+11.6.2008 0:49:18: 85.70.219.31: Serials: 0x40037EC1; 
+11.6.2008 0:49:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:49:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037EC1 (LargeTreasureBag)
+11.6.2008 0:49:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 521, -50) in Malas: "LifeOfATravellingMinstrel"
+11.6.2008 0:49:36: 85.70.219.31: Serials: 0x40037EC6; 
+11.6.2008 0:49:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:49:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037EC6 (LifeOfATravellingMinstrel)
+11.6.2008 0:49:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 520, -50) in Malas: "PastTreasures"
+11.6.2008 0:49:47: 85.70.219.31: Serials: 0xA09B; 
+11.6.2008 0:50:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:50:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0xA09B "Joy" (no account)
+11.6.2008 0:50:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 520, -50) in Malas: "MetalGoldenTreasureChest"
+11.6.2008 0:50:13: 85.70.219.31: Serials: 0x40037EEA; 
+11.6.2008 0:50:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:50:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037EEA (MetalGoldenTreasureChest)
+11.6.2008 0:50:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 520, -50) in Malas: "Putrefication"
+11.6.2008 0:50:27: 85.70.219.31: Serials: 0x40037EEC; 
+11.6.2008 0:50:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (997, 520, -50) in Malas: "Putrefier"
+11.6.2008 0:50:30: 85.70.219.31: Serials: 0xA09E; 
+11.6.2008 0:50:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+11.6.2008 0:50:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0xA09E "Putrefier" (no account)
+11.6.2008 0:51:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:51:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037F0D (Corpse)
+11.6.2008 0:51:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add young'
+11.6.2008 0:51:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (997, 521, -50) in Malas: "GiftOfRenewalScroll"
+11.6.2008 0:51:40: 85.70.219.31: Serials: 0x40037F28; 
+11.6.2008 0:51:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:51:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037F28 (GiftOfRenewalScroll)
+11.6.2008 0:52:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 521, -50) in Malas: "PlayerBBEast"
+11.6.2008 0:52:11: 85.70.219.31: Serials: 0x40037F29; 
+11.6.2008 0:52:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:52:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037F29 (PlayerBBEast)
+11.6.2008 0:52:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 524, -50) in Malas: "NewPlayerTicket"
+11.6.2008 0:52:38: 85.70.219.31: Serials: 0x40037F2A; 
+11.6.2008 0:52:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:52:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037F2A (NewPlayerTicket)
+11.6.2008 0:52:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (985, 517, -50) in Malas: "NewPlayerTicket"
+11.6.2008 0:52:54: 85.70.219.31: Serials: 0x40037F2B; 
+11.6.2008 0:53:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:53:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Owner' of 0x40037F2B (NewPlayerTicket) to '0x1 "Elamor"'
+11.6.2008 0:53:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Movable' of 0x40037F2B (NewPlayerTicket) to 'False'
+11.6.2008 0:54:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add youn'
+11.6.2008 0:54:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (988, 517, -50) in Malas: "NewPlayerTicket"
+11.6.2008 0:54:35: 85.70.219.31: Serials: 0x40037F6B; 
+11.6.2008 0:54:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+11.6.2008 0:54:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Owner' of 0x40037F6B (NewPlayerTicket) to '0x1 "Elamor"'
+11.6.2008 0:55:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add fire'
+11.6.2008 0:57:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add tras'
+11.6.2008 0:57:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (995, 525, -50) in Malas: "TrashBarrel"
+11.6.2008 0:57:12: 85.70.219.31: Serials: 0x40037FDF; 
+11.6.2008 0:57:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 509, -50) in Malas: "TrashBarrel"
+11.6.2008 0:57:19: 85.70.219.31: Serials: 0x40037FE0; 
+11.6.2008 0:57:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (973, 527, -50) in Malas: "TrashBarrel"
+11.6.2008 0:57:20: 85.70.219.31: Serials: 0x40037FE1; 
+11.6.2008 0:57:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+11.6.2008 0:57:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40037EEC (Putrefication) to (995, 526, -50)
+11.6.2008 0:58:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add perso'
+11.6.2008 0:58:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 521, -30) in Malas: "PersonalLetterAhie"
+11.6.2008 0:58:08: 85.70.219.31: Serials: 0x40037FE2; 
+11.6.2008 0:58:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:58:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40037FE2 (PersonalLetterAhie)
+11.6.2008 0:58:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (977, 523, -30) in Malas: "RankingsOfTrades"
+11.6.2008 0:58:43: 85.70.219.31: Serials: 0x40038028; 
+11.6.2008 0:58:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 522, -30) in Malas: "TalkingToWisps"
+11.6.2008 0:58:47: 85.70.219.31: Serials: 0x40038029; 
+11.6.2008 0:58:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (977, 522, -30) in Malas: "TalkingtoWispsTalisman"
+11.6.2008 0:58:50: 85.70.219.31: Serials: 0x4003802A; 
+11.6.2008 0:59:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 521, -30) in Malas: "LordBlackthorneSuit"
+11.6.2008 0:59:15: 85.70.219.31: Serials: 0x40038068; 
+11.6.2008 0:59:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 0:59:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038068 (LordBlackthorneSuit)
+11.6.2008 1:00:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 521, -30) in Malas: "BlackLotusHood"
+11.6.2008 1:00:02: 85.70.219.31: Serials: 0x4003806A; 
+11.6.2008 1:00:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 521, -30) in Malas: "BlackthornsKryss"
+11.6.2008 1:00:26: 85.70.219.31: Serials: 0x400380A5; 
+11.6.2008 1:00:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:00:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:00:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400380A5 (BlackthornsKryss)
+11.6.2008 1:00:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:00:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003806A (BlackLotusHood)
+11.6.2008 1:00:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 521, -30) in Malas: "LordBlackthorneSuit"
+11.6.2008 1:00:51: 85.70.219.31: Serials: 0x400380E7; 
+11.6.2008 1:01:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:01:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400380E7 (LordBlackthorneSuit)
+11.6.2008 1:01:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (977, 522, -30) in Malas: "RewardBlackDyeTub"
+11.6.2008 1:01:08: 85.70.219.31: Serials: 0x40038122; 
+11.6.2008 1:01:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:01:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038122 (RewardBlackDyeTub)
+11.6.2008 1:01:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:01:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038029 (TalkingToWisps)
+11.6.2008 1:01:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:01:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038028 (RankingsOfTrades)
+11.6.2008 1:01:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (977, 522, -30) in Malas: "GrammarOfOrchishTalisman"
+11.6.2008 1:01:34: 85.70.219.31: Serials: 0x40038123; 
+11.6.2008 1:01:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 522, -30) in Malas: "MyBookTalisman"
+11.6.2008 1:01:38: 85.70.219.31: Serials: 0x40038124; 
+11.6.2008 1:01:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (977, 521, -30) in Malas: "RandomTalisman"
+11.6.2008 1:01:46: 85.70.219.31: Serials: 0x40038125; 
+11.6.2008 1:01:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 521, -30) in Malas: "RandomTalisman"
+11.6.2008 1:01:48: 85.70.219.31: Serials: 0x40038126; 
+11.6.2008 1:01:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (977, 521, -30) in Malas: "RandomTalisman"
+11.6.2008 1:01:50: 85.70.219.31: Serials: 0x40038127; 
+11.6.2008 1:02:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:02:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038125 (RandomTalisman)
+11.6.2008 1:02:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+11.6.2008 1:02:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038126 (RandomTalisman)
+11.6.2008 1:02:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038127 (RandomTalisman)
+11.6.2008 1:02:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038124 (MyBookTalisman)
+11.6.2008 1:02:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038123 (GrammarOfOrchishTalisman)
+11.6.2008 1:02:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 522, -30) in Malas: "PrimerOnArmsTalisman"
+11.6.2008 1:02:10: 85.70.219.31: Serials: 0x40038128; 
+11.6.2008 1:02:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:02:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003802A (TalkingtoWispsTalisman)
+11.6.2008 1:02:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (978, 522, -30) in Malas: "TheLifeOfTravelingMinstrelTalisman"
+11.6.2008 1:02:24: 85.70.219.31: Serials: 0x40038129; 
+11.6.2008 1:02:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (977, 521, -30) in Malas: "TreatiseonAlchemyTalisman"
+11.6.2008 1:02:30: 85.70.219.31: Serials: 0x4003812A; 
+11.6.2008 1:02:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:02:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4003812A (TreatiseonAlchemyTalisman)
+11.6.2008 1:02:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+11.6.2008 1:02:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40038129 (TheLifeOfTravelingMinstrelTalisman)
+11.6.2008 1:02:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add mistr'
+11.6.2008 1:02:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add town'
+11.6.2008 1:03:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (990, 519, -50) in Malas: "town"
+11.6.2008 1:03:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add townc'
+11.6.2008 1:03:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (986, 517, -50) in Malas: "TownCrier"
+11.6.2008 1:03:10: 85.70.219.31: Serials: 0xA0CB; 
+11.6.2008 1:06:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'save '

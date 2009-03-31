@@ -1,0 +1,225 @@
+##############################
+Log started on 18.12.2008 13:45:02
+
+18.12.2008 13:45:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 18.12.2008 13:57:16
+
+18.12.2008 13:57:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vip'
+18.12.2008 13:57:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (988, 517, -50) in Malas: "ViPBook"
+18.12.2008 13:57:31: 85.70.219.31: Serials: 0x4000F7C8; 
+18.12.2008 14:01:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add namechan'
+18.12.2008 14:01:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (991, 517, -50) in Malas: "NameChangeDeed"
+18.12.2008 14:01:50: 85.70.219.31: Serials: 0x4000F821; 
+18.12.2008 14:02:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 14:02:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4000F821 (NameChangeDeed)
+18.12.2008 14:04:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 14:04:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001024A (VoteHalf)
+18.12.2008 14:06:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+18.12.2008 14:07:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+18.12.2008 14:09:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+18.12.2008 14:10:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vendo'
+18.12.2008 14:10:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (991, 516, -50) in Malas: "MobileRewardxVendor"
+18.12.2008 14:10:45: 85.70.219.31: Serials: 0x102; 
+18.12.2008 14:10:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+18.12.2008 14:11:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x102 "Frasier" (no account) to (989, 526, -50)
+18.12.2008 14:11:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 14:11:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x102 "Frasier" (no account)
+18.12.2008 14:11:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add xmlspawner'
+18.12.2008 14:11:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go britain'
+18.12.2008 14:11:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+18.12.2008 14:11:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add xmlspawner'
+18.12.2008 14:12:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (2706, 2230, 0) in Felucca: "xmlspawner"
+18.12.2008 14:12:01: 85.70.219.31: Serials: 0x400123AD; 
+18.12.2008 14:12:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x400123AD 'Spawner' [2706, 2230] (Felucca) : StoneRewardxVendor
+18.12.2008 14:12:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 14:12:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400123B0 (StoneRewardxVendor)
+18.12.2008 14:12:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') changed XmlSpawner 0x400123AD 'Spawner' [2706, 2230] (Felucca) : StoneRewardxVendor to MobileRewardxVendor
+18.12.2008 14:13:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipbook'
+18.12.2008 14:13:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (2713, 2228, 0) in Felucca: "vipbook"
+18.12.2008 14:13:20: 85.70.219.31: Serials: 0x40012441; 
+18.12.2008 14:15:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set title [ViP]'
+18.12.2008 14:15:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'title' of 0x13C "Laila" (no account) to '[ViP]'
+18.12.2008 14:15:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+18.12.2008 14:15:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x4001C25B 'Quester' [989, 519] (Malas) : MobileRewardxVendor
+18.12.2008 14:16:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set title [ViP]'
+18.12.2008 14:16:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'title' of 0x187 "Terry" (no account) to '[ViP]'
+18.12.2008 14:17:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+18.12.2008 14:17:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x400262CE (XmlSpawner) to (3505, 2564, 20)
+18.12.2008 14:17:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') changed XmlSpawner 0x400262CE 'Spawner' [3505, 2564] (Trammel) : ElwoodMcCarrin/direction/west to ElwoodMcCarrin
+##############################
+Log started on 18.12.2008 15:39:29
+
+18.12.2008 15:39:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vip'
+18.12.2008 15:39:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3499, 2576, 14) in Trammel: "ViPSash"
+18.12.2008 15:39:51: 85.70.219.31: Serials: 0x400133C2; 
+18.12.2008 15:41:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add talisma'
+18.12.2008 15:41:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3498, 2577, 14) in Trammel: "TalismanOfTaming"
+18.12.2008 15:41:49: 85.70.219.31: Serials: 0x400133C3; 
+18.12.2008 15:41:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 15:42:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400133C3 (TalismanOfTaming)
+18.12.2008 15:42:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add shutdown'
+18.12.2008 15:42:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+18.12.2008 15:42:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') shutting down server (Restart: False) (Save: True)
+18.12.2008 15:42:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'save '
+##############################
+Log started on 18.12.2008 16:08:07
+
+18.12.2008 16:08:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 16:08:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400133C2 (ViPSash)
+18.12.2008 16:08:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vip'
+18.12.2008 16:08:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3498, 2578, 14) in Trammel: "ViPSash"
+18.12.2008 16:08:47: 85.70.219.31: Serials: 0x4000F7C8; 
+18.12.2008 16:09:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 16:09:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4000F7C8 (ViPSash)
+18.12.2008 16:14:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 18.12.2008 16:17:12
+
+18.12.2008 16:17:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vip'
+18.12.2008 16:17:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (991, 521, -50) in Malas: "ViPSash"
+18.12.2008 16:17:28: 85.70.219.31: Serials: 0x400133C1; 
+18.12.2008 16:18:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipsa'
+18.12.2008 16:18:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (991, 520, -50) in Malas: "ViPSash"
+18.12.2008 16:18:51: 85.70.219.31: Serials: 0x400133C2; 
+18.12.2008 16:19:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 16:19:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400133C2 (ViPSash)
+18.12.2008 16:19:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400133C1 (ViPSash)
+18.12.2008 16:19:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vip'
+18.12.2008 16:19:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (989, 522, -50) in Malas: "ViPSash"
+18.12.2008 16:19:49: 85.70.219.31: Serials: 0x400133C3; 
+##############################
+Log started on 18.12.2008 16:22:55
+
+18.12.2008 16:24:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipsash'
+18.12.2008 16:24:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (992, 519, -50) in Malas: "vipsash"
+18.12.2008 16:24:18: 85.70.219.31: Serials: 0x40013408; 
+18.12.2008 16:25:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set title [ViP]'
+18.12.2008 16:25:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'title' of 0x122 "Lavern" (no account) to '[ViP]'
+18.12.2008 16:27:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 16:27:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 16:27:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013408 (ViPSash)
+18.12.2008 16:27:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vip sash'
+18.12.2008 16:27:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (2709, 2229, 0) in Felucca: "ViPSash"
+18.12.2008 16:27:36: 85.70.219.31: Serials: 0x40013425; 
+18.12.2008 16:27:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 16:27:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013425 (ViPSash)
+18.12.2008 16:28:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 16:28:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4000F7CB (MonsterStatuette)
+18.12.2008 16:28:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 18.12.2008 17:01:02
+
+##############################
+Log started on 18.12.2008 17:15:34
+
+18.12.2008 17:16:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+18.12.2008 17:16:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipsash'
+18.12.2008 17:16:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (988, 521, -50) in Malas: "vipsash"
+18.12.2008 17:16:30: 85.70.219.31: Serials: 0x4000F7C8; 
+18.12.2008 17:18:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+18.12.2008 17:22:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 18.12.2008 17:26:29
+
+18.12.2008 17:28:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vip'
+18.12.2008 17:29:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (991, 517, -50) in Malas: "ViPSash"
+18.12.2008 17:29:22: 85.70.219.31: Serials: 0x400133AE; 
+##############################
+Log started on 18.12.2008 20:51:24
+
+18.12.2008 21:46:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+18.12.2008 21:46:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipsash'
+18.12.2008 21:46:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (987, 517, -50) in Malas: "vipsash"
+18.12.2008 21:46:55: 85.70.219.31: Serials: 0x40015365; 
+18.12.2008 21:47:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+##############################
+Log started on 18.12.2008 22:37:20
+
+18.12.2008 22:37:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipsash'
+18.12.2008 22:38:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (988, 519, -50) in Malas: "vipsash"
+18.12.2008 22:38:00: 85.70.219.31: Serials: 0x4000F7E9; 
+18.12.2008 22:38:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+18.12.2008 22:38:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'TimeLeft' of 0x4000F7E9 (ViPSash) to '60'
+18.12.2008 22:38:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+18.12.2008 22:39:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+18.12.2008 22:40:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 22:40:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4000F7E9 (ViPSash)
+18.12.2008 22:40:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipsash'
+18.12.2008 22:40:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (990, 519, -50) in Malas: "vipsash"
+18.12.2008 22:40:40: 85.70.219.31: Serials: 0x4000F869; 
+18.12.2008 22:40:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+18.12.2008 22:40:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 18.12.2008 22:43:33
+
+18.12.2008 22:43:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipsash'
+18.12.2008 22:43:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (991, 519, -50) in Malas: "vipsash"
+18.12.2008 22:43:52: 85.70.219.31: Serials: 0x4001040E; 
+18.12.2008 22:45:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipsash'
+18.12.2008 22:45:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (993, 519, -50) in Malas: "vipsash"
+18.12.2008 22:45:11: 85.70.219.31: Serials: 0x4001231D; 
+18.12.2008 22:49:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 18.12.2008 23:12:10
+
+18.12.2008 23:12:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipsash'
+18.12.2008 23:12:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (992, 519, -50) in Malas: "vipsash"
+18.12.2008 23:12:22: 85.70.219.31: Serials: 0x4000F7E9; 
+18.12.2008 23:12:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add talisma'
+18.12.2008 23:12:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (992, 520, -50) in Malas: "TalismanOfTaming"
+18.12.2008 23:12:31: 85.70.219.31: Serials: 0x4000F835; 
+18.12.2008 23:12:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+18.12.2008 23:12:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4000F835 (TalismanOfTaming)
+18.12.2008 23:12:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4000F7E9 (ViPSash)
+18.12.2008 23:16:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 18.12.2008 23:20:38
+
+18.12.2008 23:21:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vip'
+18.12.2008 23:21:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (992, 519, -50) in Malas: "ViPSash"
+18.12.2008 23:21:04: 85.70.219.31: Serials: 0x400131CF; 
+18.12.2008 23:21:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+18.12.2008 23:21:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'TimeLeft' of 0x400131CF (ViPSash) to '5000'
+18.12.2008 23:25:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+18.12.2008 23:25:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1160'
+18.12.2008 23:25:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131CF (ViPSash) to '1160'
+18.12.2008 23:26:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1161'
+18.12.2008 23:26:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131CF (ViPSash) to '1161'
+18.12.2008 23:26:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1159'
+18.12.2008 23:26:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131CF (ViPSash) to '1159'
+18.12.2008 23:26:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 118'
+18.12.2008 23:26:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131CF (ViPSash) to '118'
+18.12.2008 23:26:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1158'
+18.12.2008 23:26:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131CF (ViPSash) to '1158'
+18.12.2008 23:26:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1157'
+18.12.2008 23:26:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131CF (ViPSash) to '1157'
+18.12.2008 23:26:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1156'
+18.12.2008 23:26:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131CF (ViPSash) to '1156'
+18.12.2008 23:26:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1155'
+18.12.2008 23:26:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131CF (ViPSash) to '1155'
+18.12.2008 23:26:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1154'
+18.12.2008 23:26:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131CF (ViPSash) to '1154'
+18.12.2008 23:27:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 18.12.2008 23:29:52
+
+##############################
+Log started on 18.12.2008 23:36:14
+
+18.12.2008 23:42:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 18.12.2008 23:45:56
+
+18.12.2008 23:46:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vip'
+18.12.2008 23:46:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (992, 519, -50) in Malas: "ViPTalisman"
+18.12.2008 23:46:51: 85.70.219.31: Serials: 0x400155AD; 
+18.12.2008 23:46:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (992, 520, -50) in Malas: "ViPTalisman"
+18.12.2008 23:46:52: 85.70.219.31: Serials: 0x400155B0; 
+##############################
+Log started on 18.12.2008 23:51:07
+
+##############################
+Log started on 18.12.2008 23:54:59
+
+18.12.2008 23:55:54: : Player 0x9719 "Galabriel N'uJil" ('Anthrax') used command 'char '

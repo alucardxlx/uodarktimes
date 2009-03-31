@@ -1,0 +1,372 @@
+##############################
+Log started on 9.11.2008 1:38:46
+
+##############################
+Log started on 9.11.2008 6:00:32
+
+9.11.2008 9:39:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+9.11.2008 14:24:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+9.11.2008 14:25:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'dupe '
+9.11.2008 14:26:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') duping 0x40014F9E (ParrotItem) (inBag=False; amount=1)
+9.11.2008 14:26:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') duped 0x40014F9E (ParrotItem) creating 0x4003369F (ParrotItem)
+9.11.2008 14:26:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add perch'
+9.11.2008 14:26:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add ram'
+9.11.2008 14:27:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5620, 1210, 0) in Trammel: "SiegeRam"
+9.11.2008 14:27:00: 89.111.89.28: Serials: 0x400336BE; 
+9.11.2008 14:27:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add siege'
+9.11.2008 14:27:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5622, 1209, 0) in Trammel: "SiegeRam"
+9.11.2008 14:27:21: 89.111.89.28: Serials: 0x40033720; 
+9.11.2008 14:27:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:27:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40033721 (SiegeComponent)
+9.11.2008 14:27:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5623, 1209, 0) in Trammel: "HeavySiegeLog"
+9.11.2008 14:27:33: 89.111.89.28: Serials: 0x40033784; 
+9.11.2008 14:27:50: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add wall'
+9.11.2008 14:27:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5621, 1207, 0) in Trammel: "WallOfStoneEast"
+9.11.2008 14:27:56: 89.111.89.28: Serials: 0x40033797; 
+9.11.2008 14:28:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:28:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003379A (AddonComponent)
+9.11.2008 14:28:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:28:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400336E8 (SiegeComponent)
+9.11.2008 14:28:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add ram'
+9.11.2008 14:28:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5623, 1206, 0) in Trammel: "SiegeRam"
+9.11.2008 14:28:46: 89.111.89.28: Serials: 0x4003379B; 
+9.11.2008 14:28:51: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add siege'
+9.11.2008 14:28:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5622, 1209, 0) in Trammel: "LightSiegeLog"
+9.11.2008 14:28:55: 89.111.89.28: Serials: 0x400337B5; 
+9.11.2008 14:28:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5622, 1209, 3) in Trammel: "LightSiegeLog"
+9.11.2008 14:28:56: 89.111.89.28: Serials: 0x400337B6; 
+9.11.2008 14:29:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:30:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:30:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003379D (SiegeComponent)
+9.11.2008 14:33:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:33:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40033556 (MetalChest)
+9.11.2008 14:33:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:33:39: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40033557 (MetalChest)
+9.11.2008 14:33:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:33:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40033559 (MetalChest)
+9.11.2008 14:33:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:33:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:33:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033558 (MetalChest) to 'True'
+9.11.2008 14:33:50: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:33:50: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x4003365D (BambooChair) to 'True'
+9.11.2008 14:33:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:33:53: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400335B4 (ElegantLowTable) to 'True'
+9.11.2008 14:33:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:33:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400338D7 (DyeTub) to 'True'
+9.11.2008 14:33:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:33:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x4003365F (BambooChair) to 'True'
+9.11.2008 14:33:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:33:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40013004 (GiftBox) to 'True'
+9.11.2008 14:34:14: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033673 (BigElvenChair) to 'True'
+9.11.2008 14:34:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033671 (Forge) to 'True'
+9.11.2008 14:34:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033670 (Anvil) to 'True'
+9.11.2008 14:34:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033AC0 (SmallBagBall) to 'True'
+9.11.2008 14:34:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033673 (BigElvenChair) to 'True'
+9.11.2008 14:34:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033783 (AddonComponent) to 'True'
+9.11.2008 14:34:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:34:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40033783 (AddonComponent)
+9.11.2008 14:34:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336FC (BigElvenChair) to 'True'
+9.11.2008 14:34:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400337E5 (BlueBook) to 'True'
+9.11.2008 14:34:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336AF (BigElvenChair) to 'True'
+9.11.2008 14:34:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336AE (BigElvenChair) to 'True'
+9.11.2008 14:34:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336AD (BigElvenChair) to 'True'
+9.11.2008 14:34:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400337D2 (TrashBarrel) to 'True'
+9.11.2008 14:34:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:51: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336F5 (BigElvenChair) to 'True'
+9.11.2008 14:34:53: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:53: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336F6 (BigElvenChair) to 'True'
+9.11.2008 14:34:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable true'
+9.11.2008 14:34:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336F7 (BigElvenChair) to 'True'
+9.11.2008 14:35:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:35:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:35:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') playing sound 499 (toAll=True)
+9.11.2008 14:35:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'sound 499'
+9.11.2008 14:36:02: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') playing sound 499 (toAll=True)
+9.11.2008 14:36:02: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'sound 499'
+9.11.2008 14:36:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add abnekr'
+9.11.2008 14:36:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add banker'
+9.11.2008 14:36:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1053, 470, -90) in Malas: "banker"
+9.11.2008 14:36:49: 89.111.89.28: Serials: 0x982B; 
+9.11.2008 14:36:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'unhide '
+9.11.2008 14:37:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') unhiding 0x8D "Kentar" ('osiriscz')
+9.11.2008 14:38:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:38:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x982B "Ordano" (no account)
+9.11.2008 14:39:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'bank '
+9.11.2008 14:39:04: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') opening bank box of 0x7FE "Lenoch" ('rastyCZ')
+9.11.2008 14:39:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add banker'
+9.11.2008 14:39:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1053, 469, -90) in Malas: "banker"
+9.11.2008 14:39:11: 89.111.89.28: Serials: 0x9834; 
+9.11.2008 14:40:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:40:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x9834 "Kliftin" (no account)
+9.11.2008 14:41:04: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'tele '
+9.11.2008 14:41:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'tele '
+9.11.2008 14:41:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'tele '
+9.11.2008 14:56:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 14:56:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 14:56:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 14:56:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:56:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400336F7 (BigElvenChair)
+9.11.2008 14:56:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:56:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:56:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400336F6 (BigElvenChair)
+9.11.2008 14:56:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:56:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400336AD (BigElvenChair)
+9.11.2008 14:56:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:56:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40033673 (BigElvenChair)
+9.11.2008 14:56:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:56:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:56:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400336AF (BigElvenChair)
+9.11.2008 14:56:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:56:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400336FC (BigElvenChair)
+9.11.2008 14:56:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 14:56:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 14:56:50: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 14:56:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:56:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336F5 (BigElvenChair) to 'False'
+9.11.2008 14:57:02: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 14:57:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 14:57:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 14:57:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:57:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336AE (BigElvenChair) to 'False'
+9.11.2008 14:57:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add chair'
+9.11.2008 14:57:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:57:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003365F (BambooChair)
+9.11.2008 14:57:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:57:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003365D (BambooChair)
+9.11.2008 14:57:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (960, 426, -83) in Malas: "StoneChair"
+9.11.2008 14:57:46: 89.111.89.28: Serials: 0x40033ED8; 
+9.11.2008 14:57:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (961, 426, -83) in Malas: "StoneChair"
+9.11.2008 14:57:47: 89.111.89.28: Serials: 0x40033ED9; 
+9.11.2008 14:57:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (962, 426, -83) in Malas: "StoneChair"
+9.11.2008 14:57:48: 89.111.89.28: Serials: 0x40033EDA; 
+9.11.2008 14:57:50: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (963, 426, -83) in Malas: "StoneChair"
+9.11.2008 14:57:50: 89.111.89.28: Serials: 0x40033EDB; 
+9.11.2008 14:57:51: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (959, 426, -83) in Malas: "StoneChair"
+9.11.2008 14:57:51: 89.111.89.28: Serials: 0x40033EDC; 
+9.11.2008 14:57:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (959, 427, -83) in Malas: "StoneChair"
+9.11.2008 14:57:54: 89.111.89.28: Serials: 0x40033EDD; 
+9.11.2008 14:57:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (960, 427, -83) in Malas: "StoneChair"
+9.11.2008 14:57:55: 89.111.89.28: Serials: 0x40033EDE; 
+9.11.2008 14:57:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (961, 427, -83) in Malas: "StoneChair"
+9.11.2008 14:57:56: 89.111.89.28: Serials: 0x40033EFB; 
+9.11.2008 14:57:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (962, 427, -83) in Malas: "StoneChair"
+9.11.2008 14:57:57: 89.111.89.28: Serials: 0x40033F70; 
+9.11.2008 14:57:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (963, 427, -83) in Malas: "StoneChair"
+9.11.2008 14:57:57: 89.111.89.28: Serials: 0x40033F77; 
+9.11.2008 14:58:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add stone'
+9.11.2008 14:58:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (961, 428, -83) in Malas: "LargeStoneTableEastAddon"
+9.11.2008 14:58:17: 89.111.89.28: Serials: 0x400340C1; 
+9.11.2008 14:58:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 14:58:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400340C4 (AddonComponent)
+9.11.2008 14:58:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (961, 428, -83) in Malas: "LargeStoneTableSouthAddon"
+9.11.2008 14:58:24: 89.111.89.28: Serials: 0x400340DB; 
+9.11.2008 14:58:26: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (959, 428, -83) in Malas: "LargeStoneTableSouthAddon"
+9.11.2008 14:58:26: 89.111.89.28: Serials: 0x40034101; 
+9.11.2008 14:58:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:39: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336AE (BigElvenChair) to 'False'
+9.11.2008 14:58:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400336F5 (BigElvenChair) to 'False'
+9.11.2008 14:58:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033F77 (StoneChair) to 'False'
+9.11.2008 14:58:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033EDB (StoneChair) to 'False'
+9.11.2008 14:58:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033EDA (StoneChair) to 'False'
+9.11.2008 14:58:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033F70 (StoneChair) to 'False'
+9.11.2008 14:58:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033EFB (StoneChair) to 'False'
+9.11.2008 14:58:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033ED9 (StoneChair) to 'False'
+9.11.2008 14:58:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033ED8 (StoneChair) to 'False'
+9.11.2008 14:58:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033EDE (StoneChair) to 'False'
+9.11.2008 14:58:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033EDD (StoneChair) to 'False'
+9.11.2008 14:58:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:58:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033EDC (StoneChair) to 'False'
+9.11.2008 14:59:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 14:59:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x400337D2 (TrashBarrel) to 'False'
+9.11.2008 15:01:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add forge'
+9.11.2008 15:01:09: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 15:01:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033671 (Forge) to 'False'
+9.11.2008 15:01:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 15:01:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40033670 (Anvil) to 'False'
+9.11.2008 15:01:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add chair'
+9.11.2008 15:01:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (963, 427, -63) in Malas: "BambooChair"
+9.11.2008 15:01:20: 89.111.89.28: Serials: 0x40034299; 
+9.11.2008 15:01:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:01:26: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:01:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:01:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 15:01:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40034299 (BambooChair) to 'False'
+9.11.2008 15:02:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add metal'
+9.11.2008 15:02:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (953, 431, -63) in Malas: "FillableMetalChest"
+9.11.2008 15:02:43: 89.111.89.28: Serials: 0x400342E3; 
+9.11.2008 15:02:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (953, 430, -63) in Malas: "FillableMetalChest"
+9.11.2008 15:02:55: 89.111.89.28: Serials: 0x40034372; 
+9.11.2008 15:03:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:03:09: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40034372 (FillableMetalChest)
+9.11.2008 15:03:09: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:03:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400342E3 (FillableMetalChest)
+9.11.2008 15:03:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (953, 430, -63) in Malas: "MetalChest"
+9.11.2008 15:03:12: 89.111.89.28: Serials: 0x400343A9; 
+9.11.2008 15:03:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (953, 429, -63) in Malas: "MetalChest"
+9.11.2008 15:03:13: 89.111.89.28: Serials: 0x400343AC; 
+9.11.2008 15:03:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (954, 430, -63) in Malas: "MetalChest"
+9.11.2008 15:03:15: 89.111.89.28: Serials: 0x400343B3; 
+9.11.2008 15:03:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (954, 429, -63) in Malas: "MetalChest"
+9.11.2008 15:03:16: 89.111.89.28: Serials: 0x400343B9; 
+9.11.2008 15:03:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (953, 431, -63) in Malas: "MetalChest"
+9.11.2008 15:03:18: 89.111.89.28: Serials: 0x400343BA; 
+9.11.2008 15:03:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (954, 431, -63) in Malas: "MetalChest"
+9.11.2008 15:03:19: 89.111.89.28: Serials: 0x400343BC; 
+9.11.2008 15:03:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add table'
+9.11.2008 15:03:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (956, 432, -63) in Malas: "BaseEscortable"
+9.11.2008 15:03:25: 89.111.89.28: Serials: 0x991D; 
+9.11.2008 15:03:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:03:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x991D "Neci" (no account)
+9.11.2008 15:03:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (958, 432, -63) in Malas: "ElegantLowTable"
+9.11.2008 15:03:33: 89.111.89.28: Serials: 0x40034405; 
+9.11.2008 15:03:50: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:04:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add metal'
+9.11.2008 15:04:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 433, -58) in Malas: "MetalChest"
+9.11.2008 15:04:06: 89.111.89.28: Serials: 0x400344BC; 
+9.11.2008 15:04:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 433, -63) in Malas: "MetalChest"
+9.11.2008 15:04:07: 89.111.89.28: Serials: 0x400344BD; 
+9.11.2008 15:04:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 434, -63) in Malas: "MetalChest"
+9.11.2008 15:04:08: 89.111.89.28: Serials: 0x400344BE; 
+9.11.2008 15:04:09: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 434, -58) in Malas: "MetalChest"
+9.11.2008 15:04:09: 89.111.89.28: Serials: 0x400344BF; 
+9.11.2008 15:04:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 434, -53) in Malas: "MetalChest"
+9.11.2008 15:04:10: 89.111.89.28: Serials: 0x400344C0; 
+9.11.2008 15:04:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 434, -48) in Malas: "MetalChest"
+9.11.2008 15:04:11: 89.111.89.28: Serials: 0x400344C1; 
+9.11.2008 15:04:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:04:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:04:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:04:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:04:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400344BD (MetalChest)
+9.11.2008 15:04:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:04:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:04:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:04:39: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:04:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400344C1 (MetalChest)
+9.11.2008 15:04:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:04:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400344C0 (MetalChest)
+9.11.2008 15:04:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:04:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400343BC (MetalChest)
+9.11.2008 15:04:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:04:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400343B3 (MetalChest)
+9.11.2008 15:04:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:04:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400343A9 (MetalChest)
+9.11.2008 15:04:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:04:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400343AC (MetalChest)
+9.11.2008 15:04:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:04:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400343B9 (MetalChest)
+9.11.2008 15:04:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add metal'
+9.11.2008 15:04:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 431, -63) in Malas: "MetalChest"
+9.11.2008 15:04:52: 89.111.89.28: Serials: 0x400344E1; 
+9.11.2008 15:05:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:05:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 432, -63) in Malas: "MetalChest"
+9.11.2008 15:05:05: 89.111.89.28: Serials: 0x400344E8; 
+9.11.2008 15:05:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 431, -58) in Malas: "MetalChest"
+9.11.2008 15:05:06: 89.111.89.28: Serials: 0x400344E9; 
+9.11.2008 15:05:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 432, -58) in Malas: "MetalChest"
+9.11.2008 15:05:07: 89.111.89.28: Serials: 0x400344EA; 
+9.11.2008 15:05:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:05:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:05:14: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:05:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:05:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:05:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 434, -53) in Malas: "MetalChest"
+9.11.2008 15:05:22: 89.111.89.28: Serials: 0x400344ED; 
+9.11.2008 15:05:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 433, -53) in Malas: "MetalChest"
+9.11.2008 15:05:22: 89.111.89.28: Serials: 0x400344EE; 
+9.11.2008 15:05:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 432, -53) in Malas: "MetalChest"
+9.11.2008 15:05:23: 89.111.89.28: Serials: 0x400344EF; 
+9.11.2008 15:05:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 431, -53) in Malas: "MetalChest"
+9.11.2008 15:05:24: 89.111.89.28: Serials: 0x400344F0; 
+9.11.2008 15:05:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:05:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:05:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:05:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'flip '
+9.11.2008 15:06:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:06:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40034405 (ElegantLowTable)
+9.11.2008 15:06:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add stone'
+9.11.2008 15:07:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (956, 435, -63) in Malas: "BambooChair"
+9.11.2008 15:07:00: 89.111.89.28: Serials: 0x40034585; 
+9.11.2008 15:07:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (957, 435, -63) in Malas: "BambooChair"
+9.11.2008 15:07:01: 89.111.89.28: Serials: 0x40034586; 
+9.11.2008 15:07:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:07:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40034585 (BambooChair)
+9.11.2008 15:07:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:07:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40034586 (BambooChair)
+9.11.2008 15:07:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add stone'
+9.11.2008 15:07:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (957, 436, -63) in Malas: "WoodenChair"
+9.11.2008 15:07:21: 89.111.89.28: Serials: 0x40034589; 
+9.11.2008 15:07:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (958, 436, -60) in Malas: "WoodenChair"
+9.11.2008 15:07:22: 89.111.89.28: Serials: 0x4003458A; 
+9.11.2008 15:07:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (958, 436, -59) in Malas: "WoodenChair"
+9.11.2008 15:07:24: 89.111.89.28: Serials: 0x4003458B; 
+9.11.2008 15:07:27: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:07:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003458B (WoodenChair)
+9.11.2008 15:07:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:07:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003458A (WoodenChair)
+9.11.2008 15:07:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:07:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40034589 (WoodenChair)
+9.11.2008 15:07:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (957, 435, -63) in Malas: "WoodenChair"
+9.11.2008 15:07:32: 89.111.89.28: Serials: 0x4003458C; 
+9.11.2008 15:07:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (956, 435, -63) in Malas: "WoodenChair"
+9.11.2008 15:07:34: 89.111.89.28: Serials: 0x4003458D; 
+9.11.2008 15:07:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:07:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003458D (WoodenChair)
+9.11.2008 15:07:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 15:07:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x4003458C (WoodenChair) to 'False'
+9.11.2008 15:08:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'bank '
+9.11.2008 15:08:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') opening bank box of 0x7FE "Lenoch" ('rastyCZ')
+9.11.2008 15:08:39: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set charges 100'
+9.11.2008 15:08:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'charges' of 0x40013228 (FireworksWand) to '100'
+9.11.2008 15:08:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set charges 100'
+9.11.2008 15:08:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'bank '
+9.11.2008 15:08:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') opening bank box of 0x7FE "Lenoch" ('rastyCZ')
+9.11.2008 15:09:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set charges 150'
+9.11.2008 15:09:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'charges' of 0x40013228 (FireworksWand) to '150'
+9.11.2008 15:09:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set movable false'
+9.11.2008 15:09:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'movable' of 0x40013228 (FireworksWand) to 'False'
+9.11.2008 15:10:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'tele '
+9.11.2008 15:10:09: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'tele '
+9.11.2008 15:10:14: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add cannon'
+9.11.2008 15:10:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (960, 435, -43) in Malas: "cannon"
+9.11.2008 15:10:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add canno'
+9.11.2008 15:10:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (958, 435, -43) in Malas: "SiegeCannon"
+9.11.2008 15:10:22: 89.111.89.28: Serials: 0x400345EB; 
+9.11.2008 15:10:26: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (953, 431, -43) in Malas: "SiegeCannon"
+9.11.2008 15:10:26: 89.111.89.28: Serials: 0x400345EF; 
+9.11.2008 15:10:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (958, 426, -43) in Malas: "SiegeCannon"
+9.11.2008 15:10:28: 89.111.89.28: Serials: 0x40034602; 
+9.11.2008 15:10:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (964, 430, -43) in Malas: "SiegeCannon"
+9.11.2008 15:10:29: 89.111.89.28: Serials: 0x40034606; 
+9.11.2008 15:12:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:12:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400345EC (SiegeComponent)
+9.11.2008 15:12:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:12:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40034607 (SiegeComponent)
+9.11.2008 15:12:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:12:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40034603 (SiegeComponent)
+9.11.2008 15:12:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+9.11.2008 15:12:39: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400345F0 (SiegeComponent)
+9.11.2008 15:12:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'tele '

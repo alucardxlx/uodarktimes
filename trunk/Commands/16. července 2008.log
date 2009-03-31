@@ -1,0 +1,50 @@
+##############################
+Log started on 16.7.2008 7:46:09
+
+16.7.2008 9:00:15: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+16.7.2008 12:46:43: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+16.7.2008 12:46:55: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+16.7.2008 14:53:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add spined'
+16.7.2008 14:53:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (977, 511, -50) in Malas: "SpinedLeather"
+16.7.2008 14:53:57: 85.70.219.31: Serials: 0x40030334; 
+16.7.2008 14:54:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set amount 500000'
+16.7.2008 14:54:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'amount' of 0x40030334 (SpinedLeather) to '500000'
+16.7.2008 14:54:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+16.7.2008 14:54:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40030353 (SpinedLeather) to (977, 511, -49)
+16.7.2008 14:54:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+16.7.2008 14:54:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+16.7.2008 14:54:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40030353 (SpinedLeather) (inBag=False; amount=1)
+16.7.2008 14:54:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40030353 (SpinedLeather) creating 0x40030355 (SpinedLeather)
+16.7.2008 14:54:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+16.7.2008 14:54:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003035F (SpinedLeather)
+16.7.2008 14:54:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030353 (SpinedLeather)
+16.7.2008 14:55:16: 85.70.219.31: Crafting 0x40030362 (LeafChest) with craft system DefTailoring
+16.7.2008 14:55:21: 85.70.219.31: Crafting 0x40030363 (LeafChest) with craft system DefTailoring
+16.7.2008 14:55:25: 85.70.219.31: Crafting 0x40030364 (LeafChest) with craft system DefTailoring
+16.7.2008 14:55:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+16.7.2008 14:55:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030364 (LeafChest)
+16.7.2008 14:55:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030363 (LeafChest)
+16.7.2008 15:13:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+16.7.2008 15:26:26: 85.70.219.31: Player 0x83C "Elamor" ('Anthrax') used command 'c '
+16.7.2008 15:49:16: 85.70.219.31: Player 0x83C "Elamor" ('Anthrax') used command 'c '
+16.7.2008 16:09:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+16.7.2008 16:09:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018020 (AddonComponent)
+16.7.2008 16:09:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001801A (AddonComponent)
+16.7.2008 16:09:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40017D93 (AddonComponent)
+16.7.2008 16:09:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40017D91 (AddonComponent)
+16.7.2008 16:09:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40017D97 (AddonComponent)
+16.7.2008 16:09:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40017BF4 (AddonComponent)
+16.7.2008 16:09:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001394A (AddonComponent)
+16.7.2008 16:09:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013940 (AddonComponent)
+16.7.2008 16:09:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40017C8F (MountedDreadHorn)
+16.7.2008 16:09:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+16.7.2008 16:09:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013966 (AddonComponent)
+16.7.2008 16:09:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013961 (AddonComponent)
+16.7.2008 16:09:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001394F (AddonComponent)
+16.7.2008 16:09:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001395D (AddonComponent)
+16.7.2008 16:09:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+16.7.2008 16:09:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001933F (AnvilComponent)
+16.7.2008 16:09:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016675 (AddonComponent)
+16.7.2008 16:09:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+16.7.2008 18:52:50: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+16.7.2008 19:03:59: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk search magic gate'

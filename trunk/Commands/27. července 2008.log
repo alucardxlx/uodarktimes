@@ -1,0 +1,106 @@
+##############################
+Log started on 27.7.2008 10:10:47
+
+27.7.2008 10:19:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 10:20:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 10:21:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+##############################
+Log started on 27.7.2008 10:23:25
+
+27.7.2008 10:23:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 10:24:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+27.7.2008 10:24:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x1 "Elamorius" ('Elamor')
+27.7.2008 10:25:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bag'
+27.7.2008 10:25:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 613, -90) in Malas: "bag"
+27.7.2008 10:25:09: 85.70.219.31: Serials: 0x40013860; 
+27.7.2008 10:25:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+27.7.2008 10:25:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (891, 622, -95) to (903, 640, -95) in Malas (Items, Mobiles)
+27.7.2008 10:25:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+27.7.2008 10:25:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (901, 622, -95) to (908, 627, -90) in Malas (Items, Mobiles)
+27.7.2008 10:25:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 10:26:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+27.7.2008 10:26:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x92CB "Crasher" (no account)
+27.7.2008 10:26:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 10:27:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+27.7.2008 10:27:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (1038, 498, -90) to (1052, 503, -90) in Malas (Items, Mobiles)
+27.7.2008 10:27:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+27.7.2008 10:27:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (1038, 502, -90) to (1049, 508, -90) in Malas (Items, Mobiles)
+27.7.2008 10:27:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+27.7.2008 10:30:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+27.7.2008 10:33:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') firewalling 62.24.75.40
+27.7.2008 10:35:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '
+27.7.2008 10:36:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+27.7.2008 10:38:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go britain'
+27.7.2008 10:39:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+27.7.2008 10:39:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+27.7.2008 10:39:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Set Blessed True'
+27.7.2008 10:39:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Blessed' of 0x1 "Elamorius" ('Elamor') to 'True'
+27.7.2008 10:40:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set name Botky'
+27.7.2008 10:40:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'name' of 0x40012389 (AdminBoots) to 'Botky'
+##############################
+Log started on 27.7.2008 15:01:45
+
+##############################
+Log started on 27.7.2008 18:19:21
+
+27.7.2008 18:59:25: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+27.7.2008 19:13:18: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk easting'
+27.7.2008 19:25:01: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+27.7.2008 19:35:07: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk sleep'
+27.7.2008 19:45:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+27.7.2008 20:08:19: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+27.7.2008 20:11:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+27.7.2008 20:12:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+27.7.2008 20:18:45: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk sleep'
+27.7.2008 20:20:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+27.7.2008 20:20:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 2130'
+27.7.2008 20:20:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40030E8A (StuddedGorget) to '2130'
+27.7.2008 20:20:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+27.7.2008 20:20:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x38F "Eldrod" ('Theogil')
+27.7.2008 20:21:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+27.7.2008 20:21:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x38F "Eldrod" ('Theogil') to (1014, 517, -70)
+27.7.2008 20:22:00: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+27.7.2008 20:22:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c v Lune se nemacruje :D'
+27.7.2008 20:22:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:22:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c v pohode :D'
+27.7.2008 20:22:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:23:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:23:47: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+27.7.2008 20:24:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:24:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'pm '
+27.7.2008 20:24:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+27.7.2008 20:24:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c ted se mi dela vecere :D'
+27.7.2008 20:24:49: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+27.7.2008 20:25:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:26:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:27:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go felluca'
+27.7.2008 20:27:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go felucca'
+27.7.2008 20:27:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go britain'
+27.7.2008 20:27:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:28:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:29:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+27.7.2008 20:29:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:30:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+27.7.2008 20:30:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+27.7.2008 20:32:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add forge'
+27.7.2008 20:32:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1176, 1412, -95) in Malas: "forge"
+27.7.2008 20:32:25: 85.70.219.31: Serials: 0x4001EE2D; 
+27.7.2008 20:32:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add anvil'
+27.7.2008 20:32:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1175, 1412, -95) in Malas: "anvil"
+27.7.2008 20:32:31: 85.70.219.31: Serials: 0x4001EE2E; 
+27.7.2008 20:46:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+27.7.2008 20:46:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+27.7.2008 20:46:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+27.7.2008 20:46:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'ToTTotalMonsterFame' of 0x38F "Eldrod" ('Theogil') to '457990'
+27.7.2008 20:46:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+27.7.2008 20:48:13: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+27.7.2008 21:07:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+27.7.2008 21:10:28: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm '
+27.7.2008 21:10:33: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm '
+27.7.2008 21:10:44: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm '
+27.7.2008 21:10:47: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'e '
+27.7.2008 21:20:44: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+27.7.2008 21:41:19: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+27.7.2008 23:15:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+27.7.2008 23:15:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: True)
+27.7.2008 23:15:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '

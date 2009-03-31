@@ -1,0 +1,353 @@
+###############################
+# 24.6.2008 - 10:05
+
+> [564ba589-72ec-44d5-a03a-9a087359523e] Bid Amount : 50 500, Mobile : Elamor [0x0000083C] Account : Anthrax
+## New Auction : cb9204e1-c584-4926-90a5-ccd2834eb6a0
+# deed
+# Created on 24.6.2008 at 12:06
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:06
+# Starting Bid: 150000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016D95] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Parrying (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 58503f7d-96bb-47f4-9c82-97b5542ad2f2
+# deed
+# Created on 24.6.2008 at 12:07
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:07
+# Starting Bid: 110000. Reserve: 150000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016DF8] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Animal Taming (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 0f36a87a-3744-4c1f-9a83-a99bc00751cd
+# deed
+# Created on 24.6.2008 at 12:07
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:07
+# Starting Bid: 110000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016986] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Animal Lore (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 78474843-0d34-403c-b042-76acf5a447b7
+# deed
+# Created on 24.6.2008 at 12:07
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:07
+# Starting Bid: 110000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400170C0] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Healing (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : fb42a835-a83b-474d-94f5-1eb7e19e8b4d
+# deed
+# Created on 24.6.2008 at 12:07
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:07
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016DE7] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Focus (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : de28a651-8bf5-436f-883b-b36a4c7a5567
+# deed
+# Created on 24.6.2008 at 12:08
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:08
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016D37] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Peacemaking (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 7270fa69-67f9-4411-8ec1-c32a37393ca2
+# deed
+# Created on 24.6.2008 at 12:08
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:08
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016987] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Tactics (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 1ad81ef2-50ab-4dd4-918e-119f78fd3583
+# deed
+# Created on 24.6.2008 at 12:08
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:08
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016D9A] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Animal Lore (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 45973512-b0e3-4e3d-b893-f0e0e572fa18
+# deed
+# Created on 24.6.2008 at 12:08
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:08
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016DF0] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Mace Fighting (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : e81ed109-c262-402d-aa29-9bcd5c0fb248
+# deed
+# Created on 24.6.2008 at 12:08
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:08
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016824] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Spirit Speak (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 90da42a7-76ac-4b2d-9cbf-77d1707e6c3c
+# deed
+# Created on 24.6.2008 at 12:08
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:08
+# Starting Bid: 1000000. Reserve: 2000000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016D93] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Legendary Scroll Of Veterinary (120 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 5a49bb68-5a94-42cc-900e-3261e8527fb7
+# deed
+# Created on 24.6.2008 at 12:08
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:08
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016823] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Resisting Spells (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : e89249b2-b04e-4bd6-99da-ea9ee41e841b
+# deed
+# Created on 24.6.2008 at 12:08
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:08
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400166D4] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Animal Taming (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : a6d13712-219f-43b3-8210-7b22536cacb7
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400175C0] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Animal Lore (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 474e67d0-38ad-430b-a3ad-1a0d517efb10
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016DE6] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Evaluating Intelligence (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+> [432dfa3e-a25f-46e4-9715-01389c010a45] Bid Amount : 105 000, Mobile : Xaaron [0x00000966] Account : Xaaron
+## New Auction : bb9364ba-a4ee-4dc9-a8c7-837873bf9a47
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016D34] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Parrying (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 6b302d41-cba3-42b1-a2f5-b82d149f8c08
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 1000000. Reserve: 2000000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400175B4] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Legendary Scroll Of Spellweaving (120 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 1930afd9-51d0-4f5e-958c-bbea8f43dc69
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400166D5] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Necromancy (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 49a2bd66-0d1e-48fb-9b62-f60ce00fb5a8
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400166D3] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Magery (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 55200942-632a-4cf0-9f49-b8b4aa8529ea
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400166D7] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Peacemaking (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 6fa5ed6b-0712-47c3-9331-fc35166a3d79
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016D96] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Tactics (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 8f8ac00c-22d4-4e93-b85a-764278f9ea27
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x4001681F] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Archery (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 0aade9aa-7a08-4b55-8ecb-08d394c1b12b
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016A09] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Musicianship (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 496578f3-105e-41ae-b8f0-6b9eb12c134d
+# deed
+# Created on 24.6.2008 at 12:09
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:09
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x40016D99] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>An Exalted Scroll Of Veterinary (110 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 5e3e92be-9cc8-4c06-b281-005d06b0d168
+# deed
+# Created on 24.6.2008 at 12:10
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:10
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400170BD] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Spellweaving (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 480e185d-23d0-47f1-934f-08ad1ba9200f
+# deed
+# Created on 24.6.2008 at 12:10
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:10
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400175C7] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Necromancy (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 89fae626-cd78-4bd5-8572-d119d96b7267
+# deed
+# Created on 24.6.2008 at 12:10
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:10
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. deed [0x400170BF] Type PowerScroll Hue 1153
+Properties: <basefont color=#FFFFFF><p>A Mythical Scroll Of Meditation (115 Skill)<br>Cursed<br>Weight: 1 Stone<br>
+
+## New Auction : 4147e057-759e-4450-8aef-9aa83fd401e6
+# brightly colored eggs
+# Created on 24.6.2008 at 12:17
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:17
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. brightly colored eggs [0x400211B0] Type BrightlyColoredEggs Hue 83
+Properties: <basefont color=#FFFFFF><p>Brightly Colored Eggs<br>Weight: 1 Stone<br>
+
+## New Auction : e72c0e61-657b-4b1a-8e2d-bd5bc1f94097
+# brightly colored eggs
+# Created on 24.6.2008 at 12:18
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 1.7.2008 at 12:18
+# Starting Bid: 100000. Reserve: 200000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. brightly colored eggs [0x40021134] Type BrightlyColoredEggs Hue 48
+Properties: <basefont color=#FFFFFF><p>Brightly Colored Eggs<br>Weight: 1 Stone<br>
+

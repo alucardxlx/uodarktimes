@@ -1,0 +1,174 @@
+##############################
+Log started on 24.8.2008 11:33:34
+
+##############################
+Log started on 24.8.2008 13:16:25
+
+24.8.2008 13:33:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.8.2008 13:33:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property '[Mining: 49,9].Base' of 0x1DF8 "Anna Stoneskin" ('Anthrax') to '49,9'
+24.8.2008 13:35:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.8.2008 13:35:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+24.8.2008 13:35:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'skills '
+24.8.2008 13:35:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property '[Mining: 53,6].Base' of 0x1DF8 "Anna Stoneskin" ('Anthrax') to '53,6'
+24.8.2008 13:35:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set rawstr 125'
+24.8.2008 13:35:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'rawstr' of 0x1DF8 "Anna Stoneskin" ('Anthrax') to '125'
+24.8.2008 13:35:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 300'
+24.8.2008 13:35:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x1DF8 "Anna Stoneskin" ('Anthrax') to '300'
+24.8.2008 13:36:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+24.8.2008 13:38:19: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 13:46:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'skills '
+24.8.2008 13:46:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property '[Blacksmithy: 49,9].Base' of 0x8DF "Thunderhammer" ('Anthrax') to '49,9'
+24.8.2008 13:46:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property '[Bowcraft/Fletching: 49,9].Base' of 0x8DF "Thunderhammer" ('Anthrax') to '49,9'
+24.8.2008 13:46:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property '[Tinkering: 0,2].Base' of 0x8DF "Thunderhammer" ('Anthrax') to '0,2'
+24.8.2008 13:53:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.8.2008 13:53:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add anvil'
+24.8.2008 13:53:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3467, 2541, 36) in Trammel: "anvil"
+24.8.2008 13:53:50: 85.70.219.31: Serials: 0x40019A2B; 
+24.8.2008 13:53:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add anvil'
+24.8.2008 13:53:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3468, 2535, 41) in Trammel: "anvil"
+24.8.2008 13:53:53: 85.70.219.31: Serials: 0x40019A2C; 
+24.8.2008 13:53:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add forge'
+24.8.2008 13:53:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3467, 2540, 36) in Trammel: "forge"
+24.8.2008 13:53:57: 85.70.219.31: Serials: 0x40019A2D; 
+24.8.2008 13:53:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add forge'
+24.8.2008 13:53:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3469, 2535, 41) in Trammel: "forge"
+24.8.2008 13:53:58: 85.70.219.31: Serials: 0x40019A2E; 
+24.8.2008 13:54:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x4001C14F 'Spawner' [3471, 2542] (Trammel) : blacksmith
+24.8.2008 13:54:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add xmlspawner'
+24.8.2008 13:54:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3475, 2539, 31) in Trammel: "xmlspawner"
+24.8.2008 13:54:37: 85.70.219.31: Serials: 0x40019AC6; 
+24.8.2008 13:54:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x40019AC6 'Spawner' [3475, 2539] (Trammel) : blacksmith
+24.8.2008 13:55:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add xmlspawner'
+24.8.2008 13:55:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3456, 2529, 53) in Trammel: "xmlspawner"
+24.8.2008 13:55:07: 85.70.219.31: Serials: 0x4001A5A4; 
+24.8.2008 13:55:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x4001A5A4 'Spawner' [3456, 2529] (Trammel) : tinker
+24.8.2008 13:55:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add bowcr'
+24.8.2008 13:55:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add '
+24.8.2008 13:55:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add AlbertaGiacco'
+24.8.2008 13:55:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3453, 2539, 42) in Trammel: "AlbertaGiacco"
+24.8.2008 13:55:55: 85.70.219.31: Serials: 0x15C9; 
+24.8.2008 13:56:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+24.8.2008 13:56:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x15C9 "Alberta Giacco" (no account)
+24.8.2008 13:56:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add ElwoodMcCarrin'
+24.8.2008 13:56:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3454, 2538, 43) in Trammel: "ElwoodMcCarrin"
+24.8.2008 13:56:15: 85.70.219.31: Serials: 0x15CB; 
+24.8.2008 13:56:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+24.8.2008 13:56:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x15CB "Elwood McCarrin" (no account)
+24.8.2008 13:56:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+24.8.2008 14:18:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.8.2008 14:18:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+24.8.2008 14:18:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'UsesRemaining' of 0x4001891B (JacobsPickaxe) to '1'
+24.8.2008 14:18:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+24.8.2008 14:21:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.8.2008 14:21:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add hors'
+24.8.2008 14:21:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (2697, 690, 0) in Felucca: "PackHorse"
+24.8.2008 14:21:41: 85.70.219.31: Serials: 0x1A6D; 
+24.8.2008 14:21:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+24.8.2008 14:21:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'ControlTarget' of 0x1A6D "a pack horse" (no account) to '0x1DF8 "Anna Stoneskin"'
+24.8.2008 14:22:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+24.8.2008 14:22:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Controlled' of 0x1A6D "a pack horse" (no account) to 'True'
+24.8.2008 14:22:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'ControlMaster' of 0x1A6D "a pack horse" (no account) to '0x1DF8 "Anna Stoneskin"'
+24.8.2008 14:22:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'ControlTarget' of 0x1A6D "a pack horse" (no account) to '(null)'
+24.8.2008 14:22:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+24.8.2008 14:22:59: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 14:35:32: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 15:07:43: 85.70.219.31: Player 0x8646 "Anthrax" ('Anthrax') used command 'afk Odpocivam'
+24.8.2008 15:57:56: 85.70.219.31: Player 0x8646 "Anthrax" ('Anthrax') used command 'c '
+24.8.2008 16:03:50: 85.160.72.105: Player 0x524C "Delta" ('Equites') used command 'c nazdar'
+24.8.2008 16:04:08: 85.160.72.105: Player 0x524C "Delta" ('Equites') used command 'c ela?'
+24.8.2008 16:05:53: 85.70.219.31: Player 0x8646 "Anthrax" ('Anthrax') used command 'c '
+24.8.2008 16:06:12: 85.70.219.31: Player 0x8646 "Anthrax" ('Anthrax') used command 'c dodelam obed a jsem u tebe ;)'
+24.8.2008 16:06:19: 85.160.72.105: Player 0x524C "Delta" ('Equites') used command 'c uhuu'
+24.8.2008 16:06:38: 85.160.72.105: Player 0x524C "Delta" ('Equites') used command 'c je tu elamor?'
+24.8.2008 16:07:54: 85.160.72.105: Player 0x524C "Delta" ('Equites') used command 'afk ach'
+24.8.2008 16:14:57: 85.160.72.105: Player 0x524C "Delta" ('Equites') used command 'afk '
+24.8.2008 16:15:02: 85.160.72.105: Player 0x524C "Delta" ('Equites') used command 'afk '
+24.8.2008 16:15:06: 85.160.72.105: Player 0x524C "Delta" ('Equites') used command 'afk odpocinek'
+24.8.2008 16:32:10: 85.70.219.31: Player 0x8646 "Anthrax" ('Anthrax') used command 'c '
+24.8.2008 16:36:54: 85.70.219.31: Player 0x8646 "Anthrax" ('Anthrax') used command 'c '
+24.8.2008 16:39:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add fullmage'
+24.8.2008 16:39:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (993, 520, -50) in Malas: "FullMagerySpellbook"
+24.8.2008 16:39:14: 85.70.219.31: Serials: 0x4002CD15; 
+24.8.2008 16:39:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (988, 518, -50) in Malas: "CompleteNecromancerSpellbook"
+24.8.2008 16:39:36: 85.70.219.31: Serials: 0x4002CD18; 
+24.8.2008 16:39:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+24.8.2008 16:39:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002CD18 (CompleteNecromancerSpellbook)
+24.8.2008 16:44:20: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 16:54:30: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 16:57:20: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:05:08: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:06:42: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:11:17: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:13:08: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:23:18: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:24:21: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:25:30: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:34:10: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:40:21: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:42:06: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 17:43:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.8.2008 17:43:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go nujelm'
+24.8.2008 17:44:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'speedboost '
+24.8.2008 17:44:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+24.8.2008 17:45:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add mage'
+24.8.2008 17:45:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3554, 1187, 0) in Trammel: "mage"
+24.8.2008 17:45:38: 85.70.219.31: Serials: 0x8E5A; 
+24.8.2008 17:45:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+24.8.2008 17:45:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x8E5A "Dimitri" (no account)
+24.8.2008 17:45:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add mage'
+24.8.2008 17:45:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add mag'
+24.8.2008 17:46:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3557, 1187, 0) in Trammel: "EscortableMage"
+24.8.2008 17:46:00: 85.70.219.31: Serials: 0x8E5B; 
+24.8.2008 17:46:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+24.8.2008 17:46:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x8E5B "Walker" (no account)
+24.8.2008 17:46:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+24.8.2008 17:47:08: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 18:02:02: 85.70.219.31: Player 0x1DF8 "Anna Stoneskin" ('Anthrax') used command 'c '
+24.8.2008 18:05:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.8.2008 18:06:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+24.8.2008 18:06:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add strav'
+24.8.2008 18:06:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'bank '
+24.8.2008 18:06:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') opening bank box of 0x1 "Elamor" ('Elamor')
+24.8.2008 18:06:52: 85.70.219.31: Crafting 0x4002E374 (BambooChair) with craft system DefCarpentry
+24.8.2008 18:07:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+24.8.2008 18:07:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002E375 (CarpentersSatchel)
+24.8.2008 18:07:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+24.8.2008 18:08:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'speedboost '
+24.8.2008 18:08:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go yew'
+24.8.2008 18:10:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add hamme'
+24.8.2008 18:10:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (546, 981, 0) in Felucca: "HammerOfHephaestus"
+24.8.2008 18:10:17: 85.70.219.31: Serials: 0x4002E3B6; 
+24.8.2008 18:10:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+24.8.2008 18:10:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002E3B6 (HammerOfHephaestus)
+24.8.2008 18:10:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (547, 981, 0) in Felucca: "FactionSawTrap"
+24.8.2008 18:10:34: 85.70.219.31: Serials: 0x4002E3FC; 
+24.8.2008 18:10:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+24.8.2008 18:10:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002E3FC (FactionSawTrap)
+24.8.2008 18:10:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (546, 981, 0) in Felucca: "Froe"
+24.8.2008 18:10:51: 85.70.219.31: Serials: 0x4002E3FD; 
+24.8.2008 18:10:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+24.8.2008 18:10:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002E3FD (Froe)
+24.8.2008 18:11:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (545, 984, 0) in Felucca: "LumberjacksSatchel"
+24.8.2008 18:11:03: 85.70.219.31: Serials: 0x4002E3FE; 
+24.8.2008 18:11:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (546, 984, 0) in Felucca: "LumberjacksSatchel"
+24.8.2008 18:11:04: 85.70.219.31: Serials: 0x4002E401; 
+24.8.2008 18:11:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+24.8.2008 18:11:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002E401 (LumberjacksSatchel)
+24.8.2008 18:11:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002E3FE (LumberjacksSatchel)
+24.8.2008 18:11:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+24.8.2008 18:15:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add packhorse'
+24.8.2008 18:15:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (993, 520, -50) in Malas: "packhorse"
+24.8.2008 18:15:14: 85.70.219.31: Serials: 0x8F45; 
+24.8.2008 18:15:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+24.8.2008 18:15:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'ControlMaster' of 0x8F45 "a pack horse" (no account) to '0x1DF8 "Anna Stoneskin"'
+24.8.2008 18:15:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Controlled' of 0x8F45 "a pack horse" (no account) to 'True'
+24.8.2008 18:26:08: 85.160.72.105: Player 0x524C "Delta" ('Equites') used command 'c huh je tu nekdo?'
+24.8.2008 18:57:04: 85.70.219.31: Player 0x8DF "Thunderhammer" ('Anthrax') used command 'c '
+24.8.2008 19:31:57: 89.102.85.252: Player 0x40B4 "Eldrod" ('theogil') used command 'c je tu nekdo??'
+24.8.2008 19:37:44: 89.102.85.252: Player 0x40B4 "Eldrod" ('theogil') used command 'c '
+24.8.2008 19:45:09: 89.102.85.252: Player 0x40B4 "Eldrod" ('theogil') used command 'c '
+24.8.2008 20:14:58: 85.70.219.31: Player 0x8DF "Thunderhammer" ('Anthrax') used command 'c '
+24.8.2008 20:39:28: 89.102.85.252: Player 0x40B4 "Eldrod" ('theogil') used command 'c '
+25.8.2008 0:12:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+25.8.2008 0:12:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') shutting down server (Restart: False) (Save: True)
+25.8.2008 0:12:07: : Owner 0x1 "Elamor" ('Elamor') used command 'save '

@@ -1,0 +1,191 @@
+##############################
+Log started on 10.8.2008 6:02:22
+
+10.8.2008 10:04:30: 89.103.54.169: Player 0xA6DA "Yuki" ('Yukio') used command 'c '
+10.8.2008 10:18:38: 89.103.54.169: Player 0xA6DA "Yuki" ('Yukio') used command 'c '
+10.8.2008 10:40:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 10:41:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 10:46:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 888888888'
+10.8.2008 10:46:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '888888888'
+10.8.2008 10:49:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+10.8.2008 10:50:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+10.8.2008 10:50:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspa'
+10.8.2008 10:50:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (813, 623, -85) in Malas: "XmlSpawner"
+10.8.2008 10:50:47: 85.70.219.31: Serials: 0x4002D943; 
+10.8.2008 10:51:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002D943 'Spawner' [813, 623] (Malas) : CrystalElemental
+10.8.2008 10:51:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002D943 'Spawner' [813, 623] (Malas) : Bird
+10.8.2008 10:51:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002D943 'Spawner' [813, 623] (Malas) : SkitteringHopper
+10.8.2008 10:51:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRange' of 0x4002D943 (XmlSpawner) to '20'
+10.8.2008 10:51:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x4002D943 (XmlSpawner) to '20'
+10.8.2008 10:55:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+10.8.2008 10:55:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+10.8.2008 10:55:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add leafgo'
+10.8.2008 10:56:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (859, 610, -90) in Malas: "LeafGorget"
+10.8.2008 10:56:00: 85.70.219.31: Serials: 0x4002DAB5; 
+10.8.2008 10:56:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+10.8.2008 10:56:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 10:56:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002DAB5 (LeafGorget)
+10.8.2008 10:58:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+10.8.2008 10:58:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+10.8.2008 11:04:02: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c hcichi'
+10.8.2008 11:04:10: 89.103.54.169: Player 0xA6DA "Yuki" ('Yukio') used command 'c hehe'
+10.8.2008 13:23:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 13:23:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 13:24:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: True)
+10.8.2008 13:24:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '
+##############################
+Log started on 10.8.2008 15:12:46
+
+10.8.2008 16:55:15: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamoris'
+10.8.2008 16:55:22: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+10.8.2008 16:58:31: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm thomas'
+10.8.2008 17:00:02: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm alik'
+10.8.2008 17:06:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 17:06:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+10.8.2008 17:06:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 17:06:28: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 17:07:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 17:30:02: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+10.8.2008 17:30:09: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c bre odpoledne'
+10.8.2008 17:30:20: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 17:32:31: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 17:34:39: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 17:39:10: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c kua mam lagy :(('
+10.8.2008 17:39:28: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 17:39:39: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 17:42:48: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c jo to ja taky'
+10.8.2008 17:44:51: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c krok za minutu? tak to jsem v pytli :('
+10.8.2008 17:46:29: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c jak ses na tom?'
+10.8.2008 17:58:32: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c konecne to uz jede'
+10.8.2008 17:58:35: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+10.8.2008 18:01:41: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 18:01:55: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 18:04:08: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c jsem prisel o heart of lion :('
+10.8.2008 18:04:35: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 18:06:25: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 18:06:59: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c fuj to byl hnusnej lag'
+10.8.2008 18:07:14: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 18:25:47: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+10.8.2008 18:28:06: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+10.8.2008 18:45:26: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+10.8.2008 18:45:34: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c Xentara?'
+10.8.2008 18:56:12: 213.155.227.225: Player 0x8DF5 "Xentara" ('671991') used command 'chat '
+10.8.2008 18:58:16: 213.155.227.225: Player 0x8DF5 "Xentara" ('671991') used command 'chat '
+10.8.2008 18:59:24: 213.155.227.225: Player 0x8DF5 "Xentara" ('671991') used command 'chat '
+10.8.2008 19:08:47: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'pm Xentara tak to budes pobliz makota'
+10.8.2008 19:20:07: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'pm Xentara jdi porad po ceste dolu'
+10.8.2008 19:22:05: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'pm Xentara kdyz pudes porad po ceste dolu narazis na port, tam odtud se dostanes do luny'
+10.8.2008 19:23:46: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+10.8.2008 19:49:47: 213.155.227.225: Player 0x8DF5 "Xentara" ('671991') used command 'chat '
+10.8.2008 19:50:20: 213.155.227.225: Player 0x8DF5 "Xentara" ('671991') used command 'chat '
+10.8.2008 19:55:58: 89.103.54.169: Player 0xA6DA "Yuki" ('Yukio') used command 'c '
+10.8.2008 20:24:31: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 20:24:38: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+10.8.2008 21:19:31: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+10.8.2008 21:32:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 21:36:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 21:43:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 21:49:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 22:19:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add hoode'
+10.8.2008 22:19:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1007, 519, -50) in Malas: "HoodedShroudOfShadows"
+10.8.2008 22:19:18: 85.70.219.31: Serials: 0x40032487; 
+10.8.2008 22:19:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add umbra'
+10.8.2008 22:19:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:19:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40032487 (HoodedShroudOfShadows)
+10.8.2008 22:20:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add lepre'
+10.8.2008 22:20:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1008, 520, -50) in Malas: "Leprechaun"
+10.8.2008 22:20:02: 85.70.219.31: Serials: 0x9314; 
+10.8.2008 22:20:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bag'
+10.8.2008 22:20:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1011, 525, -70) in Malas: "bag"
+10.8.2008 22:20:33: 85.70.219.31: Serials: 0x40032545; 
+10.8.2008 22:20:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:20:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400324EE (Corpse)
+10.8.2008 22:22:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+10.8.2008 22:22:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Hue' of 0x40032545 (Bag) to '73'
+10.8.2008 22:23:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 120000000'
+10.8.2008 22:23:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '120000000'
+10.8.2008 22:33:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 10.8.2008 22:36:07
+
+10.8.2008 22:37:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add reward'
+10.8.2008 22:37:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (987, 519, -50) in Malas: "QuestRewardStone"
+10.8.2008 22:37:13: 85.70.219.31: Serials: 0x4001328C; 
+10.8.2008 22:37:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:37:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001328C (QuestRewardStone)
+10.8.2008 22:37:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 518, -50) in Malas: "SpecialRewardToken"
+10.8.2008 22:37:24: 85.70.219.31: Serials: 0x40013291; 
+10.8.2008 22:37:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:37:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400132AF (HoodedShroudOfShadows)
+10.8.2008 22:37:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 519, -50) in Malas: "SpecialRewardToken"
+10.8.2008 22:37:42: 85.70.219.31: Serials: 0x400132DB; 
+10.8.2008 22:37:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:37:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013317 (HoodedRobeOfUmbra)
+10.8.2008 22:37:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 518, -50) in Malas: "SpecialRewardToken"
+10.8.2008 22:37:54: 85.70.219.31: Serials: 0x4001332D; 
+10.8.2008 22:37:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 518, -45) in Malas: "SpecialRewardToken"
+10.8.2008 22:37:55: 85.70.219.31: Serials: 0x40013341; 
+10.8.2008 22:37:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 518, -45) in Malas: "SpecialRewardToken"
+10.8.2008 22:37:55: 85.70.219.31: Serials: 0x40013368; 
+10.8.2008 22:38:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:38:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013382 (RoyalBritanniaGuard)
+10.8.2008 22:38:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:38:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001336E (StaffOfPyros)
+10.8.2008 22:38:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013379 (CrimsonCincture)
+10.8.2008 22:39:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 10.8.2008 22:41:34
+
+10.8.2008 22:42:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 999999999'
+10.8.2008 22:42:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '999999999'
+10.8.2008 22:42:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add token'
+10.8.2008 22:42:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 517, -50) in Malas: "SoulstoneFragmentToken"
+10.8.2008 22:42:39: 85.70.219.31: Serials: 0x40015C0B; 
+10.8.2008 22:42:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+10.8.2008 22:42:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x1 "Elamorius" ('Elamor')
+10.8.2008 22:43:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:43:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015C0C (SoulstoneFragment)
+10.8.2008 22:43:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (990, 518, -50) in Malas: "TokenBox"
+10.8.2008 22:43:06: 85.70.219.31: Serials: 0x40015C16; 
+10.8.2008 22:43:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (990, 518, -50) in Malas: "Tokens"
+10.8.2008 22:43:22: 85.70.219.31: Serials: 0x40015C19; 
+10.8.2008 22:43:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set amount 4000'
+10.8.2008 22:43:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'amount' of 0x40015C19 (Tokens) to '4000'
+10.8.2008 22:44:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+10.8.2008 22:44:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x1 "Elamorius" ('Elamor')
+10.8.2008 22:45:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add token'
+10.8.2008 22:47:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add vendor'
+10.8.2008 22:47:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (996, 517, -50) in Malas: "VendorStone"
+10.8.2008 22:47:17: 85.70.219.31: Serials: 0x400163EF; 
+10.8.2008 22:47:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (997, 517, -50) in Malas: "VendorBall"
+10.8.2008 22:47:19: 85.70.219.31: Serials: 0x400163F5; 
+10.8.2008 22:47:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:47:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400163F5 (VendorBall)
+10.8.2008 22:50:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+10.8.2008 22:50:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Owner' of 0x40015C16 (TokenBox) to '0x83C "Elamor"'
+10.8.2008 22:51:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:51:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015C16 (TokenBox)
+10.8.2008 22:51:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 22:51:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400163EF (VendorStone)
+##############################
+Log started on 10.8.2008 23:16:08
+
+10.8.2008 23:17:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 23:17:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add herb'
+10.8.2008 23:17:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 517, -50) in Malas: "DriedHerbs"
+10.8.2008 23:17:25: 85.70.219.31: Serials: 0x40015BAE; 
+10.8.2008 23:17:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 23:17:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015BAE (DriedHerbs)
+10.8.2008 23:17:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 517, -50) in Malas: "BasketOfHerbs"
+10.8.2008 23:17:45: 85.70.219.31: Serials: 0x40015BAF; 
+10.8.2008 23:18:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills cooking 0'
+10.8.2008 23:18:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property '[Cooking: 0].Base' of 0x1 "Elamorius" ('Elamor') to '0'
+10.8.2008 23:19:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 23:19:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.8.2008 23:19:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015BAF (BasketOfHerbs)
+10.8.2008 23:19:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+10.8.2008 23:19:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property '[Cooking: 255].Base' of 0x1 "Elamorius" ('Elamor') to '255'
+10.8.2008 23:27:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 10.8.2008 23:35:19
+

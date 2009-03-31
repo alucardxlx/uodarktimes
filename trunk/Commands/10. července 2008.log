@@ -1,0 +1,35 @@
+##############################
+Log started on 10.7.2008 10:12:31
+
+10.7.2008 12:53:03: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'c '
+10.7.2008 13:42:11: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'c '
+10.7.2008 13:50:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.7.2008 14:00:25: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+10.7.2008 14:01:07: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'afk '
+10.7.2008 17:29:33: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'c '
+10.7.2008 17:29:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.7.2008 18:42:08: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+10.7.2008 18:49:20: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'c '
+10.7.2008 18:49:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.7.2008 18:50:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+10.7.2008 18:50:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x9374 "Screw" ('Xaaron')
+10.7.2008 18:50:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+10.7.2008 18:50:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x9374 "Screw" ('Xaaron')
+10.7.2008 18:53:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+10.7.2008 18:53:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+10.7.2008 18:54:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+10.7.2008 18:54:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400199E7 (XmlSpawner)
+10.7.2008 20:03:20: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+10.7.2008 20:20:41: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'c '
+10.7.2008 20:20:44: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'help '
+10.7.2008 20:20:51: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'jailinfo '
+10.7.2008 20:21:03: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'questranking '
+10.7.2008 20:21:14: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'questpoints '
+10.7.2008 20:21:21: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'questlog '
+10.7.2008 20:21:27: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'c '
+10.7.2008 21:10:43: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'c '
+10.7.2008 21:10:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+11.7.2008 0:00:23: 85.70.219.31: Player 0x6C7 "Kikimora" ('Anthrax') used command 'c '
+11.7.2008 0:00:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+11.7.2008 0:00:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: True)
+11.7.2008 0:00:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '

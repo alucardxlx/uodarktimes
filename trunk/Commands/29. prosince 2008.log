@@ -1,0 +1,825 @@
+##############################
+Log started on 29.12.2008 15:10:58
+
+##############################
+Log started on 29.12.2008 15:16:23
+
+##############################
+Log started on 29.12.2008 15:17:05
+
+##############################
+Log started on 29.12.2008 15:20:58
+
+##############################
+Log started on 29.12.2008 15:22:18
+
+29.12.2008 15:45:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 15:45:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'BonusInt' of ... to '5'
+29.12.2008 15:46:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Slayer' of 0x40012A1C (ViPTalisman) to 'Bird'
+29.12.2008 15:46:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 15:46:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'BonusInt' of ... to '5'
+29.12.2008 15:46:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Slayer' of 0x400133B1 (ViPTalisman) to 'Bird'
+29.12.2008 15:52:49: 85.70.219.31: Player 0x39F "Elraldo" ('Anthrax') used command 'checkpoints '
+29.12.2008 16:00:36: 85.70.219.31: Player 0x39F "Elraldo" ('Anthrax') used command 'c tak kde se flakas?'
+29.12.2008 16:00:58: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c public?? O_O'
+29.12.2008 16:01:05: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c NO NAAAAMRD'
+29.12.2008 16:01:11: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c to mi chybelo'
+29.12.2008 16:01:19: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c ja ti tu nesmele pisu co chci a ty nic'
+29.12.2008 16:01:23: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c :D'
+29.12.2008 16:01:24: 85.70.219.31: Player 0x39F "Elraldo" ('Anthrax') used command 'c pouzij ten ViP taliosman a najdi si lunu'
+29.12.2008 16:02:31: 85.70.219.31: Player 0x39F "Elraldo" ('Anthrax') used command 'c tak kde se flakas?'
+29.12.2008 16:02:37: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'g porad taky'
+29.12.2008 16:02:37: 85.70.219.31: Player 0x39F "Elraldo" ('Anthrax') used command 'c mas tu hromadku pro maga :D'
+29.12.2008 16:02:45: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c porad v bance hledam ten arcane :D'
+29.12.2008 16:10:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 16:11:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add boomstick'
+29.12.2008 16:11:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (943, 611, -85) in Malas: "boomstick"
+29.12.2008 16:11:02: 85.70.219.31: Serials: 0x40015FA5; 
+29.12.2008 16:16:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go despise'
+29.12.2008 16:16:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 16:17:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 16:17:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 16:17:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 16:17:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Active' of 0x40013DCB (ChampionSpawn) to 'True'
+29.12.2008 16:17:57: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c nemam u sebe knizku :D'
+29.12.2008 16:18:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go felucca'
+29.12.2008 16:18:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 16:18:18: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c mam necrobook s 5 kouzlama :D:D'
+29.12.2008 16:18:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c v bance jsi mel plnej'
+29.12.2008 16:18:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go 5558 824 45'
+29.12.2008 16:18:36: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c jsem z toho uplne mimo ?D'
+29.12.2008 16:18:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+29.12.2008 16:18:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4453 "an ogre lord" (no account)
+29.12.2008 16:18:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001D347 (XmlSpawner)
+29.12.2008 16:18:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Level' of 0x40013DCB (ChampionSpawn) to '16'
+29.12.2008 16:18:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 16:19:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add boo'
+29.12.2008 16:19:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5524, 827, 60) in Felucca: "CompleteNecromancerSpellbook"
+29.12.2008 16:19:13: 85.70.219.31: Serials: 0x4001622F; 
+29.12.2008 16:19:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5525, 827, 60) in Felucca: "FullMagerySpellbook"
+29.12.2008 16:19:20: 85.70.219.31: Serials: 0x4001623F; 
+29.12.2008 16:19:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 16:20:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 16:20:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 16:20:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x7CD "Barracoon" (no account) to (5532, 827, 45)
+29.12.2008 16:20:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 16:20:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'control '
+29.12.2008 16:21:25: 85.70.219.31: Owner 0x1 "Barracoon" (no account) used command 'm tele'
+29.12.2008 16:22:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c tohle na TZ nezazijes :D'
+29.12.2008 16:22:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 8888'
+29.12.2008 16:22:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x1 "Elamor" ('Elamor') to '8888'
+29.12.2008 16:22:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 888800'
+29.12.2008 16:22:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x1 "Elamor" ('Elamor') to '888800'
+29.12.2008 16:22:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 16:22:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x3FB "Yuki" ('Yukio') to (5517, 835, 60)
+29.12.2008 16:23:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 16:23:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 16:23:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x7CD "Barracoon" (no account) to (5522, 836, 50)
+29.12.2008 16:25:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 16:26:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+29.12.2008 20:18:10: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c si myslis ze tam sem furt ne?? :D'
+29.12.2008 20:18:54: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c '
+29.12.2008 20:20:32: 62.77.70.131: Player 0x4C49 "Galdor" ('Craving William') used command 'c Cus =)'
+29.12.2008 20:35:46: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c anthraxi?'
+29.12.2008 20:35:47: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c '
+29.12.2008 20:35:52: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c kdo je arya??'
+29.12.2008 20:35:58: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c sem já Will =)'
+29.12.2008 20:36:03: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c aha =)'
+29.12.2008 20:40:53: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c je tu nejdo ?'
+29.12.2008 20:40:57: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c me =)'
+29.12.2008 20:40:59: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c nekdo ?'
+29.12.2008 20:41:16: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c =D'
+29.12.2008 20:41:18: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c chjo'
+29.12.2008 20:41:28: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c schanim LRC'
+29.12.2008 20:41:31: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c uz letim doluny'
+29.12.2008 20:41:48: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c jenom armor of fortune dava 40 %'
+29.12.2008 20:42:55: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c '
+29.12.2008 20:45:33: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c nasel sem bug'
+29.12.2008 20:46:01: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c ewvim proč to píšeš, stejne ti na to rekne " no a? " :D:D'
+29.12.2008 20:46:18: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c chjo'
+29.12.2008 20:46:26: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c ja bez LRC nikam nejdu =('
+29.12.2008 20:48:20: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c ='('
+29.12.2008 20:50:05: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c co podniknem'
+29.12.2008 20:52:55: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c a jdu si stavet domecek =)'
+29.12.2008 20:53:06: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c co si myslis ze delam celou dobu?? :D'
+29.12.2008 20:53:13: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c aha xD'
+29.12.2008 20:53:24: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c honim si ;)'
+29.12.2008 20:53:34: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c Ha ha xD'
+29.12.2008 20:53:40: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c fakt'
+29.12.2008 20:53:58: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c a ja sem santa klaus'
+29.12.2008 20:54:18: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'g Santo?? Jaktože si mi k Vánocům nedal Yamahu YZF R1?!?!'
+29.12.2008 21:03:21: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c má někdo carpentra?? :D:D'
+29.12.2008 21:03:28: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c Lol'
+29.12.2008 21:40:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 21:41:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+29.12.2008 21:41:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add gold 1000000'
+29.12.2008 21:41:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (996, 520, -50) in Malas: "gold" "1000000"
+29.12.2008 21:41:32: 85.70.219.31: Serials: 0x4002E70F; 
+29.12.2008 21:41:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'bank '
+29.12.2008 21:41:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') opening bank box of 0x3FB "Yuki" ('Yukio')
+29.12.2008 21:41:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 21:41:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4002E70F (Gold) to (996, 519, -50)
+29.12.2008 21:41:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 21:42:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4002E70F (Gold) to (996, 519, -50)
+29.12.2008 21:42:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 21:43:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 21:43:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 21:43:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 21:43:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c omg to si kazdej stavite barak? :D'
+29.12.2008 21:43:53: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c jo =)ú'
+29.12.2008 21:43:55: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c halo halo pls'
+29.12.2008 21:44:00: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c ='('
+29.12.2008 21:44:18: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c jak je zaplej shard přes den?'
+29.12.2008 21:44:23: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c muzu poprosit o LRC me chybi 22 % :'-('
+29.12.2008 21:44:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 21:44:49: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'pm Elamor'
+29.12.2008 21:44:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 21:45:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 21:45:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'LowerRegCost' of ... to '22'
+29.12.2008 21:46:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+29.12.2008 21:46:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+29.12.2008 21:47:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x3FB "Yuki" ('Yukio')
+29.12.2008 21:47:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 21:47:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 21:47:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 21:47:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HideEffect' of 0x40019151 (GMHidingStone) to 'ExplosionLightningBolt'
+29.12.2008 21:47:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AppearEffect' of 0x40019151 (GMHidingStone) to 'ExplosionLightningBolt'
+29.12.2008 21:47:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 21:48:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AppearEffect' of 0x40019151 (GMHidingStone) to 'FlameStrikeLightningBolt'
+29.12.2008 21:48:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HideEffect' of 0x40019151 (GMHidingStone) to 'FlameStrikeLightningBolt'
+29.12.2008 21:48:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 21:48:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AppearEffect' of 0x40019151 (GMHidingStone) to 'DefaultRunUO'
+29.12.2008 21:48:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HideEffect' of 0x40019151 (GMHidingStone) to 'DefaultRunUO'
+29.12.2008 21:48:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 21:49:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 21:50:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add recallrun'
+29.12.2008 21:50:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (2508, 824, 0) in Felucca: "RecallRune"
+29.12.2008 21:50:19: 85.70.219.31: Serials: 0x4002FEC3; 
+29.12.2008 21:51:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add runebook'
+29.12.2008 21:51:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (2507, 831, 0) in Felucca: "runebook"
+29.12.2008 21:51:04: 85.70.219.31: Serials: 0x4002FEC5; 
+29.12.2008 21:51:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 21:51:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'CurCharges' of 0x4002FEC5 (Runebook) to '8000'
+29.12.2008 21:51:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go britain'
+29.12.2008 21:51:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 21:51:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 21:52:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set iscriminal false'
+29.12.2008 21:52:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+29.12.2008 21:52:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x4DBD "Arya" ('Craving William')
+29.12.2008 21:52:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set isblessed true'
+29.12.2008 21:52:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set blessed true'
+29.12.2008 21:52:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'blessed' of 0x4DBD "Arya" ('Craving William') to 'True'
+29.12.2008 21:53:19: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c MUSIME HO ZACHRANIT!!!'
+29.12.2008 21:54:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c a ty keci na chatu musim taky prelozit :-('
+29.12.2008 21:54:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 21:54:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 21:55:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add evil'
+29.12.2008 21:55:02: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c uz mi stoji =D'
+29.12.2008 21:55:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1429, 1686, 20) in Felucca: "NewMageEvilGuard"
+29.12.2008 21:55:06: 85.70.219.31: Serials: 0x7B82; 
+29.12.2008 21:55:09: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c =D=D=D=D'
+29.12.2008 21:55:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+29.12.2008 21:55:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x7B82 "Shana" (no account)
+29.12.2008 21:56:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 21:56:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set blessed false'
+29.12.2008 21:56:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'blessed' of 0x4DBD "Arya" ('Craving William') to 'False'
+29.12.2008 21:56:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 21:56:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x7A4B "an ogre lord" (no account) to (1412, 1674, -5)
+29.12.2008 21:56:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 21:56:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x7A4B "an ogre lord" (no account) to (1407, 1671, -5)
+29.12.2008 21:56:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 21:56:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x400319CB (Corpse) to (1414, 1669, 10)
+29.12.2008 21:57:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 21:57:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 21:58:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+29.12.2008 22:00:10: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c Yuki?'
+29.12.2008 22:00:13: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c hm?'
+29.12.2008 22:00:16: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c tenhle vipada lip'
+29.12.2008 22:02:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 22:02:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 22:04:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 22:05:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 22:05:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x4001C127 (XmlSpawner) to '1'
+29.12.2008 22:05:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x4001C127 (XmlSpawner) to '0'
+29.12.2008 22:05:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HomeRangeIsRelative' of 0x4001C127 (XmlSpawner) to 'True'
+29.12.2008 22:05:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 22:05:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x7DEC "Ihara Soko" (no account) to (678, 1277, 48)
+29.12.2008 22:05:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 22:06:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add tac'
+29.12.2008 22:06:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:11: 85.70.219.31: Serials: 0x40032F5F; 
+29.12.2008 22:06:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 48) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:11: 85.70.219.31: Serials: 0x40032F60; 
+29.12.2008 22:06:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 49) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:12: 85.70.219.31: Serials: 0x40032F61; 
+29.12.2008 22:06:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 50) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:12: 85.70.219.31: Serials: 0x40032F68; 
+29.12.2008 22:06:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 50) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:13: 85.70.219.31: Serials: 0x40032F6C; 
+29.12.2008 22:06:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 50) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:13: 85.70.219.31: Serials: 0x40032F6D; 
+29.12.2008 22:06:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 51) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:14: 85.70.219.31: Serials: 0x40032F6E; 
+29.12.2008 22:06:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 51) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:14: 85.70.219.31: Serials: 0x40032F6F; 
+29.12.2008 22:06:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 52) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:15: 85.70.219.31: Serials: 0x40032F70; 
+29.12.2008 22:06:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 53) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:15: 85.70.219.31: Serials: 0x40032F71; 
+29.12.2008 22:06:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 54) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:15: 85.70.219.31: Serials: 0x40032F72; 
+29.12.2008 22:06:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 55) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:16: 85.70.219.31: Serials: 0x40032F73; 
+29.12.2008 22:06:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 55) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:16: 85.70.219.31: Serials: 0x40032F75; 
+29.12.2008 22:06:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 56) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:16: 85.70.219.31: Serials: 0x40032F78; 
+29.12.2008 22:06:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (677, 1274, 57) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:16: 85.70.219.31: Serials: 0x40032F7A; 
+29.12.2008 22:06:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 48) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:19: 85.70.219.31: Serials: 0x40032F7E; 
+29.12.2008 22:06:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 49) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:19: 85.70.219.31: Serials: 0x40032F81; 
+29.12.2008 22:06:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 50) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:19: 85.70.219.31: Serials: 0x40032F85; 
+29.12.2008 22:06:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 50) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:19: 85.70.219.31: Serials: 0x40032F8E; 
+29.12.2008 22:06:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 50) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:19: 85.70.219.31: Serials: 0x40032F95; 
+29.12.2008 22:06:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 51) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:20: 85.70.219.31: Serials: 0x40032F96; 
+29.12.2008 22:06:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 52) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:20: 85.70.219.31: Serials: 0x40032F97; 
+29.12.2008 22:06:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 53) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:20: 85.70.219.31: Serials: 0x40032F98; 
+29.12.2008 22:06:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 54) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:20: 85.70.219.31: Serials: 0x40032F9B; 
+29.12.2008 22:06:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 55) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:20: 85.70.219.31: Serials: 0x40032F9C; 
+29.12.2008 22:06:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 56) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:21: 85.70.219.31: Serials: 0x40032F9F; 
+29.12.2008 22:06:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 56) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:21: 85.70.219.31: Serials: 0x40032FA0; 
+29.12.2008 22:06:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 57) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:21: 85.70.219.31: Serials: 0x40032FA5; 
+29.12.2008 22:06:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 58) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:21: 85.70.219.31: Serials: 0x40032FA6; 
+29.12.2008 22:06:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (678, 1274, 59) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:22: 85.70.219.31: Serials: 0x40032FA7; 
+29.12.2008 22:06:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:22: 85.70.219.31: Serials: 0x40032FA9; 
+29.12.2008 22:06:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:23: 85.70.219.31: Serials: 0x40032FAA; 
+29.12.2008 22:06:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 48) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:23: 85.70.219.31: Serials: 0x40032FB9; 
+29.12.2008 22:06:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 48) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:23: 85.70.219.31: Serials: 0x40032FBA; 
+29.12.2008 22:06:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 49) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:23: 85.70.219.31: Serials: 0x40032FBD; 
+29.12.2008 22:06:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 49) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:23: 85.70.219.31: Serials: 0x40032FBF; 
+29.12.2008 22:06:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 49) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:24: 85.70.219.31: Serials: 0x40032FC0; 
+29.12.2008 22:06:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 50) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:24: 85.70.219.31: Serials: 0x40032FC1; 
+29.12.2008 22:06:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 51) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:24: 85.70.219.31: Serials: 0x40032FC3; 
+29.12.2008 22:06:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 52) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:24: 85.70.219.31: Serials: 0x40032FC4; 
+29.12.2008 22:06:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 53) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:24: 85.70.219.31: Serials: 0x40032FC5; 
+29.12.2008 22:06:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 54) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:24: 85.70.219.31: Serials: 0x40032FDE; 
+29.12.2008 22:06:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 55) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:25: 85.70.219.31: Serials: 0x40032FDF; 
+29.12.2008 22:06:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 56) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:25: 85.70.219.31: Serials: 0x40032FE6; 
+29.12.2008 22:06:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 57) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:25: 85.70.219.31: Serials: 0x40032FE9; 
+29.12.2008 22:06:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 58) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:25: 85.70.219.31: Serials: 0x40032FEA; 
+29.12.2008 22:06:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 59) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:26: 85.70.219.31: Serials: 0x40032FEC; 
+29.12.2008 22:06:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 60) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:26: 85.70.219.31: Serials: 0x40032FED; 
+29.12.2008 22:06:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 61) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:26: 85.70.219.31: Serials: 0x40032FEE; 
+29.12.2008 22:06:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1274, 62) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:06:26: 85.70.219.31: Serials: 0x40032FEF; 
+29.12.2008 22:07:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 22:07:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 22:07:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 22:07:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4DBD "Arya" ('Craving William') to (2525, 814, 5)
+29.12.2008 22:07:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 22:07:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4DBD "Arya" ('Craving William') to (2522, 814, 0)
+29.12.2008 22:07:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 22:07:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4DBD "Arya" ('Craving William') to (2515, 828, 7)
+29.12.2008 22:09:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+29.12.2008 22:09:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add boomstick'
+29.12.2008 22:09:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (994, 520, -50) in Malas: "boomstick"
+29.12.2008 22:09:30: 85.70.219.31: Serials: 0x4003300B; 
+29.12.2008 22:12:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 22:12:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add tact'
+29.12.2008 22:12:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:32: 85.70.219.31: Serials: 0x400331C5; 
+29.12.2008 22:12:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:32: 85.70.219.31: Serials: 0x400331CC; 
+29.12.2008 22:12:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:33: 85.70.219.31: Serials: 0x400331CE; 
+29.12.2008 22:12:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:33: 85.70.219.31: Serials: 0x400331CF; 
+29.12.2008 22:12:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:33: 85.70.219.31: Serials: 0x400331D0; 
+29.12.2008 22:12:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:33: 85.70.219.31: Serials: 0x400331D1; 
+29.12.2008 22:12:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:33: 85.70.219.31: Serials: 0x400331D2; 
+29.12.2008 22:12:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:33: 85.70.219.31: Serials: 0x400331D3; 
+29.12.2008 22:12:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:34: 85.70.219.31: Serials: 0x400331D4; 
+29.12.2008 22:12:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:34: 85.70.219.31: Serials: 0x400331D6; 
+29.12.2008 22:12:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:34: 85.70.219.31: Serials: 0x400331D7; 
+29.12.2008 22:12:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:34: 85.70.219.31: Serials: 0x400331D8; 
+29.12.2008 22:12:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:34: 85.70.219.31: Serials: 0x400331D9; 
+29.12.2008 22:12:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:35: 85.70.219.31: Serials: 0x400331DA; 
+29.12.2008 22:12:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:35: 85.70.219.31: Serials: 0x400331DB; 
+29.12.2008 22:12:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:35: 85.70.219.31: Serials: 0x400331DC; 
+29.12.2008 22:12:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:35: 85.70.219.31: Serials: 0x400331DD; 
+29.12.2008 22:12:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:35: 85.70.219.31: Serials: 0x400331DE; 
+29.12.2008 22:12:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:35: 85.70.219.31: Serials: 0x400331E1; 
+29.12.2008 22:12:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:36: 85.70.219.31: Serials: 0x400331E2; 
+29.12.2008 22:12:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:36: 85.70.219.31: Serials: 0x400331E9; 
+29.12.2008 22:12:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:36: 85.70.219.31: Serials: 0x400331F1; 
+29.12.2008 22:12:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:36: 85.70.219.31: Serials: 0x400331F2; 
+29.12.2008 22:12:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:36: 85.70.219.31: Serials: 0x400331F3; 
+29.12.2008 22:12:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:37: 85.70.219.31: Serials: 0x400331F4; 
+29.12.2008 22:12:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:37: 85.70.219.31: Serials: 0x400331F5; 
+29.12.2008 22:12:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:37: 85.70.219.31: Serials: 0x400331F7; 
+29.12.2008 22:12:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:37: 85.70.219.31: Serials: 0x400331F8; 
+29.12.2008 22:12:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:37: 85.70.219.31: Serials: 0x400331F9; 
+29.12.2008 22:12:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:37: 85.70.219.31: Serials: 0x400331FA; 
+29.12.2008 22:12:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:38: 85.70.219.31: Serials: 0x400331FB; 
+29.12.2008 22:12:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:38: 85.70.219.31: Serials: 0x400331FC; 
+29.12.2008 22:12:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:38: 85.70.219.31: Serials: 0x400331FD; 
+29.12.2008 22:12:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:38: 85.70.219.31: Serials: 0x40033201; 
+29.12.2008 22:12:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:38: 85.70.219.31: Serials: 0x4003320A; 
+29.12.2008 22:12:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:39: 85.70.219.31: Serials: 0x40033215; 
+29.12.2008 22:12:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:39: 85.70.219.31: Serials: 0x40033220; 
+29.12.2008 22:12:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:39: 85.70.219.31: Serials: 0x40033227; 
+29.12.2008 22:12:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:39: 85.70.219.31: Serials: 0x4003322E; 
+29.12.2008 22:12:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:39: 85.70.219.31: Serials: 0x40033235; 
+29.12.2008 22:12:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:39: 85.70.219.31: Serials: 0x40033236; 
+29.12.2008 22:12:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:40: 85.70.219.31: Serials: 0x4003323C; 
+29.12.2008 22:12:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:40: 85.70.219.31: Serials: 0x40033242; 
+29.12.2008 22:12:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:40: 85.70.219.31: Serials: 0x40033243; 
+29.12.2008 22:12:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:40: 85.70.219.31: Serials: 0x40033244; 
+29.12.2008 22:12:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:40: 85.70.219.31: Serials: 0x4003324F; 
+29.12.2008 22:12:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:41: 85.70.219.31: Serials: 0x40033252; 
+29.12.2008 22:12:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:41: 85.70.219.31: Serials: 0x40033257; 
+29.12.2008 22:12:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:41: 85.70.219.31: Serials: 0x40033258; 
+29.12.2008 22:12:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:41: 85.70.219.31: Serials: 0x40033259; 
+29.12.2008 22:12:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:41: 85.70.219.31: Serials: 0x4003325A; 
+29.12.2008 22:12:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:41: 85.70.219.31: Serials: 0x40033260; 
+29.12.2008 22:12:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:42: 85.70.219.31: Serials: 0x40033262; 
+29.12.2008 22:12:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:42: 85.70.219.31: Serials: 0x40033268; 
+29.12.2008 22:12:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:42: 85.70.219.31: Serials: 0x40033270; 
+29.12.2008 22:12:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:42: 85.70.219.31: Serials: 0x40033275; 
+29.12.2008 22:12:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:42: 85.70.219.31: Serials: 0x4003327C; 
+29.12.2008 22:12:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:43: 85.70.219.31: Serials: 0x4003327D; 
+29.12.2008 22:12:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:43: 85.70.219.31: Serials: 0x4003327E; 
+29.12.2008 22:12:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:43: 85.70.219.31: Serials: 0x4003327F; 
+29.12.2008 22:12:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:43: 85.70.219.31: Serials: 0x40033280; 
+29.12.2008 22:12:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:43: 85.70.219.31: Serials: 0x40033281; 
+29.12.2008 22:12:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:43: 85.70.219.31: Serials: 0x40033282; 
+29.12.2008 22:12:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:44: 85.70.219.31: Serials: 0x40033283; 
+29.12.2008 22:12:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:44: 85.70.219.31: Serials: 0x40033284; 
+29.12.2008 22:12:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:44: 85.70.219.31: Serials: 0x40033285; 
+29.12.2008 22:12:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:44: 85.70.219.31: Serials: 0x40033286; 
+29.12.2008 22:12:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:44: 85.70.219.31: Serials: 0x40033287; 
+29.12.2008 22:12:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:44: 85.70.219.31: Serials: 0x40033288; 
+29.12.2008 22:12:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:45: 85.70.219.31: Serials: 0x40033289; 
+29.12.2008 22:12:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:45: 85.70.219.31: Serials: 0x4003328A; 
+29.12.2008 22:12:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:45: 85.70.219.31: Serials: 0x4003328C; 
+29.12.2008 22:12:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (679, 1273, 47) in Tokuno: "ArmsOfTacticalExcellence"
+29.12.2008 22:12:45: 85.70.219.31: Serials: 0x4003328D; 
+29.12.2008 22:12:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 22:13:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 22:17:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 22:18:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c proste te nejde dohnat :D'
+29.12.2008 22:18:49: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c ale jde =D'
+29.12.2008 22:18:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'unhide '
+29.12.2008 22:18:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') unhiding 0x4C4A "Kardis" ('Kardis')
+29.12.2008 22:18:58: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c =O'
+29.12.2008 22:19:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'unhide '
+29.12.2008 22:19:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') unhiding 0x4C4A "Kardis" ('Kardis')
+29.12.2008 22:19:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+29.12.2008 22:19:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x4C4A "Kardis" ('Kardis')
+29.12.2008 22:19:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set stealth 65000'
+29.12.2008 22:19:30: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c tak tenhle domecek musim uznat, ze se mi povedl'
+29.12.2008 22:19:39: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c kde je ?'
+29.12.2008 22:19:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set skill stealth 65000'
+29.12.2008 22:19:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'skills '
+29.12.2008 22:19:59: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c gate minoc, felluca a porad doleva'
+29.12.2008 22:20:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property '[Stealth: 6553,5].Base' of 0x4C4A "Kardis" ('Kardis') to '6553,5'
+29.12.2008 22:20:31: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c dekuji'
+29.12.2008 22:20:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c na chvilku afk'
+29.12.2008 22:20:52: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c pocki'
+29.12.2008 22:21:10: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c jsem tu ale nwm kam Wille'
+29.12.2008 22:21:28: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c najdu te mmnt'
+29.12.2008 22:21:53: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c musis utikat doleva dokud nenarazis na skaly'
+29.12.2008 22:22:08: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c ja jsem v nejakym mestecku'
+29.12.2008 22:22:23: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c musis do normalni moongaty'
+29.12.2008 22:22:30: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c aha'
+29.12.2008 22:22:58: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c po ceste dolu ?'
+29.12.2008 22:23:15: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c az ke skalam porad doleva'
+29.12.2008 22:23:19: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c ok'
+29.12.2008 22:23:38: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c kde jste?'
+29.12.2008 22:30:20: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c afk'
+29.12.2008 22:34:23: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c jsem tu'
+29.12.2008 22:34:24: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c '
+29.12.2008 22:36:58: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c killim tu draky xD'
+29.12.2008 22:40:22: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c '
+29.12.2008 22:40:39: 62.77.70.131: Player 0x4DBD "Arya" ('Craving William') used command 'c musim letet, napiste mi na icq az se pujde na CS'
+29.12.2008 22:42:51: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'e '
+29.12.2008 22:49:28: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c jsem tu'
+29.12.2008 22:49:49: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c kudy ?'
+29.12.2008 22:49:53: 85.70.63.55: Player 0x4C4A "Kardis" ('Kardis') used command 'c a vubec kam  ?'
+29.12.2008 23:14:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 23:22:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 23:23:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:23:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 23:23:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:24:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add hyriu'
+29.12.2008 23:24:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (853, 521, -95) in Malas: "Hiryu"
+29.12.2008 23:24:10: 85.70.219.31: Serials: 0x936E; 
+29.12.2008 23:27:17: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'e '
+29.12.2008 23:27:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:27:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x3FB "Yuki" ('Yukio') to (851, 530, -95)
+29.12.2008 23:27:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:27:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x936E "a hiryu" (no account) to (853, 530, -95)
+29.12.2008 23:27:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:27:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add animalta'
+29.12.2008 23:27:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (861, 532, -90) in Malas: "AnimalTrainer"
+29.12.2008 23:27:46: 85.70.219.31: Serials: 0x938B; 
+29.12.2008 23:28:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add cusidhe'
+29.12.2008 23:28:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (853, 527, -95) in Malas: "cusidhe"
+29.12.2008 23:28:12: 85.70.219.31: Serials: 0x939A; 
+29.12.2008 23:28:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set isbonded true'
+29.12.2008 23:28:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'isbonded' of 0x936E "a hiryu" (no account) to 'True'
+29.12.2008 23:28:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:28:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x938B "Hadley" (no account) to (858, 534, -90)
+29.12.2008 23:28:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add xmlspawner'
+29.12.2008 23:28:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (861, 532, -90) in Malas: "xmlspawner"
+29.12.2008 23:28:36: 85.70.219.31: Serials: 0x40034D48; 
+29.12.2008 23:28:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x40034D48 'Spawner' [861, 532] (Malas) : GypsyAnimalTrainer
+29.12.2008 23:28:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+29.12.2008 23:28:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x938B "Hadley" (no account)
+29.12.2008 23:29:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add raptalon'
+29.12.2008 23:29:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c lol'
+29.12.2008 23:29:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add whitewirm'
+29.12.2008 23:29:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (859, 524, -95) in Malas: "WhiteWyrm"
+29.12.2008 23:29:35: 85.70.219.31: Serials: 0x939D; 
+29.12.2008 23:29:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 23:29:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x939D "a white wyrm" (no account) to 'AI_Melee'
+29.12.2008 23:29:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:29:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x939D "a white wyrm" (no account) to (859, 523, -95)
+29.12.2008 23:29:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+29.12.2008 23:29:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3FB "Yuki" ('Yukio')
+29.12.2008 23:30:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:30:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x939D "a white wyrm" (no account) to (859, 524, -95)
+29.12.2008 23:30:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:30:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add dragon'
+29.12.2008 23:30:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (847, 514, -95) in Malas: "dragon"
+29.12.2008 23:30:32: 85.70.219.31: Serials: 0x93A2; 
+29.12.2008 23:30:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add runeb'
+29.12.2008 23:30:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (843, 517, -95) in Malas: "RuneBeetle"
+29.12.2008 23:30:39: 85.70.219.31: Serials: 0x93B6; 
+29.12.2008 23:30:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (844, 519, -95) in Malas: "Nightmare"
+29.12.2008 23:30:50: 85.70.219.31: Serials: 0x9410; 
+29.12.2008 23:30:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:30:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x93A2 "a dragon" (no account) to (840, 511, -95)
+29.12.2008 23:31:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:31:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+29.12.2008 23:31:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3FB "Yuki" ('Yukio')
+29.12.2008 23:31:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 5000'
+29.12.2008 23:31:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:31:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 5000'
+29.12.2008 23:31:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x3FB "Yuki" ('Yukio') to '5000'
+29.12.2008 23:31:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:31:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 23:31:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x93A2 "a dragon" (no account) to 'AI_Melee'
+29.12.2008 23:31:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set AI AI_Melee'
+29.12.2008 23:31:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x93B6 "a rune beetle" (no account) to 'AI_Melee'
+29.12.2008 23:31:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set AI AI_Melee'
+29.12.2008 23:31:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x9410 "a nightmare" (no account) to 'AI_Melee'
+29.12.2008 23:31:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add firesteed'
+29.12.2008 23:31:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (848, 514, -95) in Malas: "firesteed"
+29.12.2008 23:31:58: 85.70.219.31: Serials: 0x9439; 
+29.12.2008 23:31:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add firesteed'
+29.12.2008 23:32:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (849, 514, -95) in Malas: "firesteed"
+29.12.2008 23:32:00: 85.70.219.31: Serials: 0x943B; 
+29.12.2008 23:32:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set AI AI_Melee'
+29.12.2008 23:32:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x9439 "a fire steed" (no account) to 'AI_Melee'
+29.12.2008 23:32:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set AI AI_Melee'
+29.12.2008 23:32:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x943B "a fire steed" (no account) to 'AI_Melee'
+29.12.2008 23:32:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:32:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x1 "Elamor" ('Elamor') to (847, 518, -95)
+29.12.2008 23:32:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:32:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x93B6 "a rune beetle" (no account) to (846, 532, -95)
+29.12.2008 23:32:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:32:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x9439 "a fire steed" (no account) to (848, 530, -95)
+29.12.2008 23:32:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:32:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x943B "a fire steed" (no account) to (849, 529, -95)
+29.12.2008 23:32:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:32:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x9410 "a nightmare" (no account) to (843, 529, -95)
+29.12.2008 23:32:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:32:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:32:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x93A2 "a dragon" (no account) to (840, 527, -95)
+29.12.2008 23:32:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:32:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:32:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x93A2 "a dragon" (no account) to (839, 533, -95)
+29.12.2008 23:32:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:32:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x9410 "a nightmare" (no account) to (842, 532, -95)
+29.12.2008 23:32:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:32:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x943B "a fire steed" (no account) to (850, 528, -95)
+29.12.2008 23:32:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:33:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 23:34:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 88888'
+29.12.2008 23:34:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x3FB "Yuki" ('Yukio') to '88888'
+29.12.2008 23:35:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 500'
+29.12.2008 23:35:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x3FB "Yuki" ('Yukio') to '500'
+29.12.2008 23:37:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'all come'
+29.12.2008 23:37:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:37:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x93A2 "a dragon" (no account) to (847, 541, -90)
+29.12.2008 23:37:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:37:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x9410 "a nightmare" (no account) to (853, 540, -90)
+29.12.2008 23:37:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:37:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x93B6 "a rune beetle" (no account) to (850, 538, -90)
+29.12.2008 23:37:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:37:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x9439 "a fire steed" (no account) to (857, 535, -90)
+29.12.2008 23:37:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:37:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x943B "a fire steed" (no account) to (847, 540, -90)
+29.12.2008 23:37:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:37:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x939A "a Cu Sidhe" (no account) to (848, 540, -90)
+29.12.2008 23:37:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:37:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x939D "a white wyrm" (no account) to (848, 539, -90)
+29.12.2008 23:37:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set isbonded true'
+29.12.2008 23:37:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'isbonded' of 0x9439 "a fire steed" (no account) to 'True'
+29.12.2008 23:37:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 23:38:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x939D "a white wyrm" (no account) to 'AI_Mage'
+29.12.2008 23:38:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+29.12.2008 23:38:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x939D "a white wyrm" (no account)
+29.12.2008 23:38:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 23:38:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x93B6 "a rune beetle" (no account) to 'AI_Mage'
+29.12.2008 23:38:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 23:38:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x93A2 "a dragon" (no account) to 'AI_Mage'
+29.12.2008 23:38:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 23:39:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x9410 "a nightmare" (no account) to 'AI_Mage'
+29.12.2008 23:39:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'openbrowser uo.stratics.com'
+29.12.2008 23:40:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') requesting to open web browser of 0x3FB "Yuki" ('Yukio') to uo.stratics.com
+29.12.2008 23:40:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go fire'
+29.12.2008 23:40:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:41:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 23:41:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+29.12.2008 23:41:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x3FB "Yuki" ('Yukio')
+29.12.2008 23:41:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+29.12.2008 23:41:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x3FB "Yuki" ('Yukio')
+29.12.2008 23:41:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+29.12.2008 23:41:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x3FB "Yuki" ('Yukio')
+29.12.2008 23:41:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:41:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x3FB "Yuki" ('Yukio') to (5859, 1479, 0)
+29.12.2008 23:41:27: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'g toho už mam'
+29.12.2008 23:41:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:41:34: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c toho už mam'
+29.12.2008 23:41:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MaxDelay' of 0x4001C12A (XmlSpawner) to '08:00:00'
+29.12.2008 23:41:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MinDelay' of 0x4001C12A (XmlSpawner) to '04:00:00'
+29.12.2008 23:42:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:43:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+29.12.2008 23:43:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+29.12.2008 23:43:35: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c anthrrr'
+29.12.2008 23:43:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 23:44:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 23:44:58: 89.103.93.46: Player 0x3FB "Yuki" ('Yukio') used command 'c auví'
+29.12.2008 23:45:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c nelez az k nemu :D'
+29.12.2008 23:45:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:45:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0xD94 "a Cu Sidhe" (no account) to (2210, 1234, -5)
+29.12.2008 23:45:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:45:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1502'
+29.12.2008 23:45:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1502'
+29.12.2008 23:45:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1508'
+29.12.2008 23:45:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1508'
+29.12.2008 23:45:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1252'
+29.12.2008 23:45:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1252'
+29.12.2008 23:45:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1258'
+29.12.2008 23:45:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1258'
+29.12.2008 23:45:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1257'
+29.12.2008 23:45:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1257'
+29.12.2008 23:45:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1257'
+29.12.2008 23:45:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1255'
+29.12.2008 23:46:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1255'
+29.12.2008 23:46:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+29.12.2008 23:46:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3FB "Yuki" ('Yukio')
+29.12.2008 23:46:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:46:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0xD94 "a Cu Sidhe" (no account) to (2196, 1241, -6)
+29.12.2008 23:46:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 23:46:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:46:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0xD94 "a Cu Sidhe" (no account) to (2198, 1240, -5)
+29.12.2008 23:47:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+29.12.2008 23:47:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3FB "Yuki" ('Yukio')
+29.12.2008 23:47:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:47:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0xD94 "a Cu Sidhe" (no account) to (2195, 1241, -5)
+29.12.2008 23:47:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+29.12.2008 23:47:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3FB "Yuki" ('Yukio')
+29.12.2008 23:47:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1240'
+29.12.2008 23:47:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1240'
+29.12.2008 23:47:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1248'
+29.12.2008 23:47:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1248'
+29.12.2008 23:47:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1248'
+29.12.2008 23:47:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1248'
+29.12.2008 23:47:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1248¨9'
+29.12.2008 23:48:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1249'
+29.12.2008 23:48:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1249'
+29.12.2008 23:48:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1280'
+29.12.2008 23:48:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1280'
+29.12.2008 23:48:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1281'
+29.12.2008 23:48:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1281'
+29.12.2008 23:48:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1282'
+29.12.2008 23:48:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1282'
+29.12.2008 23:48:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1283'
+29.12.2008 23:48:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1283'
+29.12.2008 23:48:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1284'
+29.12.2008 23:48:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1284'
+29.12.2008 23:48:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1285'
+29.12.2008 23:48:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1285'
+29.12.2008 23:48:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1286'
+29.12.2008 23:48:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1286'
+29.12.2008 23:48:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1287'
+29.12.2008 23:48:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1287'
+29.12.2008 23:48:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:48:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0xD94 "a Cu Sidhe" (no account) to '1288'
+29.12.2008 23:49:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+29.12.2008 23:49:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0xD94 "a Cu Sidhe" (no account) to (2199, 1244, -4)
+29.12.2008 23:49:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set isbonded true'
+29.12.2008 23:49:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'isbonded' of 0xD94 "a Cu Sidhe" (no account) to 'True'
+29.12.2008 23:49:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015ED1 (HoodedShroudOfShadows) to '1288'
+29.12.2008 23:49:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x4001316B (ArcaneShield) to '1288'
+29.12.2008 23:49:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40013356 (GlovesOfTheSun) to '1288'
+29.12.2008 23:49:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015FA5 (Boomstick) to '1288'
+29.12.2008 23:49:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015E49 (QuiverOfInfinity) to '1288'
+29.12.2008 23:49:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015ED3 (CrimsonCincture) to '1288'
+29.12.2008 23:49:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40012A1C (ViPTalisman) to '1288'
+29.12.2008 23:49:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x4001314C (VoiceOfTheFallenKing) to '1288'
+29.12.2008 23:49:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x4002987A (ThighBoots) to '1288'
+29.12.2008 23:49:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40013156 (ArmorOfFortune) to '1288'
+29.12.2008 23:49:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40031BBD (RoyalBritanniaGuard) to '1288'
+29.12.2008 23:49:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40013358 (ArmsOfTacticalExcellence) to '1288'
+29.12.2008 23:49:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:49:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400131E3 (HatOfTheMagi) to '1288'
+29.12.2008 23:50:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+29.12.2008 23:50:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 0'
+29.12.2008 23:50:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015ED1 (HoodedShroudOfShadows) to '0'
+29.12.2008 23:50:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:50:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015ED1 (HoodedShroudOfShadows) to '1288'
+29.12.2008 23:50:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1285'
+29.12.2008 23:50:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015ED1 (HoodedShroudOfShadows) to '1285'
+29.12.2008 23:50:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1281'
+29.12.2008 23:50:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015ED1 (HoodedShroudOfShadows) to '1281'
+29.12.2008 23:50:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1280'
+29.12.2008 23:50:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015ED1 (HoodedShroudOfShadows) to '1280'
+29.12.2008 23:50:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1280'
+29.12.2008 23:50:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015FA5 (Boomstick) to '1280'
+29.12.2008 23:51:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:51:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015ED1 (HoodedShroudOfShadows) to '1288'
+29.12.2008 23:51:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:51:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40015FA5 (Boomstick) to '1288'
+29.12.2008 23:51:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HairHue' of 0x3FB "Yuki" ('Yukio') to '1288'
+29.12.2008 23:52:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:52:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x3FB "Yuki" ('Yukio') to '1288'
+29.12.2008 23:52:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:52:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40013163 (LeggingsOfBane) to '1288'
+29.12.2008 23:53:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+29.12.2008 23:53:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 23:53:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set name Error'
+29.12.2008 23:53:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'name' of 0x3FB "Yuki" ('Yukio') to 'Error'
+29.12.2008 23:53:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:53:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x936E "a hiryu" (no account) to '1288'
+29.12.2008 23:54:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:54:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40012EF0 (EtherealOstard) to '1288'
+29.12.2008 23:54:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:54:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40012A63 (LeafGorget) to '1288'
+29.12.2008 23:54:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40013291 (IolosLute) to '1288'
+29.12.2008 23:55:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40013294 (GwennosHarp) to '1288'
+29.12.2008 23:55:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40029CEA (InteriorDecorator) to '1288'
+29.12.2008 23:55:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40012A1A (Candle) to '1288'
+29.12.2008 23:55:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40012987 (RedBook) to '1288'
+29.12.2008 23:55:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x4001623F (FullMagerySpellbook) to '1288'
+29.12.2008 23:55:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x4001622F (CompleteNecromancerSpellbook) to '1288'
+29.12.2008 23:55:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40029CE0 (HousePlacementTool) to '1288'
+29.12.2008 23:55:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40012A18 (Dagger) to '1288'
+29.12.2008 23:55:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:55:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40012986 (Backpack) to '1288'
+29.12.2008 23:55:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:56:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:56:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x7EB0 "a skittering hopper" (no account) to '1288'
+29.12.2008 23:56:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:56:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+29.12.2008 23:56:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x7ED9 "a skittering hopper" (no account)
+29.12.2008 23:56:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:56:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x4002AAB0 (BagOfReagents) to '1288'
+29.12.2008 23:56:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:56:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400306FA (HouseTeleporter) to '1288'
+29.12.2008 23:56:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:56:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x400306FB (HouseTeleporter) to '1288'
+29.12.2008 23:56:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:56:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x4002CC91 (HouseSign) to '1288'
+29.12.2008 23:56:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1288'
+29.12.2008 23:56:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x4002CC83 (Static) to '1288'
+29.12.2008 23:56:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+29.12.2008 23:56:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+29.12.2008 23:56:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') shutting down server (Restart: False) (Save: True)
+29.12.2008 23:56:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'save '

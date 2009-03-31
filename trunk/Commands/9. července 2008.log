@@ -1,0 +1,653 @@
+##############################
+Log started on 9.7.2008 9:50:11
+
+9.7.2008 10:00:37: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 10:06:33: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 10:10:09: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk movie'
+9.7.2008 11:40:08: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+9.7.2008 11:53:15: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 12:10:55: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 12:22:02: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk slee'
+9.7.2008 12:50:28: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 12:58:12: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk sleep'
+9.7.2008 13:01:20: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk working'
+9.7.2008 13:01:31: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk working'
+9.7.2008 13:07:59: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 13:34:41: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 13:52:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 13:52:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 120000000'
+9.7.2008 13:52:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '120000000'
+9.7.2008 13:53:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bandage'
+9.7.2008 13:53:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1163, 978, 50) in Tokuno: "bandage"
+9.7.2008 13:53:07: 85.70.219.31: Serials: 0x40029702; 
+9.7.2008 13:53:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set amount 200'
+9.7.2008 13:53:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'amount' of 0x40029702 (Bandage) to '200'
+9.7.2008 13:53:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+9.7.2008 13:53:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+9.7.2008 14:06:00: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk working'
+9.7.2008 14:25:05: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk dead'
+9.7.2008 14:52:34: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'afk odpocinek...:-D'
+9.7.2008 15:06:29: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 15:11:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+9.7.2008 15:12:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+9.7.2008 15:33:46: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 16:05:04: 89.102.72.219: Player 0x966 "Xaaron" ('Xaaron') used command 'c '
+9.7.2008 16:18:10: 89.102.72.219: Player 0x966 "Xaaron" ('Xaaron') used command 'c '
+9.7.2008 16:23:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 16:23:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c ToT?'
+9.7.2008 16:24:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+9.7.2008 16:25:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+9.7.2008 16:25:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x38F "Eldrod" ('Theogil')
+9.7.2008 16:29:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+9.7.2008 16:29:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x38F "Eldrod" ('Theogil')
+9.7.2008 16:29:34: 89.102.72.219: Player 0x966 "Xaaron" ('Xaaron') used command 'c '
+9.7.2008 16:39:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c CO rikate kdybchom udelaly utok na mesto?'
+9.7.2008 16:39:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c Neco jako bylo na E2 Despise Invasion'
+9.7.2008 16:39:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c tak tady by byla invaze treba jen Lizardmenu'
+9.7.2008 16:40:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 1200000000'
+9.7.2008 16:40:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '1200000000'
+9.7.2008 16:40:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set stam 1200000000'
+9.7.2008 16:40:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'stam' of 0x1 "Elamorius" ('Elamor') to '1200000000'
+9.7.2008 16:40:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set mana 1200000000'
+9.7.2008 16:40:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'mana' of 0x1 "Elamorius" ('Elamor') to '1200000000'
+9.7.2008 16:42:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 16:44:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 16:44:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400326B6 (Exiler)
+9.7.2008 16:45:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 16:45:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400326C7 (AncientFarmersKasa)
+9.7.2008 16:47:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 120000000'
+9.7.2008 16:47:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '120000000'
+9.7.2008 16:47:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set stam 1200000000'
+9.7.2008 16:47:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'stam' of 0x1 "Elamorius" ('Elamor') to '1200000000'
+9.7.2008 16:47:29: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'afk '
+9.7.2008 16:47:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set mana 1200000000'
+9.7.2008 16:47:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'mana' of 0x1 "Elamorius" ('Elamor') to '1200000000'
+9.7.2008 16:47:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add death'
+9.7.2008 16:47:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1207, 1045, 21) in Tokuno: "DeathwatchBeetle"
+9.7.2008 16:47:54: 85.70.219.31: Serials: 0x9391; 
+9.7.2008 16:48:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gaman'
+9.7.2008 16:48:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1183, 1028, 33) in Tokuno: "gaman"
+9.7.2008 16:48:29: 85.70.219.31: Serials: 0x9396; 
+9.7.2008 16:48:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gaman'
+9.7.2008 16:48:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1187, 1023, 33) in Tokuno: "gaman"
+9.7.2008 16:48:38: 85.70.219.31: Serials: 0x9397; 
+9.7.2008 16:48:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gama'
+9.7.2008 16:48:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1185, 1010, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:48: 85.70.219.31: Serials: 0x9398; 
+9.7.2008 16:48:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1185, 1010, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:48: 85.70.219.31: Serials: 0x9399; 
+9.7.2008 16:48:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1185, 1010, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:49: 85.70.219.31: Serials: 0x939A; 
+9.7.2008 16:48:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1185, 1010, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:49: 85.70.219.31: Serials: 0x939B; 
+9.7.2008 16:48:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1185, 1010, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:49: 85.70.219.31: Serials: 0x939C; 
+9.7.2008 16:48:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1186, 1009, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:49: 85.70.219.31: Serials: 0x939D; 
+9.7.2008 16:48:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1185, 1010, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:49: 85.70.219.31: Serials: 0x939E; 
+9.7.2008 16:48:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1185, 1010, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:49: 85.70.219.31: Serials: 0x939F; 
+9.7.2008 16:48:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1186, 1010, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:50: 85.70.219.31: Serials: 0x93A0; 
+9.7.2008 16:48:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1185, 1011, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:50: 85.70.219.31: Serials: 0x93A1; 
+9.7.2008 16:48:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1185, 1011, 35) in Tokuno: "Gaman"
+9.7.2008 16:48:50: 85.70.219.31: Serials: 0x93A2; 
+9.7.2008 16:48:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 16:49:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40032791 (BlackLotusHood)
+9.7.2008 16:49:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40032782 (TomeOfEnlightenment)
+9.7.2008 16:49:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003278A (ArmsOfTacticalExcellence)
+9.7.2008 16:49:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003277E (PigmentsOfTokuno)
+9.7.2008 16:49:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 16:52:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Level' of 0x40014239 (ChampionSpawn) to '18'
+9.7.2008 16:52:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Level' of 0x40014239 (ChampionSpawn) to '16'
+9.7.2008 16:52:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Level' of 0x40014239 (ChampionSpawn) to '12'
+9.7.2008 16:54:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Kills' of 0x40014239 (ChampionSpawn) to '5'
+9.7.2008 16:55:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 120000000'
+9.7.2008 16:55:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '120000000'
+9.7.2008 16:56:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 120000000'
+9.7.2008 16:56:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '120000000'
+9.7.2008 17:01:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+9.7.2008 17:01:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 17:02:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 17:02:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add caddle'
+9.7.2008 17:03:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add abottleo'
+9.7.2008 17:03:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add ale'
+9.7.2008 17:03:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 527, -50) in Malas: "Scales"
+9.7.2008 17:03:45: 85.70.219.31: Serials: 0x400348EC; 
+9.7.2008 17:03:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 17:03:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400348EC (Scales)
+9.7.2008 17:04:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 527, -50) in Malas: "Bottle"
+9.7.2008 17:04:08: 85.70.219.31: Serials: 0x40034AD7; 
+9.7.2008 17:04:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (991, 528, -50) in Malas: "Bottle"
+9.7.2008 17:04:10: 85.70.219.31: Serials: 0x40034AE2; 
+9.7.2008 17:04:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 526, -50) in Malas: "Bottle"
+9.7.2008 17:04:10: 85.70.219.31: Serials: 0x40034AE3; 
+9.7.2008 17:04:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (986, 528, -50) in Malas: "Bottle"
+9.7.2008 17:04:10: 85.70.219.31: Serials: 0x40034AE4; 
+9.7.2008 17:04:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (983, 525, -50) in Malas: "Bottle"
+9.7.2008 17:04:11: 85.70.219.31: Serials: 0x40034AE5; 
+9.7.2008 17:04:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (987, 526, -50) in Malas: "Bottle"
+9.7.2008 17:04:12: 85.70.219.31: Serials: 0x40034AEB; 
+9.7.2008 17:04:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (994, 519, -50) in Malas: "Bottle"
+9.7.2008 17:04:12: 85.70.219.31: Serials: 0x40034AEC; 
+9.7.2008 17:04:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (992, 520, -50) in Malas: "Bottle"
+9.7.2008 17:04:13: 85.70.219.31: Serials: 0x40034AED; 
+9.7.2008 17:04:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (990, 522, -50) in Malas: "Bottle"
+9.7.2008 17:04:13: 85.70.219.31: Serials: 0x40034AF2; 
+9.7.2008 17:04:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (987, 519, -50) in Malas: "Bottle"
+9.7.2008 17:04:14: 85.70.219.31: Serials: 0x40034AF3; 
+9.7.2008 17:04:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 516, -50) in Malas: "Bottle"
+9.7.2008 17:04:14: 85.70.219.31: Serials: 0x40034AF4; 
+9.7.2008 17:04:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (992, 519, -50) in Malas: "Bottle"
+9.7.2008 17:04:14: 85.70.219.31: Serials: 0x40034AF5; 
+9.7.2008 17:04:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (990, 520, -50) in Malas: "Bottle"
+9.7.2008 17:04:15: 85.70.219.31: Serials: 0x40034AF6; 
+9.7.2008 17:04:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 522, -50) in Malas: "Bottle"
+9.7.2008 17:04:15: 85.70.219.31: Serials: 0x40034AF7; 
+9.7.2008 17:04:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (985, 520, -50) in Malas: "Bottle"
+9.7.2008 17:04:16: 85.70.219.31: Serials: 0x40034AF8; 
+9.7.2008 17:04:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 528, -50) in Malas: "Bottle"
+9.7.2008 17:04:16: 85.70.219.31: Serials: 0x40034AFE; 
+9.7.2008 17:04:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (984, 527, -50) in Malas: "Bottle"
+9.7.2008 17:04:17: 85.70.219.31: Serials: 0x40034AFF; 
+9.7.2008 17:04:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (982, 524, -50) in Malas: "Bottle"
+9.7.2008 17:04:17: 85.70.219.31: Serials: 0x40034B01; 
+9.7.2008 17:04:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (981, 520, -50) in Malas: "Bottle"
+9.7.2008 17:04:19: 85.70.219.31: Serials: 0x40034B06; 
+9.7.2008 17:04:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (981, 516, -50) in Malas: "Bottle"
+9.7.2008 17:04:19: 85.70.219.31: Serials: 0x40034B07; 
+9.7.2008 17:04:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (982, 519, -50) in Malas: "Bottle"
+9.7.2008 17:04:20: 85.70.219.31: Serials: 0x40034B08; 
+9.7.2008 17:04:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (983, 512, -50) in Malas: "Bottle"
+9.7.2008 17:04:20: 85.70.219.31: Serials: 0x40034B09; 
+9.7.2008 17:04:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 511, -50) in Malas: "Bottle"
+9.7.2008 17:04:20: 85.70.219.31: Serials: 0x40034B0F; 
+9.7.2008 17:04:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 513, -50) in Malas: "Bottle"
+9.7.2008 17:04:21: 85.70.219.31: Serials: 0x40034B10; 
+9.7.2008 17:04:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (984, 511, -50) in Malas: "Bottle"
+9.7.2008 17:04:22: 85.70.219.31: Serials: 0x40034B11; 
+9.7.2008 17:04:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (991, 511, -50) in Malas: "Bottle"
+9.7.2008 17:04:22: 85.70.219.31: Serials: 0x40034B12; 
+9.7.2008 17:04:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 510, -50) in Malas: "Bottle"
+9.7.2008 17:04:22: 85.70.219.31: Serials: 0x40034B18; 
+9.7.2008 17:04:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (997, 519, -50) in Malas: "Bottle"
+9.7.2008 17:04:24: 85.70.219.31: Serials: 0x40034B19; 
+9.7.2008 17:04:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (991, 517, -50) in Malas: "Bottle"
+9.7.2008 17:04:25: 85.70.219.31: Serials: 0x40034B1E; 
+9.7.2008 17:04:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (995, 513, -50) in Malas: "Bottle"
+9.7.2008 17:04:25: 85.70.219.31: Serials: 0x40034B1F; 
+9.7.2008 17:04:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (997, 512, -50) in Malas: "Bottle"
+9.7.2008 17:04:26: 85.70.219.31: Serials: 0x40034B20; 
+9.7.2008 17:04:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (996, 521, -50) in Malas: "Bottle"
+9.7.2008 17:04:27: 85.70.219.31: Serials: 0x40034B21; 
+9.7.2008 17:04:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (997, 526, -50) in Malas: "Bottle"
+9.7.2008 17:04:29: 85.70.219.31: Serials: 0x40034B26; 
+9.7.2008 17:04:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (992, 526, -50) in Malas: "Bottle"
+9.7.2008 17:04:29: 85.70.219.31: Serials: 0x40034B27; 
+9.7.2008 17:04:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (996, 529, -50) in Malas: "Bottle"
+9.7.2008 17:04:30: 85.70.219.31: Serials: 0x40034B2A; 
+9.7.2008 17:04:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspaw'
+9.7.2008 17:04:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (991, 519, -50) in Malas: "XmlSpawner"
+9.7.2008 17:04:53: 85.70.219.31: Serials: 0x40034B57; 
+9.7.2008 17:05:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x40034B57 'Spawner' [991, 519] (Malas) : TreasureBag
+9.7.2008 17:05:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x40034B57 (XmlSpawner) to '50'
+9.7.2008 17:06:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 17:06:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x451F "Sulaiman" (no account) to (987, 521, -50)
+9.7.2008 17:07:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add large'
+9.7.2008 17:07:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1040, 542, -90) in Malas: "LargeTreasureBag"
+9.7.2008 17:07:23: 85.70.219.31: Serials: 0x40034BF5; 
+9.7.2008 17:07:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 17:07:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40034BF5 (LargeTreasureBag)
+9.7.2008 17:07:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40034BC2 (TreasureBag)
+9.7.2008 17:07:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x40034B57 'Spawner' [991, 519] (Malas) : LargeTreasureBag
+9.7.2008 17:16:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c Prectete si novinky na hlavni strane webu'
+9.7.2008 17:16:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 17:17:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 17:17:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400350FD (TreasureBag) to (1035, 489, -90)
+9.7.2008 17:17:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 17:17:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400350FD (TreasureBag) to (1035, 489, -90)
+9.7.2008 17:17:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 17:17:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400350FD (TreasureBag) to (1035, 489, -90)
+9.7.2008 17:17:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 17:17:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400350FD (TreasureBag) to (1033, 487, -90)
+9.7.2008 17:17:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 17:18:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'pm eldro'
+9.7.2008 17:20:59: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 17:21:10: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 17:21:28: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 17:46:50: 89.102.85.219: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+9.7.2008 18:02:41: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+9.7.2008 18:20:10: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+9.7.2008 18:44:48: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+9.7.2008 18:58:59: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+9.7.2008 19:03:32: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+9.7.2008 19:26:31: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+9.7.2008 19:46:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+9.7.2008 19:46:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 19:47:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go felucca'
+9.7.2008 19:47:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 19:47:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013003 (DarkWoodDoor)
+9.7.2008 19:47:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013004 (DarkWoodDoor)
+9.7.2008 19:47:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013002 (DarkWoodDoor)
+9.7.2008 19:47:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013001 (DarkWoodDoor)
+9.7.2008 19:47:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go trammel'
+9.7.2008 19:47:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 19:47:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40012982 (DarkWoodDoor)
+9.7.2008 19:47:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40012983 (DarkWoodDoor)
+9.7.2008 19:48:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+9.7.2008 19:50:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+9.7.2008 19:59:11: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+9.7.2008 20:23:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 1200000000'
+9.7.2008 20:23:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '1200000000'
+9.7.2008 21:00:30: 89.102.72.219: Player 0x9B49 "Elesandra" ('Xaaron') used command 'c '
+9.7.2008 21:18:07: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+9.7.2008 21:18:37: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'afk '
+9.7.2008 21:18:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 21:21:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:21:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:22:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x40034B57 (XmlSpawner) to '120'
+9.7.2008 21:22:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:25:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:27:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspa'
+9.7.2008 21:27:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go britain'
+9.7.2008 21:27:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:28:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:28:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go trammel'
+9.7.2008 21:28:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add Chest'
+9.7.2008 21:29:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1410, 2105, 35) in Trammel: "ArenaTreasureChest"
+9.7.2008 21:29:00: 85.70.219.31: Serials: 0x400392A8; 
+9.7.2008 21:29:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:29:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400392A8 (ArenaTreasureChest)
+9.7.2008 21:29:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add chest'
+9.7.2008 21:29:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1413, 2104, 35) in Trammel: "BoneChest"
+9.7.2008 21:29:17: 85.70.219.31: Serials: 0x400392F2; 
+9.7.2008 21:29:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:29:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400392F2 (BoneChest)
+9.7.2008 21:29:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1413, 2104, 35) in Trammel: "DeathChest"
+9.7.2008 21:29:25: 85.70.219.31: Serials: 0x400392F3; 
+9.7.2008 21:29:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:29:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400392F3 (DeathChest)
+9.7.2008 21:29:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1414, 2104, 35) in Trammel: "AssassinChest"
+9.7.2008 21:29:34: 85.70.219.31: Serials: 0x400392F4; 
+9.7.2008 21:29:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:29:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400392F4 (AssassinChest)
+9.7.2008 21:29:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1413, 2104, 35) in Trammel: "DarkwoodChest"
+9.7.2008 21:29:41: 85.70.219.31: Serials: 0x400392F5; 
+9.7.2008 21:29:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:29:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400392F5 (DarkwoodChest)
+9.7.2008 21:30:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1414, 2104, 35) in Trammel: "GildedWoodenChest"
+9.7.2008 21:30:07: 85.70.219.31: Serials: 0x400392F7; 
+9.7.2008 21:30:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:30:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400392F7 (GildedWoodenChest)
+9.7.2008 21:30:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1414, 2104, 35) in Trammel: "HaochisTreasureChest"
+9.7.2008 21:30:17: 85.70.219.31: Serials: 0x400392F8; 
+9.7.2008 21:30:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:30:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400392F8 (HaochisTreasureChest)
+9.7.2008 21:30:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1414, 2105, 35) in Trammel: "PastTreasures"
+9.7.2008 21:30:42: 85.70.219.31: Serials: 0x9D26; 
+9.7.2008 21:30:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:30:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x9D26 "Joy" (no account)
+9.7.2008 21:30:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1414, 2104, 35) in Trammel: "MetalTreasureChest"
+9.7.2008 21:30:54: 85.70.219.31: Serials: 0x40039350; 
+9.7.2008 21:30:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:30:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40039350 (MetalTreasureChest)
+9.7.2008 21:31:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1415, 2104, 35) in Trammel: "HaochisTreasureChest"
+9.7.2008 21:31:03: 85.70.219.31: Serials: 0x40039390; 
+9.7.2008 21:31:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:31:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40039390 (HaochisTreasureChest)
+9.7.2008 21:31:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1416, 2104, 35) in Trammel: "MetalGoldenTreasureChest"
+9.7.2008 21:31:10: 85.70.219.31: Serials: 0x400393F6; 
+9.7.2008 21:31:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:31:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400393F6 (MetalGoldenTreasureChest)
+9.7.2008 21:31:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go trammel'
+9.7.2008 21:31:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1413, 2104, 35) in Trammel: "TreasureLevel4"
+9.7.2008 21:31:28: 85.70.219.31: Serials: 0x400393F8; 
+9.7.2008 21:31:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:31:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400393F8 (TreasureLevel4)
+9.7.2008 21:31:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1414, 2104, 35) in Trammel: "TreasuresAndTrinketsGlasses"
+9.7.2008 21:31:48: 85.70.219.31: Serials: 0x40039447; 
+9.7.2008 21:32:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1417, 2100, 35) in Trammel: "HaochisTreasureChest"
+9.7.2008 21:32:03: 85.70.219.31: Serials: 0x40039448; 
+9.7.2008 21:32:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1421, 2100, 35) in Trammel: "HaochisTreasureChest"
+9.7.2008 21:32:04: 85.70.219.31: Serials: 0x40039494; 
+9.7.2008 21:32:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2100, 35) in Trammel: "MetalGoldenTreasureChest"
+9.7.2008 21:32:13: 85.70.219.31: Serials: 0x40039520; 
+9.7.2008 21:32:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:32:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40039520 (MetalGoldenTreasureChest)
+9.7.2008 21:32:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2100, 35) in Trammel: "MetalTreasureChest"
+9.7.2008 21:32:21: 85.70.219.31: Serials: 0x4003959C; 
+9.7.2008 21:32:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 21:32:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003959C (MetalTreasureChest) to (1419, 2100, 35)
+9.7.2008 21:32:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 21:32:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Locked' of 0x40039448 (HaochisTreasureChest) to 'True'
+9.7.2008 21:32:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 21:33:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Locked' of 0x40039448 (HaochisTreasureChest) to 'False'
+9.7.2008 21:33:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Movable' of 0x40039448 (HaochisTreasureChest) to 'False'
+9.7.2008 21:34:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Name' of 0x40039448 (HaochisTreasureChest) to 'Poklad Insignie'
+9.7.2008 21:34:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set name Poklad Insignie'
+9.7.2008 21:34:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'name' of 0x40039494 (HaochisTreasureChest) to 'Poklad'
+9.7.2008 21:34:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 21:35:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Name' of 0x40039494 (HaochisTreasureChest) to 'Poklad Insignie'
+9.7.2008 21:35:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 21:35:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Locked' of 0x4003959C (MetalTreasureChest) to 'False'
+9.7.2008 21:35:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Level' of 0x4003959C (MetalTreasureChest) to 'Level6'
+9.7.2008 21:35:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:35:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:35:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40039447 (TreasuresAndTrinketsGlasses)
+9.7.2008 21:36:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add minora'
+9.7.2008 21:36:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add lion'
+9.7.2008 21:36:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "ThorvaldsMedallion"
+9.7.2008 21:36:44: 85.70.219.31: Serials: 0x40039694; 
+9.7.2008 21:36:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 21:36:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40039694 (ThorvaldsMedallion)
+9.7.2008 21:36:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "HeartOfTheLion"
+9.7.2008 21:36:54: 85.70.219.31: Serials: 0x40039695; 
+9.7.2008 21:37:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Level' of 0x4003959C (MetalTreasureChest) to 'Level1'
+9.7.2008 21:37:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MaxSpawnTime' of 0x4003959C (MetalTreasureChest) to '6000'
+9.7.2008 21:37:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MinSpawnTime' of 0x4003959C (MetalTreasureChest) to '1000'
+9.7.2008 21:37:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'RequiredSkill' of 0x4003959C (MetalTreasureChest) to '0'
+9.7.2008 21:38:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Hue' of 0x4003959C (MetalTreasureChest) to '1230'
+9.7.2008 21:38:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Hue' of 0x4003959C (MetalTreasureChest) to '1233'
+9.7.2008 21:38:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Hue' of 0x4003959C (MetalTreasureChest) to '1283'
+9.7.2008 21:38:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1283'
+9.7.2008 21:38:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40039494 (HaochisTreasureChest) to '1283'
+9.7.2008 21:38:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1283'
+9.7.2008 21:38:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x40039448 (HaochisTreasureChest) to '1283'
+9.7.2008 21:38:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Name' of 0x4003959C (MetalTreasureChest) to 'Truhlice Insignie'
+9.7.2008 21:39:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Visible' of 0x4003959C (MetalTreasureChest) to 'False'
+9.7.2008 21:39:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Visible' of 0x4003959C (MetalTreasureChest) to 'True'
+9.7.2008 21:39:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set amount 3862'
+9.7.2008 21:39:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'amount' of 0x4003959D (Gold) to '3862'
+9.7.2008 21:39:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add armsoft'
+9.7.2008 21:39:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "ArmsOfTacticalExcellence"
+9.7.2008 21:39:45: 85.70.219.31: Serials: 0x400396E5; 
+9.7.2008 21:39:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add random'
+9.7.2008 21:39:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "RandomTalisman"
+9.7.2008 21:39:58: 85.70.219.31: Serials: 0x400396E6; 
+9.7.2008 21:39:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "RandomTalisman"
+9.7.2008 21:39:58: 85.70.219.31: Serials: 0x400396E7; 
+9.7.2008 21:40:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add largetreasu'
+9.7.2008 21:40:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "LargeTreasureBag"
+9.7.2008 21:40:13: 85.70.219.31: Serials: 0x400396E8; 
+9.7.2008 21:40:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "LargeTreasureBag"
+9.7.2008 21:40:14: 85.70.219.31: Serials: 0x400396ED; 
+9.7.2008 21:40:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "LargeTreasureBag"
+9.7.2008 21:40:14: 85.70.219.31: Serials: 0x400396F2; 
+9.7.2008 21:40:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "LargeTreasureBag"
+9.7.2008 21:40:15: 85.70.219.31: Serials: 0x400396F7; 
+9.7.2008 21:40:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "LargeTreasureBag"
+9.7.2008 21:40:15: 85.70.219.31: Serials: 0x400396FD; 
+9.7.2008 21:40:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add book'
+9.7.2008 21:40:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2103, 35) in Trammel: "BlueBook"
+9.7.2008 21:40:45: 85.70.219.31: Serials: 0x40039704; 
+9.7.2008 21:45:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add lichlord'
+9.7.2008 21:45:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2104, 35) in Trammel: "lichlord"
+9.7.2008 21:45:22: 85.70.219.31: Serials: 0x9D81; 
+9.7.2008 21:45:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 21:45:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Home' of 0x9D81 "a lich lord" (no account) to '(1418, 2104, 35)'
+9.7.2008 21:45:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'DamageMax' of 0x9D81 "a lich lord" (no account) to '50'
+9.7.2008 21:46:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'DamageMin' of 0x9D81 "a lich lord" (no account) to '35'
+9.7.2008 21:46:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'CurrentSpeed' of 0x9D81 "a lich lord" (no account) to '0,1'
+9.7.2008 21:46:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1283'
+9.7.2008 21:46:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x9D81 "a lich lord" (no account) to '1283'
+9.7.2008 21:46:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set name Insignie'
+9.7.2008 21:46:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'name' of 0x9D81 "a lich lord" (no account) to 'Insignie'
+9.7.2008 21:46:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 21:46:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9D81 "Insignie" (no account) to (1419, 2103, 35)
+9.7.2008 21:46:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 21:47:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'ActiveSpeed' of 0x9D81 "Insignie" (no account) to '0,01'
+9.7.2008 21:47:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Name' of 0x9D81 "Insignie" (no account) to 'Strazce Insignie'
+9.7.2008 21:49:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:49:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:51:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:52:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:52:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:54:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:54:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:54:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 21:55:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 22:13:13: 89.102.72.219: Player 0x9374 "Screw" ('Xaaron') used command 'c '
+9.7.2008 22:33:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 22:35:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 22:35:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:35:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003959C (MetalTreasureChest)
+9.7.2008 22:35:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add metalch'
+9.7.2008 22:35:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1419, 2100, 35) in Trammel: "FillableMetalChest"
+9.7.2008 22:35:30: 85.70.219.31: Serials: 0x4003A068; 
+9.7.2008 22:35:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1283'
+9.7.2008 22:35:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x4003A068 (FillableMetalChest) to '1283'
+9.7.2008 22:35:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 22:35:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'ContentType' of 0x4003A068 (FillableMetalChest) to 'Weaponsmith'
+9.7.2008 22:36:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'ContentType' of 0x4003A068 (FillableMetalChest) to 'None'
+9.7.2008 22:36:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Locked' of 0x4003A068 (FillableMetalChest) to 'False'
+9.7.2008 22:36:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'TrapType' of 0x4003A068 (FillableMetalChest) to 'ExplosionTrap'
+9.7.2008 22:36:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'TrapLevel' of 0x4003A068 (FillableMetalChest) to '10'
+9.7.2008 22:36:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'TrapPower' of 0x4003A068 (FillableMetalChest) to '200'
+9.7.2008 22:37:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EngravedText' of 0x4003A068 (FillableMetalChest) to 'Poklad Insignie'
+9.7.2008 22:37:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Quality' of 0x4003A068 (FillableMetalChest) to 'Exceptional'
+9.7.2008 22:38:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Resource' of 0x4003A068 (FillableMetalChest) to 'Valorite'
+9.7.2008 22:38:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Resource' of 0x4003A068 (FillableMetalChest) to 'None'
+9.7.2008 22:38:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1283'
+9.7.2008 22:38:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x4003A068 (FillableMetalChest) to '1283'
+9.7.2008 22:38:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Name' of 0x4003A068 (FillableMetalChest) to 'Truhla Insignie'
+9.7.2008 22:38:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add random'
+9.7.2008 22:38:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "RandomArtifactDeed"
+9.7.2008 22:38:53: 85.70.219.31: Serials: 0x4003A0C3; 
+9.7.2008 22:39:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:39:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A0C4 (StaffOfTheMagi)
+9.7.2008 22:39:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add ancient'
+9.7.2008 22:39:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2101, 35) in Trammel: "AncientFarmersKasa"
+9.7.2008 22:39:16: 85.70.219.31: Serials: 0x4003A0C5; 
+9.7.2008 22:39:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "AncientWildStaff"
+9.7.2008 22:39:32: 85.70.219.31: Serials: 0x4003A0C6; 
+9.7.2008 22:39:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "RedPoinsettia"
+9.7.2008 22:39:48: 85.70.219.31: Serials: 0x4003A10A; 
+9.7.2008 22:39:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:40:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:40:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A10A (RedPoinsettia)
+9.7.2008 22:40:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "RoseOfTrinsicPetal"
+9.7.2008 22:40:13: 85.70.219.31: Serials: 0x4003A146; 
+9.7.2008 22:40:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2101, 35) in Trammel: "RoseOfTrinsic"
+9.7.2008 22:40:20: 85.70.219.31: Serials: 0x4003A147; 
+9.7.2008 22:40:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 22:40:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Petals' of 0x4003A147 (RoseOfTrinsic) to '5'
+9.7.2008 22:40:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:41:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "WhiteDriedFlowers"
+9.7.2008 22:41:01: 85.70.219.31: Serials: 0x4003A15C; 
+9.7.2008 22:41:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:41:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A15C (WhiteDriedFlowers)
+9.7.2008 22:41:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2105, 35) in Trammel: "WhiteHangingLantern"
+9.7.2008 22:41:13: 85.70.219.31: Serials: 0x4003A15D; 
+9.7.2008 22:41:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:41:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A15D (WhiteHangingLantern)
+9.7.2008 22:41:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2105, 35) in Trammel: "WhitePearl"
+9.7.2008 22:41:21: 85.70.219.31: Serials: 0x4003A15E; 
+9.7.2008 22:41:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:41:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A15E (WhitePearl)
+9.7.2008 22:41:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1417, 2104, 35) in Trammel: "WhiteScales"
+9.7.2008 22:41:30: 85.70.219.31: Serials: 0x4003A15F; 
+9.7.2008 22:41:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:41:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A15F (WhiteScales)
+9.7.2008 22:41:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1417, 2105, 35) in Trammel: "WhiteSnowflake"
+9.7.2008 22:41:35: 85.70.219.31: Serials: 0x4003A160; 
+9.7.2008 22:41:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:41:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A160 (WhiteSnowflake)
+9.7.2008 22:41:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1417, 2105, 35) in Trammel: "WhitePearl"
+9.7.2008 22:41:44: 85.70.219.31: Serials: 0x4003A161; 
+9.7.2008 22:41:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2105, 35) in Trammel: "WhitePearlBracelet"
+9.7.2008 22:41:46: 85.70.219.31: Serials: 0x4003A162; 
+9.7.2008 22:41:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:41:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A162 (WhitePearlBracelet)
+9.7.2008 22:41:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A161 (WhitePearl)
+9.7.2008 22:42:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2105, 35) in Trammel: "WhiteNinjaQuestTeleporter"
+9.7.2008 22:42:00: 85.70.219.31: Serials: 0x4003A163; 
+9.7.2008 22:42:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:42:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A163 (WhiteNinjaQuestTeleporter)
+9.7.2008 22:42:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2105, 35) in Trammel: "WhiteMisoSoup"
+9.7.2008 22:42:13: 85.70.219.31: Serials: 0x4003A164; 
+9.7.2008 22:42:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:42:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A164 (WhiteMisoSoup)
+9.7.2008 22:42:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2104, 35) in Trammel: "DragonsFlameGrandMage"
+9.7.2008 22:42:31: 85.70.219.31: Serials: 0x9E68; 
+9.7.2008 22:42:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:42:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x9E68 "black order grand mage" (no account)
+9.7.2008 22:42:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1419, 2104, 35) in Trammel: "FlameSpurtTrap"
+9.7.2008 22:42:53: 85.70.219.31: Serials: 0x4003A170; 
+9.7.2008 22:42:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 22:43:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:43:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A170 (FlameSpurtTrap)
+9.7.2008 22:43:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2103, 35) in Trammel: "DragonFlameKey"
+9.7.2008 22:43:09: 85.70.219.31: Serials: 0x4003A1B0; 
+9.7.2008 22:43:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:43:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A1B0 (DragonFlameKey)
+9.7.2008 22:43:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2103, 35) in Trammel: "Luckblade"
+9.7.2008 22:43:30: 85.70.219.31: Serials: 0x4003A1B1; 
+9.7.2008 22:43:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:43:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A1B1 (Luckblade)
+9.7.2008 22:43:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:43:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A0C6 (AncientWildStaff)
+9.7.2008 22:44:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2103, 35) in Trammel: "HeartOfTheLion"
+9.7.2008 22:44:01: 85.70.219.31: Serials: 0x4003A1CC; 
+9.7.2008 22:44:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1418, 2102, 35) in Trammel: "EtherealUnicorn"
+9.7.2008 22:44:36: 85.70.219.31: Serials: 0x4003A1E7; 
+9.7.2008 22:45:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:45:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x3B32 "an eagle" (no account)
+9.7.2008 22:45:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x3B3D "a black bear" (no account)
+9.7.2008 22:45:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 22:45:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 22:46:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add book'
+9.7.2008 22:46:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1492, 1870, 0) in Trammel: "BlackthornWelcomeBook"
+9.7.2008 22:46:39: 85.70.219.31: Serials: 0x4003A232; 
+9.7.2008 22:47:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1492, 1871, 0) in Trammel: "ClaininsSpellbook"
+9.7.2008 22:47:54: 85.70.219.31: Serials: 0x4003A233; 
+9.7.2008 22:48:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:48:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A232 (BlackthornWelcomeBook)
+9.7.2008 22:48:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A233 (ClaininsSpellbook)
+9.7.2008 22:48:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1496, 1871, 0) in Trammel: "HallowedSpellbook"
+9.7.2008 22:48:17: 85.70.219.31: Serials: 0x4003A234; 
+9.7.2008 22:48:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:48:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A234 (HallowedSpellbook)
+9.7.2008 22:48:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1492, 1871, 0) in Trammel: "LysanderNotebook1"
+9.7.2008 22:48:27: 85.70.219.31: Serials: 0x4003A277; 
+9.7.2008 22:48:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:48:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A277 (LysanderNotebook1)
+9.7.2008 22:48:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1492, 1871, 0) in Trammel: "MyBookTalisman"
+9.7.2008 22:48:42: 85.70.219.31: Serials: 0x4003A278; 
+9.7.2008 22:48:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:48:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A278 (MyBookTalisman)
+9.7.2008 22:48:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1493, 1870, 0) in Trammel: "RedBook"
+9.7.2008 22:48:57: 85.70.219.31: Serials: 0x4003A279; 
+9.7.2008 22:49:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1492, 1872, 0) in Trammel: "PicnicBasket"
+9.7.2008 22:49:11: 85.70.219.31: Serials: 0x4003A27A; 
+9.7.2008 22:49:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 22:49:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Movable' of 0x4003A27A (PicnicBasket) to 'False'
+9.7.2008 22:50:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Hue' of 0x4003A27A (PicnicBasket) to '348'
+9.7.2008 22:57:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add innkeepe'
+9.7.2008 22:57:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1493, 1871, 0) in Trammel: "InnKeeper"
+9.7.2008 22:57:29: 85.70.219.31: Serials: 0x9E9B; 
+9.7.2008 22:58:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 22:58:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x9E9B "Theone" (no account)
+9.7.2008 22:58:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set amount 60000'
+9.7.2008 22:58:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'amount' of 0x400217AB (Gold) to '60000'
+9.7.2008 23:00:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 23:00:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'LiftOverride' of 0x4003A27A (PicnicBasket) to 'False'
+9.7.2008 23:00:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'LootType' of 0x4003A27A (PicnicBasket) to 'Blessed'
+9.7.2008 23:00:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'LootType' of 0x4003A27A (PicnicBasket) to 'Regular'
+9.7.2008 23:01:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable False'
+9.7.2008 23:01:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A484 (Chessboard) to 'False'
+9.7.2008 23:01:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable False'
+9.7.2008 23:01:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A279 (RedBook) to 'False'
+9.7.2008 23:01:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable False'
+9.7.2008 23:01:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A482 (ChickenLeg) to 'False'
+9.7.2008 23:01:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable False'
+9.7.2008 23:01:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A481 (BeverageBottle) to 'False'
+9.7.2008 23:01:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable False'
+9.7.2008 23:01:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A480 (BeverageBottle) to 'False'
+9.7.2008 23:01:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable False'
+9.7.2008 23:01:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A483 (Banana) to 'False'
+9.7.2008 23:01:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 23:01:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Writable' of 0x4003A279 (RedBook) to 'False'
+9.7.2008 23:01:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Level' of 0x4003A279 (RedBook) to 'Anyone'
+9.7.2008 23:16:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+9.7.2008 23:17:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 23:17:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 23:18:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add pant'
+9.7.2008 23:18:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1551, 1659, 26) in Trammel: "LongPants"
+9.7.2008 23:18:29: 85.70.219.31: Serials: 0x4003A9D8; 
+9.7.2008 23:18:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable False'
+9.7.2008 23:18:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A9D8 (LongPants) to 'False'
+9.7.2008 23:18:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 1283'
+9.7.2008 23:18:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x4003A9D8 (LongPants) to '1283'
+9.7.2008 23:18:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hue 128'
+9.7.2008 23:18:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hue' of 0x4003A9D8 (LongPants) to '128'
+9.7.2008 23:18:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 23:19:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'AttackChance' of ... to '15'
+9.7.2008 23:19:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'DefendChance' of ... to '50'
+9.7.2008 23:19:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'NightSight' of ... to '1'
+9.7.2008 23:19:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'ReflectPhysical' of ... to '25'
+9.7.2008 23:19:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'WeaponDamage' of ... to '20'
+9.7.2008 23:19:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_1_Name' of ... to 'Parry'
+9.7.2008 23:19:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_1_Value' of ... to '20'
+9.7.2008 23:20:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_2_Name' of ... to 'Swords'
+9.7.2008 23:20:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_2_Value' of ... to '10'
+9.7.2008 23:20:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 23:20:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SelfRepair' of ... to '3'
+9.7.2008 23:20:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Crafter' of 0x4003A9D8 (LongPants) to '0x328F "Rawnie"'
+9.7.2008 23:21:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Name' of 0x4003A9D8 (LongPants) to 'Kalhoty strazce britainskych cest'
+9.7.2008 23:21:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 23:22:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspaw'
+9.7.2008 23:22:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1492, 1873, 0) in Trammel: "XmlSpawner"
+9.7.2008 23:22:06: 85.70.219.31: Serials: 0x4003AA6C; 
+9.7.2008 23:22:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4003AA6C 'Spawner' [1492, 1873] (Trammel) : Skeleton
+9.7.2008 23:23:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 23:24:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 23:24:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003A27A (PicnicBasket) to (1492, 1874, 0)
+9.7.2008 23:24:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 23:24:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003A279 (RedBook) to (1492, 1875, 0)
+9.7.2008 23:25:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bedrol'
+9.7.2008 23:25:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1493, 1874, 0) in Trammel: "Bedroll"
+9.7.2008 23:25:08: 85.70.219.31: Serials: 0x4003AAE4; 
+9.7.2008 23:25:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 23:25:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003A279 (RedBook) to (1490, 1875, 0)
+9.7.2008 23:25:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 23:25:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003A279 (RedBook) to (1493, 1876, 1)
+9.7.2008 23:25:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 23:25:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003A279 (RedBook) to (1493, 1876, 1)
+9.7.2008 23:25:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 23:25:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003A279 (RedBook) to (1492, 1876, 0)
+9.7.2008 23:25:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable false'
+9.7.2008 23:25:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003AAE4 (Bedroll) to 'False'
+9.7.2008 23:25:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+9.7.2008 23:26:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 23:26:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9D81 "Strazce Insignie" (no account) to (1406, 2107, 5)
+9.7.2008 23:26:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 23:27:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.7.2008 23:27:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40039448 (HaochisTreasureChest)
+9.7.2008 23:27:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40039494 (HaochisTreasureChest)
+9.7.2008 23:27:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable true'
+9.7.2008 23:27:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A1E7 (EtherealUnicorn) to 'True'
+9.7.2008 23:27:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable true'
+9.7.2008 23:27:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A0C5 (AncientFarmersKasa) to 'True'
+9.7.2008 23:27:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable true'
+9.7.2008 23:27:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A1CC (HeartOfTheLion) to 'True'
+9.7.2008 23:27:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable true'
+9.7.2008 23:27:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A147 (RoseOfTrinsic) to 'True'
+9.7.2008 23:28:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set movable true'
+9.7.2008 23:28:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'movable' of 0x4003A068 (FillableMetalChest) to 'True'
+9.7.2008 23:28:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 23:28:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'LootType' of 0x4003A068 (FillableMetalChest) to 'Newbied'
+9.7.2008 23:29:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Movable' of 0x4003A068 (FillableMetalChest) to 'False'
+9.7.2008 23:29:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 23:30:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.7.2008 23:30:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'TrapType' of 0x4003A068 (FillableMetalChest) to 'ExplosionTrap'
+9.7.2008 23:30:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'TrapPower' of 0x4003A068 (FillableMetalChest) to '80'
+9.7.2008 23:31:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+9.7.2008 23:31:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9D81 "Strazce Insignie" (no account) to (1409, 2093, 5)
+9.7.2008 23:31:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EngravedText' of 0x4003A068 (FillableMetalChest) to 'Heslo pro GM: SEX'
+9.7.2008 23:31:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+9.7.2008 23:31:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 23:32:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.7.2008 23:32:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: True)
+9.7.2008 23:32:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '

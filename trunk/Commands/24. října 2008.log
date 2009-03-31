@@ -1,0 +1,75 @@
+##############################
+Log started on 24.10.2008 22:56:06
+
+24.10.2008 22:57:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+24.10.2008 23:01:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+24.10.2008 23:01:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+24.10.2008 23:03:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add rob'
+24.10.2008 23:03:04: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (952, 631, -90) in Malas: "HoodedRobeOfUmbra"
+24.10.2008 23:03:04: 89.111.89.28: Serials: 0x4001041D; 
+24.10.2008 23:03:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add rob'
+24.10.2008 23:03:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (959, 626, -90) in Malas: "MonksRobe"
+24.10.2008 23:03:15: 89.111.89.28: Serials: 0x4001041E; 
+24.10.2008 23:03:27: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (960, 625, -90) in Malas: "ZooMemberRobe"
+24.10.2008 23:03:27: 89.111.89.28: Serials: 0x4001041F; 
+24.10.2008 23:03:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+24.10.2008 23:04:09: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (960, 625, -90) in Malas: "OdricsRobe"
+24.10.2008 23:04:09: 89.111.89.28: Serials: 0x4001043E; 
+24.10.2008 23:04:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+24.10.2008 23:05:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1122'
+24.10.2008 23:05:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40014E42 (GMRobe) to '1122'
+24.10.2008 23:05:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+24.10.2008 23:05:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1155'
+24.10.2008 23:05:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40014E42 (GMRobe) to '1155'
+24.10.2008 23:05:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1155'
+24.10.2008 23:05:50: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40014F46 (Cloak) to '1155'
+24.10.2008 23:05:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1155'
+24.10.2008 23:05:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40015176 (EtherealHorse) to '1155'
+24.10.2008 23:05:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+24.10.2008 23:05:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4001043E (OdricsRobe)
+24.10.2008 23:05:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+24.10.2008 23:06:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4001041F (ZooMemberRobe)
+24.10.2008 23:06:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+24.10.2008 23:06:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4001041D (HoodedRobeOfUmbra)
+24.10.2008 23:06:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+24.10.2008 23:06:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4001041E (MonksRobe)
+24.10.2008 23:06:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.10.2008 23:07:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 38'
+24.10.2008 23:07:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add dyes'
+24.10.2008 23:07:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (957, 627, -90) in Malas: "dyes"
+24.10.2008 23:07:49: 89.111.89.28: Serials: 0x400138B7; 
+24.10.2008 23:07:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add tub'
+24.10.2008 23:07:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (957, 627, -90) in Malas: "DyeTub"
+24.10.2008 23:07:58: 89.111.89.28: Serials: 0x400138B8; 
+24.10.2008 23:08:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+24.10.2008 23:08:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+24.10.2008 23:08:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.10.2008 23:08:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 232'
+24.10.2008 23:08:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40015176 (EtherealHorse) to '232'
+24.10.2008 23:08:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 232'
+24.10.2008 23:08:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40014E42 (GMRobe) to '232'
+24.10.2008 23:08:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 232'
+24.10.2008 23:08:39: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40014F46 (Cloak) to '232'
+24.10.2008 23:08:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.10.2008 23:09:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add mark'
+24.10.2008 23:09:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5958, 564, 15) in Trammel: "MarkScroll"
+24.10.2008 23:09:32: 89.111.89.28: Serials: 0x400139B5; 
+24.10.2008 23:10:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+24.10.2008 23:11:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'HideEffect' of 0x40014F1A (GMHidingStone) to 'FlameStrikeLightningBolt'
+24.10.2008 23:11:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'HideEffect' of 0x40014F1A (GMHidingStone) to 'ExplosionLightningBolt'
+24.10.2008 23:12:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add lant'
+24.10.2008 23:12:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5958, 564, 15) in Trammel: "Lantern"
+24.10.2008 23:12:23: 89.111.89.28: Serials: 0x40014952; 
+24.10.2008 23:12:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'm tele'
+24.10.2008 23:13:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk Schooling :D'
+24.10.2008 23:13:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'go jail'
+24.10.2008 23:13:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+24.10.2008 23:13:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'm tele'
+24.10.2008 23:13:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add rune'
+24.10.2008 23:13:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5274, 1182, 0) in Trammel: "RecallRune"
+24.10.2008 23:13:33: 89.111.89.28: Serials: 0x400149A3; 
+24.10.2008 23:13:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk Schooling :D'
+24.10.2008 23:13:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add mark'
+24.10.2008 23:13:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5274, 1181, 0) in Trammel: "MarkScroll"
+24.10.2008 23:13:42: 89.111.89.28: Serials: 0x400149A4; 
+24.10.2008 23:14:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '

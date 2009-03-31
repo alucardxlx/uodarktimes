@@ -1,0 +1,863 @@
+##############################
+Log started on 23.10.2008 0:20:26
+
+23.10.2008 0:21:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+23.10.2008 0:21:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add oni'
+23.10.2008 0:21:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (6033, 619, 0) in Trammel: "oni"
+23.10.2008 0:21:18: 85.70.219.31: Serials: 0x11; 
+23.10.2008 0:22:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 0:22:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40010252 (Corpse)
+23.10.2008 0:22:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+23.10.2008 0:22:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 23.10.2008 0:28:49
+
+##############################
+Log started on 23.10.2008 19:41:44
+
+23.10.2008 19:42:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 19:43:22: : Player 0x40B4 "Eldrod" ('theogil') used command 'char '
+23.10.2008 19:43:51: : Player 0x91BA "Sandro Botticell" ('theogil') used command 'char '
+23.10.2008 19:45:32: : Player 0x40B4 "Eldrod" ('theogil') used command 'char '
+23.10.2008 19:46:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go felucca'
+23.10.2008 19:46:11: : Player 0x91BA "Sandro Botticell" ('theogil') used command 'char '
+23.10.2008 19:46:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go trammel'
+23.10.2008 19:46:30: : Player 0x40B4 "Eldrod" ('theogil') used command 'char '
+23.10.2008 19:47:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 19:47:57: : Player 0x91BA "Sandro Botticell" ('theogil') used command 'char '
+23.10.2008 19:48:39: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c jdu na swoopa'
+23.10.2008 19:48:40: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c '
+23.10.2008 19:49:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add blocke'
+23.10.2008 19:49:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5965, 586, 0) in Trammel: "Blocker"
+23.10.2008 19:49:30: 85.70.219.31: Serials: 0x4001233E; 
+23.10.2008 19:49:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5964, 586, 0) in Trammel: "Blocker"
+23.10.2008 19:49:31: 85.70.219.31: Serials: 0x4001233F; 
+23.10.2008 19:53:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'link '
+23.10.2008 19:54:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'chainlink '
+23.10.2008 19:54:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'towncriers '
+23.10.2008 19:54:42: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c jses tu??tam se obevila neaka obluda zabila mi elementaly'
+23.10.2008 19:54:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 19:55:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c nezabila, ta tam chodi porad'
+23.10.2008 19:55:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c staci se podivat dal na pisek'
+23.10.2008 19:55:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 19:56:17: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c coze??nestihl jsem to precist sry'
+23.10.2008 19:56:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c mas journal'
+23.10.2008 19:56:43: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c co je to journal??'
+23.10.2008 19:56:55: : Player 0x40B4 "Eldrod" ('theogil') used command 'char '
+23.10.2008 19:56:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c podivej se nahoru mezi Inventory a Chat'
+23.10.2008 19:57:55: 89.103.30.41: Player 0x91BA "Sandro Botticell" ('theogil') used command 'c zabil jsem dva a staci mi to...pujdu trenovat archera'
+23.10.2008 19:58:14: 89.103.30.41: Player 0x91BA "Sandro Botticell" ('theogil') used command 'c nepujdu nemam sipi:-D'
+23.10.2008 19:58:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Get locked'
+23.10.2008 19:58:35: : Player 0x91BA "Sandro Botticell" ('theogil') used command 'char '
+23.10.2008 19:58:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Get locked'
+23.10.2008 19:58:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Get Hue'
+23.10.2008 19:59:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Get Hue'
+23.10.2008 19:59:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Hue 1'
+23.10.2008 19:59:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Hue' of 0x4001233F (Blocker) to '1'
+23.10.2008 19:59:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Hue 0'
+23.10.2008 19:59:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Hue' of 0x4001233F (Blocker) to '0'
+23.10.2008 19:59:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ -86 static 8176 set movable True hue 0 light {light}'
+23.10.2008 20:00:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:00:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'tileZ 0 block'
+23.10.2008 20:00:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5952, 586, 0) to (5963, 587, 0) in Trammel: "block"
+23.10.2008 20:00:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add block'
+23.10.2008 20:00:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5963, 586, 0) in Trammel: "block"
+23.10.2008 20:00:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add bloc'
+23.10.2008 20:00:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'tileZ 0 blocker'
+23.10.2008 20:00:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5951, 586, 0) to (5963, 586, 0) in Trammel: "blocker"
+23.10.2008 20:00:48: 85.70.219.31: Serials: 0x40014D2F; 0x40014D30; 0x40014D31; 0x40014D32; 0x40014D33; 0x40014D34; 0x40014D35; 0x40014D36; 0x40014D37; 0x40014D38; 0x40014D39; 0x40014D3A; 0x40014D3B; 
+23.10.2008 20:00:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'tileZ 0 blocker'
+23.10.2008 20:00:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5966, 585, 0) to (5980, 586, 0) in Trammel: "blocker"
+23.10.2008 20:00:52: 85.70.219.31: Serials: 0x40014D3C; 0x40014D3D; 0x40014D3E; 0x40014D3F; 0x40014D40; 0x40014D42; 0x40014D43; 0x40014D44; 0x40014D45; 0x40014D46; 0x40014D47; 0x40014D48; 0x40014D49; 0x40014D4A; 0x40014D4B; 0x40014D4C; 0x40014D4D; 0x40014D4E; 0x40014D4F; 0x40014D50; 0x40014D51; 0x40014D52; 0x40014D53; 0x40014D54; 0x40014D55; 0x40014D56; 0x40014D57; 0x40014D58; 0x40014D59; 0x40014D5B; 
+23.10.2008 20:00:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:00:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5966, 585, 4) to (5980, 585, 4) in Trammel (Items, Mobiles)
+23.10.2008 20:00:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:01:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5981, 558, 0) to (5981, 586, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:01:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'tileZ 0 blocker'
+23.10.2008 20:01:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5981, 558, 0) to (5981, 586, 0) in Trammel: "blocker"
+23.10.2008 20:01:15: 85.70.219.31: Serials: 0x40014D5C; 0x40014D5D; 0x40014D5E; 0x40014D5F; 0x40014D60; 0x40014D61; 0x40014D62; 0x40014D63; 0x40014D64; 0x40014D65; 0x40014D66; 0x40014D67; 0x40014D68; 0x40014D69; 0x40014D6A; 0x40014D6B; 0x40014D6C; 0x40014D6D; 0x40014D6F; 0x40014D70; 0x40014D71; 0x40014D72; 0x40014D73; 0x40014D74; 0x40014D75; 0x40014D76; 0x40014D77; 0x40014D78; 0x40014D79; 
+23.10.2008 20:01:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'tileZ 0 blocker'
+23.10.2008 20:01:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5942, 558, 0) to (5981, 558, 0) in Trammel: "blocker"
+23.10.2008 20:01:25: 85.70.219.31: Serials: 0x40014D7A; 0x40014D7B; 0x40014D7C; 0x40014D7D; 0x40014D7E; 0x40014D7F; 0x40014D80; 0x40014D81; 0x40014D82; 0x40014D83; 0x40014D84; 0x40014D85; 0x40014D86; 0x40014D87; 0x40014D88; 0x40014D89; 0x40014D8A; 0x40014D8B; 0x40014D8C; 0x40014D8D; 0x40014D8E; 0x40014D8F; 0x40014D90; 0x40014D91; 0x40014D92; 0x40014D93; 0x40014D94; 0x40014D95; 0x40014D96; 0x40014D97; 0x40014D98; 0x40014D99; 0x40014D9A; 0x40014D9B; 0x40014D9C; 0x40014D9D; 0x40014D9E; 0x40014D9F; 0x40014DA0; 0x40014DA1; 
+23.10.2008 20:01:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'tileZ 0 blocker'
+23.10.2008 20:01:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5941, 559, 0) to (5942, 586, 0) in Trammel: "blocker"
+23.10.2008 20:01:40: 85.70.219.31: Serials: 0x40014DE5; 0x40014DE6; 0x40014DE7; 0x40014DE8; 0x40014DE9; 0x40014DEA; 0x40014DEB; 0x40014DEC; 0x40014DED; 0x40014DEE; 0x40014DEF; 0x40014DF0; 0x40014DF1; 0x40014DF2; 0x40014DF3; 0x40014DF4; 0x40014DF5; 0x40014DF6; 0x40014DF7; 0x40014DFA; 0x40014DFB; 0x40014DFC; 0x40014DFD; 0x40014DFE; 0x40014DFF; 0x40014E00; 0x40014E01; 0x40014E02; 0x40014E03; 0x40014E04; 0x40014E05; 0x40014E06; 0x40014E07; 0x40014E08; 0x40014E09; 0x40014E0A; 0x40014E0B; 0x40014E0C; 0x40014E0D; 0x40014E0E; 0x40014E0F; 0x40014E10; 0x40014E11; 0x40014E12; 0x40014E15; 0x40014E16; 0x40014E17; 0x40014E18; 0x40014E19; 0x40014E1A; 0x40014E1B; 0x40014E1C; 0x40014E1D; 0x40014E1E; 0x40014E1F; 0x40014E20; 
+23.10.2008 20:01:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'tileZ 0 blocker'
+23.10.2008 20:01:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5943, 586, 0) in Trammel: "blocker"
+23.10.2008 20:01:45: 85.70.219.31: Serials: 0x40014E34; 
+23.10.2008 20:01:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'tileZ 0 blocker'
+23.10.2008 20:01:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5944, 586, 0) to (5950, 586, 0) in Trammel: "blocker"
+23.10.2008 20:01:48: 85.70.219.31: Serials: 0x40014E35; 0x40014E36; 0x40014E37; 0x40014E38; 0x40014E39; 0x40014E3A; 0x40014E3B; 
+23.10.2008 20:01:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Movable false'
+23.10.2008 20:01:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Movable' of 0x40014E02 (Blocker) to 'False'
+23.10.2008 20:01:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:01:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5941, 559, 4) to (5941, 586, 4) in Trammel (Items, Mobiles)
+23.10.2008 20:02:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 20:03:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') changing access level of account osiriscz to GameMaster
+23.10.2008 20:04:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AccessLevel' of 0x8D "Kentar" ('osiriscz') to 'GameMaster'
+23.10.2008 20:04:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add eth'
+23.10.2008 20:04:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 20:04:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add gmrobe'
+23.10.2008 20:04:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add gmrobe'
+23.10.2008 20:04:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5954, 569, 0) in Trammel: "gmrobe"
+23.10.2008 20:04:56: 85.70.219.31: Serials: 0x40014E42; 
+23.10.2008 20:05:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5953, 569, 0) in Trammel: "BakeKitsune"
+23.10.2008 20:05:12: 89.111.89.28: Serials: 0x96; 
+23.10.2008 20:05:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add gmring'
+23.10.2008 20:05:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:05:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x96 "a bake kitsune" (no account)
+23.10.2008 20:05:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add staff'
+23.10.2008 20:05:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5951, 569, 0) in Trammel: "Kirin"
+23.10.2008 20:05:25: 89.111.89.28: Serials: 0x97; 
+23.10.2008 20:05:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add staf'
+23.10.2008 20:05:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5954, 568, 0) in Trammel: "StaffRing"
+23.10.2008 20:05:33: 85.70.219.31: Serials: 0x40014E4A; 
+23.10.2008 20:05:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:05:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x97 "a ki-rin" (no account)
+23.10.2008 20:06:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5952, 564, 0) in Trammel: "CoMWarHorse"
+23.10.2008 20:06:25: 89.111.89.28: Serials: 0x9A; 
+23.10.2008 20:06:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:06:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014E2A (Robe)
+23.10.2008 20:06:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:06:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014E27 (LetterofApprenticeship)
+23.10.2008 20:06:39: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:06:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014E2D (Katana)
+23.10.2008 20:06:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:06:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add flam'
+23.10.2008 20:06:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014E2E (Katana)
+23.10.2008 20:06:50: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add book'
+23.10.2008 20:06:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5954, 562, 0) in Trammel: "BookOfTravel"
+23.10.2008 20:06:59: 89.111.89.28: Serials: 0x40014E4C; 
+23.10.2008 20:07:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 14089 set movable True hue 0 light {light}'
+23.10.2008 20:07:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 14089 set movable True hue 0 light {light}'
+23.10.2008 20:07:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5943, 559, 0) to (5943, 585, 0) in Trammel: "static" "14089" "set" "movable" "True" "hue" "0" "light" "{light}"
+23.10.2008 20:07:17: 85.70.219.31: Serials: 0x40014E4D; 0x40014E4E; 0x40014E4F; 0x40014E50; 0x40014E51; 0x40014E52; 0x40014E53; 0x40014E54; 0x40014E58; 0x40014E59; 0x40014E5A; 0x40014E5B; 0x40014E5C; 0x40014E5D; 0x40014E5E; 0x40014E5F; 0x40014E60; 0x40014E61; 0x40014E62; 0x40014E63; 0x40014E64; 0x40014E65; 0x40014E66; 0x40014E67; 0x40014E68; 0x40014E69; 0x40014E6A; 
+23.10.2008 20:07:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5953, 564, 0) in Trammel: "Spellbook"
+23.10.2008 20:07:18: 89.111.89.28: Serials: 0x40014E6B; 
+23.10.2008 20:07:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 14089 set movable True hue 0 light {light}'
+23.10.2008 20:07:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5944, 585, 0) to (5980, 585, 0) in Trammel: "static" "14089" "set" "movable" "True" "hue" "0" "light" "{light}"
+23.10.2008 20:07:25: 85.70.219.31: Serials: 0x40014E6C; 0x40014E6D; 0x40014E6E; 0x40014E6F; 0x40014E70; 0x40014E71; 0x40014E72; 0x40014E73; 0x40014E74; 0x40014E75; 0x40014E76; 0x40014E77; 0x40014E78; 0x40014E79; 0x40014E7A; 0x40014E7B; 0x40014E7C; 0x40014E7D; 0x40014E7E; 0x40014E7F; 0x40014E80; 0x40014E81; 0x40014E82; 0x40014E83; 0x40014E84; 0x40014E85; 0x40014E86; 0x40014E87; 0x40014E88; 0x40014E89; 0x40014E8A; 0x40014E8B; 0x40014E8C; 0x40014E8D; 0x40014E8E; 0x40014E8F; 0x40014E90; 
+23.10.2008 20:07:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 14089 set movable True hue 0 light {light}'
+23.10.2008 20:07:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5980, 559, 0) to (5980, 584, 0) in Trammel: "static" "14089" "set" "movable" "True" "hue" "0" "light" "{light}"
+23.10.2008 20:07:32: 85.70.219.31: Serials: 0x40014E91; 0x40014E92; 0x40014E93; 0x40014E94; 0x40014E95; 0x40014E96; 0x40014E97; 0x40014E98; 0x40014E99; 0x40014E9A; 0x40014E9B; 0x40014E9C; 0x40014E9D; 0x40014E9E; 0x40014E9F; 0x40014EA0; 0x40014EA1; 0x40014EA2; 0x40014EA3; 0x40014EA4; 0x40014EA5; 0x40014EA6; 0x40014EA7; 0x40014EA8; 0x40014EA9; 0x40014EAA; 
+23.10.2008 20:07:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add gem'
+23.10.2008 20:07:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 14089 set movable True hue 0 light {light}'
+23.10.2008 20:07:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5944, 559, 0) to (5979, 559, 0) in Trammel: "static" "14089" "set" "movable" "True" "hue" "0" "light" "{light}"
+23.10.2008 20:07:41: 85.70.219.31: Serials: 0x40014EAB; 0x40014EAC; 0x40014EAD; 0x40014EAE; 0x40014EAF; 0x40014EB0; 0x40014EB1; 0x40014EB2; 0x40014EB3; 0x40014EB4; 0x40014EB5; 0x40014EB6; 0x40014EB7; 0x40014EB8; 0x40014EB9; 0x40014EBA; 0x40014EBB; 0x40014EBC; 0x40014EBD; 0x40014EBE; 0x40014EBF; 0x40014EC0; 0x40014EC1; 0x40014EC2; 0x40014EC3; 0x40014EC4; 0x40014EC5; 0x40014EC6; 0x40014EC7; 0x40014EC8; 0x40014EC9; 0x40014ECA; 0x40014ECB; 0x40014ECC; 0x40014ECD; 0x40014ECE; 
+23.10.2008 20:08:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x40019154 (PremiumStone) (inBag=False; amount=1)
+23.10.2008 20:08:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x40019154 (PremiumStone) creating 0x40014ECF (PremiumStone)
+23.10.2008 20:08:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x40019152 (SpeedStone) (inBag=False; amount=1)
+23.10.2008 20:08:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x40019152 (SpeedStone) creating 0x40014ED0 (SpeedStone)
+23.10.2008 20:08:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x4001914E (PropsStone) (inBag=False; amount=1)
+23.10.2008 20:08:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x4001914E (PropsStone) creating 0x40014ED1 (PropsStone)
+23.10.2008 20:08:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x40019151 (GMHidingStone) (inBag=False; amount=1)
+23.10.2008 20:08:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x40019151 (GMHidingStone) creating 0x40014F18 (GMHidingStone)
+23.10.2008 20:08:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x40019155 (AdminStone) (inBag=False; amount=1)
+23.10.2008 20:08:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x40019155 (AdminStone) creating 0x40014F19 (AdminStone)
+23.10.2008 20:08:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'dupe '
+23.10.2008 20:08:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') duping 0x40014F18 (GMHidingStone) (inBag=False; amount=1)
+23.10.2008 20:08:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') duped 0x40014F18 (GMHidingStone) creating 0x40014F1A (GMHidingStone)
+23.10.2008 20:08:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x40019150 (GoStone) (inBag=False; amount=1)
+23.10.2008 20:08:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x40019150 (GoStone) creating 0x40014F1B (GoStone)
+23.10.2008 20:08:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x4001914F (TeleportStone) (inBag=False; amount=1)
+23.10.2008 20:08:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x4001914F (TeleportStone) creating 0x40014F1C (TeleportStone)
+23.10.2008 20:08:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x40010222 (RemoveStone) (inBag=False; amount=1)
+23.10.2008 20:08:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x40010222 (RemoveStone) creating 0x40014F1D (RemoveStone)
+23.10.2008 20:08:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x40016901 (BookOfTravel) (inBag=False; amount=1)
+23.10.2008 20:08:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x40016901 (BookOfTravel) creating 0x40014F1E (BookOfTravel)
+23.10.2008 20:08:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x4002AEC1 (FullMagerySpellbook) (inBag=False; amount=1)
+23.10.2008 20:08:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x4002AEC1 (FullMagerySpellbook) creating 0x40014F1F (FullMagerySpellbook)
+23.10.2008 20:08:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x4001914A (NecromancerSpellbook) (inBag=False; amount=1)
+23.10.2008 20:08:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x4001914A (NecromancerSpellbook) creating 0x40014F20 (NecromancerSpellbook)
+23.10.2008 20:08:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x40000015 (BookOfBushido) (inBag=False; amount=1)
+23.10.2008 20:08:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x40000015 (BookOfBushido) creating 0x40014F22 (BookOfBushido)
+23.10.2008 20:08:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:08:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x4001914B (BookOfChivalry) (inBag=False; amount=1)
+23.10.2008 20:08:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x4001914B (BookOfChivalry) creating 0x40014F23 (BookOfChivalry)
+23.10.2008 20:09:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add backpac'
+23.10.2008 20:09:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:09:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014F22 (BookOfBushido)
+23.10.2008 20:09:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:09:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014F1E (BookOfTravel)
+23.10.2008 20:09:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5950, 565, 0) in Trammel: "BackpackOfReduction"
+23.10.2008 20:09:28: 85.70.219.31: Serials: 0x40014F24; 
+23.10.2008 20:09:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:09:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014F18 (GMHidingStone)
+23.10.2008 20:09:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:09:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014F23 (BookOfChivalry)
+23.10.2008 20:09:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:09:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014E6B (Spellbook)
+23.10.2008 20:09:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1009'
+23.10.2008 20:09:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40014EB2 (Static) to '1009'
+23.10.2008 20:10:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 0'
+23.10.2008 20:10:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40014EB2 (Static) to '0'
+23.10.2008 20:10:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add sandals'
+23.10.2008 20:10:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5951, 563, 0) in Trammel: "sandals"
+23.10.2008 20:10:14: 85.70.219.31: Serials: 0x40014F25; 
+23.10.2008 20:10:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+23.10.2008 20:10:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'AppearEffect' of 0x40014F1A (GMHidingStone) to 'FlameStrike3'
+23.10.2008 20:10:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'HideEffect' of 0x40014F1A (GMHidingStone) to 'FlameStrike1'
+23.10.2008 20:10:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'm tele'
+23.10.2008 20:12:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 1978 set movable True hue 0 light {light}'
+23.10.2008 20:12:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5958, 563, 0) to (5965, 565, 0) in Trammel: "static" "1978" "set" "movable" "True" "hue" "0" "light" "{light}"
+23.10.2008 20:12:14: 85.70.219.31: Serials: 0x40014F2A; 0x40014F2B; 0x40014F2C; 0x40014F2D; 0x40014F2E; 0x40014F2F; 0x40014F30; 0x40014F31; 0x40014F32; 0x40014F34; 0x40014F35; 0x40014F37; 0x40014F38; 0x40014F39; 0x40014F3A; 0x40014F3B; 0x40014F3C; 0x40014F3D; 0x40014F3F; 0x40014F40; 0x40014F41; 0x40014F42; 0x40014F43; 0x40014F44; 
+23.10.2008 20:12:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 2 static 1978 set movable True hue 0 light {light}'
+23.10.2008 20:12:27: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add cloak'
+23.10.2008 20:12:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:12:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5955, 563, 0) in Trammel: "cloak"
+23.10.2008 20:12:28: 89.111.89.28: Serials: 0x40014F46; 
+23.10.2008 20:12:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:12:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5958, 563, 5) to (5965, 565, 5) in Trammel (Items, Mobiles)
+23.10.2008 20:12:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 38'
+23.10.2008 20:12:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40014F46 (Cloak) to '38'
+23.10.2008 20:12:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 38'
+23.10.2008 20:12:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 1978 set movable False hue 0 light {light}'
+23.10.2008 20:12:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40014E31 (Shoes) to '38'
+23.10.2008 20:12:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5957, 563, 0) to (5965, 564, 0) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:12:40: 85.70.219.31: Serials: 0x40014F47; 0x40014F48; 0x40014F49; 0x40014F4A; 0x40014F4B; 0x40014F4C; 0x40014F4D; 0x40014F4E; 0x40014F4F; 0x40014F50; 0x40014F51; 0x40014F5E; 0x40014F5F; 0x40014F60; 0x40014F61; 0x40014F62; 0x40014F63; 0x40014F64; 
+23.10.2008 20:12:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add sandals'
+23.10.2008 20:12:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5952, 565, 0) in Trammel: "sandals"
+23.10.2008 20:12:47: 89.111.89.28: Serials: 0x40014F80; 
+23.10.2008 20:12:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 1978 set movable False hue 0 light {light}'
+23.10.2008 20:12:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5957, 565, 0) to (5965, 565, 0) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:12:49: 85.70.219.31: Serials: 0x40014F82; 0x40014F83; 0x40014F84; 0x40014F87; 0x40014F89; 0x40014F8D; 0x40014F8E; 0x40014F8F; 0x40014F90; 
+23.10.2008 20:12:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 2 static 1978 set movable False hue 0 light {light}'
+23.10.2008 20:12:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5957, 563, 2) to (5965, 565, 2) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:12:55: 85.70.219.31: Serials: 0x40014FA2; 0x40014FA4; 0x40014FA5; 0x40014FA6; 0x40014FA7; 0x40014FA8; 0x40014FA9; 0x40014FAA; 0x40014FAB; 0x40014FAC; 0x40014FB0; 0x40014FB1; 0x40014FB2; 0x40014FB3; 0x40014FB4; 0x40014FB5; 0x40014FB6; 0x40014FB7; 0x40014FB8; 0x40014FB9; 0x40014FBA; 0x40014FBB; 0x40014FBC; 0x40014FBD; 0x40014FBE; 0x40014FBF; 0x40014FC0; 
+23.10.2008 20:12:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add black'
+23.10.2008 20:13:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 5 static 1978 set movable False hue 0 light {light}'
+23.10.2008 20:13:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5957, 563, 5) to (5965, 565, 5) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:13:01: 85.70.219.31: Serials: 0x40014FC1; 0x40014FC2; 0x40014FC3; 0x40014FC4; 0x40014FC5; 0x40014FC6; 0x40014FC8; 0x40014FC9; 0x40014FCA; 0x40014FCB; 0x40014FCC; 0x40014FCD; 0x40014FCE; 0x40014FCF; 0x40014FD0; 0x40014FD1; 0x40014FD2; 0x40014FD3; 0x40014FD4; 0x40014FD5; 0x40014FD6; 0x40014FD7; 0x40014FD8; 0x40014FD9; 0x40014FDA; 0x40014FDB; 0x40014FDC; 
+23.10.2008 20:13:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 10 static 1978 set movable False hue 0 light {light}'
+23.10.2008 20:13:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5957, 563, 10) to (5965, 565, 10) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:13:10: 85.70.219.31: Serials: 0x40014FDD; 0x40014FDE; 0x40014FDF; 0x40014FE0; 0x40014FE1; 0x40014FE2; 0x40014FE3; 0x40014FE4; 0x40014FE5; 0x40014FE6; 0x40014FE7; 0x40014FE8; 0x40014FE9; 0x40014FEA; 0x40014FEB; 0x40014FEC; 0x40014FED; 0x40014FEE; 0x40014FEF; 0x40014FF0; 0x40014FF1; 0x40014FF2; 0x40014FF3; 0x40014FF4; 0x40014FF5; 0x40014FF6; 0x40014FF7; 
+23.10.2008 20:13:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:13:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:13:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40014E31 (Shoes)
+23.10.2008 20:13:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'speedboost '
+23.10.2008 20:13:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'speedboost '
+23.10.2008 20:13:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:14:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add thron'
+23.10.2008 20:14:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 564, 15) in Trammel: "LordBritishThroneAddon"
+23.10.2008 20:14:26: 85.70.219.31: Serials: 0x40015027; 
+23.10.2008 20:14:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5960, 564, 15) in Trammel: "LordBritishThroneAddon"
+23.10.2008 20:14:29: 85.70.219.31: Serials: 0x4001502A; 
+23.10.2008 20:14:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:14:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015029 (AddonComponent)
+23.10.2008 20:14:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:14:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x4001502C (AddonComponent) to 'East'
+23.10.2008 20:15:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:15:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001502C (AddonComponent)
+23.10.2008 20:15:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Inc X 1'
+23.10.2008 20:15:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Inc X 1 Y -1'
+23.10.2008 20:15:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Inc Y 1'
+23.10.2008 20:15:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Inc Y 1'
+23.10.2008 20:15:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Inc Y 1'
+23.10.2008 20:16:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'm tele'
+23.10.2008 20:16:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 20:16:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2866 set movable False hue 0 light Circle225'
+23.10.2008 20:16:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 564, 15) in Trammel: "static" "2866" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:16:20: 85.70.219.31: Serials: 0x40015075; 
+23.10.2008 20:16:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add runebook'
+23.10.2008 20:16:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 568, 0) in Trammel: "runebook"
+23.10.2008 20:16:50: 85.70.219.31: Serials: 0x40015076; 
+23.10.2008 20:16:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add recalrune'
+23.10.2008 20:16:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add mark'
+23.10.2008 20:17:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5957, 568, 0) in Trammel: "RecallRune"
+23.10.2008 20:17:00: 85.70.219.31: Serials: 0x40015077; 
+23.10.2008 20:17:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5955, 568, 0) in Trammel: "MarkScroll"
+23.10.2008 20:17:08: 89.111.89.28: Serials: 0x40015078; 
+23.10.2008 20:17:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2862 set movable False hue 0 light Circle225'
+23.10.2008 20:17:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2866 set movable False hue 0 light Circle225'
+23.10.2008 20:17:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5962, 564, 15) in Trammel: "static" "2866" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:17:24: 85.70.219.31: Serials: 0x400150C5; 
+23.10.2008 20:17:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+23.10.2008 20:17:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2866 set movable False hue 0 light Circle225'
+23.10.2008 20:17:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5960, 564, 15) in Trammel: "static" "2866" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:17:28: 85.70.219.31: Serials: 0x400150C6; 
+23.10.2008 20:17:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set rawint 65000'
+23.10.2008 20:17:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'rawint' of 0x8D "Kentar" ('osiriscz') to '65000'
+23.10.2008 20:17:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set rawstr 65000'
+23.10.2008 20:17:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'rawstr' of 0x8D "Kentar" ('osiriscz') to '65000'
+23.10.2008 20:17:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set rawdex 65000'
+23.10.2008 20:17:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'rawdex' of 0x8D "Kentar" ('osiriscz') to '65000'
+23.10.2008 20:17:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 650000'
+23.10.2008 20:17:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x8D "Kentar" ('osiriscz') to '650000'
+23.10.2008 20:18:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 20:18:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40015075 (Static) to (5963, 564, 15)
+23.10.2008 20:18:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'setallskills 65000'
+23.10.2008 20:18:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'EverySkill.Base' of 0x8D "Kentar" ('osiriscz') to '65000'
+23.10.2008 20:18:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+23.10.2008 20:18:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x40014FF7 (Static) (inBag=False; amount=1)
+23.10.2008 20:18:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x40014FF7 (Static) creating 0x400150D9 (Static)
+23.10.2008 20:18:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 20:18:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x400150D9 (Static) to (5961, 564, 15)
+23.10.2008 20:18:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 20:18:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40015075 (Static) to (5961, 564, 20)
+23.10.2008 20:18:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:18:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'm tele'
+23.10.2008 20:19:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Hue' of 0x400150D9 (Static) to '12'
+23.10.2008 20:19:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:19:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Hue' of 0x400150D9 (Static) to '1158'
+23.10.2008 20:19:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:19:50: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+23.10.2008 20:19:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'CurCharges' of 0x40015076 (Runebook) to '1000'
+23.10.2008 20:20:04: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'MaxCharges' of 0x40015076 (Runebook) to '1000'
+23.10.2008 20:20:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+23.10.2008 20:20:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:20:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x9A "a war horse" (no account)
+23.10.2008 20:20:53: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add eth'
+23.10.2008 20:20:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (5949, 577, 0) in Trammel: "EtherealHorse"
+23.10.2008 20:20:57: 89.111.89.28: Serials: 0x40015176; 
+23.10.2008 20:21:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 38'
+23.10.2008 20:21:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40015176 (EtherealHorse) to '38'
+23.10.2008 20:21:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 0'
+23.10.2008 20:21:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40015176 (EtherealHorse) to '0'
+23.10.2008 20:21:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 38'
+23.10.2008 20:21:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40015176 (EtherealHorse) to '38'
+23.10.2008 20:22:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:22:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:22:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'm tele'
+23.10.2008 20:22:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'go '
+23.10.2008 20:22:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+23.10.2008 20:23:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 's nezapomen na invis'
+23.10.2008 20:23:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'm tele'
+23.10.2008 20:24:04: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+23.10.2008 20:24:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') telling 0x1 "Elamor" ('Elamor') "mne nefunguje .co" 
+23.10.2008 20:24:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'c '
+23.10.2008 20:24:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'chat h'
+23.10.2008 20:24:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+23.10.2008 20:24:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') telling 0x1 "Elamor" ('Elamor') "videl si cosem napsal?" 
+23.10.2008 20:25:02: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add book'
+23.10.2008 20:25:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'e videl'
+23.10.2008 20:25:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (938, 637, -90) in Malas: "BlueBook"
+23.10.2008 20:25:05: 89.111.89.28: Serials: 0x400152F4; 
+23.10.2008 20:25:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'e videl'
+23.10.2008 20:25:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 's videl'
+23.10.2008 20:25:14: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+23.10.2008 20:25:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 's nevim kde je problem, ale zkus .chatoptions'
+23.10.2008 20:25:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') telling 0x1 "Elamor" ('Elamor') "de psat nejak jako gm?" 
+23.10.2008 20:25:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 's taky ne'
+23.10.2008 20:25:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+23.10.2008 20:25:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 's kdyz das .c tak tam mas options'
+23.10.2008 20:25:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'c '
+23.10.2008 20:26:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 's popravde jsem na to jeste neprisel :D'
+23.10.2008 20:26:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+23.10.2008 20:26:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') telling 0x1 "Elamor" ('Elamor') "hehe co bude jako odmnena za event?" 
+23.10.2008 20:28:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add armour'
+23.10.2008 20:28:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (938, 637, -90) in Malas: "SpectralArmour"
+23.10.2008 20:28:18: 89.111.89.28: Serials: 0x15F; 
+23.10.2008 20:28:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:28:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 's zapominas na . ;)'
+23.10.2008 20:28:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x15F "spectral armour" (no account)
+23.10.2008 20:28:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'm tele'
+23.10.2008 20:28:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+23.10.2008 20:29:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1980 set movable False hue 0 light Circle225'
+23.10.2008 20:29:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5962, 565, 15) in Trammel: "static" "1980" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:29:44: 85.70.219.31: Serials: 0x400153AB; 
+23.10.2008 20:29:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1978 set movable False hue 0 light Circle225'
+23.10.2008 20:29:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 565, 15) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:29:52: 85.70.219.31: Serials: 0x400153AC; 
+23.10.2008 20:29:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') telling 0x1 "Elamor" ('Elamor') "jo to se spravi de o zvyk ja ted du poustet bratra jinak sem tu tak od pul druhe ve vsedni dny do vecera tak do 8 o vikendu v sobotu od rana do vecera v nedeli jak kdy ale taky dlouho v patek stejne jako ve vsedni dny akorat zetu muzu byt " 
+23.10.2008 20:30:27: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add bag'
+23.10.2008 20:30:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (923, 597, -90) in Malas: "bag"
+23.10.2008 20:30:28: 89.111.89.28: Serials: 0x400153EF; 
+23.10.2008 20:30:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 's ok, kdyz budu na skypu, tak jsem u pc ;)'
+23.10.2008 20:30:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+23.10.2008 20:30:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') telling 0x1 "Elamor" ('Elamor') "ok cau" 
+23.10.2008 20:30:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add god'
+23.10.2008 20:30:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+23.10.2008 20:31:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1978 set movable False hue 0 light Circle225'
+23.10.2008 20:31:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 566, 0) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:31:06: 85.70.219.31: Serials: 0x400153F3; 
+23.10.2008 20:31:09: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Amount' of 0x40014E24 (Gold) to '100000'
+23.10.2008 20:31:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1978 set movable False hue 0 light Circle225'
+23.10.2008 20:31:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 566, 5) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:31:10: 85.70.219.31: Serials: 0x400153F5; 
+23.10.2008 20:31:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1978 set movable False hue 0 light Circle225'
+23.10.2008 20:31:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 566, 10) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:31:15: 85.70.219.31: Serials: 0x400153F7; 
+23.10.2008 20:31:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add toxi'
+23.10.2008 20:31:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:31:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (923, 598, -90) in Malas: "NoxRangersHeavyCrossbow"
+23.10.2008 20:31:24: 89.111.89.28: Serials: 0x400153F9; 
+23.10.2008 20:31:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 15 static 1978 set movable False hue 0 light {light}'
+23.10.2008 20:31:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 566, 15) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:31:28: 85.70.219.31: Serials: 0x400153FA; 
+23.10.2008 20:31:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (923, 598, -90) in Malas: "HonorableSwords"
+23.10.2008 20:31:38: 89.111.89.28: Serials: 0x400153FB; 
+23.10.2008 20:31:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:31:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+23.10.2008 20:31:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400153AB (Static)
+23.10.2008 20:31:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400153FB (HonorableSwords)
+23.10.2008 20:31:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:31:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400153AC (Static)
+23.10.2008 20:31:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400153FA (Static)
+23.10.2008 20:31:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400153F7 (Static)
+23.10.2008 20:31:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400153F5 (Static)
+23.10.2008 20:31:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400153F3 (Static)
+23.10.2008 20:32:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1978 set movable False hue 0 light Circle225'
+23.10.2008 20:32:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1980 set movable False hue 0 light Circle225'
+23.10.2008 20:32:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5962, 563, 15) in Trammel: "static" "1980" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:32:33: 85.70.219.31: Serials: 0x400153FC; 
+23.10.2008 20:32:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1978 set movable False hue 0 light Circle225'
+23.10.2008 20:32:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 563, 15) in Trammel: "static" "1978" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:32:38: 85.70.219.31: Serials: 0x400153FD; 
+23.10.2008 20:32:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:32:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm add blocker'
+23.10.2008 20:32:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:54: 85.70.219.31: Serials: 0x40015404; 
+23.10.2008 20:32:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5965, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:54: 85.70.219.31: Serials: 0x40015405; 
+23.10.2008 20:32:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5964, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:55: 85.70.219.31: Serials: 0x40015406; 
+23.10.2008 20:32:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5963, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:55: 85.70.219.31: Serials: 0x40015407; 
+23.10.2008 20:32:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5962, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:55: 85.70.219.31: Serials: 0x40015408; 
+23.10.2008 20:32:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:56: 85.70.219.31: Serials: 0x40015409; 
+23.10.2008 20:32:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5960, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:57: 85.70.219.31: Serials: 0x4001540A; 
+23.10.2008 20:32:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5959, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:57: 85.70.219.31: Serials: 0x4001540B; 
+23.10.2008 20:32:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5958, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:58: 85.70.219.31: Serials: 0x4001540C; 
+23.10.2008 20:32:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5957, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:59: 85.70.219.31: Serials: 0x4001540D; 
+23.10.2008 20:32:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 566, 0) in Trammel: "blocker"
+23.10.2008 20:32:59: 85.70.219.31: Serials: 0x4001540E; 
+23.10.2008 20:33:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 565, 0) in Trammel: "blocker"
+23.10.2008 20:33:00: 85.70.219.31: Serials: 0x4001540F; 
+23.10.2008 20:33:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 564, 0) in Trammel: "blocker"
+23.10.2008 20:33:01: 85.70.219.31: Serials: 0x40015410; 
+23.10.2008 20:33:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 563, 0) in Trammel: "blocker"
+23.10.2008 20:33:01: 85.70.219.31: Serials: 0x40015411; 
+23.10.2008 20:33:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 562, 0) in Trammel: "blocker"
+23.10.2008 20:33:02: 85.70.219.31: Serials: 0x40015412; 
+23.10.2008 20:33:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 561, 0) in Trammel: "blocker"
+23.10.2008 20:33:02: 85.70.219.31: Serials: 0x40015413; 
+23.10.2008 20:33:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 560, 0) in Trammel: "blocker"
+23.10.2008 20:33:03: 85.70.219.31: Serials: 0x40015414; 
+23.10.2008 20:33:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 559, 0) in Trammel: "blocker"
+23.10.2008 20:33:05: 85.70.219.31: Serials: 0x40015415; 
+23.10.2008 20:33:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 565, 0) in Trammel: "blocker"
+23.10.2008 20:33:07: 85.70.219.31: Serials: 0x40015416; 
+23.10.2008 20:33:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 559, 0) in Trammel: "blocker"
+23.10.2008 20:33:16: 85.70.219.31: Serials: 0x40015417; 
+23.10.2008 20:33:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 560, 0) in Trammel: "blocker"
+23.10.2008 20:33:18: 85.70.219.31: Serials: 0x40015418; 
+23.10.2008 20:33:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 561, 0) in Trammel: "blocker"
+23.10.2008 20:33:20: 85.70.219.31: Serials: 0x40015419; 
+23.10.2008 20:34:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 blocker'
+23.10.2008 20:34:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5956, 561, 0) to (5956, 565, 0) in Trammel: "blocker"
+23.10.2008 20:34:27: 85.70.219.31: Serials: 0x4001541A; 0x4001541B; 0x4001541C; 0x4001541D; 0x4001541E; 
+23.10.2008 20:34:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:34:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001541E (Blocker)
+23.10.2008 20:34:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001541A (Blocker)
+23.10.2008 20:34:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:34:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:35:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:35:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014FEF (Static)
+23.10.2008 20:35:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014FF2 (Static)
+23.10.2008 20:35:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014FF5 (Static)
+23.10.2008 20:35:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014FDA (Static)
+23.10.2008 20:35:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014FBE (Static)
+23.10.2008 20:35:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014F63 (Static)
+23.10.2008 20:35:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014FD7 (Static)
+23.10.2008 20:35:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014FBB (Static)
+23.10.2008 20:35:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1980 set movable False hue 0 light Circle225'
+23.10.2008 20:35:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5963, 563, 10) in Trammel: "static" "1980" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:35:19: 85.70.219.31: Serials: 0x4001541F; 
+23.10.2008 20:35:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1980 set movable False hue 0 light Circle225'
+23.10.2008 20:35:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5965, 563, 0) in Trammel: "static" "1980" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:35:23: 85.70.219.31: Serials: 0x40015420; 
+23.10.2008 20:35:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 1980 set movable False hue 0 light Circle225'
+23.10.2008 20:35:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5964, 563, 5) in Trammel: "static" "1980" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:35:28: 85.70.219.31: Serials: 0x40015421; 
+23.10.2008 20:35:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add teleport'
+23.10.2008 20:35:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5965, 563, 2) in Trammel: "Teleporter"
+23.10.2008 20:35:55: 85.70.219.31: Serials: 0x40015422; 
+23.10.2008 20:35:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5967, 563, 0) in Trammel: "Teleporter"
+23.10.2008 20:35:57: 85.70.219.31: Serials: 0x40015423; 
+23.10.2008 20:36:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:36:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'PointDest' of 0x40015422 (Teleporter) to '(5967, 563, 0)'
+23.10.2008 20:36:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MapDest' of 0x40015422 (Teleporter) to 'Trammel'
+23.10.2008 20:36:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:36:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015423 (Teleporter)
+23.10.2008 20:36:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:36:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:36:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'PointDest' of 0x40015422 (Teleporter) to '(5966, 563, 0)'
+23.10.2008 20:37:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:38:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 14138 set movable False hue 0 light Circle225'
+23.10.2008 20:38:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5965, 563, 3) in Trammel: "static" "14138" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:38:08: 85.70.219.31: Serials: 0x40015462; 
+23.10.2008 20:38:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 20:38:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40015422 (Teleporter) to (5965, 560, 0)
+23.10.2008 20:38:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 20:38:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40015462 (Static) to (5965, 560, 1)
+23.10.2008 20:38:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:38:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'PointDest' of 0x40015422 (Teleporter) to '(5966, 560, 0)'
+23.10.2008 20:38:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:39:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+23.10.2008 20:39:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5965, 565, 15) in Trammel: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:39:56: 85.70.219.31: Serials: 0x400154A0; 
+23.10.2008 20:40:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:40:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400154A0 (Static)
+23.10.2008 20:40:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+23.10.2008 20:40:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5964, 566, 4) in Trammel: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:40:06: 85.70.219.31: Serials: 0x400154E2; 
+23.10.2008 20:40:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+23.10.2008 20:40:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 566, 0) in Trammel: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:40:11: 85.70.219.31: Serials: 0x400154E3; 
+23.10.2008 20:40:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+23.10.2008 20:40:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5958, 566, 4) in Trammel: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:40:17: 85.70.219.31: Serials: 0x400154E4; 
+23.10.2008 20:40:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+23.10.2008 20:40:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 566, 4) in Trammel: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:40:22: 85.70.219.31: Serials: 0x400154E5; 
+23.10.2008 20:40:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+23.10.2008 20:40:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 566, 4) in Trammel: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:40:27: 85.70.219.31: Serials: 0x400154E6; 
+23.10.2008 20:40:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+23.10.2008 20:40:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 564, 4) in Trammel: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:40:32: 85.70.219.31: Serials: 0x400154E7; 
+23.10.2008 20:40:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+23.10.2008 20:40:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 564, 4) in Trammel: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:40:37: 85.70.219.31: Serials: 0x400154E8; 
+23.10.2008 20:41:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:41:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5957, 559, 0) to (5965, 559, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:41:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:41:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014EB7 (Static)
+23.10.2008 20:41:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40014EC1 (Static)
+23.10.2008 20:41:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:41:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:41:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5943, 559, 0) to (5955, 559, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:41:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:41:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5943, 559, 0) to (5943, 585, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:41:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:41:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5944, 585, 0) to (5980, 585, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:41:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:41:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5980, 559, 0) to (5980, 584, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:41:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:41:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5967, 559, 0) to (5979, 559, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:42:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 3513 set movable False hue 0 light {light}'
+23.10.2008 20:42:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5981, 558, 0) to (5981, 586, 0) in Trammel: "static" "3513" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:42:24: 85.70.219.31: Serials: 0x400155DD; 0x400155DE; 0x400155DF; 0x400155E0; 0x400155E1; 0x400155E2; 0x400155E3; 0x400155E4; 0x400155E5; 0x400155E6; 0x400155E7; 0x400155E8; 0x400155E9; 0x400155EA; 0x400155EB; 0x400155EC; 0x400155ED; 0x400155EE; 0x400155EF; 0x400155F0; 0x400155F1; 0x400155F2; 0x400155F3; 0x400155F4; 0x400155F5; 0x400155F6; 0x400155F7; 0x400155F8; 0x400155F9; 
+23.10.2008 20:42:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 3513 set movable False hue 0 light {light}'
+23.10.2008 20:42:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5942, 586, 0) to (5980, 586, 0) in Trammel: "static" "3513" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:42:34: 85.70.219.31: Serials: 0x400155FA; 0x400155FB; 0x400155FC; 0x400155FD; 0x400155FE; 0x400155FF; 0x40015600; 0x40015601; 0x40015602; 0x40015603; 0x40015604; 0x40015605; 0x40015606; 0x40015607; 0x40015608; 0x40015609; 0x4001560A; 0x4001560B; 0x4001560C; 0x4001560D; 0x4001560E; 0x4001560F; 0x40015610; 0x40015611; 0x40015612; 0x40015617; 0x40015618; 0x4001561B; 0x4001561D; 0x40015620; 0x40015622; 0x40015623; 0x40015624; 0x40015625; 0x40015626; 0x40015627; 0x40015628; 0x40015629; 0x4001562A; 
+23.10.2008 20:42:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 3513 set movable False hue 0 light {light}'
+23.10.2008 20:42:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5942, 558, 0) to (5942, 585, 0) in Trammel: "static" "3513" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:42:42: 85.70.219.31: Serials: 0x4001562D; 0x4001562E; 0x4001562F; 0x40015630; 0x40015631; 0x40015632; 0x40015633; 0x40015634; 0x40015635; 0x40015636; 0x40015637; 0x40015638; 0x40015639; 0x4001563A; 0x4001563B; 0x4001563C; 0x4001563D; 0x4001563E; 0x4001563F; 0x40015640; 0x40015641; 0x40015642; 0x40015643; 0x40015644; 0x40015645; 0x40015646; 0x40015647; 0x40015648; 
+23.10.2008 20:42:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 3513 set movable False hue 0 light {light}'
+23.10.2008 20:42:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5943, 558, 0) to (5980, 558, 0) in Trammel: "static" "3513" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:42:51: 85.70.219.31: Serials: 0x40015682; 0x40015683; 0x40015684; 0x40015685; 0x40015686; 0x40015687; 0x40015688; 0x4001568B; 0x4001568C; 0x4001568E; 0x4001568F; 0x40015690; 0x40015691; 0x40015692; 0x40015693; 0x40015694; 0x40015695; 0x40015696; 0x40015697; 0x40015698; 0x40015699; 0x4001569A; 0x4001569B; 0x4001569D; 0x4001569E; 0x4001569F; 0x400156A0; 0x400156A1; 0x400156A2; 0x400156A3; 0x400156A4; 0x400156A5; 0x400156A6; 0x400156A7; 0x400156A8; 0x400156A9; 0x400156AA; 0x400156AB; 
+23.10.2008 20:43:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+23.10.2008 20:43:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'pages '
+23.10.2008 20:43:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'who '
+23.10.2008 20:44:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set hue 1357'
+23.10.2008 20:44:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40018E9D (RewardCloak) to '1357'
+23.10.2008 20:44:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1082'
+23.10.2008 20:44:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40018E9D (RewardCloak) to '1082'
+23.10.2008 20:44:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 20:44:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hue 1158'
+23.10.2008 20:44:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hue' of 0x40018E9D (RewardCloak) to '1158'
+23.10.2008 20:45:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:46:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 20:46:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 20:47:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:48:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+23.10.2008 20:48:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 20:48:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 20:49:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2921 set movable False hue 0 light Circle225'
+23.10.2008 20:49:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 569, 0) in Trammel: "static" "2921" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:49:50: 85.70.219.31: Serials: 0x40015839; 
+23.10.2008 20:50:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2920 set movable False hue 0 light Circle225'
+23.10.2008 20:50:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5960, 569, 0) in Trammel: "static" "2920" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:50:01: 85.70.219.31: Serials: 0x4001583A; 
+23.10.2008 20:50:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2920 set movable False hue 0 light Circle225'
+23.10.2008 20:50:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 569, 0) in Trammel: "static" "2920" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:50:08: 85.70.219.31: Serials: 0x40015844; 
+23.10.2008 20:50:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2921 set movable False hue 0 light Circle225'
+23.10.2008 20:50:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5962, 569, 0) in Trammel: "static" "2921" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:50:16: 85.70.219.31: Serials: 0x40015848; 
+23.10.2008 20:50:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2922 set movable False hue 0 light Circle225'
+23.10.2008 20:50:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5963, 569, 0) in Trammel: "static" "2922" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:50:24: 85.70.219.31: Serials: 0x4001584C; 
+23.10.2008 20:50:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2922 set movable False hue 0 light {light}'
+23.10.2008 20:50:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5964, 569, 0) to (5965, 569, 0) in Trammel: "static" "2922" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:50:28: 85.70.219.31: Serials: 0x40015883; 0x40015884; 
+23.10.2008 20:50:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2922 set movable False hue 0 light {light}'
+23.10.2008 20:50:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5957, 569, 0) to (5959, 569, 0) in Trammel: "static" "2922" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:50:33: 85.70.219.31: Serials: 0x400158BA; 0x400158BB; 0x400158BF; 
+23.10.2008 20:50:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2922 set movable False hue 0 light {light}'
+23.10.2008 20:50:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5963, 571, 0) to (5965, 571, 0) in Trammel: "static" "2922" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:50:54: 85.70.219.31: Serials: 0x400158CD; 0x400158CE; 0x400158CF; 
+23.10.2008 20:50:54: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c '
+23.10.2008 20:50:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2922 set movable False hue 0 light {light}'
+23.10.2008 20:51:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5957, 571, 0) to (5959, 571, 0) in Trammel: "static" "2922" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:51:01: 85.70.219.31: Serials: 0x400158D7; 0x400158D8; 0x400158E4; 
+23.10.2008 20:51:03: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c jsi tu??'
+23.10.2008 20:51:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2921 set movable False hue 0 light Circle225'
+23.10.2008 20:51:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5962, 571, 0) in Trammel: "static" "2921" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:51:07: 85.70.219.31: Serials: 0x400158E6; 
+23.10.2008 20:51:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2921 set movable False hue 0 light Circle225'
+23.10.2008 20:51:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5956, 571, 0) in Trammel: "static" "2921" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:51:11: 85.70.219.31: Serials: 0x400158E7; 
+23.10.2008 20:51:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2920 set movable False hue 0 light Circle225'
+23.10.2008 20:51:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5960, 571, 0) in Trammel: "static" "2920" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:51:20: 85.70.219.31: Serials: 0x400158E8; 
+23.10.2008 20:51:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2920 set movable False hue 0 light Circle225'
+23.10.2008 20:51:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5966, 571, 0) in Trammel: "static" "2920" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:51:24: 85.70.219.31: Serials: 0x400158FB; 
+23.10.2008 20:51:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2749 set movable False hue 0 light {light}'
+23.10.2008 20:51:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5961, 568, 0) to (5961, 572, 0) in Trammel: "static" "2749" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:51:46: 85.70.219.31: Serials: 0x4001594E; 0x40015956; 0x40015957; 0x40015958; 0x40015965; 
+23.10.2008 20:51:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2749 set movable False hue 0 light {light}'
+23.10.2008 20:51:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5955, 570, 0) to (5967, 570, 0) in Trammel: "static" "2749" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:51:53: 85.70.219.31: Serials: 0x40015966; 0x40015967; 0x40015968; 0x40015969; 0x4001596C; 0x4001596D; 0x4001596E; 0x4001596F; 0x40015970; 0x40015975; 0x40015976; 0x4001597D; 0x4001597E; 
+23.10.2008 20:51:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2749 set movable False hue 0 light {light}'
+23.10.2008 20:51:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5955, 568, 0) to (5967, 568, 0) in Trammel: "static" "2749" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:51:59: 85.70.219.31: Serials: 0x40015984; 0x40015985; 0x40015986; 0x4001598C; 0x4001598D; 0x40015992; 0x40015993; 0x40015998; 0x40015999; 0x4001599A; 0x4001599B; 0x4001599C; 0x4001599D; 
+23.10.2008 20:52:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2750 set movable False hue 0 light {light}'
+23.10.2008 20:52:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5962, 569, 0) to (5967, 569, 0) in Trammel: "static" "2750" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:52:08: 85.70.219.31: Serials: 0x4001599F; 0x400159A0; 0x400159A1; 0x400159A2; 0x400159A3; 0x400159A5; 
+23.10.2008 20:52:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2750 set movable False hue 0 light {light}'
+23.10.2008 20:52:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5962, 571, 0) to (5967, 571, 0) in Trammel: "static" "2750" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:52:13: 85.70.219.31: Serials: 0x400159A6; 0x400159A7; 0x400159A8; 0x400159AD; 0x400159AE; 0x400159AF; 
+23.10.2008 20:52:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2750 set movable False hue 0 light {light}'
+23.10.2008 20:52:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5962, 572, 0) to (5967, 572, 0) in Trammel: "static" "2750" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:52:18: 85.70.219.31: Serials: 0x400159B0; 0x400159B1; 0x400159B2; 0x400159B5; 0x400159B6; 0x400159B7; 
+23.10.2008 20:52:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2750 set movable False hue 0 light {light}'
+23.10.2008 20:52:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5955, 571, 0) to (5960, 572, 0) in Trammel: "static" "2750" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:52:23: 85.70.219.31: Serials: 0x400159B9; 0x400159BA; 0x400159BB; 0x400159BC; 0x400159BD; 0x400159BE; 0x400159BF; 0x400159C0; 0x400159C1; 0x400159C2; 0x400159C3; 0x400159C4; 
+23.10.2008 20:52:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2750 set movable False hue 0 light {light}'
+23.10.2008 20:52:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5955, 569, 0) to (5960, 569, 0) in Trammel: "static" "2750" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:52:28: 85.70.219.31: Serials: 0x400159DD; 0x400159DF; 0x400159E0; 0x400159E1; 0x400159E2; 0x400159E3; 
+23.10.2008 20:52:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2754 set movable False hue 0 light Circle225'
+23.10.2008 20:52:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5968, 573, 0) in Trammel: "static" "2754" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:52:37: 85.70.219.31: Serials: 0x400159E7; 
+23.10.2008 20:52:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2755 set movable False hue 0 light Circle225'
+23.10.2008 20:52:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5954, 567, 0) in Trammel: "static" "2755" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:52:43: 85.70.219.31: Serials: 0x400159E8; 
+23.10.2008 20:52:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2756 set movable False hue 0 light Circle225'
+23.10.2008 20:52:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5954, 573, 0) in Trammel: "static" "2756" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:52:48: 85.70.219.31: Serials: 0x400159E9; 
+23.10.2008 20:52:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2757 set movable False hue 0 light Circle225'
+23.10.2008 20:52:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5968, 567, 0) in Trammel: "static" "2757" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:52:54: 85.70.219.31: Serials: 0x40015A00; 
+23.10.2008 20:52:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2806 set movable False hue 0 light {light}'
+23.10.2008 20:53:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5954, 568, 0) to (5954, 572, 0) in Trammel: "static" "2806" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:53:01: 85.70.219.31: Serials: 0x40015A19; 0x40015A1A; 0x40015A1B; 0x40015A1C; 0x40015A1D; 
+23.10.2008 20:53:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2807 set movable False hue 0 light {light}'
+23.10.2008 20:53:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5955, 567, 0) to (5967, 567, 0) in Trammel: "static" "2807" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:53:08: 85.70.219.31: Serials: 0x40015A5A; 0x40015A5B; 0x40015A5C; 0x40015A5D; 0x40015A5E; 0x40015A5F; 0x40015A60; 0x40015A61; 0x40015A62; 0x40015A63; 0x40015A64; 0x40015A65; 0x40015A66; 
+23.10.2008 20:53:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2808 set movable False hue 0 light {light}'
+23.10.2008 20:53:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5968, 568, 0) to (5968, 572, 0) in Trammel: "static" "2808" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:53:15: 85.70.219.31: Serials: 0x40015A91; 0x40015A92; 0x40015A93; 0x40015A94; 0x40015A96; 
+23.10.2008 20:53:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2809 set movable False hue 0 light {light}'
+23.10.2008 20:53:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5955, 573, 0) to (5967, 573, 0) in Trammel: "static" "2809" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:53:23: 85.70.219.31: Serials: 0x40015AD1; 0x40015AD2; 0x40015AD3; 0x40015AD4; 0x40015AD5; 0x40015AD6; 0x40015AD7; 0x40015AD8; 0x40015AD9; 0x40015ADA; 0x40015ADB; 0x40015ADC; 0x40015ADD; 
+23.10.2008 20:53:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2750 set movable False hue 0 light {light}'
+23.10.2008 20:53:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:53:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5955, 570, 0) to (5967, 570, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:53:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:53:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5961, 568, 0) to (5961, 572, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:53:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'wipe '
+23.10.2008 20:53:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') wiping from (5955, 568, 0) to (5967, 568, 0) in Trammel (Items, Mobiles)
+23.10.2008 20:53:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2750 set movable False hue 0 light {light}'
+23.10.2008 20:53:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5955, 568, 0) to (5967, 568, 0) in Trammel: "static" "2750" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:53:51: 85.70.219.31: Serials: 0x40015B9F; 0x40015BA0; 0x40015BA1; 0x40015BA2; 0x40015BA3; 0x40015BA4; 0x40015BA5; 0x40015BA6; 0x40015BA7; 0x40015BA8; 0x40015BA9; 0x40015BAA; 0x40015BAB; 
+23.10.2008 20:53:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2750 set movable False hue 0 light {light}'
+23.10.2008 20:53:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5955, 570, 0) to (5967, 570, 0) in Trammel: "static" "2750" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:53:54: 85.70.219.31: Serials: 0x40015BAC; 0x40015BAD; 0x40015BAE; 0x40015BAF; 0x40015BB1; 0x40015BB2; 0x40015BB3; 0x40015BB4; 0x40015BB5; 0x40015BB7; 0x40015BB8; 0x40015BB9; 0x40015BBA; 
+23.10.2008 20:53:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 2750 set movable False hue 0 light {light}'
+23.10.2008 20:53:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building from (5961, 571, 0) to (5961, 572, 0) in Trammel: "static" "2750" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:53:56: 85.70.219.31: Serials: 0x40015BBC; 0x40015BBD; 
+23.10.2008 20:53:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 2750 set movable False hue 0 light Circle225'
+23.10.2008 20:53:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5961, 569, 0) in Trammel: "static" "2750" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:53:59: 85.70.219.31: Serials: 0x40015BC3; 
+23.10.2008 20:54:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3476 set movable False hue 0 light Circle225'
+23.10.2008 20:54:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5954, 579, 0) in Trammel: "static" "3476" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:54:22: 85.70.219.31: Serials: 0x40015BC9; 
+23.10.2008 20:54:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3476 set movable False hue 0 light Circle225'
+23.10.2008 20:54:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5967, 580, 0) in Trammel: "static" "3476" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:54:27: 85.70.219.31: Serials: 0x40015BCA; 
+23.10.2008 20:54:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3476 set movable False hue 0 light Circle225'
+23.10.2008 20:54:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5974, 565, 0) in Trammel: "static" "3476" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:54:32: 85.70.219.31: Serials: 0x40015BCB; 
+23.10.2008 20:54:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3477 set movable False hue 0 light Circle225'
+23.10.2008 20:54:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5974, 565, 0) in Trammel: "static" "3477" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:54:40: 85.70.219.31: Serials: 0x40015BCD; 
+23.10.2008 20:54:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3477 set movable False hue 0 light Circle225'
+23.10.2008 20:54:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5967, 580, 20) in Trammel: "static" "3477" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:54:44: 85.70.219.31: Serials: 0x40015BCE; 
+23.10.2008 20:54:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:54:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015BCE (Static)
+23.10.2008 20:54:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3477 set movable False hue 0 light Circle225'
+23.10.2008 20:54:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5968, 581, 0) in Trammel: "static" "3477" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:54:51: 85.70.219.31: Serials: 0x40015BCF; 
+23.10.2008 20:54:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:54:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015BCF (Static)
+23.10.2008 20:54:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 3477 set movable False hue 0 light {light}'
+23.10.2008 20:54:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5967, 580, 0) in Trammel: "static" "3477" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:54:59: 85.70.219.31: Serials: 0x40015BD0; 
+23.10.2008 20:55:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'TileZ 0 static 3477 set movable False hue 0 light {light}'
+23.10.2008 20:55:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5954, 579, 0) in Trammel: "static" "3477" "set" "movable" "False" "hue" "0" "light" "{light}"
+23.10.2008 20:55:04: 85.70.219.31: Serials: 0x40015BD2; 
+23.10.2008 20:55:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3480 set movable False hue 0 light Circle225'
+23.10.2008 20:55:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5947, 571, 0) in Trammel: "static" "3480" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:13: 85.70.219.31: Serials: 0x40015C0F; 
+23.10.2008 20:55:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3480 set movable False hue 0 light Circle225'
+23.10.2008 20:55:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5949, 563, 0) in Trammel: "static" "3480" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:15: 85.70.219.31: Serials: 0x40015C49; 
+23.10.2008 20:55:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3480 set movable False hue 0 light Circle225'
+23.10.2008 20:55:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5974, 575, 0) in Trammel: "static" "3480" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:18: 85.70.219.31: Serials: 0x40015C57; 
+23.10.2008 20:55:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3481 set movable False hue 0 light Circle225'
+23.10.2008 20:55:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5974, 576, 0) in Trammel: "static" "3481" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:26: 85.70.219.31: Serials: 0x40015CE7; 
+23.10.2008 20:55:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:55:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015CE7 (Static)
+23.10.2008 20:55:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3481 set movable False hue 0 light Circle225'
+23.10.2008 20:55:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5974, 575, 0) in Trammel: "static" "3481" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:31: 85.70.219.31: Serials: 0x40015D08; 
+23.10.2008 20:55:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3481 set movable False hue 0 light Circle225'
+23.10.2008 20:55:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5947, 571, 0) in Trammel: "static" "3481" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:35: 85.70.219.31: Serials: 0x40015D20; 
+23.10.2008 20:55:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:55:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015D20 (Static)
+23.10.2008 20:55:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015D08 (Static)
+23.10.2008 20:55:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015BD0 (Static)
+23.10.2008 20:55:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015BD2 (Static)
+23.10.2008 20:55:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015BCD (Static)
+23.10.2008 20:55:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3482 set movable False hue 0 light Circle225'
+23.10.2008 20:55:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5947, 571, 0) in Trammel: "static" "3482" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:51: 85.70.219.31: Serials: 0x40015DA1; 
+23.10.2008 20:55:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3482 set movable False hue 0 light Circle225'
+23.10.2008 20:55:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5949, 563, 26) in Trammel: "static" "3482" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:53: 85.70.219.31: Serials: 0x40015DC9; 
+23.10.2008 20:55:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3482 set movable False hue 0 light Circle225'
+23.10.2008 20:55:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5949, 564, 0) in Trammel: "static" "3482" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:57: 85.70.219.31: Serials: 0x40015DE4; 
+23.10.2008 20:55:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3482 set movable False hue 0 light Circle225'
+23.10.2008 20:55:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5949, 563, 0) in Trammel: "static" "3482" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:55:59: 85.70.219.31: Serials: 0x40015E15; 
+23.10.2008 20:56:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+23.10.2008 20:56:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015DE4 (Static)
+23.10.2008 20:56:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015DC9 (Static)
+23.10.2008 20:56:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3482 set movable False hue 0 light Circle225'
+23.10.2008 20:56:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5974, 575, 0) in Trammel: "static" "3482" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:56:10: 85.70.219.31: Serials: 0x40015E1C; 
+23.10.2008 20:56:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3478 set movable False hue 0 light Circle225'
+23.10.2008 20:56:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5974, 565, 0) in Trammel: "static" "3478" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:56:15: 85.70.219.31: Serials: 0x40015E2B; 
+23.10.2008 20:56:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3478 set movable False hue 0 light Circle225'
+23.10.2008 20:56:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5967, 580, 0) in Trammel: "static" "3478" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:56:18: 85.70.219.31: Serials: 0x40015E3A; 
+23.10.2008 20:56:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Add static 3478 set movable False hue 0 light Circle225'
+23.10.2008 20:56:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5954, 579, 0) in Trammel: "static" "3478" "set" "movable" "False" "hue" "0" "light" "Circle225"
+23.10.2008 20:56:21: 85.70.219.31: Serials: 0x40015E7C; 
+23.10.2008 20:58:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set karma 0'
+23.10.2008 20:58:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'karma' of 0x1 "Elamor" ('Elamor') to '0'
+23.10.2008 21:00:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add xmlspawner'
+23.10.2008 21:00:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5947, 571, 0) in Trammel: "xmlspawner"
+23.10.2008 21:00:16: 85.70.219.31: Serials: 0x40016A02; 
+23.10.2008 21:00:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x40016A02 'Spawner' [5947, 571] (Trammel) : apple
+23.10.2008 21:00:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x40016A02 (XmlSpawner) to '3'
+23.10.2008 21:00:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm add xmlspawner'
+23.10.2008 21:00:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5949, 563, 26) in Trammel: "xmlspawner"
+23.10.2008 21:00:55: 85.70.219.31: Serials: 0x40016CBD; 
+23.10.2008 21:01:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5954, 580, 0) in Trammel: "xmlspawner"
+23.10.2008 21:01:01: 85.70.219.31: Serials: 0x40016E1C; 
+23.10.2008 21:01:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5967, 581, 0) in Trammel: "xmlspawner"
+23.10.2008 21:01:04: 85.70.219.31: Serials: 0x40016E2B; 
+23.10.2008 21:01:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5974, 575, 0) in Trammel: "xmlspawner"
+23.10.2008 21:01:05: 85.70.219.31: Serials: 0x40016E30; 
+23.10.2008 21:01:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5974, 565, 0) in Trammel: "xmlspawner"
+23.10.2008 21:01:09: 85.70.219.31: Serials: 0x40016FA2; 
+23.10.2008 21:01:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 21:01:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x40016FA2 'Spawner' [5974, 565] (Trammel) : apple
+23.10.2008 21:01:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x40016FA2 (XmlSpawner) to '2'
+23.10.2008 21:01:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x40016E30 'Spawner' [5974, 575] (Trammel) : apple
+23.10.2008 21:01:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x40016E30 (XmlSpawner) to '3'
+23.10.2008 21:02:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x40016E2B 'Spawner' [5967, 581] (Trammel) : apple
+23.10.2008 21:02:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x40016E2B (XmlSpawner) to '2'
+23.10.2008 21:02:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x40016E1C 'Spawner' [5954, 580] (Trammel) : apple
+23.10.2008 21:02:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x40016E1C (XmlSpawner) to '2'
+23.10.2008 21:02:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MaxDelay' of 0x40016E1C (XmlSpawner) to '00:01:00'
+23.10.2008 21:02:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MinDelay' of 0x40016E1C (XmlSpawner) to '00:00:30'
+23.10.2008 21:03:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MinDelay' of 0x40016A02 (XmlSpawner) to '00:00:30'
+23.10.2008 21:03:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MaxDelay' of 0x40016A02 (XmlSpawner) to '00:01:00'
+23.10.2008 21:03:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x40016CBD 'Spawner' [5949, 563] (Trammel) : apple
+23.10.2008 21:03:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x40016CBD (XmlSpawner) to '2'
+23.10.2008 21:03:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MaxDelay' of 0x40016CBD (XmlSpawner) to '00:01:00'
+23.10.2008 21:03:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MinDelay' of 0x40016CBD (XmlSpawner) to '00:00:30'
+23.10.2008 21:03:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MaxDelay' of 0x40016E2B (XmlSpawner) to '00:01:00'
+23.10.2008 21:03:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MinDelay' of 0x40016E2B (XmlSpawner) to '00:00:30'
+23.10.2008 21:03:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MinDelay' of 0x40016E30 (XmlSpawner) to '00:00:30'
+23.10.2008 21:04:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MaxDelay' of 0x40016E30 (XmlSpawner) to '00:01:00'
+23.10.2008 21:04:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MaxDelay' of 0x40016FA2 (XmlSpawner) to '00:01:00'
+23.10.2008 21:04:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MinDelay' of 0x40016FA2 (XmlSpawner) to '00:00:30'
+23.10.2008 21:06:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 21:07:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c hoho, dryada paragonek :D'
+23.10.2008 21:07:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+23.10.2008 21:07:22: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c njn to radsi utikam...'
+23.10.2008 21:07:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 21:07:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 21:07:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'PointDest' of 0x4002950E (Teleporter) to '(1457, 1330, -29)'
+23.10.2008 21:07:47: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c ty bys neutekl??'
+23.10.2008 21:07:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 21:07:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4002950E (Teleporter) to (1477, 1495, -28)
+23.10.2008 21:07:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 21:07:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4002950E (Teleporter) to (1479, 1495, -27)
+23.10.2008 21:08:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+23.10.2008 21:08:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 21:08:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'PointDest' of 0x4002950E (Teleporter) to '(1456, 1330, -27)'
+23.10.2008 21:08:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+23.10.2008 21:14:32: 85.70.219.31: Player 0x9719 "Galabriel N'uJil" ('Anthrax') used command 'c mrcha'
+23.10.2008 21:26:41: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c kde jsi???'
+23.10.2008 21:26:46: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c jo uz te vidim'
+23.10.2008 21:40:58: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c kam??'
+23.10.2008 21:41:41: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c kde jsi??'
+23.10.2008 21:42:19: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c hele nemuzu do gate'
+23.10.2008 21:42:31: 85.70.219.31: Player 0x9719 "Galabriel N'uJil" ('Anthrax') used command 'c nejsi crime? :D'
+23.10.2008 21:42:44: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c asi jo ale nevim za co'
+23.10.2008 21:42:51: 85.70.219.31: Player 0x9719 "Galabriel N'uJil" ('Anthrax') used command 'c healeni earthu'
+23.10.2008 21:43:08: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c to ne ty jsem healoval i predti m a nebyl jsem crime'
+##############################
+Log started on 23.10.2008 22:02:48
+
+23.10.2008 22:05:58: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c '
+23.10.2008 22:06:55: : Player 0x40B4 "Eldrod" ('theogil') used command 'char '
+23.10.2008 22:08:07: : Player 0x91BA "Sandro Botticell" ('theogil') used command 'char '
+23.10.2008 22:08:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add dee'
+23.10.2008 22:09:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 22:09:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 22:10:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+23.10.2008 22:10:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40B4 "Eldrod" ('theogil') to (1045, 514, -90)
+23.10.2008 22:10:55: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c mmnt to je jako muj barak??'
+23.10.2008 22:10:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+23.10.2008 22:11:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c trochu pomalejsi ale ok'
+23.10.2008 22:11:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+23.10.2008 22:12:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c to je za ten stracenej dum'
+23.10.2008 22:12:08: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c oki'
+23.10.2008 22:12:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c ztracenej*'
+23.10.2008 22:12:13: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c dik'
+23.10.2008 22:17:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+23.10.2008 22:17:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c spis pouzivej I wish to secure this'
+23.10.2008 22:18:19: 89.103.30.41: Player 0x40B4 "Eldrod" ('theogil') used command 'c jakto??'
+23.10.2008 22:19:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'

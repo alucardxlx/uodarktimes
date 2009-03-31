@@ -1,0 +1,75 @@
+##############################
+Log started on 8.1.2009 2:57:16
+
+##############################
+Log started on 8.1.2009 3:03:10
+
+##############################
+Log started on 8.1.2009 3:05:36
+
+##############################
+Log started on 8.1.2009 4:10:23
+
+8.1.2009 4:10:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add cloakof'
+8.1.2009 4:10:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (987, 521, -50) in Malas: "CloakOfEmpowerment"
+8.1.2009 4:10:37: 85.70.219.31: Serials: 0x40012303; 
+##############################
+Log started on 8.1.2009 6:14:32
+
+8.1.2009 6:14:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add greater'
+8.1.2009 6:14:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go despise'
+8.1.2009 6:15:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5497, 571, 60) in Felucca: "GreaterDragon"
+8.1.2009 6:15:01: 85.70.219.31: Serials: 0x12; 
+8.1.2009 6:15:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go despise'
+8.1.2009 6:15:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add greater'
+8.1.2009 6:15:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5496, 572, 61) in Felucca: "GreaterDragon"
+8.1.2009 6:15:09: 85.70.219.31: Serials: 0x29; 
+8.1.2009 6:15:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5498, 569, 60) in Felucca: "GreaterDragon"
+8.1.2009 6:15:10: 85.70.219.31: Serials: 0x5D; 
+8.1.2009 6:15:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (5497, 573, 60) in Felucca: "GreaterDragon"
+8.1.2009 6:15:11: 85.70.219.31: Serials: 0x5F; 
+8.1.2009 6:15:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+8.1.2009 6:15:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x5D "a greater dragon" (no account)
+8.1.2009 6:15:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x5F "a greater dragon" (no account)
+8.1.2009 6:15:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x29 "a greater dragon" (no account)
+8.1.2009 6:15:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+8.1.2009 6:15:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'save '
+##############################
+Log started on 8.1.2009 15:29:09
+
+8.1.2009 15:30:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go magicia'
+8.1.2009 15:30:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go magicia'
+##############################
+Log started on 8.1.2009 15:41:52
+
+8.1.2009 15:42:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go magnicia'
+8.1.2009 15:42:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'decoratemagincia '
+8.1.2009 15:43:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'decoratemagincia '
+8.1.2009 15:43:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'maginciadelete '
+8.1.2009 15:43:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+8.1.2009 15:45:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 8.1.2009 15:48:10
+
+8.1.2009 15:48:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go magincia'
+8.1.2009 15:48:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add magi'
+8.1.2009 15:48:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3715, 2221, 20) in Felucca: "maginciaAddonDeed"
+8.1.2009 15:48:35: 85.70.219.31: Serials: 0x40012303; 
+8.1.2009 15:48:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3715, 2220, 20) in Felucca: "tramMaginciaAddonDeed"
+8.1.2009 15:48:38: 85.70.219.31: Serials: 0x40012308; 
+8.1.2009 15:49:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+8.1.2009 15:49:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+8.1.2009 15:50:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+8.1.2009 15:50:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+8.1.2009 15:50:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+8.1.2009 16:02:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 8.1.2009 16:04:37
+
+8.1.2009 16:07:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go magincie'
+8.1.2009 16:07:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go magincia'
+8.1.2009 16:07:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'addon2static '
+8.1.2009 16:07:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'addon2static '
+##############################
+Log started on 8.1.2009 22:39:30
+

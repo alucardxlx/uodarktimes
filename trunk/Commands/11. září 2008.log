@@ -1,0 +1,32 @@
+##############################
+Log started on 11.9.2008 11:48:18
+
+11.9.2008 17:17:24: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'c '
+11.9.2008 17:19:33: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'go luna'
+11.9.2008 17:20:00: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add unicorn'
+11.9.2008 17:20:02: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6033, 625, 0) in Trammel: "unicorn"
+11.9.2008 17:20:02: 89.102.165.125: Serials: 0x8E5B; 
+11.9.2008 17:20:05: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+11.9.2008 17:20:06: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x8E5B "a unicorn" (no account)
+11.9.2008 17:20:14: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add cat'
+11.9.2008 17:20:15: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6033, 627, 0) in Trammel: "cat"
+11.9.2008 17:20:15: 89.102.165.125: Serials: 0x8E64; 
+11.9.2008 17:20:18: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+11.9.2008 17:20:19: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x8E64 "a cat" (no account)
+11.9.2008 17:20:25: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add '
+11.9.2008 17:20:29: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add '
+11.9.2008 17:20:35: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add female'
+11.9.2008 17:20:46: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6026, 624, 0) in Trammel: "EtherealUnicorn"
+11.9.2008 17:20:46: 89.102.165.125: Serials: 0x4002DB69; 
+11.9.2008 17:20:51: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+11.9.2008 17:20:52: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002DB69 (EtherealUnicorn)
+11.9.2008 17:20:55: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6027, 625, 0) in Trammel: "UnicornRibs"
+11.9.2008 17:20:55: 89.102.165.125: Serials: 0x4002DB6A; 
+11.9.2008 17:20:58: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+11.9.2008 17:20:58: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C0A5 (RemoveStone)
+11.9.2008 17:20:59: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002DB6A (UnicornRibs)
+11.9.2008 17:21:20: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'go luna'
+11.9.2008 17:21:32: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'bank '
+11.9.2008 17:21:41: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'bank '
+11.9.2008 22:06:50: 88.101.136.72: Player 0x93B6 "Twyll" ('Manio') used command 'c zdravim'
+11.9.2008 22:31:08: 88.101.136.72: Player 0x93B6 "Twyll" ('Manio') used command 'emote ziva'

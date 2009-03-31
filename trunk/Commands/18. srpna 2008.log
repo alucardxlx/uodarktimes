@@ -1,0 +1,1277 @@
+##############################
+Log started on 18.8.2008 9:46:45
+
+18.8.2008 9:47:38: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 9:52:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add skill'
+18.8.2008 9:52:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (958, 520, -70) in Malas: "skill"
+18.8.2008 9:52:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add skil'
+18.8.2008 9:52:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (958, 520, -70) in Malas: "SkillBall"
+18.8.2008 9:52:59: 85.70.219.31: Serials: 0x40012315; 
+18.8.2008 9:53:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SkillBonus' of 0x40012315 (SkillBall) to '100'
+18.8.2008 9:53:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 0'
+18.8.2008 9:53:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '0'
+18.8.2008 9:54:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 98989898'
+18.8.2008 9:54:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '98989898'
+18.8.2008 9:54:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set karma 100'
+18.8.2008 9:54:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'karma' of 0x1 "Elamorius" ('Elamor') to '100'
+18.8.2008 9:54:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set karma 1000'
+18.8.2008 9:54:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'karma' of 0x1 "Elamorius" ('Elamor') to '1000'
+18.8.2008 9:57:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+18.8.2008 9:57:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x38F "Eldrod" ('Theogil')
+18.8.2008 9:58:12: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 10:00:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add cloa'
+18.8.2008 10:00:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (974, 518, -50) in Malas: "HumilityCloak"
+18.8.2008 10:00:09: 85.70.219.31: Serials: 0x40013A25; 
+18.8.2008 10:00:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 516, -50) in Malas: "HumilityCloak"
+18.8.2008 10:00:09: 85.70.219.31: Serials: 0x40013A3F; 
+18.8.2008 10:00:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 10:00:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013A3F (HumilityCloak)
+18.8.2008 10:00:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add valo'
+18.8.2008 10:00:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 517, -50) in Malas: "ValorGauntlets"
+18.8.2008 10:00:34: 85.70.219.31: Serials: 0x40013AFA; 
+18.8.2008 10:00:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add justi'
+18.8.2008 10:00:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 517, -50) in Malas: "BreastplateofJustice"
+18.8.2008 10:00:48: 85.70.219.31: Serials: 0x40013AFB; 
+18.8.2008 10:00:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (987, 517, -50) in Malas: "SwordOfJustice"
+18.8.2008 10:00:52: 85.70.219.31: Serials: 0x40013AFC; 
+18.8.2008 10:00:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 10:00:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013AFC (SwordOfJustice)
+18.8.2008 10:02:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 10:03:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add honor'
+18.8.2008 10:03:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6031, 617, 0) in Trammel: "LegsofHonor"
+18.8.2008 10:03:41: 85.70.219.31: Serials: 0x40014941; 
+18.8.2008 10:03:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6030, 617, 0) in Trammel: "HonorLegs"
+18.8.2008 10:03:45: 85.70.219.31: Serials: 0x4001495B; 
+18.8.2008 10:04:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6032, 616, 0) in Trammel: "JusticeBreastplate"
+18.8.2008 10:04:02: 85.70.219.31: Serials: 0x40014962; 
+18.8.2008 10:04:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 10:04:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 10:22:08: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 10:26:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6032, 616, 0) in Trammel: "SpiritualityHelm"
+18.8.2008 10:26:06: 85.70.219.31: Serials: 0x40018A0D; 
+18.8.2008 10:26:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6032, 616, 0) in Trammel: "SacrificeSollerets"
+18.8.2008 10:26:21: 85.70.219.31: Serials: 0x40018A42; 
+18.8.2008 10:26:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6032, 616, 0) in Trammel: "HonestyGorget"
+18.8.2008 10:26:39: 85.70.219.31: Serials: 0x40018A5A; 
+18.8.2008 10:26:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6032, 615, 0) in Trammel: "ArmsofCompassion"
+18.8.2008 10:26:56: 85.70.219.31: Serials: 0x40018A67; 
+18.8.2008 10:26:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6032, 616, 0) in Trammel: "CompassionArms"
+18.8.2008 10:26:59: 85.70.219.31: Serials: 0x40018A68; 
+18.8.2008 10:27:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6032, 616, 0) in Trammel: "LegsofHonor"
+18.8.2008 10:27:12: 85.70.219.31: Serials: 0x40018CA5; 
+18.8.2008 10:27:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6029, 618, 0) in Trammel: "HumilityCloak"
+18.8.2008 10:27:29: 85.70.219.31: Serials: 0x40018CA6; 
+18.8.2008 10:29:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 10:29:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (6028, 616, 0) to (6034, 620, 0) in Trammel (Items, Mobiles)
+18.8.2008 10:30:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 0'
+18.8.2008 10:30:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '0'
+18.8.2008 10:31:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 10:31:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add osi'
+18.8.2008 10:32:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6035, 614, 0) in Trammel: "DisappearingRaiseSwitch"
+18.8.2008 10:32:05: 85.70.219.31: Serials: 0x40019370; 
+18.8.2008 10:32:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 10:32:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40019370 (DisappearingRaiseSwitch)
+18.8.2008 10:32:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018A67 (ArmsofCompassion)
+18.8.2008 10:32:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 10:33:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 10:33:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001495B (HonorLegs)
+18.8.2008 10:33:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40014962 (JusticeBreastplate)
+18.8.2008 10:33:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018A42 (SacrificeSollerets)
+18.8.2008 10:33:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013A25 (HumilityCloak)
+18.8.2008 10:33:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018A68 (CompassionArms)
+18.8.2008 10:33:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013AFA (ValorGauntlets)
+18.8.2008 10:33:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018A5A (HonestyGorget)
+18.8.2008 10:33:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018A0D (SpiritualityHelm)
+18.8.2008 10:33:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 888888'
+18.8.2008 10:33:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '888888'
+18.8.2008 10:34:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 18.8.2008 10:39:36
+
+18.8.2008 10:40:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add honor'
+18.8.2008 10:40:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 517, -50) in Malas: "HonorLegs"
+18.8.2008 10:40:12: 85.70.219.31: Serials: 0x400101E6; 
+18.8.2008 10:40:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 10:40:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400101E6 (HonorLegs)
+18.8.2008 10:40:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set karma -150000'
+18.8.2008 10:40:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'karma' of 0x1 "Elamorius" ('Elamor') to '-150000'
+18.8.2008 10:41:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add advenc'
+18.8.2008 10:42:13: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 10:42:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add AdvancedCharacterToken'
+18.8.2008 10:42:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 18.8.2008 10:43:21
+
+18.8.2008 10:43:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add AdvancedCharacterToken'
+18.8.2008 10:48:16: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 10:55:32: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c custe je tu nekdo'
+18.8.2008 10:58:20: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g elaa'
+18.8.2008 10:58:25: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c elaa'
+18.8.2008 10:58:33: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'pm '
+18.8.2008 10:58:37: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 10:58:40: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'mail '
+18.8.2008 10:59:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 11:01:13: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c kde sou novinky?:D'
+18.8.2008 11:01:30: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g du hledat dal'
+18.8.2008 11:01:34: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c hledam dal'
+18.8.2008 11:03:17: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ela na nic sem nepriselD'
+18.8.2008 11:03:36: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ale kdyz me odkazujes na forum asi si uz sehcno otestil:)'
+18.8.2008 11:03:41: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c du hledat dal:'
+18.8.2008 11:04:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 18.8.2008 11:09:22
+
+18.8.2008 12:03:27: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'mail '
+18.8.2008 12:22:49: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+18.8.2008 12:22:56: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c hoj jimmy'
+18.8.2008 12:23:00: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g cus'
+18.8.2008 12:23:02: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c cu'
+18.8.2008 12:24:48: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c sef nevola tak jsem si prisel pro artik :))'
+18.8.2008 12:24:56: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g hh'
+18.8.2008 12:24:59: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c hjhj'
+18.8.2008 12:25:06: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g lolD:'
+18.8.2008 12:25:09: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c lol:D'
+18.8.2008 12:26:01: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c jee uz facha ggs'
+18.8.2008 12:26:08: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g jj'
+18.8.2008 12:26:19: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c jj docela vyhodny pri treneni tezkych skillu'
+18.8.2008 12:26:23: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c jako je taming BS'
+18.8.2008 12:26:48: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c tj nejvyhodnejsi mi pride pro crafty'
+18.8.2008 13:17:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 13:18:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 13:18:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 13:29:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c restart'
+18.8.2008 13:30:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c 30 sec'
+18.8.2008 13:31:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 18.8.2008 13:43:08
+
+18.8.2008 13:43:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add skill'
+18.8.2008 13:44:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add skil'
+18.8.2008 13:44:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (988, 516, -50) in Malas: "SkillBuyStone"
+18.8.2008 13:44:05: 85.70.219.31: Serials: 0x40011FE0; 
+18.8.2008 13:44:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 13:44:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40011FE0 (SkillBuyStone)
+18.8.2008 13:44:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add skil'
+18.8.2008 13:44:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6033, 614, 0) in Trammel: "SkillTeleporter"
+18.8.2008 13:44:57: 85.70.219.31: Serials: 0x400122E7; 
+18.8.2008 13:45:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 13:45:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400122E7 (SkillTeleporter)
+18.8.2008 13:45:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6033, 612, 0) in Trammel: "SkillBuyStone"
+18.8.2008 13:45:05: 85.70.219.31: Serials: 0x400122E8; 
+18.8.2008 13:45:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 0'
+18.8.2008 13:45:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '0'
+18.8.2008 13:45:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set mana 888888888'
+18.8.2008 13:45:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'mana' of 0x1 "Elamorius" ('Elamor') to '888888888'
+18.8.2008 13:45:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set mana 8888888880'
+18.8.2008 13:45:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set stam 999999998'
+18.8.2008 13:45:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'stam' of 0x1 "Elamorius" ('Elamor') to '999999998'
+18.8.2008 13:48:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add token'
+18.8.2008 13:50:50: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 13:56:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 18.8.2008 13:58:13
+
+18.8.2008 13:58:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 13:58:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400122E8 (SkillBuyStone)
+18.8.2008 13:58:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add stonep'
+18.8.2008 13:58:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6034, 612, 0) in Trammel: "SkillBuyStone"
+18.8.2008 13:58:55: 85.70.219.31: Serials: 0x400101F2; 
+18.8.2008 13:59:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+18.8.2008 13:59:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x400217AB (Gold) (inBag=False; amount=1)
+18.8.2008 13:59:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x400217AB (Gold) creating 0x400101F3 (Gold)
+18.8.2008 13:59:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 14:00:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 14:04:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 14:04:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400101F2 (SkillBuyStone)
+18.8.2008 14:04:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 14:04:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 14:13:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 18.8.2008 14:27:36
+
+##############################
+Log started on 18.8.2008 14:34:35
+
+18.8.2008 14:36:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go tammel'
+18.8.2008 14:36:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go trammel'
+18.8.2008 14:36:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go 3600 2576 20'
+18.8.2008 14:37:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:37:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add Lothar'
+18.8.2008 14:37:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3507, 2575, 18) in Trammel: "Lothar"
+18.8.2008 14:37:31: 85.70.219.31: Serials: 0xD8F; 
+18.8.2008 14:37:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 14:37:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0xD8F "Lothar" (no account) to (3501, 2566, 15)
+18.8.2008 14:38:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add letterof'
+18.8.2008 14:38:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3501, 2568, 14) in Trammel: "LetterofApprenticeship"
+18.8.2008 14:38:17: 85.70.219.31: Serials: 0x400161FD; 
+18.8.2008 14:39:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:39:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:39:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 14:39:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0xD8F "Lothar" (no account) to (3498, 2547, 40)
+18.8.2008 14:39:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add pentagramaddon'
+18.8.2008 14:40:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3493, 2548, 40) in Trammel: "pentagramaddon"
+18.8.2008 14:40:02: 85.70.219.31: Serials: 0x40016264; 
+18.8.2008 14:40:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add teleporter'
+18.8.2008 14:40:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3493, 2548, 40) in Trammel: "teleporter"
+18.8.2008 14:40:09: 85.70.219.31: Serials: 0x400162B8; 
+18.8.2008 14:40:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 14:40:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MapDest' of 0x400162B8 (Teleporter) to 'Trammel'
+18.8.2008 14:41:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'PointDest' of 0x400162B8 (Teleporter) to '(6062, 273, -22)'
+18.8.2008 14:41:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:43:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add teleporter'
+18.8.2008 14:43:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6057, 272, -10) in Trammel: "teleporter"
+18.8.2008 14:43:22: 85.70.219.31: Serials: 0x400162BB; 
+18.8.2008 14:43:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 14:43:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (6056, 272, -22) to (6063, 279, 0) in Trammel (Items, Mobiles)
+18.8.2008 14:43:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add teleporter'
+18.8.2008 14:43:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6056, 272, 0) in Trammel: "teleporter"
+18.8.2008 14:43:34: 85.70.219.31: Serials: 0x4001630C; 
+18.8.2008 14:43:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add teleporter'
+18.8.2008 14:43:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 14:43:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MapDest' of 0x4001630C (Teleporter) to 'Trammel'
+18.8.2008 14:44:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'PointDest' of 0x4001630C (Teleporter) to '(3601, 2570, 20)'
+18.8.2008 14:44:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+18.8.2008 14:44:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001630C (Teleporter) (inBag=False; amount=1)
+18.8.2008 14:44:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001630C (Teleporter) creating 0x4001630F (Teleporter)
+18.8.2008 14:44:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 14:44:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001630F (Teleporter) to (6055, 273, 0)
+18.8.2008 14:44:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 14:44:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001630F (Teleporter) to (6056, 272, 0)
+18.8.2008 14:44:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 14:44:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+18.8.2008 14:44:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001630F (Teleporter) (inBag=False; amount=1)
+18.8.2008 14:44:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001630F (Teleporter) creating 0x40016311 (Teleporter)
+18.8.2008 14:44:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 14:44:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40016311 (Teleporter) to (6055, 273, 0)
+18.8.2008 14:44:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:45:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 14:45:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 14:45:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016311 (Teleporter)
+18.8.2008 14:45:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+18.8.2008 14:45:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001630F (Teleporter) (inBag=False; amount=1)
+18.8.2008 14:45:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001630F (Teleporter) creating 0x40016317 (Teleporter)
+18.8.2008 14:45:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 14:45:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40016317 (Teleporter) to (6056, 273, 0)
+18.8.2008 14:45:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 14:45:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:45:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'PointDest' of 0x40016317 (Teleporter) to '(3492, 2553, 40)'
+18.8.2008 14:45:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 14:45:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001630F (Teleporter)
+18.8.2008 14:46:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001630C (Teleporter)
+18.8.2008 14:46:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+18.8.2008 14:46:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40016317 (Teleporter) (inBag=False; amount=1)
+18.8.2008 14:46:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40016317 (Teleporter) creating 0x40016322 (Teleporter)
+18.8.2008 14:46:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 14:46:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40016322 (Teleporter) to (6056, 272, 0)
+18.8.2008 14:46:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go 6048 362 44'
+18.8.2008 14:46:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add Brianna'
+18.8.2008 14:46:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6048, 362, 44) in Trammel: "Brianna"
+18.8.2008 14:46:54: 85.70.219.31: Serials: 0xD95; 
+18.8.2008 14:47:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 888888888'
+18.8.2008 14:47:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '888888888'
+18.8.2008 14:48:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 8888888'
+18.8.2008 14:48:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '8888888'
+18.8.2008 14:48:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:49:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 14:49:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016386 (ApprenticeRing)
+18.8.2008 14:49:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:50:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:50:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add blood'
+18.8.2008 14:50:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bloodb'
+18.8.2008 14:50:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3497, 2549, 40) in Trammel: "BloodBat"
+18.8.2008 14:50:30: 85.70.219.31: Serials: 0xE82; 
+18.8.2008 14:51:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:51:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 14:51:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400164B2 (ApprenticeBracelet)
+18.8.2008 14:51:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:52:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:52:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:53:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:53:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 14:53:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016593 (ApprenticeGorget)
+18.8.2008 14:53:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:53:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 14:54:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 14:54:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016A78 (ApprenticeGloves)
+18.8.2008 14:54:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016A79 (Level6Recommendation)
+18.8.2008 15:11:35: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+18.8.2008 15:16:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 18.8.2008 15:18:27
+
+18.8.2008 15:19:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 15:19:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add appre'
+18.8.2008 15:19:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3498, 2551, 40) in Trammel: "LetterofApprenticeship"
+18.8.2008 15:19:38: 85.70.219.31: Serials: 0x400102EE; 
+18.8.2008 15:20:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:20:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001650D (ApprenticeEarrings)
+18.8.2008 15:21:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 15:21:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:21:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:21:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400163EC (BloodyBatWing)
+18.8.2008 15:21:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:21:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:21:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (943, 604, -90) to (959, 621, -90) in Malas (Items, Mobiles)
+18.8.2008 15:22:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add ches'
+18.8.2008 15:22:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (948, 616, -90) in Malas: "Chessboard"
+18.8.2008 15:22:09: 85.70.219.31: Serials: 0x400122D4; 
+18.8.2008 15:22:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:22:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400122D4 (Chessboard)
+18.8.2008 15:22:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (942, 620, -90) in Malas: "ChessControl"
+18.8.2008 15:22:16: 85.70.219.31: Serials: 0x400122F5; 
+18.8.2008 15:22:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:22:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 15:22:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400122F5 (ChessControl) to (943, 622, -90)
+18.8.2008 15:22:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 15:22:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400122F5 (ChessControl) to (943, 621, -90)
+18.8.2008 15:23:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 15:23:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400138E5 (Static) to (942, 619, -90)
+18.8.2008 15:23:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 15:23:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400138E5 (Static) to (943, 619, -90)
+18.8.2008 15:23:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'delete '
+18.8.2008 15:23:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400122F5 (ChessControl)
+18.8.2008 15:23:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:23:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (942, 601, -90) to (960, 620, -90) in Malas (Items, Mobiles)
+18.8.2008 15:23:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add chess'
+18.8.2008 15:23:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (941, 621, -88) in Malas: "ChessControl"
+18.8.2008 15:23:50: 85.70.219.31: Serials: 0x40014938; 
+18.8.2008 15:24:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:24:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (942, 603, -88) to (950, 611, -85) in Malas (Items, Mobiles)
+18.8.2008 15:24:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:24:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (942, 603, -90) to (953, 621, -90) in Malas (Items, Mobiles)
+18.8.2008 15:24:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:24:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (953, 602, -90) to (959, 621, -90) in Malas (Items, Mobiles)
+18.8.2008 15:24:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:24:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001632C (Static)
+18.8.2008 15:24:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016349 (Static)
+18.8.2008 15:24:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001635C (Static)
+18.8.2008 15:24:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016386 (Static)
+18.8.2008 15:24:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400163EC (Static)
+18.8.2008 15:24:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400163F5 (Static)
+18.8.2008 15:24:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016465 (Static)
+18.8.2008 15:24:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001649E (Static)
+18.8.2008 15:24:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400164AD (Static)
+18.8.2008 15:24:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400164B2 (Static)
+18.8.2008 15:24:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400164BB (Static)
+18.8.2008 15:24:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400164FC (Static)
+18.8.2008 15:24:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001650E (Static)
+18.8.2008 15:24:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001652D (Static)
+18.8.2008 15:24:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016592 (Static)
+18.8.2008 15:24:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016597 (Static)
+18.8.2008 15:24:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400165C5 (Static)
+18.8.2008 15:24:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40016333 (Static)
+18.8.2008 15:24:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 15:24:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:24:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40014938 (ChessControl)
+18.8.2008 15:24:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add chess'
+18.8.2008 15:24:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (941, 621, -88) in Malas: "ChessControl"
+18.8.2008 15:24:55: 85.70.219.31: Serials: 0x400165F5; 
+18.8.2008 15:25:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:25:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 15:25:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400165F5 (ChessControl) to (943, 620, -88)
+18.8.2008 15:25:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:25:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:25:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (942, 603, -88) to (959, 620, -88) in Malas (Items, Mobiles)
+18.8.2008 15:25:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add chess'
+18.8.2008 15:26:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (906, 637, -95) in Malas: "ChessControl"
+18.8.2008 15:26:01: 85.70.219.31: Serials: 0x40018E67; 
+18.8.2008 15:26:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:26:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (896, 628, -90) to (908, 641, -90) in Malas (Items, Mobiles)
+18.8.2008 15:26:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:26:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:26:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (893, 626, -95) to (905, 639, -95) in Malas (Items, Mobiles)
+18.8.2008 15:26:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:26:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:26:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (892, 639, -95) to (907, 646, -90) in Malas (Items, Mobiles)
+18.8.2008 15:26:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:26:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (904, 625, -95) to (909, 644, -90) in Malas (Items, Mobiles)
+18.8.2008 15:26:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:26:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:26:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (909, 627, -90) to (911, 644, -90) in Malas (Items, Mobiles)
+18.8.2008 15:26:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add chess'
+18.8.2008 15:26:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (895, 633, -95) in Malas: "ChessControl"
+18.8.2008 15:26:43: 85.70.219.31: Serials: 0x40019850; 
+18.8.2008 15:26:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:26:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:27:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:27:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (889, 625, -95) to (909, 645, -90) in Malas (Items, Mobiles)
+18.8.2008 15:27:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:27:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add chess'
+18.8.2008 15:27:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (902, 623, -95) in Malas: "ChessControl"
+18.8.2008 15:27:19: 85.70.219.31: Serials: 0x40019AE3; 
+18.8.2008 15:27:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:27:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:27:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001A44A (Static)
+18.8.2008 15:27:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AC99 (Static)
+18.8.2008 15:27:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AC95 (Static)
+18.8.2008 15:27:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AC91 (Static)
+18.8.2008 15:27:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AC8D (Static)
+18.8.2008 15:27:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AC54 (Static)
+18.8.2008 15:27:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AC38 (Static)
+18.8.2008 15:27:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AB0B (Static)
+18.8.2008 15:27:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AAFD (Static)
+18.8.2008 15:27:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AAF7 (Static)
+18.8.2008 15:27:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AA82 (Static)
+18.8.2008 15:27:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001A7F7 (Static)
+18.8.2008 15:27:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001A5B4 (Static)
+18.8.2008 15:27:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001A49A (Static)
+18.8.2008 15:27:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001A57E (Static)
+18.8.2008 15:27:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001A476 (Static)
+18.8.2008 15:27:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001A471 (Static)
+18.8.2008 15:27:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001A449 (Static)
+18.8.2008 15:27:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AC96 (Static)
+18.8.2008 15:27:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AC92 (Static)
+18.8.2008 15:27:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:27:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (885, 627, -95) to (902, 627, -95) in Malas (Items, Mobiles)
+18.8.2008 15:27:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:27:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (885, 627, -95) to (886, 645, -95) in Malas (Items, Mobiles)
+18.8.2008 15:27:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:27:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (887, 627, -95) to (887, 645, -95) in Malas (Items, Mobiles)
+18.8.2008 15:28:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:28:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (887, 644, -95) to (904, 646, -95) in Malas (Items, Mobiles)
+18.8.2008 15:28:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 643, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:39: 85.70.219.31: Serials: 0x4001AD64; 
+18.8.2008 15:28:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 642, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:40: 85.70.219.31: Serials: 0x4001ADDB; 
+18.8.2008 15:28:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 641, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:42: 85.70.219.31: Serials: 0x4001ADDC; 
+18.8.2008 15:28:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 639, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:44: 85.70.219.31: Serials: 0x4001ADDD; 
+18.8.2008 15:28:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 640, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:47: 85.70.219.31: Serials: 0x4001ADDE; 
+18.8.2008 15:28:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 638, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:52: 85.70.219.31: Serials: 0x4001ADDF; 
+18.8.2008 15:28:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 638, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:53: 85.70.219.31: Serials: 0x4001ADE0; 
+18.8.2008 15:28:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 637, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:55: 85.70.219.31: Serials: 0x4001ADE1; 
+18.8.2008 15:28:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 636, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:56: 85.70.219.31: Serials: 0x4001ADE2; 
+18.8.2008 15:28:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:28:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 637, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:28:59: 85.70.219.31: Serials: 0x4001ADE3; 
+18.8.2008 15:29:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:29:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 639, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:29:01: 85.70.219.31: Serials: 0x4001ADE4; 
+18.8.2008 15:29:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ 19 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:29:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (904, 628, 19) to (905, 635, 19) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:29:05: 85.70.219.31: Serials: 0x4001AE26; 0x4001AE28; 0x4001AE29; 0x4001AE2A; 0x4001AE2B; 0x4001AE2C; 0x4001AE2D; 0x4001AE2F; 0x4001AE30; 0x4001AE32; 0x4001AE33; 0x4001AE34; 0x4001AE35; 0x4001AE36; 0x4001AE3A; 0x4001AE3B; 
+18.8.2008 15:29:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 15:29:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:29:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (904, 633, -95) to (905, 635, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:29:23: 85.70.219.31: Serials: 0x4001AE3C; 0x4001AE3D; 0x4001AE3E; 0x4001AE3F; 0x4001AE40; 0x4001AE41; 
+18.8.2008 15:29:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:29:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (904, 628, -95) to (905, 632, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:29:27: 85.70.219.31: Serials: 0x4001AE44; 0x4001AE46; 0x4001AE47; 0x4001AE48; 0x4001AE49; 0x4001AE4B; 0x4001AE4C; 0x4001AE4D; 0x4001AE4E; 0x4001AE50; 
+18.8.2008 15:29:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:29:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 636, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:29:31: 85.70.219.31: Serials: 0x4001AE51; 
+18.8.2008 15:29:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:29:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (905, 640, -95) to (905, 644, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:29:36: 85.70.219.31: Serials: 0x4001AE52; 0x4001AE53; 0x4001AE54; 0x4001AE55; 0x4001AE56; 
+18.8.2008 15:29:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:29:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 644, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:29:38: 85.70.219.31: Serials: 0x4001AE57; 
+18.8.2008 15:29:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:29:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:29:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (888, 644, -95) to (903, 645, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:29:49: 85.70.219.31: Serials: 0x4001AE58; 0x4001AE59; 0x4001AE5A; 0x4001AE5B; 0x4001AE5D; 0x4001AE5E; 0x4001AE5F; 0x4001AE60; 0x4001AE61; 0x4001AE62; 0x4001AE63; 0x4001AE64; 0x4001AE65; 0x4001AE66; 0x4001AE67; 0x4001AE68; 0x4001AE69; 0x4001AE6A; 0x4001AE6B; 0x4001AE6C; 0x4001AE6D; 0x4001AE6E; 0x4001AE6F; 0x4001AE70; 0x4001AE71; 0x4001AE72; 0x4001AE73; 0x4001AE74; 0x4001AE75; 0x4001AE76; 0x4001AE77; 0x4001AE78; 
+18.8.2008 15:29:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:29:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (904, 645, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:29:52: 85.70.219.31: Serials: 0x4001AE79; 
+18.8.2008 15:29:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:29:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 645, -93) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:29:55: 85.70.219.31: Serials: 0x4001AE7A; 
+18.8.2008 15:29:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:29:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AE7A (Static)
+18.8.2008 15:29:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AE79 (Static)
+18.8.2008 15:29:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AE56 (Static)
+18.8.2008 15:30:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AE57 (Static)
+18.8.2008 15:30:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:30:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (904, 644, -95) to (905, 645, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:30:04: 85.70.219.31: Serials: 0x4001AE7B; 0x4001AE7C; 0x4001AE7D; 0x4001AE7E; 
+18.8.2008 15:30:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:30:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:30:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:30:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:30:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (904, 628, -90) to (905, 641, -90) in Malas (Items, Mobiles)
+18.8.2008 15:30:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:30:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (904, 624, -95) to (907, 641, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:30:28: 85.70.219.31: Serials: 0x4001AF21; 0x4001AF22; 0x4001AF23; 0x4001AF24; 0x4001AF25; 0x4001AF26; 0x4001AF27; 0x4001AF28; 0x4001AF29; 0x4001AF2A; 0x4001AF2B; 0x4001AF2C; 0x4001AF2D; 0x4001AF2E; 0x4001AF2F; 0x4001AF30; 0x4001AF32; 0x4001AF33; 0x4001AF34; 0x4001AF35; 0x4001AF36; 0x4001AF37; 0x4001AF38; 0x4001AF39; 0x4001AF3A; 0x4001AF3B; 0x4001AF3C; 0x4001AF3D; 0x4001AF3E; 0x4001AF3F; 0x4001AF40; 0x4001AF41; 0x4001AF42; 0x4001AF43; 0x4001AF44; 0x4001AF45; 0x4001AF46; 0x4001AF47; 0x4001AF48; 0x4001AF49; 0x4001AF4A; 0x4001AF4B; 0x4001AF4C; 0x4001AF4D; 0x4001AF4E; 0x4001AF4F; 0x4001AF50; 0x4001AF51; 0x4001AF52; 0x4001AF53; 0x4001AF54; 0x4001AF55; 0x4001AF56; 0x4001AF57; 0x4001AF58; 0x4001AF59; 0x4001AF68; 0x4001AF69; 0x4001AF6C; 0x4001AF6D; 0x4001AF70; 0x4001AF73; 0x4001AF74; 0x4001AF78; 0x4001AF7E; 0x4001AF7F; 0x4001AF80; 0x4001AF81; 0x4001AF82; 0x4001AF83; 0x4001AF84; 0x4001AF85; 
+18.8.2008 15:30:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:30:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:30:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (906, 642, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:30:39: 85.70.219.31: Serials: 0x4001AF86; 
+18.8.2008 15:30:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:30:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (905, 641, -95) to (907, 645, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:30:43: 85.70.219.31: Serials: 0x4001AF87; 0x4001AF88; 0x4001AF89; 0x4001AF8A; 0x4001AF8B; 0x4001AF91; 0x4001AF92; 0x4001AF93; 0x4001AF94; 0x4001AF95; 0x4001AF96; 0x4001AF97; 0x4001AF98; 0x4001AF99; 0x4001AF9A; 
+18.8.2008 15:30:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:30:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AF58 (Static)
+18.8.2008 15:30:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AF46 (Static)
+18.8.2008 15:30:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AF21 (Static)
+18.8.2008 15:30:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001AF34 (Static)
+18.8.2008 15:30:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:30:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (886, 626, -95) to (903, 627, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:30:57: 85.70.219.31: Serials: 0x4001AFA3; 0x4001AFA4; 0x4001AFA5; 0x4001AFA6; 0x4001AFA7; 0x4001AFA8; 0x4001AFA9; 0x4001AFAA; 0x4001AFAB; 0x4001AFAC; 0x4001AFAD; 0x4001AFAE; 0x4001AFAF; 0x4001AFB0; 0x4001AFB1; 0x4001AFB2; 0x4001AFB3; 0x4001AFB4; 0x4001AFB5; 0x4001AFB7; 0x4001AFBC; 0x4001AFBD; 0x4001AFBE; 0x4001AFBF; 0x4001AFC0; 0x4001AFD0; 0x4001AFD1; 0x4001AFD5; 0x4001AFD6; 0x4001AFD8; 0x4001AFD9; 0x4001AFDA; 0x4001AFDB; 0x4001AFDC; 0x4001AFDD; 0x4001AFDE; 
+18.8.2008 15:31:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+18.8.2008 15:31:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (904, 625, -90) to (907, 625, -90) in Malas (Items, Mobiles)
+18.8.2008 15:31:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 1900 set movable False hue 0 light {light}'
+18.8.2008 15:31:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (886, 628, -95) to (887, 645, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:31:08: 85.70.219.31: Serials: 0x4001AFDF; 0x4001AFE0; 0x4001B0F6; 0x4001B0F9; 0x4001B14D; 0x4001B150; 0x4001B151; 0x4001B152; 0x4001B153; 0x4001B15E; 0x4001B2D7; 0x4001B2D8; 0x4001B2D9; 0x4001B2DA; 0x4001B2DB; 0x4001B2DD; 0x4001B2DE; 0x4001B2DF; 0x4001B2ED; 0x4001B2FA; 0x4001B2FE; 0x4001B346; 0x4001B358; 0x4001B367; 0x4001B36A; 0x4001B381; 0x4001B38B; 0x4001B38C; 0x4001B38D; 0x4001B38E; 0x4001B38F; 0x4001B390; 0x4001B391; 0x4001B392; 0x4001B393; 0x4001B394; 
+18.8.2008 15:31:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 15:31:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40019AE3 (ChessControl) to (906, 627, -90)
+18.8.2008 15:31:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 15:31:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go 902 635 -19'
+18.8.2008 15:31:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go 902 635 19'
+18.8.2008 15:31:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:32:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 2186 set movable False hue 0 light {light}'
+18.8.2008 15:32:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (898, 645, -95) to (906, 645, -95) in Malas: "static" "2186" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:32:41: 85.70.219.31: Serials: 0x4001B893; 0x4001B894; 0x4001B898; 0x4001BAEC; 0x4001BB1E; 0x4001BB30; 0x4001BB31; 0x4001BB32; 0x4001BB40; 
+18.8.2008 15:32:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 2186 set movable False hue 0 light {light}'
+18.8.2008 15:32:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (886, 645, -95) to (897, 645, -95) in Malas: "static" "2186" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:32:48: 85.70.219.31: Serials: 0x4001C2C0; 0x4001C2C1; 0x4001C2F4; 0x4001C2F5; 0x4001C2F6; 0x4001C2F7; 0x4001C2F8; 0x4001C2F9; 0x4001C2FA; 0x4001C2FB; 0x4001C2FC; 0x4001C2FD; 
+18.8.2008 15:32:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 2187 set movable False hue 0 light {light}'
+18.8.2008 15:32:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (886, 626, -95) to (886, 645, -95) in Malas: "static" "2187" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:32:55: 85.70.219.31: Serials: 0x4001C301; 0x4001C302; 0x4001C303; 0x4001C304; 0x4001C305; 0x4001C306; 0x4001C307; 0x4001C308; 0x4001C309; 0x4001C30A; 0x4001C30B; 0x4001C30C; 0x4001C30D; 0x4001C30E; 0x4001C31C; 0x4001C31D; 0x4001C31E; 0x4001C31F; 0x4001C320; 0x4001C449; 
+18.8.2008 15:33:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2187 set movable False hue 0 light Circle225'
+18.8.2008 15:33:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:33:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C449 (Static)
+18.8.2008 15:33:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C320 (Static)
+18.8.2008 15:33:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C31F (Static)
+18.8.2008 15:33:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C31E (Static)
+18.8.2008 15:33:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C31D (Static)
+18.8.2008 15:33:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C31C (Static)
+18.8.2008 15:33:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C30E (Static)
+18.8.2008 15:33:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C30D (Static)
+18.8.2008 15:33:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001B15E (Static)
+18.8.2008 15:33:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C30C (Static)
+18.8.2008 15:33:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C30B (Static)
+18.8.2008 15:33:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C30A (Static)
+18.8.2008 15:33:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C309 (Static)
+18.8.2008 15:33:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C308 (Static)
+18.8.2008 15:33:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C307 (Static)
+18.8.2008 15:33:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C306 (Static)
+18.8.2008 15:33:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C305 (Static)
+18.8.2008 15:33:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C304 (Static)
+18.8.2008 15:33:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C303 (Static)
+18.8.2008 15:33:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C302 (Static)
+18.8.2008 15:33:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C301 (Static)
+18.8.2008 15:33:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 2187 set movable False hue 0 light {light}'
+18.8.2008 15:33:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (885, 626, -95) to (885, 645, -95) in Malas: "static" "2187" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:33:30: 85.70.219.31: Serials: 0x4001CC38; 0x4001CC39; 0x4001CC3A; 0x4001CC3B; 0x4001CC3C; 0x4001CC3D; 0x4001CC3E; 0x4001CC3F; 0x4001CC40; 0x4001CC41; 0x4001CC42; 0x4001CC43; 0x4001CC44; 0x4001CC60; 0x4001CC85; 0x4001CC86; 0x4001CC87; 0x4001CCAA; 0x4001CCAB; 0x4001CCAC; 
+18.8.2008 15:33:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 2186 set movable False hue 0 light {light}'
+18.8.2008 15:33:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (886, 625, -95) to (907, 625, -95) in Malas: "static" "2186" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:33:41: 85.70.219.31: Serials: 0x4001CCAD; 0x4001CCAE; 0x4001CD08; 0x4001CD45; 0x4001CD46; 0x4001CD47; 0x4001CD48; 0x4001CD49; 0x4001CD52; 0x4001CD60; 0x4001CD6A; 0x4001CD75; 0x4001CD7A; 0x4001CD96; 0x4001CD9F; 0x4001CDA0; 0x4001CDA1; 0x4001CDA2; 0x4001CDA3; 0x4001CDB4; 0x4001CDEC; 0x4001CE1A; 
+18.8.2008 15:33:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 1900 set movable False hue 0 light Circle225'
+18.8.2008 15:33:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 637, -95) in Malas: "static" "1900" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:33:58: 85.70.219.31: Serials: 0x4001CE96; 
+18.8.2008 15:34:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2911 set movable False hue 0 light Circle225'
+18.8.2008 15:34:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 644, -90) in Malas: "static" "2911" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:34:36: 85.70.219.31: Serials: 0x4001CFAB; 
+18.8.2008 15:34:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2911 set movable False hue 0 light Circle225'
+18.8.2008 15:34:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 643, -90) in Malas: "static" "2911" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:34:39: 85.70.219.31: Serials: 0x4001DEE6; 
+18.8.2008 15:34:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:34:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001DEE6 (Static)
+18.8.2008 15:34:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2912 set movable False hue 0 light Circle225'
+18.8.2008 15:34:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 643, -90) in Malas: "static" "2912" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:34:48: 85.70.219.31: Serials: 0x4001E4F5; 
+18.8.2008 15:34:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:34:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001CFAB (Static)
+18.8.2008 15:35:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001E4F5 (Static)
+18.8.2008 15:35:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2911 set movable False hue 0 light Circle225'
+18.8.2008 15:35:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 642, -90) in Malas: "static" "2911" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:35:08: 85.70.219.31: Serials: 0x40020C61; 
+18.8.2008 15:35:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2912 set movable False hue 0 light Circle225'
+18.8.2008 15:35:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 629, -90) in Malas: "static" "2912" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:35:13: 85.70.219.31: Serials: 0x40020C92; 
+18.8.2008 15:35:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -95 static 2913 set movable False hue 0 light {light}'
+18.8.2008 15:35:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -94 static 2913 set movable False hue 0 light {light}'
+18.8.2008 15:35:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 15:35:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'TileZ -90 static 2913 set movable False hue 0 light {light}'
+18.8.2008 15:35:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building from (886, 630, -90) to (886, 641, -90) in Malas: "static" "2913" "set" "movable" "False" "hue" "0" "light" "{light}"
+18.8.2008 15:35:33: 85.70.219.31: Serials: 0x40020CB6; 0x40020CE2; 0x40020CE3; 0x40020CE4; 0x40020CFF; 0x40020DD6; 0x40020DD7; 0x40020DDB; 0x40020DDE; 0x40020DDF; 0x40020DE1; 0x40020DE2; 
+18.8.2008 15:35:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:35:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020DDE (Static)
+18.8.2008 15:35:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020DDB (Static)
+18.8.2008 15:35:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020CE4 (Static)
+18.8.2008 15:35:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020CE3 (Static)
+18.8.2008 15:35:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2911 set movable False hue 0 light Circle225'
+18.8.2008 15:35:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 637, -90) in Malas: "static" "2911" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:35:48: 85.70.219.31: Serials: 0x40020DE3; 
+18.8.2008 15:35:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2911 set movable False hue 0 light Circle225'
+18.8.2008 15:35:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 632, -90) in Malas: "static" "2911" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:35:51: 85.70.219.31: Serials: 0x40020DE4; 
+18.8.2008 15:35:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2912 set movable False hue 0 light Circle225'
+18.8.2008 15:35:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 638, -90) in Malas: "static" "2912" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:35:54: 85.70.219.31: Serials: 0x40020DE7; 
+18.8.2008 15:35:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2912 set movable False hue 0 light Circle225'
+18.8.2008 15:35:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 633, -90) in Malas: "static" "2912" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:35:57: 85.70.219.31: Serials: 0x40020DED; 
+18.8.2008 15:36:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2961 set movable False hue 0 light Circle225'
+18.8.2008 15:36:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (898, 626, -90) in Malas: "static" "2961" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:36:08: 85.70.219.31: Serials: 0x40020DFA; 
+18.8.2008 15:36:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2922 set movable False hue 0 light Circle225'
+18.8.2008 15:36:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2962 set movable False hue 0 light Circle225'
+18.8.2008 15:36:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (897, 626, -90) in Malas: "static" "2962" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:36:16: 85.70.219.31: Serials: 0x40020F1E; 
+18.8.2008 15:36:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2962 set movable False hue 0 light Circle225'
+18.8.2008 15:36:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (891, 626, -90) in Malas: "static" "2962" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:36:32: 85.70.219.31: Serials: 0x40020F5C; 
+18.8.2008 15:36:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2961 set movable False hue 0 light Circle225'
+18.8.2008 15:36:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (892, 626, -90) in Malas: "static" "2961" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:36:36: 85.70.219.31: Serials: 0x40020F82; 
+18.8.2008 15:36:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 5415 set movable False hue 0 light Circle225'
+18.8.2008 15:37:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (906, 633, -90) in Malas: "static" "5415" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:37:01: 85.70.219.31: Serials: 0x40021094; 
+18.8.2008 15:37:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 5414 set movable False hue 0 light Circle225'
+18.8.2008 15:37:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (906, 634, -90) in Malas: "static" "5414" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:37:06: 85.70.219.31: Serials: 0x40021099; 
+18.8.2008 15:37:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 4605 set movable False hue 0 light Circle225'
+18.8.2008 15:37:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (910, 635, -90) in Malas: "static" "4605" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:37:39: 85.70.219.31: Serials: 0x40021278; 
+18.8.2008 15:37:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 4606 set movable False hue 0 light Circle225'
+18.8.2008 15:37:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (911, 635, -90) in Malas: "static" "4606" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:37:44: 85.70.219.31: Serials: 0x40021279; 
+18.8.2008 15:37:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 4607 set movable False hue 0 light Circle225'
+18.8.2008 15:37:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (911, 634, -90) in Malas: "static" "4607" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:37:47: 85.70.219.31: Serials: 0x4002127A; 
+18.8.2008 15:37:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 4608 set movable False hue 0 light Circle225'
+18.8.2008 15:37:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (910, 634, -90) in Malas: "static" "4608" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:37:51: 85.70.219.31: Serials: 0x4002127B; 
+18.8.2008 15:37:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:38:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002127A (Static)
+18.8.2008 15:38:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002127B (Static)
+18.8.2008 15:38:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40021279 (Static)
+18.8.2008 15:38:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40021278 (Static)
+18.8.2008 15:38:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 4592 set movable False hue 0 light Circle225'
+18.8.2008 15:38:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (910, 634, -90) in Malas: "static" "4592" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:38:10: 85.70.219.31: Serials: 0x4002127C; 
+18.8.2008 15:38:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 4593 set movable False hue 0 light Circle225'
+18.8.2008 15:38:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (912, 634, -90) in Malas: "static" "4593" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 15:38:13: 85.70.219.31: Serials: 0x4002127D; 
+18.8.2008 15:38:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:38:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:38:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002127D (Static)
+18.8.2008 15:38:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002127C (Static)
+18.8.2008 15:40:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add DarkWoodDoor NorthCCW'
+18.8.2008 15:40:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 631, -90) in Malas: "DarkWoodDoor" "NorthCCW"
+18.8.2008 15:40:55: 85.70.219.31: Serials: 0x400213D0; 
+18.8.2008 15:40:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Set locked true'
+18.8.2008 15:40:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'locked' of 0x400213D0 (DarkWoodDoor) to 'True'
+18.8.2008 15:41:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:41:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40019AD6 (DarkWoodDoor)
+18.8.2008 15:41:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add DarkWoodDoor NorthCW'
+18.8.2008 15:41:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (930, 630, -90) in Malas: "DarkWoodDoor" "NorthCW"
+18.8.2008 15:41:11: 85.70.219.31: Serials: 0x400214EB; 
+18.8.2008 15:41:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:41:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400214EB (DarkWoodDoor)
+18.8.2008 15:41:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add DarkWoodDoor NorthCW'
+18.8.2008 15:41:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (930, 631, -90) in Malas: "DarkWoodDoor" "NorthCW"
+18.8.2008 15:41:19: 85.70.219.31: Serials: 0x400214EC; 
+18.8.2008 15:41:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 15:41:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 15:42:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:42:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:42:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 15:43:00: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c kolik je vubec tech levelu?'
+18.8.2008 15:43:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 15:43:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c 8 myslim'
+18.8.2008 15:43:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c bylo tam neco v cestine?'
+18.8.2008 15:43:32: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c tak 10'
+18.8.2008 15:43:42: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c jj asi dva nebo tri'
+18.8.2008 15:43:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c :P'
+18.8.2008 15:43:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c me to nebavi prekladat'
+18.8.2008 15:44:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c az jednou bude cas'
+18.8.2008 15:44:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 15:44:07: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c :))'
+18.8.2008 15:44:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:44:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add demonknight'
+18.8.2008 15:44:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6044, 355, 44) in Trammel: "demonknight"
+18.8.2008 15:44:20: 85.70.219.31: Serials: 0x185F; 
+18.8.2008 15:44:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:44:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x185F "Arsat" (no account)
+18.8.2008 15:45:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:50:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 18.8.2008 15:52:16
+
+18.8.2008 15:52:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 15:52:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001B78A (ApprenticeEarrings)
+18.8.2008 15:52:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add appre'
+18.8.2008 15:52:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3498, 2551, 40) in Trammel: "ApprenticeEarrings"
+18.8.2008 15:52:54: 85.70.219.31: Serials: 0x400103CE; 
+18.8.2008 15:55:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 15:55:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 15:55:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 16:24:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 18.8.2008 16:26:29
+
+18.8.2008 16:27:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'hlad '
+18.8.2008 16:28:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add peach 4'
+18.8.2008 16:28:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (894, 627, -90) in Malas: "peach" "4"
+18.8.2008 16:28:02: 85.70.219.31: Serials: 0x4000F8B1; 
+18.8.2008 16:28:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'hlad '
+18.8.2008 16:28:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add peach 10'
+18.8.2008 16:28:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (894, 627, -90) in Malas: "peach" "10"
+18.8.2008 16:28:14: 85.70.219.31: Serials: 0x4000F8B2; 
+18.8.2008 16:28:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'hlad '
+18.8.2008 16:29:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add lamb 5'
+18.8.2008 16:29:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 631, -90) in Malas: "LambLeg"
+18.8.2008 16:29:08: 85.70.219.31: Serials: 0x4001020C; 
+18.8.2008 16:29:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 631, -90) in Malas: "LambLeg"
+18.8.2008 16:29:10: 85.70.219.31: Serials: 0x40010211; 
+18.8.2008 16:29:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 631, -90) in Malas: "LambLeg"
+18.8.2008 16:29:10: 85.70.219.31: Serials: 0x40010212; 
+18.8.2008 16:29:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 631, -90) in Malas: "LambLeg"
+18.8.2008 16:29:10: 85.70.219.31: Serials: 0x40010213; 
+18.8.2008 16:29:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 631, -90) in Malas: "LambLeg"
+18.8.2008 16:29:11: 85.70.219.31: Serials: 0x40010219; 
+18.8.2008 16:29:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (905, 631, -90) in Malas: "LambLeg"
+18.8.2008 16:29:11: 85.70.219.31: Serials: 0x40010221; 
+18.8.2008 16:29:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 16:29:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Poison' of 0x4001020C (LambLeg) to 'Parasitic'
+18.8.2008 16:29:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Poisoner' of 0x4001020C (LambLeg) to '0x1 "Elamorius"'
+18.8.2008 16:29:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'FillFactor' of 0x4001020C (LambLeg) to '50'
+18.8.2008 16:29:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 16:29:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40010213 (LambLeg)
+18.8.2008 16:29:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40010212 (LambLeg)
+18.8.2008 16:29:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40010211 (LambLeg)
+18.8.2008 16:29:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 16:30:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'FillFactor' of 0x4001020C (LambLeg) to '5'
+18.8.2008 16:30:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 16:33:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'res '
+18.8.2008 16:33:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') resurrecting 0x38F "Eldrod" ('Theogil')
+18.8.2008 16:33:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 44'
+18.8.2008 16:33:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x38F "Eldrod" ('Theogil') to '44'
+18.8.2008 16:33:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 440'
+18.8.2008 16:33:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x38F "Eldrod" ('Theogil') to '440'
+18.8.2008 16:33:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add peach'
+18.8.2008 16:33:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (952, 520, -55) in Malas: "peach"
+18.8.2008 16:33:46: 85.70.219.31: Serials: 0x4001062D; 
+18.8.2008 16:33:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 16:33:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Poison' of 0x4001062D (Peach) to 'Lethal'
+18.8.2008 16:34:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set karma 5000'
+18.8.2008 16:34:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'karma' of 0x1 "Elamorius" ('Elamor') to '5000'
+18.8.2008 16:35:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set karma 50000'
+18.8.2008 16:35:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'karma' of 0x1 "Elamorius" ('Elamor') to '50000'
+18.8.2008 16:36:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go haven'
+18.8.2008 16:36:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 16:36:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 16:36:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add app'
+18.8.2008 16:37:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3499, 2548, 40) in Trammel: "LetterofApprenticeship"
+18.8.2008 16:37:00: 85.70.219.31: Serials: 0x400159A2; 
+18.8.2008 16:37:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'global givetoplayers letterofapprentice'
+18.8.2008 16:37:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'global help'
+18.8.2008 16:37:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'global '
+18.8.2008 16:39:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 16:42:10: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 16:43:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 16:43:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 16:43:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 16:43:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x38F "Eldrod" ('Theogil') to (3493, 2547, 40)
+18.8.2008 16:44:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 16:45:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawner'
+18.8.2008 16:45:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6047, 327, 22) in Trammel: "xmlspawner"
+18.8.2008 16:45:28: 85.70.219.31: Serials: 0x40019084; 
+18.8.2008 16:45:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x40019084 'Spawner' [6047, 327] (Trammel) : HeadlessOne
+18.8.2008 16:46:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawner'
+18.8.2008 16:46:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6038, 278, 0) in Trammel: "xmlspawner"
+18.8.2008 16:46:05: 85.70.219.31: Serials: 0x40019127; 
+18.8.2008 16:46:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x40019127 'Spawner' [6038, 278] (Trammel) : GiantSpider
+18.8.2008 16:46:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawner'
+18.8.2008 16:46:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6067, 338, 22) in Trammel: "xmlspawner"
+18.8.2008 16:46:47: 85.70.219.31: Serials: 0x40019378; 
+18.8.2008 16:46:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x40019378 'Spawner' [6067, 338] (Trammel) : HordeMinion
+18.8.2008 16:47:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRange' of 0x40019378 (XmlSpawner) to '10'
+18.8.2008 16:48:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 16:54:00: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c ela?'
+18.8.2008 16:54:09: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c ela tu ted neni'
+18.8.2008 16:54:21: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c aha oki'
+18.8.2008 17:07:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 17:07:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add letter'
+18.8.2008 17:07:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1033, 520, -63) in Malas: "LetterofApprenticeship"
+18.8.2008 17:07:21: 85.70.219.31: Serials: 0x400249A7; 
+18.8.2008 17:08:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 17:08:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add uzerma'
+18.8.2008 17:08:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3499, 2559, 20) in Trammel: "MansionGuard"
+18.8.2008 17:08:49: 85.70.219.31: Serials: 0x27E8; 
+18.8.2008 17:08:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:08:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x27E8 "Schuyler" (no account) to (3500, 2560, 15)
+18.8.2008 17:08:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:09:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x27E8 "Schuyler" (no account) to (3500, 2560, 15)
+18.8.2008 17:09:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:09:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x27E8 "Schuyler" (no account) to (3500, 2558, 20)
+18.8.2008 17:09:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:09:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x27E8 "Schuyler" (no account) to (3499, 2559, 20)
+18.8.2008 17:09:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:09:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x27E8 "Schuyler" (no account) to (3500, 2559, 15)
+18.8.2008 17:09:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:09:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x27E8 "Schuyler" (no account) to (3500, 2560, 15)
+18.8.2008 17:09:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:09:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x27E8 "Schuyler" (no account) to (3502, 2556, 20)
+18.8.2008 17:09:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 17:09:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Direction' of 0x27E8 "Schuyler" (no account) to 'Down'
+18.8.2008 17:09:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Direction' of 0x27E8 "Schuyler" (no account) to 'South'
+18.8.2008 17:12:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:12:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0xD8F "Lothar" (no account) to (3498, 2553, 40)
+18.8.2008 17:13:36: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 17:14:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c ta te nesezere :D'
+18.8.2008 17:14:54: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c budou silnejsi co:D'
+18.8.2008 17:15:03: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jen trochu'
+18.8.2008 17:15:05: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c hh'
+18.8.2008 17:15:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jj, ale ne moc. je to quest pro novacky'
+18.8.2008 17:15:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c staci painstrike :D'
+18.8.2008 17:15:28: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c nn'
+18.8.2008 17:15:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c tak ne mno :D'
+18.8.2008 17:15:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c firebally?'
+18.8.2008 17:15:57: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c hh?'
+18.8.2008 17:16:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:16:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0xCE "jimmy dragon X" ('darius03') to (6041, 340, 22)
+18.8.2008 17:16:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 17:16:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 8888888'
+18.8.2008 17:16:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '8888888'
+18.8.2008 17:16:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 888888844'
+18.8.2008 17:16:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '888888844'
+18.8.2008 17:16:47: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c co mu mam dat'
+18.8.2008 17:16:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c to maso voe'
+18.8.2008 17:17:06: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ckj odlognu'
+18.8.2008 17:17:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:17:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x16E3 "a giant spider" (no account) to (6057, 299, -9)
+18.8.2008 17:17:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspaw'
+18.8.2008 17:17:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6058, 297, -13) in Trammel: "XmlSpawner"
+18.8.2008 17:17:33: 85.70.219.31: Serials: 0x4002840D; 
+18.8.2008 17:17:59: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c reward nic moc:D'
+18.8.2008 17:18:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002840D 'Spawner' [6058, 297] (Trammel) : LinkedRat
+18.8.2008 17:18:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002840D 'Spawner' [6058, 297] (Trammel) : LinkedRat to Sewerrat
+18.8.2008 17:19:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+18.8.2008 17:19:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4002840D (XmlSpawner) (inBag=False; amount=1)
+18.8.2008 17:19:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4002840D (XmlSpawner) creating 0x40028AB2 (XmlSpawner)
+18.8.2008 17:19:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:19:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40028AB2 (XmlSpawner) to (6063, 279, -22)
+18.8.2008 17:19:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+18.8.2008 17:19:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40028AB2 (XmlSpawner) (inBag=False; amount=1)
+18.8.2008 17:19:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40028AB2 (XmlSpawner) creating 0x40028B10 (XmlSpawner)
+18.8.2008 17:19:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:19:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40028B10 (XmlSpawner) to (6042, 312, 12)
+18.8.2008 17:19:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+18.8.2008 17:19:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40028B10 (XmlSpawner) (inBag=False; amount=1)
+18.8.2008 17:19:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40028B10 (XmlSpawner) creating 0x40028B55 (XmlSpawner)
+18.8.2008 17:19:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 17:19:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40028B55 (XmlSpawner) to (6064, 323, 22)
+18.8.2008 17:19:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspa'
+18.8.2008 17:19:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6065, 362, 22) in Trammel: "XmlSpawner"
+18.8.2008 17:19:51: 85.70.219.31: Serials: 0x40028E85; 
+18.8.2008 17:20:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x40028E85 'Spawner' [6065, 362] (Trammel) : Sewerrat
+18.8.2008 17:20:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x40028E85 'Spawner' [6065, 362] (Trammel) : giantrat
+18.8.2008 17:20:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 17:21:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawner'
+18.8.2008 17:21:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6048, 361, 44) in Trammel: "xmlspawner"
+18.8.2008 17:21:07: 85.70.219.31: Serials: 0x4002978C; 
+18.8.2008 17:21:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002978C 'Spawner' [6048, 361] (Trammel) : brianna
+18.8.2008 17:21:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x4002978C (XmlSpawner) to '0'
+18.8.2008 17:21:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 4444'
+18.8.2008 17:21:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x4983 "Brianna" (no account) to '4444'
+18.8.2008 17:21:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add staff'
+18.8.2008 17:21:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6049, 362, 43) in Trammel: "staff"
+18.8.2008 17:22:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add staf'
+18.8.2008 17:22:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6048, 363, 44) in Trammel: "BlackStaff"
+18.8.2008 17:22:06: 85.70.219.31: Serials: 0x40029E7D; 
+18.8.2008 17:22:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002978C 'Spawner' [6048, 361] (Trammel) : brianna to brianna/rawstr/500
+18.8.2008 17:22:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 888'
+18.8.2008 17:22:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x4A8D "Brianna" (no account) to '888'
+18.8.2008 17:23:02: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c musim padit custe'
+18.8.2008 17:23:06: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c cus'
+18.8.2008 17:23:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c papa'
+18.8.2008 17:23:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+18.8.2008 17:23:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 17:23:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'kill '
+18.8.2008 17:23:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add 10'
+18.8.2008 17:25:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add solen'
+18.8.2008 17:26:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add head'
+18.8.2008 17:26:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add hea'
+18.8.2008 17:26:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6050, 363, 42) in Trammel: "SavageHead"
+18.8.2008 17:26:31: 85.70.219.31: Serials: 0x4002ADEF; 
+18.8.2008 17:26:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 17:26:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002ADEF (SavageHead)
+18.8.2008 17:26:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add sava'
+18.8.2008 17:27:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6041, 360, 44) in Trammel: "Savage"
+18.8.2008 17:27:03: 85.70.219.31: Serials: 0x4C38; 
+18.8.2008 17:27:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6041, 363, 44) in Trammel: "SavageRider"
+18.8.2008 17:27:10: 85.70.219.31: Serials: 0x4C67; 
+18.8.2008 17:27:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 17:27:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4C67 "Kahl" (no account)
+18.8.2008 17:27:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4C38 "Lana" (no account)
+18.8.2008 17:27:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add headofs'
+18.8.2008 17:27:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6041, 364, 44) in Trammel: "SavageHead"
+18.8.2008 17:27:36: 85.70.219.31: Serials: 0x4002B21F; 
+18.8.2008 17:28:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002978C 'Spawner' [6048, 361] (Trammel) : brianna/rawstr/500 to brianna/rawstr/500/macefighting/100
+18.8.2008 17:28:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002978C 'Spawner' [6048, 361] (Trammel) : brianna/rawstr/500/macefighting/100 to brianna/rawstr/500/skill/macefighting/100
+18.8.2008 17:29:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002978C 'Spawner' [6048, 361] (Trammel) : brianna/rawstr/500/skill/macefighting/100 to brianna/rawstr/500/skills/macefighting/100
+18.8.2008 17:29:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002978C 'Spawner' [6048, 361] (Trammel) : brianna/rawstr/500/skills/macefighting/100 to brianna/rawstr/500
+18.8.2008 17:30:17: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c to je good odmena'
+18.8.2008 17:30:23: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c copak?'
+18.8.2008 17:30:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 17:30:38: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c posledni level je good odmena'
+18.8.2008 17:30:45: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c copak je za odmenu'
+18.8.2008 17:31:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add or'
+18.8.2008 17:31:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3498, 2548, 40) in Trammel: "GrammarOfOrcish"
+18.8.2008 17:31:49: 85.70.219.31: Serials: 0x4002BA8D; 
+18.8.2008 17:31:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3499, 2549, 40) in Trammel: "GrammarOfOrcish"
+18.8.2008 17:31:53: 85.70.219.31: Serials: 0x4002BA99; 
+18.8.2008 17:31:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 17:31:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002BA99 (GrammarOfOrcish)
+18.8.2008 17:32:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add mage'
+18.8.2008 17:32:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add mag'
+18.8.2008 17:32:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3498, 2549, 40) in Trammel: "OrcishMage"
+18.8.2008 17:32:39: 85.70.219.31: Serials: 0x51CC; 
+18.8.2008 17:32:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 17:32:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x51CC "an orcish mage" (no account)
+18.8.2008 17:33:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add magic'
+18.8.2008 17:33:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3498, 2550, 40) in Trammel: "MagicOrcHelm"
+18.8.2008 17:33:13: 85.70.219.31: Serials: 0x4002BD49; 
+18.8.2008 17:34:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 17:34:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 17:34:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 17:34:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'kill '
+18.8.2008 17:34:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') killing 0x5190 "Pruslas" (no account)
+18.8.2008 17:35:29: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c :) zlatej ja:D'
+18.8.2008 17:35:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add mace'
+18.8.2008 17:35:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6050, 362, 42) in Trammel: "mace"
+18.8.2008 17:35:39: 85.70.219.31: Serials: 0x4002BFB2; 
+18.8.2008 17:35:46: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c co resite?'
+18.8.2008 17:35:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c nic'
+18.8.2008 17:36:08: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c tak co blnete furt'
+18.8.2008 17:36:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c te pomlouvame, neres'
+18.8.2008 17:36:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 17:36:25: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c hmm me pomluvate jo'
+18.8.2008 17:37:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add ridabl'
+18.8.2008 17:37:39: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c ela ted uz je to konec vid?'
+18.8.2008 17:38:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add persona'
+18.8.2008 17:39:35: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ela hotovo:)'
+18.8.2008 17:54:29: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 18:03:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 18:03:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawner'
+18.8.2008 18:03:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (86, 337, -1) in Malas: "xmlspawner"
+18.8.2008 18:03:35: 85.70.219.31: Serials: 0x4002CB35; 
+18.8.2008 18:03:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002CB35 'Spawner' [86, 337] (Malas) : fandancer
+18.8.2008 18:05:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'kill '
+18.8.2008 18:05:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') killing 0x737B "a fan dancer" (no account)
+18.8.2008 18:05:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'kill '
+18.8.2008 18:05:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') killing 0x737A "a fan dancer" (no account)
+18.8.2008 18:07:13: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 18:07:27: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c co vrazdis jimmy???'
+18.8.2008 18:07:35: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ale fanky'
+18.8.2008 18:07:46: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c fanky???co to je?'
+18.8.2008 18:07:55: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c :) neres:)'
+18.8.2008 18:08:01: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c oki...:-D'
+18.8.2008 18:08:02: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c takovy potvory hnusny'
+18.8.2008 18:08:09: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jj'
+18.8.2008 18:08:11: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c sou to lidi a sou to zensky co sou pekne zabijacky'
+18.8.2008 18:08:25: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c aha'
+18.8.2008 18:12:53: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'afk sleep'
+18.8.2008 18:13:45: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'hlad '
+18.8.2008 18:14:02: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'hlad '
+18.8.2008 18:14:05: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'hlad '
+18.8.2008 18:20:11: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 18:30:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 18:34:16: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 18:34:42: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'C JE TU DOCELA NUDA CO?'
+18.8.2008 18:34:57: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'C JE TU DOCELA NUDA CO??'
+18.8.2008 18:35:08: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c je tu docela nuda co??'
+18.8.2008 18:35:13: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ani ne'
+18.8.2008 18:35:25: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c sak casem to tu ozivne'
+18.8.2008 18:35:34: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c zkus sem nekoho pritahnout :D'
+18.8.2008 18:36:52: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c taky si dostal z aten quest nausnice??'
+18.8.2008 18:36:56: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c j'
+18.8.2008 18:37:01: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c kazdej dostal to samy'
+18.8.2008 18:37:10: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jjj'
+18.8.2008 18:37:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 18:39:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 18:40:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'kill '
+18.8.2008 18:40:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') killing 0x8D87 "a Malefic" (no account)
+18.8.2008 18:42:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'kill '
+18.8.2008 18:42:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') killing 0x96C3 "Irk" (no account)
+18.8.2008 18:45:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 18:45:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 18:45:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'AI' of 0x8E75 "a satyr" (no account) to 'AI_Use_Default'
+18.8.2008 18:46:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001DBE3 'TwistedWeald#9' [2207, 1180] (Ilshenar) : changeling to changeling/fightmode/evil
+18.8.2008 18:46:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001DBE3 'TwistedWeald#9' [2207, 1180] (Ilshenar) : changeling/fightmode/evil to changeling
+18.8.2008 18:46:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 18:47:10: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c co to bylo???'
+18.8.2008 18:47:17: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ale nic ?ú'
+18.8.2008 18:47:36: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c a fireworks wand'
+18.8.2008 18:47:51: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c aha tak tro neznam'
+18.8.2008 18:48:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add drya'
+18.8.2008 18:48:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (2211, 1192, -35) in Ilshenar: "Dryad"
+18.8.2008 18:48:29: 85.70.219.31: Serials: 0x8E3C; 
+18.8.2008 18:48:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (2210, 1193, -34) in Ilshenar: "DryadA"
+18.8.2008 18:48:33: 85.70.219.31: Serials: 0x8E3D; 
+18.8.2008 18:48:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 18:48:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x8E3C "Anwin Brenna" (no account)
+18.8.2008 18:49:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawner'
+18.8.2008 18:49:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (2208, 1187, -37) in Ilshenar: "xmlspawner"
+18.8.2008 18:49:07: 85.70.219.31: Serials: 0x4002E29A; 
+18.8.2008 18:49:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x4002E29A (XmlSpawner) to '20'
+18.8.2008 18:49:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRange' of 0x4002E29A (XmlSpawner) to '20'
+18.8.2008 18:49:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Group' of 0x4002E29A (XmlSpawner) to 'True'
+18.8.2008 18:49:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRangeIsRelative' of 0x4002E29A (XmlSpawner) to 'True'
+18.8.2008 18:49:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRangeIsRelative' of 0x4002E29A (XmlSpawner) to 'False'
+18.8.2008 18:49:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002E29A 'Spawner' [2208, 1187] (Ilshenar) : Dryada
+18.8.2008 18:50:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002E29A 'Spawner' [2208, 1187] (Ilshenar) : Dryada to DryadA
+18.8.2008 18:50:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 18:50:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x8E4C "a dryad" (no account) to (2203, 1202, -21)
+18.8.2008 18:51:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 18:51:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 18:51:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 18:51:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawner'
+18.8.2008 18:51:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (934, 637, -90) in Malas: "xmlspawner"
+18.8.2008 18:51:26: 85.70.219.31: Serials: 0x4002E51B; 
+18.8.2008 18:51:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawner'
+18.8.2008 18:51:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (944, 637, -90) in Malas: "xmlspawner"
+18.8.2008 18:51:29: 85.70.219.31: Serials: 0x4002E53D; 
+18.8.2008 18:51:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002E53D 'Spawner' [944, 637] (Malas) : Dryada
+18.8.2008 18:51:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4002E51B 'Spawner' [934, 637] (Malas) : Changeling
+18.8.2008 18:52:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 18:52:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 18:52:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x8E62 "a changeling" (no account) to (932, 638, -90)
+18.8.2008 18:52:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 18:52:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x8E65 "a changeling" (no account) to (938, 637, -90)
+18.8.2008 18:52:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 18:52:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x8E62 "a changeling" (no account) to (942, 636, -90)
+18.8.2008 18:52:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 18:52:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x8E5F "a dryad" (no account) to (946, 635, -90)
+18.8.2008 18:53:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 18:54:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002E51B 'Spawner' [934, 637] (Malas) : Changeling to Changeling/karma/-10000
+18.8.2008 18:54:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 18:54:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x8E81 "a changeling" (no account) to (940, 637, -90)
+18.8.2008 18:55:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x4002E51B (XmlSpawner) to '2'
+18.8.2008 18:55:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRange' of 0x4002E51B (XmlSpawner) to '2'
+18.8.2008 18:55:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRange' of 0x4002E53D (XmlSpawner) to '2'
+18.8.2008 18:55:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x4002E53D (XmlSpawner) to '2'
+18.8.2008 18:55:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 18:56:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MinDelay' of 0x4002E51B (XmlSpawner) to '00:00:00'
+18.8.2008 18:56:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MinDelay' of 0x4002E53D (XmlSpawner) to '00:00:00'
+18.8.2008 18:56:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MaxDelay' of 0x4002E53D (XmlSpawner) to '00:02:00'
+18.8.2008 18:56:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MaxDelay' of 0x4002E51B (XmlSpawner) to '00:02:00'
+18.8.2008 18:57:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MaxDelay' of 0x4002E53D (XmlSpawner) to '00:00:00'
+18.8.2008 18:57:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MaxDelay' of 0x4002E51B (XmlSpawner) to '00:00:00'
+18.8.2008 18:57:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 18:57:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 18:58:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'unhide '
+18.8.2008 18:59:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c hh, mrknete se v lune do areny :P'
+18.8.2008 18:59:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x4002E51B (XmlSpawner) to '0'
+18.8.2008 18:59:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x4002E53D (XmlSpawner) to '0'
+18.8.2008 18:59:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set locked false'
+18.8.2008 19:00:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'locked' of 0x400213D0 (DarkWoodDoor) to 'False'
+18.8.2008 19:00:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set locked false'
+18.8.2008 19:00:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'locked' of 0x400214EC (DarkWoodDoor) to 'False'
+18.8.2008 19:00:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set locked false'
+18.8.2008 19:00:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'locked' of 0x40013333 (DarkWoodDoor) to 'False'
+18.8.2008 19:00:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set locked false'
+18.8.2008 19:00:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'locked' of 0x40019AD8 (DarkWoodDoor) to 'False'
+18.8.2008 19:00:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 19:00:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 19:00:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 19:01:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 19:02:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002E53D 'Spawner' [944, 637] (Malas) : Dryada to dreadhorn
+18.8.2008 19:02:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 19:02:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 19:02:30: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ela das si sachy?'
+18.8.2008 19:02:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002E53D 'Spawner' [944, 637] (Malas) : dreadhorn to dreadhorn/fightmode/evil
+18.8.2008 19:02:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002E51B 'Spawner' [934, 637] (Malas) : Changeling/karma/-10000 to Dreadhorn/karma/-10000
+18.8.2008 19:03:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:03:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4002E53D (XmlSpawner) to (941, 637, -90)
+18.8.2008 19:03:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:03:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4002E51B (XmlSpawner) to (937, 637, -90)
+18.8.2008 19:03:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4002E51B 'Spawner' [937, 637] (Malas) : Dreadhorn/karma/-10000 to Dreadhorn/karma/-1000000
+18.8.2008 19:04:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 19:04:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 19:04:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Kills' of 0x8F47 "a Dread Horn" (no account) to '5'
+18.8.2008 19:05:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:05:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002E53D (XmlSpawner)
+18.8.2008 19:05:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002E51B (XmlSpawner)
+18.8.2008 19:05:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+18.8.2008 19:12:00: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 19:16:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add AI'
+18.8.2008 19:19:47: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 19:19:49: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'e '
+18.8.2008 19:20:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'kill '
+18.8.2008 19:20:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 19:20:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set blessed false'
+18.8.2008 19:20:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'blessed' of 0x8F84 "King [White]" (no account) to 'False'
+18.8.2008 19:20:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'kill '
+18.8.2008 19:20:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') killing 0x8F84 "King [White]" (no account)
+18.8.2008 19:21:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:21:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030971 (Head)
+18.8.2008 19:21:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003096C (Torso)
+18.8.2008 19:21:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003096D (LeftLeg)
+18.8.2008 19:21:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003096E (LeftArm)
+18.8.2008 19:21:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030970 (RightArm)
+18.8.2008 19:21:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030967 (Corpse)
+18.8.2008 19:21:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003096F (RightLeg)
+18.8.2008 19:21:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 19:21:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'hide '
+18.8.2008 19:21:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') hiding 0x36CB "Semik" (no account)
+18.8.2008 19:22:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:22:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021094 (Static) to (887, 634, -90)
+18.8.2008 19:22:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:22:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021099 (Static) to (887, 635, -90)
+18.8.2008 19:22:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:22:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020DED (Static)
+18.8.2008 19:22:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020CFF (Static)
+18.8.2008 19:22:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020DD6 (Static)
+18.8.2008 19:22:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020DD7 (Static)
+18.8.2008 19:22:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40020DE3 (Static)
+18.8.2008 19:22:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:22:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021094 (Static) to (886, 634, -90)
+18.8.2008 19:22:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:22:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021099 (Static) to (886, 635, -90)
+18.8.2008 19:22:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:22:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021099 (Static) to (886, 636, -90)
+18.8.2008 19:22:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:22:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021094 (Static) to (886, 634, -90)
+18.8.2008 19:22:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:22:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021094 (Static) to (886, 635, -90)
+18.8.2008 19:23:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 14089 set movable False hue 0 light Circle225'
+18.8.2008 19:23:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 636, -90) in Malas: "static" "14089" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 19:23:42: 85.70.219.31: Serials: 0x40030A45; 
+18.8.2008 19:23:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 14089 set movable False hue 0 light Circle225'
+18.8.2008 19:23:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 634, -90) in Malas: "static" "14089" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 19:23:45: 85.70.219.31: Serials: 0x40030A47; 
+18.8.2008 19:24:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add semidar'
+18.8.2008 19:24:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (890, 636, -90) in Malas: "semidar"
+18.8.2008 19:24:19: 85.70.219.31: Serials: 0x9066; 
+18.8.2008 19:24:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add semidar'
+18.8.2008 19:24:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (887, 637, -90) in Malas: "semidar"
+18.8.2008 19:24:24: 85.70.219.31: Serials: 0x9067; 
+18.8.2008 19:24:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:24:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x9067 "Semidar" (no account)
+18.8.2008 19:24:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:24:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030A47 (Static)
+18.8.2008 19:24:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030A45 (Static)
+18.8.2008 19:25:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:25:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40019CD6 (Static) to (891, 636, -90)
+18.8.2008 19:25:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:25:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9045 "Bishop [White]" (no account) to (888, 636, -90)
+18.8.2008 19:25:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:25:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9045 "Bishop [White]" (no account) to (891, 635, -90)
+18.8.2008 19:25:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:25:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9048 "King [Black]" (no account) to (894, 639, -90)
+18.8.2008 19:25:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:25:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9048 "King [Black]" (no account) to (895, 639, -90)
+18.8.2008 19:26:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:26:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9048 "King [Black]" (no account) to (897, 629, -90)
+18.8.2008 19:27:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 10749 set movable False hue 0 light Circle225'
+18.8.2008 19:27:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 636, -90) in Malas: "static" "10749" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 19:27:06: 85.70.219.31: Serials: 0x40030AD1; 
+18.8.2008 19:27:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:27:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40030AD1 (Static) to (887, 636, -90)
+18.8.2008 19:27:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:27:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40030AD1 (Static) to (887, 633, -90)
+18.8.2008 19:27:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:27:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40030AD1 (Static) to (886, 646, -95)
+18.8.2008 19:27:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:27:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030AD1 (Static)
+18.8.2008 19:27:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 2317 set movable False hue 0 light Circle225'
+18.8.2008 19:27:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 636, -90) in Malas: "static" "2317" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 19:27:31: 85.70.219.31: Serials: 0x40030AD6; 
+18.8.2008 19:27:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:27:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030AD6 (Static)
+18.8.2008 19:27:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 14068 set movable False hue 0 light Circle225'
+18.8.2008 19:27:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 636, -90) in Malas: "static" "14068" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 19:27:50: 85.70.219.31: Serials: 0x40030AD9; 
+18.8.2008 19:27:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:27:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030AD9 (Static)
+18.8.2008 19:28:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+18.8.2008 19:28:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 636, -90) in Malas: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 19:28:09: 85.70.219.31: Serials: 0x40030ADC; 
+18.8.2008 19:28:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Add static 14265 set movable False hue 0 light Circle225'
+18.8.2008 19:28:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 634, -90) in Malas: "static" "14265" "set" "movable" "False" "hue" "0" "light" "Circle225"
+18.8.2008 19:28:15: 85.70.219.31: Serials: 0x40030B4C; 
+18.8.2008 19:28:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:28:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030B4C (Static)
+18.8.2008 19:28:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030ADC (Static)
+18.8.2008 19:28:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'immortal '
+18.8.2008 19:28:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'blessed' of 0x1 "Elamorius" ('Elamor') to 'True'
+18.8.2008 19:45:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 19:45:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+18.8.2008 19:46:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 255555'
+18.8.2008 19:46:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x36CB "Semik" (no account) to '255555'
+18.8.2008 19:46:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+18.8.2008 19:48:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 19:55:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 19:55:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'hide '
+18.8.2008 19:55:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') hiding 0x36CB "Semik" (no account)
+18.8.2008 19:55:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+18.8.2008 19:55:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'AI' of 0x36CB "Semik" (no account) to 'AI_Ninja'
+18.8.2008 19:56:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'hide '
+18.8.2008 19:56:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') hiding 0x36CB "Semik" (no account)
+18.8.2008 19:56:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'hide '
+18.8.2008 19:56:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') hiding 0x36CB "Semik" (no account)
+18.8.2008 19:56:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:56:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add blocke'
+18.8.2008 19:57:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (886, 635, -90) in Malas: "Blocker"
+18.8.2008 19:57:07: 85.70.219.31: Serials: 0x400314CD; 
+18.8.2008 19:58:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:58:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001B152 (Static) to (886, 635, -90)
+18.8.2008 19:58:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:58:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001B152 (Static) to (883, 631, -95)
+18.8.2008 19:58:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:58:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021099 (Static) to (887, 634, -90)
+18.8.2008 19:58:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:58:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400314CD (Blocker) to (888, 632, -90)
+18.8.2008 19:58:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:58:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001B152 (Static) to (886, 635, -95)
+18.8.2008 19:58:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:58:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021099 (Static) to (886, 635, -90)
+18.8.2008 19:58:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:58:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40021099 (Static) to (886, 636, -90)
+18.8.2008 19:58:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:58:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400314CD (Blocker) to (886, 635, -90)
+18.8.2008 19:58:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+18.8.2008 19:58:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x1 "Elamorius" ('Elamor') to (886, 635, -86)
+18.8.2008 19:59:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 19:59:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031595 (Bloodmoss)
+18.8.2008 20:00:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+18.8.2008 20:00:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031596 (Garlic)
+18.8.2008 20:00:20: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c zatim nevylezlo'
+18.8.2008 20:00:33: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c leze pomalu'
+18.8.2008 20:00:50: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c myslis ze je zaply?'
+18.8.2008 20:00:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c zkus lod ;)'
+18.8.2008 20:01:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 20:01:03: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c lod??'
+18.8.2008 20:01:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c takhle, kontroluje se na dvou mistech, v jednom je vypli a v druhem myslim ze zapli'
+18.8.2008 20:01:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c yy*'
+18.8.2008 20:01:33: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c aha'
+18.8.2008 20:01:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c afk, mam hlad'
+18.8.2008 20:01:41: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jjj'
+18.8.2008 20:01:46: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ok antimacro code nebude delat potize?'
+18.8.2008 20:38:02: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c je tu nekdo?'
+18.8.2008 20:45:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 20:49:34: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 20:49:51: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c ela?'
+18.8.2008 21:15:42: 88.103.233.122: Player 0x148F "Benet" ('Vojtasek') used command 'f '
+18.8.2008 21:15:47: 88.103.233.122: Player 0x148F "Benet" ('Vojtasek') used command 'c hoj:)'
+18.8.2008 22:02:15: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 22:02:29: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c ela jses tu??'
+18.8.2008 22:24:17: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+18.8.2008 22:26:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+18.8.2008 22:27:53: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ty si zlej'
+18.8.2008 22:28:04: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c takhle me lakat regama'
+18.8.2008 22:43:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+18.8.2008 22:44:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 0:14:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 0:16:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 0:16:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: True)
+19.8.2008 0:16:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '

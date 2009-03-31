@@ -1,0 +1,168 @@
+##############################
+Log started on 30.10.2008 13:23:32
+
+30.10.2008 14:04:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+30.10.2008 14:08:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+30.10.2008 14:08:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+30.10.2008 14:08:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'MaxDelay' of 0x400199D6 (Spawner) to '00:00:10'
+30.10.2008 14:47:39: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'who '
+30.10.2008 14:55:26: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:55:27: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002213B (WoodenKiteShield)
+30.10.2008 14:55:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:55:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40022135 (ChainChest)
+30.10.2008 14:55:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:55:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40022136 (ChainLegs)
+30.10.2008 14:55:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:55:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40022137 (ChainHatsuburi)
+30.10.2008 14:55:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:55:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40022132 (Boots)
+30.10.2008 14:55:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:55:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40022134 (Cloak)
+30.10.2008 14:55:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add paladin'
+30.10.2008 14:55:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6064, 1044, 0) in Trammel: "PaladinSword"
+30.10.2008 14:55:47: 89.111.89.28: Serials: 0x400158B7; 
+30.10.2008 14:55:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+30.10.2008 14:56:04: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'RegenHits' of ... to '60'
+30.10.2008 14:56:09: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:56:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002213A (Kryss)
+30.10.2008 14:56:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add death'
+30.10.2008 14:56:27: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6063, 1044, 0) in Trammel: "DeathArms"
+30.10.2008 14:56:27: 89.111.89.28: Serials: 0x40015AB2; 
+30.10.2008 14:56:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6065, 1044, 0) in Trammel: "DeathGloves"
+30.10.2008 14:56:37: 89.111.89.28: Serials: 0x40015AF9; 
+30.10.2008 14:56:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6064, 1044, 0) in Trammel: "DeathChest"
+30.10.2008 14:56:40: 89.111.89.28: Serials: 0x40015B03; 
+30.10.2008 14:56:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6065, 1045, 0) in Trammel: "DeathLegs"
+30.10.2008 14:56:43: 89.111.89.28: Serials: 0x40015B08; 
+30.10.2008 14:56:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6064, 1045, 0) in Trammel: "DeathBoneHelm"
+30.10.2008 14:56:49: 89.111.89.28: Serials: 0x40015B10; 
+30.10.2008 14:57:14: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add paladin'
+30.10.2008 14:57:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6065, 1044, 0) in Trammel: "ShieldOfInvulnerability"
+30.10.2008 14:57:38: 89.111.89.28: Serials: 0x40015BE1; 
+30.10.2008 14:57:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set speed 1000'
+30.10.2008 14:58:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'speed' of 0x400158B7 (PaladinSword) to '1000'
+30.10.2008 14:58:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+30.10.2008 14:58:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Count' of 0x400199D6 (Spawner) to '5'
+30.10.2008 14:58:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add paladin'
+30.10.2008 14:58:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6062, 1043, 0) in Trammel: "PaladinArms"
+30.10.2008 14:58:48: 89.111.89.28: Serials: 0x40015EBA; 
+30.10.2008 14:58:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6064, 1045, 0) in Trammel: "PaladinGloves"
+30.10.2008 14:58:57: 89.111.89.28: Serials: 0x40015EE2; 
+30.10.2008 14:59:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6064, 1045, 0) in Trammel: "PaladinGorget"
+30.10.2008 14:59:00: 89.111.89.28: Serials: 0x40015F02; 
+30.10.2008 14:59:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6064, 1045, 1) in Trammel: "PaladinHelm"
+30.10.2008 14:59:03: 89.111.89.28: Serials: 0x40015F28; 
+30.10.2008 14:59:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6065, 1045, 0) in Trammel: "PaladinChest"
+30.10.2008 14:59:06: 89.111.89.28: Serials: 0x40015F2B; 
+30.10.2008 14:59:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (6065, 1045, 0) in Trammel: "PaladinLegs"
+30.10.2008 14:59:08: 89.111.89.28: Serials: 0x40015F72; 
+30.10.2008 14:59:14: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:59:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40015B03 (DeathChest)
+30.10.2008 14:59:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:59:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40015B08 (DeathLegs)
+30.10.2008 14:59:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:59:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40015AB2 (DeathArms)
+30.10.2008 14:59:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:59:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40015AF9 (DeathGloves)
+30.10.2008 14:59:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 14:59:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40015B10 (DeathBoneHelm)
+30.10.2008 15:00:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+30.10.2008 15:00:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40019010 (Dagger)
+30.10.2008 15:00:26: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set speed 100'
+30.10.2008 15:00:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'speed' of 0x40019025 (Bow) to '100'
+30.10.2008 15:00:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set speed 200'
+30.10.2008 15:00:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'speed' of 0x40019025 (Bow) to '200'
+30.10.2008 15:01:09: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set maxdamage 1000'
+30.10.2008 15:01:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'maxdamage' of 0x400158B7 (PaladinSword) to '1000'
+30.10.2008 15:01:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set mindamage 1000'
+30.10.2008 15:01:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'mindamage' of 0x400158B7 (PaladinSword) to '1000'
+30.10.2008 15:01:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+30.10.2008 15:01:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusStr' of ... to '50000'
+30.10.2008 15:02:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'setallskills 65000'
+30.10.2008 15:02:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'EverySkill.Base' of 0x74A "Mukasa" (no account) to '65000'
+30.10.2008 15:02:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'setallskills 65000'
+30.10.2008 15:02:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'EverySkill.Base' of 0x6C0 "Odetta" (no account) to '65000'
+30.10.2008 15:02:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'setallskills 65000'
+30.10.2008 15:02:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'EverySkill.Base' of 0x52F "Olin" (no account) to '65000'
+30.10.2008 15:02:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'setallskills 65000'
+30.10.2008 15:02:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'EverySkill.Base' of 0x6BC "Nitara" (no account) to '65000'
+30.10.2008 15:02:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+30.10.2008 15:02:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'HomeRange' of 0x400199D6 (Spawner) to '10'
+30.10.2008 15:02:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Count' of 0x400199D6 (Spawner) to '10'
+30.10.2008 15:04:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set rawstr 65000'
+30.10.2008 15:04:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'rawstr' of 0x6C0 "Odetta" (no account) to '65000'
+30.10.2008 15:04:15: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'who '
+30.10.2008 15:04:17: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') going to 0x8D "Kentar" ('osiriscz'), Location (6061, 1043, 0), Map Trammel
+30.10.2008 15:04:42: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:04:43: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:04:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set range 100'
+30.10.2008 15:04:51: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'add new'
+30.10.2008 15:04:55: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5946, 1051, 67) in Trammel: "NewWarriorGuard"
+30.10.2008 15:04:55: 62.77.118.100: Serials: 0x565; 
+30.10.2008 15:04:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+30.10.2008 15:04:57: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:04:59: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'delete '
+30.10.2008 15:04:59: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') deleting 0x565 "Arlen" (no account)
+30.10.2008 15:05:00: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:05:08: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5941, 1068, 0) in Trammel: "StoneWorkshopDeed"
+30.10.2008 15:05:08: 62.77.118.100: Serials: 0x4001754F; 
+30.10.2008 15:05:09: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'delete '
+30.10.2008 15:05:09: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') deleting 0x4001754F (StoneWorkshopDeed)
+30.10.2008 15:05:10: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5948, 1062, 7) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:10: 62.77.118.100: Serials: 0x56C; 
+30.10.2008 15:05:16: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5947, 1053, 47) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:16: 62.77.118.100: Serials: 0x56D; 
+30.10.2008 15:05:18: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5951, 1051, 67) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:18: 62.77.118.100: Serials: 0x56F; 
+30.10.2008 15:05:18: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:05:26: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'add new'
+30.10.2008 15:05:30: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:05:36: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'speedboost '
+30.10.2008 15:05:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'MaxRange' of 0x40019025 (Bow) to '100'
+30.10.2008 15:05:43: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5951, 1052, 7) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:43: 62.77.118.100: Serials: 0x5B0; 
+30.10.2008 15:05:43: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5943, 1052, 7) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:43: 62.77.118.100: Serials: 0x5BB; 
+30.10.2008 15:05:44: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5944, 1052, 7) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:44: 62.77.118.100: Serials: 0x5C7; 
+30.10.2008 15:05:45: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5948, 1058, 7) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:45: 62.77.118.100: Serials: 0x5CA; 
+30.10.2008 15:05:46: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5952, 1051, 7) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:46: 62.77.118.100: Serials: 0x5CD; 
+30.10.2008 15:05:48: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5943, 1051, 27) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:48: 62.77.118.100: Serials: 0x5D6; 
+30.10.2008 15:05:49: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5949, 1051, 27) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:49: 62.77.118.100: Serials: 0x5DC; 
+30.10.2008 15:05:53: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5946, 1050, 47) in Trammel: "NewWarriorEvilGuard"
+30.10.2008 15:05:53: 62.77.118.100: Serials: 0x5DD; 
+30.10.2008 15:05:54: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:06:18: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'set movable false'
+30.10.2008 15:06:19: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') set property 'movable' of 0x400174A8 (GenericHouseDoor) to 'False'
+30.10.2008 15:06:20: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'props '
+30.10.2008 15:06:28: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') set property 'Locked' of 0x400174A8 (GenericHouseDoor) to 'True'
+30.10.2008 15:06:33: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'props '
+30.10.2008 15:06:38: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') set property 'Locked' of 0x400174A6 (GenericHouseDoor) to 'True'
+30.10.2008 15:06:42: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'props '
+30.10.2008 15:07:00: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') set property 'Location' of 0x5CA "Karli" (no account) to '(5947, 1052, 7)'
+30.10.2008 15:07:03: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'props '
+30.10.2008 15:07:16: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') set property 'Location' of 0x5BB "Josie" (no account) to '(5947, 1052, 7)'
+30.10.2008 15:07:18: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:07:20: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'delete '
+30.10.2008 15:07:21: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') deleting 0x56C "Caley" (no account)
+30.10.2008 15:07:23: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:07:28: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:07:30: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:07:35: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'tele '
+30.10.2008 15:07:44: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'add bloodpenta'
+30.10.2008 15:07:47: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5946, 1049, 67) in Trammel: "BloodPentagram"
+30.10.2008 15:07:47: 62.77.118.100: Serials: 0x40018099; 
+30.10.2008 15:07:48: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') building at (5944, 1048, 67) in Trammel: "BloodPentagram"
+30.10.2008 15:07:48: 62.77.118.100: Serials: 0x400180CD; 
+30.10.2008 15:07:50: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'delete '
+30.10.2008 15:07:50: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') deleting 0x400180C1 (AddonComponent)
+30.10.2008 15:08:18: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'delete '
+30.10.2008 15:08:19: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') deleting 0x56F "Tod" (no account)
+30.10.2008 15:08:23: 62.77.118.100: GameMaster 0x11 "Enzo" ('enzo') used command 'who '
+30.10.2008 16:06:12: : Player 0x40B4 "Eldrod" ('theogil') used command 'char '
+30.10.2008 16:08:35: : Player 0x91BA "Sandro Botticell" ('theogil') used command 'char '
+30.10.2008 16:20:00: : Player 0x40B4 "Eldrod" ('theogil') used command 'char '

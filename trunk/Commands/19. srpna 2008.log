@@ -1,0 +1,1070 @@
+##############################
+Log started on 19.8.2008 10:42:20
+
+19.8.2008 10:59:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+19.8.2008 11:04:26: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+19.8.2008 11:04:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 11:04:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+19.8.2008 11:05:47: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jako ke mne do batohu???'
+19.8.2008 11:10:00: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+19.8.2008 11:12:52: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+19.8.2008 11:26:46: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+19.8.2008 11:34:04: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+19.8.2008 11:39:30: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+19.8.2008 11:40:44: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'e '
+19.8.2008 11:48:37: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c cus ela'
+19.8.2008 11:48:42: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c cus sichni kdo tu je:D'
+19.8.2008 11:55:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 11:55:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 11:55:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 11:56:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+19.8.2008 11:56:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x400343AC (RandomTalisman) (inBag=False; amount=1)
+19.8.2008 11:56:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x400343AC (RandomTalisman) creating 0x4001C5B6 (RandomTalisman)
+19.8.2008 11:57:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c pouzi tvuj totem :D'
+19.8.2008 11:58:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c ten co jsi mel :D'
+19.8.2008 11:58:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c of Doppleganger Summoning'
+19.8.2008 11:59:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 11:59:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MaxChargeTime' of 0x4001C5B6 (RandomTalisman) to '0'
+19.8.2008 11:59:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add demonknight'
+19.8.2008 11:59:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (985, 528, -50) in Malas: "demonknight"
+19.8.2008 11:59:46: 85.70.219.31: Serials: 0x2A1D; 
+19.8.2008 11:59:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Type' of ... to 'Server.Mobiles.DemonKnight'
+19.8.2008 11:59:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 11:59:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x2A1D "Peinsluth" (no account)
+19.8.2008 12:00:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 12:00:39: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c hh'
+19.8.2008 12:00:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:00:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C5B6 (RandomTalisman)
+19.8.2008 12:00:59: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g achjo'
+19.8.2008 12:01:05: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c achjo budu mit malo bodu'
+19.8.2008 12:01:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add dreadhorn'
+19.8.2008 12:01:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (929, 520, -90) in Malas: "dreadhorn"
+19.8.2008 12:01:08: 85.70.219.31: Serials: 0x2AF0; 
+19.8.2008 12:01:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 12:01:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Type' of ... to 'Server.Mobiles.DreadHorn'
+19.8.2008 12:01:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:01:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x2AF0 "a Dread Horn" (no account)
+19.8.2008 12:01:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'mortal '
+19.8.2008 12:01:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'blessed' of 0x1 "Elamorius" ('Elamor') to 'False'
+19.8.2008 12:02:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:02:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40021504 (Corpse)
+19.8.2008 12:02:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 12:03:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'YellowHealthbar' of 0x1 "Elamorius" ('Elamor') to 'True'
+19.8.2008 12:03:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:04:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40021A4F (Corpse)
+19.8.2008 12:04:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400224AD (Corpse)
+19.8.2008 12:04:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:04:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 12:04:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') resurrecting 0x1 "Elamorius" ('Elamor')
+19.8.2008 12:04:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:04:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400234FA (Corpse)
+19.8.2008 12:04:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400229F9 (Corpse)
+19.8.2008 12:04:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40022B61 (Corpse)
+19.8.2008 12:05:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 7777777777'
+19.8.2008 12:05:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 777777777'
+19.8.2008 12:05:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '777777777'
+19.8.2008 12:05:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add nemam cas ;)'
+19.8.2008 12:06:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add demonknight'
+19.8.2008 12:06:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (981, 520, -50) in Malas: "demonknight"
+19.8.2008 12:06:05: 85.70.219.31: Serials: 0x2FE4; 
+19.8.2008 12:06:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add demonknight'
+19.8.2008 12:06:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6040, 606, 0) in Trammel: "demonknight"
+19.8.2008 12:06:36: 85.70.219.31: Serials: 0x3069; 
+19.8.2008 12:07:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:07:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x3222 "a lich lord" (no account)
+19.8.2008 12:08:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set str 8888888888'
+19.8.2008 12:08:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set str 88888'
+19.8.2008 12:08:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'str' of 0x3069 "Ga'ahp" (no account) to '88888'
+19.8.2008 12:09:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set rawstr 89999'
+19.8.2008 12:09:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'rawstr' of 0x3069 "Ga'ahp" (no account) to '89999'
+19.8.2008 12:09:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 8888888'
+19.8.2008 12:09:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x3069 "Ga'ahp" (no account) to '8888888'
+19.8.2008 12:10:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add explos'
+19.8.2008 12:10:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6030, 609, 0) in Trammel: "GreaterExplosionPotion"
+19.8.2008 12:10:49: 85.70.219.31: Serials: 0x4002A94F; 
+19.8.2008 12:10:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set amount 50'
+19.8.2008 12:10:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'amount' of 0x4002A94F (GreaterExplosionPotion) to '50'
+19.8.2008 12:11:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999'
+19.8.2008 12:11:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '99999999'
+19.8.2008 12:11:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add dreadhorn'
+19.8.2008 12:11:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6043, 596, 0) in Trammel: "dreadhorn"
+19.8.2008 12:11:59: 85.70.219.31: Serials: 0x4007; 
+19.8.2008 12:12:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'all kill'
+19.8.2008 12:12:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'all kill'
+19.8.2008 12:12:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 12:12:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999'
+19.8.2008 12:12:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '99999999'
+19.8.2008 12:12:50: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g  nakej killer:D'
+19.8.2008 12:12:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999'
+19.8.2008 12:12:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '99999999'
+19.8.2008 12:12:54: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c nakej killer'
+19.8.2008 12:12:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') resurrecting 0xCE "jimmy dragon X" ('darius03')
+19.8.2008 12:12:58: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g si me portoval k  sobe:D'
+19.8.2008 12:13:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999'
+19.8.2008 12:13:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '99999999'
+19.8.2008 12:13:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999'
+19.8.2008 12:13:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '99999999'
+19.8.2008 12:13:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999'
+19.8.2008 12:13:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '99999999'
+19.8.2008 12:13:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:13:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4002B91D (Corpse) to (6029, 608, 0)
+19.8.2008 12:13:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999'
+19.8.2008 12:13:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '99999999'
+19.8.2008 12:13:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:13:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0xCE "jimmy dragon X" ('darius03') to (6014, 608, 0)
+19.8.2008 12:13:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+19.8.2008 12:14:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (6035, 596, 0) to (6039, 611, 0) in Trammel (Items, Mobiles)
+19.8.2008 12:14:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999'
+19.8.2008 12:14:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '99999999'
+19.8.2008 12:14:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:14:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40027E28 (Corpse)
+19.8.2008 12:14:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40027EFF (Corpse)
+19.8.2008 12:14:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002B7C2 (Corpse)
+19.8.2008 12:14:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002B011 (Corpse)
+19.8.2008 12:14:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002B3ED (Corpse)
+19.8.2008 12:14:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400286E2 (Corpse)
+19.8.2008 12:14:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002B53F (Corpse)
+19.8.2008 12:14:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:14:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002B6F3 (Frostbringer)
+19.8.2008 12:14:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add dreadhorn'
+19.8.2008 12:14:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6042, 608, 0) in Trammel: "dreadhorn"
+19.8.2008 12:14:49: 85.70.219.31: Serials: 0x401E; 
+19.8.2008 12:14:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 1'
+19.8.2008 12:14:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x401E "a Dread Horn" (no account) to '1'
+19.8.2008 12:14:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:15:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 12:15:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Slayer' of 0x4002C245 (DreadFlute) to 'Repond'
+19.8.2008 12:15:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Slayer2' of 0x4002C245 (DreadFlute) to 'DaemonDismissal'
+19.8.2008 12:15:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 12:16:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Slayer' of 0x4002C245 (DreadFlute) to 'DaemonDismissal'
+19.8.2008 12:16:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 12:16:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 12:16:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Slayer' of 0x4002C245 (DreadFlute) to 'Vacuum'
+19.8.2008 12:16:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Slayer' of 0x4002C245 (DreadFlute) to 'Fey'
+19.8.2008 12:16:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:16:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002C245 (DreadFlute)
+19.8.2008 12:16:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002C15D (Blight)
+19.8.2008 12:16:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002C157 (Putrefication)
+19.8.2008 12:17:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002C241 (Corpse)
+19.8.2008 12:17:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:17:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400254A0 (Gold)
+19.8.2008 12:18:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:18:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:19:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:19:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+19.8.2008 12:21:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 12:21:38: 217.117.223.39: Player 0x3590 "Alfray" ('Ulrik') used command 'chat '
+19.8.2008 12:21:47: 217.117.223.39: Player 0x3590 "Alfray" ('Ulrik') used command 'c ulrik zdravi shard :)'
+19.8.2008 12:21:54: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g cus'
+19.8.2008 12:21:56: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c cus'
+19.8.2008 12:22:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add cale'
+19.8.2008 12:22:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (7061, 365, 0) in Felucca: "Calendor"
+19.8.2008 12:22:44: 85.70.219.31: Serials: 0x4992; 
+19.8.2008 12:22:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:22:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:22:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4992 "Lorekeeper Calendor" (no account)
+19.8.2008 12:22:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add dreadhorn'
+19.8.2008 12:22:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (7061, 364, 0) in Felucca: "dreadhorn"
+19.8.2008 12:22:58: 85.70.219.31: Serials: 0x49A4; 
+19.8.2008 12:23:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:23:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002C878 (Corpse)
+19.8.2008 12:23:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:23:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:23:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:23:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set criminal false'
+19.8.2008 12:23:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'criminal' of 0x1 "Elamorius" ('Elamor') to 'False'
+19.8.2008 12:24:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+19.8.2008 12:24:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jj'
+19.8.2008 12:24:52: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c copak JJ?:)'
+19.8.2008 12:25:11: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c a muzu tam hodit treba i naramek s resistama, proste co se mi zda vyjimecny? :))'
+19.8.2008 12:27:41: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c hele ela budes brat i zitra?'
+19.8.2008 12:37:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jsme tu 4, co podniknem?'
+19.8.2008 12:37:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+19.8.2008 12:37:52: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c doom?'
+19.8.2008 12:38:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go doom'
+19.8.2008 12:39:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 44444444444'
+19.8.2008 12:39:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 4444444444'
+19.8.2008 12:39:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 444444444'
+19.8.2008 12:39:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '444444444'
+19.8.2008 12:39:20: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+19.8.2008 12:39:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 444444444'
+19.8.2008 12:39:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '444444444'
+19.8.2008 12:40:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:40:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001B6DF (AddonComponent)
+19.8.2008 12:40:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:40:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001DC3E (XmlSpawner)
+19.8.2008 12:40:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add demonbone 1000'
+19.8.2008 12:40:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (423, 198, -1) in Malas: "DaemonBone"
+19.8.2008 12:40:51: 85.70.219.31: Serials: 0x4002CE7E; 
+19.8.2008 12:41:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set amount 1000'
+19.8.2008 12:41:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'amount' of 0x4002CE7E (DaemonBone) to '1000'
+19.8.2008 12:42:26: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'afk I'm bored'
+19.8.2008 12:42:42: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c otazka, token box dat do ty truhly v bankboxu?'
+19.8.2008 12:42:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:42:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jj'
+19.8.2008 12:42:51: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ok'
+19.8.2008 12:42:52: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c oki'
+19.8.2008 12:43:27: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'afk I'm bored'
+19.8.2008 12:43:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:43:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x400123D4 (BellOfTheDead) to (419, 242, -3)
+19.8.2008 12:43:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bellof'
+19.8.2008 12:43:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (417, 246, 11) in Malas: "BellOfTheDead"
+19.8.2008 12:43:51: 85.70.219.31: Serials: 0x4002CFF4; 
+19.8.2008 12:43:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:43:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400123D4 (BellOfTheDead)
+19.8.2008 12:44:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:44:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:44:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4002CFF4 (BellOfTheDead) to (417, 246, 11)
+19.8.2008 12:44:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 12:44:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Location' of 0x4002CFF4 (BellOfTheDead) to '(417, 246, 18)'
+19.8.2008 12:44:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Location' of 0x4002CFF4 (BellOfTheDead) to '(417, 246, 20)'
+19.8.2008 12:44:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Location' of 0x4002CFF4 (BellOfTheDead) to '(417, 246, 22)'
+19.8.2008 12:44:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:44:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:44:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4004D092 (AddonComponent) to (415, 428, -1)
+19.8.2008 12:45:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:45:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001C065 (AddonComponent) to (419, 429, -1)
+19.8.2008 12:45:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:45:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4003622E (AddonComponent) to (414, 425, -1)
+19.8.2008 12:45:08: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c maji gaman horny nejakou cenu? :))'
+19.8.2008 12:45:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:45:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4004D20C (AddonComponent) to (420, 424, -1)
+19.8.2008 12:45:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:45:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40013D2D (AddonComponent) to (416, 423, -1)
+19.8.2008 12:45:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:45:24: 90.177.215.159: Player 0x805E "Yakuza" ('darius03') used command 'c nvm ale dam mu je tam?:D'
+19.8.2008 12:45:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001C062 (AddonComponent)
+19.8.2008 12:45:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4004D20C (AddonComponent)
+19.8.2008 12:45:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4004D092 (AddonComponent)
+19.8.2008 12:45:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003622E (AddonComponent)
+19.8.2008 12:45:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013D2F (AddonComponent)
+19.8.2008 12:45:28: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c maji gaman horny nejakou cenu? :))'
+19.8.2008 12:45:32: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c sakra'
+19.8.2008 12:45:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+19.8.2008 12:45:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4004D240 (AddonComponent) (inBag=False; amount=1)
+19.8.2008 12:45:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+19.8.2008 12:45:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4004D241 (AddonComponent) (inBag=False; amount=1)
+19.8.2008 12:45:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:45:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4004D241 (AddonComponent) to (416, 426, -1)
+19.8.2008 12:45:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:45:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4004D241 (AddonComponent) to (417, 426, -1)
+19.8.2008 12:45:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 12:45:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4004D240 (AddonComponent) to (417, 425, -1)
+19.8.2008 12:45:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 12:47:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:47:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:47:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:47:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 12:48:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+19.8.2008 12:49:14: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c skoda ze i kdybych ho stihl vzit'
+19.8.2008 12:49:20: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c tak by si mi ho neuznal'
+19.8.2008 12:49:22: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c :D'
+19.8.2008 12:49:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c tak by zmizel :D'
+19.8.2008 12:49:27: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c jn'
+19.8.2008 12:49:33: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c jak zmizel?'
+19.8.2008 12:49:35: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c :D'
+19.8.2008 12:49:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:49:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D4C0 (ShadowDancerLeggings)
+19.8.2008 12:49:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D406 (HatOfTheMagi)
+19.8.2008 12:49:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D351 (TheTaskmaster)
+19.8.2008 12:49:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D2DC (TheDragonSlayer)
+19.8.2008 12:49:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D285 (GauntletsOfNobility)
+19.8.2008 12:49:57: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c pocital by si mi ho?:D'
+19.8.2008 12:50:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D1EF (RingOfTheVile)
+19.8.2008 12:50:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c hh ne'
+19.8.2008 12:50:18: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c jaktooo ja bych ho nasel na zemi v lune?D'
+19.8.2008 12:50:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 12:50:41: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c zajdes melisku?'
+19.8.2008 12:50:45: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c :)'
+19.8.2008 12:51:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 12:51:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x95C7 "Li" ('Equites')
+19.8.2008 12:51:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add strongbox'
+19.8.2008 12:51:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6032, 615, 0) in Trammel: "strongbox"
+19.8.2008 12:51:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add strongbo'
+19.8.2008 12:51:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6031, 614, 0) in Trammel: "BentoBox"
+19.8.2008 12:51:28: 85.70.219.31: Serials: 0x4002D558; 
+19.8.2008 12:51:32: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'afk '
+19.8.2008 12:51:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:51:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D559 (EmptyBentoBox)
+19.8.2008 12:51:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6031, 614, 0) in Trammel: "GiftBox"
+19.8.2008 12:51:43: 85.70.219.31: Serials: 0x4002D55A; 
+19.8.2008 12:51:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set name Li'
+19.8.2008 12:51:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'name' of 0x4002D55A (GiftBox) to 'Li'
+19.8.2008 12:52:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c kua Li ma ale bordel :D'
+19.8.2008 12:52:51: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c njn'
+19.8.2008 12:53:04: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c sem ti nemel rikat ze jel na tabor:D'
+19.8.2008 12:53:14: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c aspon  by nemel nejvic bodu?D'
+19.8.2008 12:57:15: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+19.8.2008 12:57:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 12:57:51: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c pdo'
+19.8.2008 12:58:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 12:59:11: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'afk I'm bored'
+19.8.2008 12:59:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 12:59:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x4E02 "Delta" ('Equites')
+19.8.2008 12:59:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 12:59:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x91E3 "Illuminius" ('Equites')
+19.8.2008 12:59:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 12:59:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x9BCE "Cyliath" ('Equites')
+19.8.2008 12:59:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 12:59:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0xC46 "Ki" ('Equites')
+19.8.2008 12:59:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 12:59:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0xC46 "Ki" ('Equites')
+19.8.2008 12:59:43: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'afk I'm bored'
+19.8.2008 12:59:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 12:59:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x756F "Chen" ('Equites')
+19.8.2008 12:59:55: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ckj du si pro jidlo'
+19.8.2008 13:02:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 13:02:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'MaxItems' of 0x4002D55A (GiftBox) to '12500'
+19.8.2008 13:04:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 13:04:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030DF5 (TallCabinet)
+19.8.2008 13:04:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40028E60 (Gold)
+19.8.2008 13:04:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bag'
+19.8.2008 13:04:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6040, 612, 0) in Trammel: "bag"
+19.8.2008 13:04:46: 85.70.219.31: Serials: 0x4002DAA2; 
+19.8.2008 13:04:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bag'
+19.8.2008 13:04:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6040, 613, 0) in Trammel: "bag"
+19.8.2008 13:04:51: 85.70.219.31: Serials: 0x4002DAA3; 
+19.8.2008 13:05:00: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c kam des?'
+19.8.2008 13:05:15: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c jenom do banky'
+19.8.2008 13:05:20: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ok'
+19.8.2008 13:10:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 13:10:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002ECAA (LargeTreasureBag)
+19.8.2008 13:10:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400310CB (InteriorDecorator)
+19.8.2008 13:10:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 13:10:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002DAA2 (Bag)
+19.8.2008 13:11:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 13:11:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003697C (ArmsOfTacticalExcellence)
+19.8.2008 13:11:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035842 (KasaOfTheRajin)
+19.8.2008 13:11:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400353E0 (Boomstick)
+19.8.2008 13:13:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40034929 (PowerScroll)
+19.8.2008 13:13:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400378E0 (AuctionItemCheck)
+19.8.2008 13:13:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40032903 (FemaleKimono)
+19.8.2008 13:13:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002ECAE (WarCleaver)
+19.8.2008 13:13:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035B8E (LeatherArms)
+19.8.2008 13:13:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035D06 (LeatherChest)
+19.8.2008 13:13:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035F0C (LeatherLegs)
+19.8.2008 13:13:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035EEE (LeatherGloves)
+19.8.2008 13:13:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035D48 (LeatherGorget)
+19.8.2008 13:14:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D085 (GoldBracelet)
+19.8.2008 13:14:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400210A7 (BustEast)
+19.8.2008 13:14:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003C21D (GoldBracelet)
+19.8.2008 13:14:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003048B (SilverRing)
+19.8.2008 13:14:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003B9F8 (FeatheredHat)
+19.8.2008 13:14:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003A87C (Bow)
+19.8.2008 13:14:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002ECAC (LeatherLegs)
+19.8.2008 13:14:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40039CDB (BearMask)
+19.8.2008 13:14:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40034B0C (SilverBracelet)
+19.8.2008 13:14:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002FF89 (OrnateAxe)
+19.8.2008 13:14:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002148D (WideBrimHat)
+19.8.2008 13:14:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4004264D (WizardsHat)
+19.8.2008 13:14:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40039CDC (DecorativePlateKabuto)
+19.8.2008 13:14:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002ECAD (SilverBracelet)
+19.8.2008 13:14:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002ECAB (GoldBracelet)
+19.8.2008 13:14:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40038346 (SilverRing)
+19.8.2008 13:14:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40025405 (SilverRing)
+19.8.2008 13:14:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003C21B (SilverRing)
+19.8.2008 13:14:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 13:14:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002DAA3 (Bag)
+19.8.2008 13:15:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 13:15:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D55A (GiftBox)
+19.8.2008 13:16:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c Li ma za veci 1 080 000 vcetne odmeny za test'
+19.8.2008 13:16:59: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g ckj to je'
+19.8.2008 13:17:02: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c kolik ze to je'
+19.8.2008 13:17:06: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g 1 mega nebo 10 mega'
+19.8.2008 13:17:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c pres milion bodu'
+19.8.2008 13:17:11: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c 1 mega nebo 10 mega'
+19.8.2008 13:17:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c a to jsem jeste nepocital barak'
+19.8.2008 13:17:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c 1 mega'
+19.8.2008 13:17:23: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c todle je jen z bank?'
+19.8.2008 13:17:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c banky a char'
+19.8.2008 13:17:35: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c pomuzes mi predat veci?'
+19.8.2008 13:17:37: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c tak to ma dobry...budu mmit mozna pulku...'
+19.8.2008 13:17:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c mel jen 3 artiky ;)'
+19.8.2008 13:18:02: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ela pomuzes mi predat ty veci?'
+19.8.2008 13:18:03: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c ja mam taky 3'
+19.8.2008 13:18:11: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c no podle toho jaky 3 :)'
+19.8.2008 13:18:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c nech si je klidne v postave'
+19.8.2008 13:18:19: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c v tydfle?'
+19.8.2008 13:18:27: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c muzu? dik:))'
+19.8.2008 13:18:31: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c 3 tokuno leaser artiky'
+19.8.2008 13:18:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c Boom, Arms of tactical, Kasa of rai-jin bo jak'
+19.8.2008 13:18:45: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c a vezmes mi ty itemky zejo?'
+19.8.2008 13:18:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jo'
+19.8.2008 13:18:50: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c kdyz je budu mit tady'
+19.8.2008 13:18:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c cus'
+19.8.2008 13:18:54: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c dik cus'
+19.8.2008 13:19:25: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'a a vlastne este spirit of the totem'
+19.8.2008 13:19:38: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c a vlastne este spirit of the totem'
+19.8.2008 13:20:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c spirit je za 800k ;)'
+19.8.2008 13:20:10: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c 4 lesser, heart of lion, a ring of the vile :)'
+19.8.2008 13:20:20: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c to de'
+19.8.2008 13:20:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c taky neco kolem mil ;)'
+19.8.2008 13:20:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c budete na tom vsichni skoro stejne :D'
+19.8.2008 13:20:43: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c aspon ze tak :)'
+19.8.2008 13:20:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 13:20:45: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c heart of lion jsem mel taky:-D'
+19.8.2008 13:20:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 13:20:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 13:20:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 13:20:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 13:20:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 13:21:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c hehe, mam pocitat 0,5 medit? :D'
+19.8.2008 13:21:32: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c ty pocitas kazdej skill stejne bodu?'
+19.8.2008 13:21:34: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c :-D...jj pocitej'
+19.8.2008 13:21:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c s odmenou pokud je skill GM'
+19.8.2008 13:21:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c nebo vyssi'
+19.8.2008 13:22:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c teda odmena je od 80 skill'
+19.8.2008 13:24:37: 217.117.223.39: Player 0x3590 "Alfray" ('Ulrik') used command 'c jee este jsem nasel gloves of the sun u mage ;)'
+19.8.2008 13:28:33: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'afk I'm bored'
+19.8.2008 13:28:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+19.8.2008 13:29:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 13:31:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 13:31:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 13:31:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+19.8.2008 13:31:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (963, 610, -83) to (971, 619, -83) in Malas (Items, Mobiles)
+19.8.2008 13:31:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 13:31:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 13:31:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030D87 (WhiteHangingLantern)
+19.8.2008 13:31:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030F68 (SmallTowerSculpture)
+19.8.2008 13:31:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030F69 (SmallTowerSculpture)
+19.8.2008 13:31:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030D86 (WhiteHangingLantern)
+19.8.2008 13:31:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400217B4 (StatueSouth2)
+19.8.2008 13:32:00: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+19.8.2008 13:32:09: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c no nic tak ja padim custe'
+19.8.2008 13:32:20: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c cau'
+19.8.2008 13:33:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add tokens 14665185'
+19.8.2008 13:33:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (968, 616, -83) in Malas: "tokens" "14665185"
+19.8.2008 13:33:09: 85.70.219.31: Serials: 0x4002EE1B; 
+19.8.2008 13:33:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add tokenbox'
+19.8.2008 13:33:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (967, 616, -83) in Malas: "tokenbox"
+19.8.2008 13:33:14: 85.70.219.31: Serials: 0x4002EE1C; 
+19.8.2008 13:33:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set name Li'
+19.8.2008 13:33:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'name' of 0x4002EE1C (TokenBox) to 'Li'
+19.8.2008 13:33:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 13:33:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002EE1B (Tokens)
+19.8.2008 13:33:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002EE1D (Tokens)
+19.8.2008 13:33:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 13:33:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Token' of 0x4002EE1C (TokenBox) to '14665892'
+19.8.2008 13:34:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add check'
+19.8.2008 13:35:04: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+19.8.2008 13:35:32: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c sme tu zase zustali sami:-D'
+19.8.2008 13:36:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 13:36:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x1 "Elamorius" ('Elamor')
+19.8.2008 13:36:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 13:36:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+19.8.2008 13:36:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x400122CB (BankCheck) (inBag=False; amount=1)
+19.8.2008 13:36:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+19.8.2008 13:36:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x400122CB (BankCheck) (inBag=False; amount=1)
+19.8.2008 13:36:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 13:36:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Worth' of 0x400122CB (BankCheck) to '134500'
+19.8.2008 13:36:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 13:37:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 13:37:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+19.8.2008 13:37:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gil'
+19.8.2008 13:38:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (990, 521, -50) in Malas: "GiftBox"
+19.8.2008 13:38:01: 85.70.219.31: Serials: 0x4002F353; 
+19.8.2008 13:38:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 13:38:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EngravedText' of 0x4002F353 (GiftBox) to 'Li'
+19.8.2008 13:38:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 13:38:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x1 "Elamorius" ('Elamor')
+19.8.2008 13:38:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 13:39:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 13:39:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 13:39:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x95C7 "Li" ('Equites') to (6030, 610, 0)
+19.8.2008 13:39:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 13:39:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4E02 "Delta" ('Equites') to (6032, 606, 0)
+19.8.2008 13:39:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 13:39:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x91E3 "Illuminius" ('Equites') to (6036, 603, 0)
+19.8.2008 13:39:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 13:39:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9BCE "Cyliath" ('Equites') to (6033, 604, 0)
+19.8.2008 13:39:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 13:39:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x756F "Chen" ('Equites') to (6035, 604, 0)
+19.8.2008 13:39:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 13:39:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0xC46 "Ki" ('Equites') to (6034, 605, 0)
+19.8.2008 13:39:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 13:39:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Equites
+19.8.2008 13:39:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+19.8.2008 13:40:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c Tkaze Li je hotov. Vecer budeme pokracovat ;)'
+19.8.2008 13:40:27: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c oki...ja pujdu na TZ asi'
+19.8.2008 13:42:11: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c tak zatim cau'
+19.8.2008 15:49:32: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ela si tu?:d'
+19.8.2008 15:56:39: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ela?'
+19.8.2008 15:58:25: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ela si tuu?:D'
+19.8.2008 18:55:25: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'C JE TU NEKDO:'
+19.8.2008 18:55:30: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c je tu nekdo?'
+19.8.2008 19:58:06: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c je tu nekdo????'
+19.8.2008 20:07:48: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+19.8.2008 20:07:56: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c zdravicko'
+19.8.2008 20:17:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c tak  mate pripravene veci?'
+19.8.2008 20:17:24: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c uz se nemuzu dockat :))'
+19.8.2008 20:17:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 20:17:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x9680 "Ulrik Zkarsol" ('Ulrik')
+19.8.2008 20:17:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c ulriku chvalim poradek :D'
+19.8.2008 20:17:59: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c :D'
+19.8.2008 20:18:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jeste jsem ti do toho hodil ty rukavicky'
+19.8.2008 20:19:08: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c nekdo mi rikal ze veci od tebe se nepocitaaji'
+19.8.2008 20:19:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c taky, ale za malo...'
+19.8.2008 20:19:28: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c ahaa'
+19.8.2008 20:20:07: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c za tu dobu co hraju uo jsem byl cca 3 hodiny lord, tak jsem doufal ze to stihnu aspon ted :)'
+19.8.2008 20:20:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c barak mas?'
+19.8.2008 20:20:12: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c jj'
+19.8.2008 20:20:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set fame 15000'
+19.8.2008 20:20:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 20:20:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set fame 15000'
+19.8.2008 20:20:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'fame' of 0x9680 "Ulrik Zkarsol" ('Ulrik') to '15000'
+19.8.2008 20:20:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c stihls :D'
+19.8.2008 20:20:52: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c jee :))'
+19.8.2008 20:20:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set karma 15000'
+19.8.2008 20:20:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'karma' of 0x9680 "Ulrik Zkarsol" ('Ulrik') to '15000'
+19.8.2008 20:21:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add recallrune'
+19.8.2008 20:21:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (647, 1221, 25) in Tokuno: "recallrune"
+19.8.2008 20:21:07: 85.70.219.31: Serials: 0x400350FB; 
+19.8.2008 20:21:16: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c aspon mam motivaci po wipu :)'
+19.8.2008 20:23:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bag'
+19.8.2008 20:23:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (638, 1217, 25) in Tokuno: "bag"
+19.8.2008 20:23:05: 85.70.219.31: Serials: 0x40035141; 
+19.8.2008 20:23:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:23:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035141 (Bag)
+19.8.2008 20:23:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gift'
+19.8.2008 20:23:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (637, 1217, 25) in Tokuno: "GiftBox"
+19.8.2008 20:23:24: 85.70.219.31: Serials: 0x40035144; 
+19.8.2008 20:23:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set Engraved Ulrik'
+19.8.2008 20:23:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 20:23:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EngravedText' of 0x40035144 (GiftBox) to 'Ulrik'
+19.8.2008 20:23:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 20:23:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x1 "Elamorius" ('Elamor')
+19.8.2008 20:24:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+19.8.2008 20:24:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 20:24:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x9680 "Ulrik Zkarsol" ('Ulrik')
+19.8.2008 20:24:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:24:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D338 (GreaterExplosionPotion)
+19.8.2008 20:24:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jj'
+19.8.2008 20:24:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:24:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002DE87 (BagOfRunicTools)
+19.8.2008 20:25:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:25:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002DC7E (AlchemyBag)
+19.8.2008 20:25:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:25:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013860 (Bag)
+19.8.2008 20:25:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:25:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40019A25 (AdminBag)
+19.8.2008 20:25:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 20:25:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x1 "Elamorius" ('Elamor')
+19.8.2008 20:26:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c tak tech 5 bodu tam bude :D'
+19.8.2008 20:26:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 20:26:47: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c no nic moc hele :)'
+19.8.2008 20:27:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Token' of 0x40013B0D (TokenBox) to '216000'
+19.8.2008 20:27:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c tak se vrhnem na veci ;)'
+19.8.2008 20:29:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:29:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030791 (ParagonChest)
+19.8.2008 20:29:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:29:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002F436 (RewardCloak)
+19.8.2008 20:29:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002E7F4 (RewardCloak)
+19.8.2008 20:29:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40026F6A (RewardCloak)
+19.8.2008 20:32:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:32:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400275B0 (Bag)
+19.8.2008 20:32:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:32:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002CC92 (Bag)
+19.8.2008 20:33:32: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+19.8.2008 20:36:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:36:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031A3C (HeartOfTheLion)
+19.8.2008 20:36:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40022A9F (GlovesOfTheSun)
+19.8.2008 20:36:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400338DD (DaimyosHelm)
+19.8.2008 20:36:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40033024 (PeasantsBokuto)
+19.8.2008 20:36:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002DE80 (PigmentsOfTokuno)
+19.8.2008 20:36:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40032EBF (TheDestroyer)
+19.8.2008 20:36:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035622 (QuiverOfRage)
+19.8.2008 20:37:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001433B (OrigamiPaper)
+19.8.2008 20:37:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002BE96 (OrigamiPaper)
+19.8.2008 20:37:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400235B7 (OrigamiPaper)
+19.8.2008 20:37:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035911 (GlovesOfThePugilist)
+19.8.2008 20:37:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40013849 (Bag)
+19.8.2008 20:38:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:38:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031E37 (LargeTreasureBag)
+19.8.2008 20:38:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:38:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400252A9 (Bag)
+19.8.2008 20:38:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:38:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002CC91 (Bag)
+19.8.2008 20:39:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:39:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400322BC (Gold)
+19.8.2008 20:39:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002BD4A (Silver)
+19.8.2008 20:39:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40030EDC (FireHorn)
+19.8.2008 20:39:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002CC90 (WoodenBox)
+19.8.2008 20:40:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 20:40:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x38F "Eldrod" ('Theogil')
+19.8.2008 20:40:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 20:40:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x1 "Elamorius" ('Elamor')
+19.8.2008 20:41:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 20:41:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 20:41:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x38F "Eldrod" ('Theogil')
+19.8.2008 20:41:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+19.8.2008 20:41:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x1 "Elamorius" ('Elamor')
+19.8.2008 20:41:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gilf'
+19.8.2008 20:41:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (991, 518, -50) in Malas: "GiftBox"
+19.8.2008 20:41:43: 85.70.219.31: Serials: 0x40035488; 
+19.8.2008 20:41:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set name Eldrod'
+19.8.2008 20:41:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'name' of 0x40035488 (GiftBox) to 'Eldrod'
+19.8.2008 20:42:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 20:42:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EngravedText' of 0x40035488 (GiftBox) to 'Eldrod'
+19.8.2008 20:42:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Name' of 0x40035488 (GiftBox) to 'Gift Box'
+19.8.2008 20:43:08: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+19.8.2008 20:44:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add blocke'
+19.8.2008 20:45:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6002, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:02: 85.70.219.31: Serials: 0x4003556B; 
+19.8.2008 20:45:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6003, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:02: 85.70.219.31: Serials: 0x4003556C; 
+19.8.2008 20:45:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6004, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:03: 85.70.219.31: Serials: 0x4003556D; 
+19.8.2008 20:45:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6005, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:04: 85.70.219.31: Serials: 0x4003556E; 
+19.8.2008 20:45:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6006, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:04: 85.70.219.31: Serials: 0x4003556F; 
+19.8.2008 20:45:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6007, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:05: 85.70.219.31: Serials: 0x40035570; 
+19.8.2008 20:45:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6008, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:05: 85.70.219.31: Serials: 0x40035571; 
+19.8.2008 20:45:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6009, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:06: 85.70.219.31: Serials: 0x40035572; 
+19.8.2008 20:45:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6010, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:07: 85.70.219.31: Serials: 0x40035573; 
+19.8.2008 20:45:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6011, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:07: 85.70.219.31: Serials: 0x40035574; 
+19.8.2008 20:45:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6012, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:08: 85.70.219.31: Serials: 0x40035575; 
+19.8.2008 20:45:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6013, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:08: 85.70.219.31: Serials: 0x40035576; 
+19.8.2008 20:45:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6014, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:09: 85.70.219.31: Serials: 0x40035578; 
+19.8.2008 20:45:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:09: 85.70.219.31: Serials: 0x40035579; 
+19.8.2008 20:45:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 621, 0) in Trammel: "Blocker"
+19.8.2008 20:45:11: 85.70.219.31: Serials: 0x4003557A; 
+19.8.2008 20:45:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 620, 0) in Trammel: "Blocker"
+19.8.2008 20:45:12: 85.70.219.31: Serials: 0x4003557B; 
+19.8.2008 20:45:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 619, 0) in Trammel: "Blocker"
+19.8.2008 20:45:12: 85.70.219.31: Serials: 0x4003557C; 
+19.8.2008 20:45:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 618, 0) in Trammel: "Blocker"
+19.8.2008 20:45:13: 85.70.219.31: Serials: 0x4003557D; 
+19.8.2008 20:45:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 617, 0) in Trammel: "Blocker"
+19.8.2008 20:45:13: 85.70.219.31: Serials: 0x4003557E; 
+19.8.2008 20:45:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 616, 0) in Trammel: "Blocker"
+19.8.2008 20:45:14: 85.70.219.31: Serials: 0x4003557F; 
+19.8.2008 20:45:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 615, 0) in Trammel: "Blocker"
+19.8.2008 20:45:14: 85.70.219.31: Serials: 0x40035580; 
+19.8.2008 20:45:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 614, 0) in Trammel: "Blocker"
+19.8.2008 20:45:15: 85.70.219.31: Serials: 0x40035581; 
+19.8.2008 20:45:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 613, 0) in Trammel: "Blocker"
+19.8.2008 20:45:15: 85.70.219.31: Serials: 0x40035582; 
+19.8.2008 20:45:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 612, 0) in Trammel: "Blocker"
+19.8.2008 20:45:16: 85.70.219.31: Serials: 0x40035583; 
+19.8.2008 20:45:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 611, 0) in Trammel: "Blocker"
+19.8.2008 20:45:17: 85.70.219.31: Serials: 0x40035584; 
+19.8.2008 20:45:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 610, 0) in Trammel: "Blocker"
+19.8.2008 20:45:17: 85.70.219.31: Serials: 0x40035585; 
+19.8.2008 20:45:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 608, 0) in Trammel: "Blocker"
+19.8.2008 20:45:18: 85.70.219.31: Serials: 0x40035586; 
+19.8.2008 20:45:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 609, 0) in Trammel: "Blocker"
+19.8.2008 20:45:18: 85.70.219.31: Serials: 0x40035587; 
+19.8.2008 20:45:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6015, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:19: 85.70.219.31: Serials: 0x40035588; 
+19.8.2008 20:45:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 622, 0) in Trammel: "Blocker"
+19.8.2008 20:45:21: 85.70.219.31: Serials: 0x40035589; 
+19.8.2008 20:45:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 621, 0) in Trammel: "Blocker"
+19.8.2008 20:45:22: 85.70.219.31: Serials: 0x4003558A; 
+19.8.2008 20:45:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 620, 0) in Trammel: "Blocker"
+19.8.2008 20:45:23: 85.70.219.31: Serials: 0x4003558B; 
+19.8.2008 20:45:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 619, 0) in Trammel: "Blocker"
+19.8.2008 20:45:23: 85.70.219.31: Serials: 0x4003558C; 
+19.8.2008 20:45:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 618, 0) in Trammel: "Blocker"
+19.8.2008 20:45:24: 85.70.219.31: Serials: 0x4003558D; 
+19.8.2008 20:45:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 617, 0) in Trammel: "Blocker"
+19.8.2008 20:45:24: 85.70.219.31: Serials: 0x4003558E; 
+19.8.2008 20:45:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 616, 0) in Trammel: "Blocker"
+19.8.2008 20:45:25: 85.70.219.31: Serials: 0x4003558F; 
+19.8.2008 20:45:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 615, 0) in Trammel: "Blocker"
+19.8.2008 20:45:25: 85.70.219.31: Serials: 0x40035590; 
+19.8.2008 20:45:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 614, 0) in Trammel: "Blocker"
+19.8.2008 20:45:26: 85.70.219.31: Serials: 0x40035591; 
+19.8.2008 20:45:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 613, 0) in Trammel: "Blocker"
+19.8.2008 20:45:26: 85.70.219.31: Serials: 0x40035592; 
+19.8.2008 20:45:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 612, 0) in Trammel: "Blocker"
+19.8.2008 20:45:27: 85.70.219.31: Serials: 0x40035593; 
+19.8.2008 20:45:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6014, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:30: 85.70.219.31: Serials: 0x40035595; 
+19.8.2008 20:45:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6013, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:31: 85.70.219.31: Serials: 0x40035596; 
+19.8.2008 20:45:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6012, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:31: 85.70.219.31: Serials: 0x40035597; 
+19.8.2008 20:45:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6011, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:32: 85.70.219.31: Serials: 0x40035598; 
+19.8.2008 20:45:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6010, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:32: 85.70.219.31: Serials: 0x40035599; 
+19.8.2008 20:45:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6009, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:33: 85.70.219.31: Serials: 0x4003559A; 
+19.8.2008 20:45:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6008, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:34: 85.70.219.31: Serials: 0x4003559B; 
+19.8.2008 20:45:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6007, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:34: 85.70.219.31: Serials: 0x4003559C; 
+19.8.2008 20:45:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6006, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:35: 85.70.219.31: Serials: 0x4003559D; 
+19.8.2008 20:45:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6005, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:36: 85.70.219.31: Serials: 0x4003559E; 
+19.8.2008 20:45:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6004, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:36: 85.70.219.31: Serials: 0x4003559F; 
+19.8.2008 20:45:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6003, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:37: 85.70.219.31: Serials: 0x400355A0; 
+19.8.2008 20:45:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6002, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:37: 85.70.219.31: Serials: 0x400355A1; 
+19.8.2008 20:45:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 607, 0) in Trammel: "Blocker"
+19.8.2008 20:45:38: 85.70.219.31: Serials: 0x400355A2; 
+19.8.2008 20:45:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 608, 0) in Trammel: "Blocker"
+19.8.2008 20:45:38: 85.70.219.31: Serials: 0x400355A3; 
+19.8.2008 20:45:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 609, 0) in Trammel: "Blocker"
+19.8.2008 20:45:39: 85.70.219.31: Serials: 0x400355A4; 
+19.8.2008 20:45:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 610, 0) in Trammel: "Blocker"
+19.8.2008 20:45:39: 85.70.219.31: Serials: 0x400355A5; 
+19.8.2008 20:45:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6001, 611, 0) in Trammel: "Blocker"
+19.8.2008 20:45:40: 85.70.219.31: Serials: 0x400355A6; 
+19.8.2008 20:45:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 20:46:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:46:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002F3F6 (LongPants)
+19.8.2008 20:46:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002F3F5 (Doublet)
+19.8.2008 20:46:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002CC66 (Kama)
+19.8.2008 20:46:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:46:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002F3F7 (Shoes)
+19.8.2008 20:46:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002F3EE (Robe)
+19.8.2008 20:46:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002FAE1 (Spellbook)
+19.8.2008 20:46:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002FAE5 (NecromancerSpellbook)
+19.8.2008 20:46:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:46:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002F3E2 (BagOfReagents)
+19.8.2008 20:46:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002ECB0 (LargeTreasureBag)
+19.8.2008 20:47:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 20:47:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40037164 (StatBall)
+19.8.2008 20:47:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002D5AE (LambLeg)
+19.8.2008 20:47:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031687 (BookOfChivalry)
+19.8.2008 20:47:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002F08E (Runebook)
+19.8.2008 20:47:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40032B82 (BookOfBushido)
+19.8.2008 20:47:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400322EF (Scissors)
+19.8.2008 20:47:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031C81 (PlateGloves)
+19.8.2008 20:47:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002F38B (Bandage)
+19.8.2008 20:47:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002C9A7 (BookOfNinjitsu)
+19.8.2008 20:47:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40032422 (Robe)
+19.8.2008 20:47:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002F980 (NinjaTabi)
+19.8.2008 20:47:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031CC1 (PlateChest)
+19.8.2008 20:47:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031CC0 (PlateLegs)
+19.8.2008 20:47:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031C80 (PlateArms)
+19.8.2008 20:47:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015241 (LeatherNinjaBelt)
+19.8.2008 20:47:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031CC5 (OrderShield)
+19.8.2008 20:47:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031CC2 (PlateHelm)
+19.8.2008 20:47:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031C82 (PlateGorget)
+19.8.2008 20:47:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031CC4 (Katana)
+19.8.2008 20:47:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 20:47:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 20:49:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 20:50:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+19.8.2008 20:55:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 20:56:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Token' of 0x40013B0D (TokenBox) to '5282000'
+19.8.2008 20:57:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 20:57:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 20:58:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'AccessLevel' of 0x9680 "Ulrik Zkarsol" ('Ulrik') to 'GameMaster'
+19.8.2008 20:58:39: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'tele '
+19.8.2008 20:58:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'tele '
+19.8.2008 20:58:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 20:58:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9680 "Ulrik Zkarsol" ('Ulrik') to (6008, 617, 0)
+19.8.2008 20:59:25: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add boomstick'
+19.8.2008 20:59:27: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6004, 615, 0) in Trammel: "boomstick"
+19.8.2008 20:59:27: 217.117.223.39: Serials: 0x400357A4; 
+19.8.2008 20:59:42: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add titan's hammer'
+19.8.2008 20:59:56: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add heart of lion'
+19.8.2008 21:00:06: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6004, 615, 0) in Trammel: "GlassesOfTheArts"
+19.8.2008 21:00:06: 217.117.223.39: Serials: 0x400357B9; 
+19.8.2008 21:00:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 21:00:47: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add heart of lion'
+19.8.2008 21:00:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+19.8.2008 21:01:04: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add firesteed'
+19.8.2008 21:01:05: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6005, 617, 0) in Trammel: "firesteed"
+19.8.2008 21:01:05: 217.117.223.39: Serials: 0x96F3; 
+19.8.2008 21:01:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add silversteed'
+19.8.2008 21:01:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6008, 615, 0) in Trammel: "silversteed"
+19.8.2008 21:01:20: 85.70.219.31: Serials: 0x96F6; 
+19.8.2008 21:01:21: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add heart of lion'
+19.8.2008 21:01:26: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 615, 0) in Trammel: "HeartOfTheLion"
+19.8.2008 21:01:26: 217.117.223.39: Serials: 0x400357FF; 
+19.8.2008 21:01:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add adminbag'
+19.8.2008 21:01:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6006, 614, 0) in Trammel: "adminbag"
+19.8.2008 21:01:36: 85.70.219.31: Serials: 0x40035806; 
+19.8.2008 21:01:40: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add legins of amber'
+19.8.2008 21:02:04: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add leggins'
+19.8.2008 21:02:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gmrobe'
+19.8.2008 21:02:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6007, 614, 0) in Trammel: "gmrobe"
+19.8.2008 21:02:10: 85.70.219.31: Serials: 0x4003584C; 
+19.8.2008 21:02:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:02:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035806 (AdminBag)
+19.8.2008 21:02:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:02:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x96F6 "a silver steed" (no account)
+19.8.2008 21:02:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 21:02:59: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add jackal'
+19.8.2008 21:03:02: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "JackalsCollar"
+19.8.2008 21:03:02: 217.117.223.39: Serials: 0x4003584D; 
+19.8.2008 21:03:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add banker'
+19.8.2008 21:03:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6014, 608, 0) in Trammel: "banker"
+19.8.2008 21:03:11: 85.70.219.31: Serials: 0x96FD; 
+19.8.2008 21:03:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add blocker'
+19.8.2008 21:03:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6013, 608, 0) in Trammel: "blocker"
+19.8.2008 21:03:16: 85.70.219.31: Serials: 0x40035855; 
+19.8.2008 21:03:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add blocker'
+19.8.2008 21:03:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6013, 609, 0) in Trammel: "blocker"
+19.8.2008 21:03:19: 85.70.219.31: Serials: 0x40035856; 
+19.8.2008 21:03:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add blocker'
+19.8.2008 21:03:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6014, 609, 0) in Trammel: "blocker"
+19.8.2008 21:03:21: 85.70.219.31: Serials: 0x40035857; 
+19.8.2008 21:03:29: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add ring'
+19.8.2008 21:03:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:03:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002C9F2 (Robe)
+19.8.2008 21:03:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002BC3B (CommodityDeed)
+19.8.2008 21:03:42: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "RingOfTheVile"
+19.8.2008 21:03:42: 217.117.223.39: Serials: 0x40035858; 
+19.8.2008 21:03:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40034689 (RawFishSteak)
+19.8.2008 21:03:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002100C (TreasureMap)
+19.8.2008 21:03:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002BF43 (TreasureMap)
+19.8.2008 21:03:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40038010 (HousePlacementTool)
+19.8.2008 21:04:03: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add spirit'
+19.8.2008 21:04:06: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "SpiritOfTheTotem"
+19.8.2008 21:04:06: 217.117.223.39: Serials: 0x40035859; 
+19.8.2008 21:04:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add bag'
+19.8.2008 21:04:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6011, 609, 0) in Trammel: "bag"
+19.8.2008 21:04:17: 85.70.219.31: Serials: 0x4003585A; 
+19.8.2008 21:04:35: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add titan'
+19.8.2008 21:04:37: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "titan"
+19.8.2008 21:04:37: 217.117.223.39: Serials: 0x96FE; 
+19.8.2008 21:04:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add titanhammer'
+19.8.2008 21:04:54: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add hammer'
+19.8.2008 21:04:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6006, 614, 0) in Trammel: "TitansHammer"
+19.8.2008 21:04:56: 85.70.219.31: Serials: 0x40035866; 
+19.8.2008 21:05:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add box'
+19.8.2008 21:05:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gump'
+19.8.2008 21:05:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6011, 610, 0) in Trammel: "gump"
+19.8.2008 21:05:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add gum'
+19.8.2008 21:05:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add '
+19.8.2008 21:06:19: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add '
+19.8.2008 21:06:47: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add GauntletsOfNobility'
+19.8.2008 21:06:48: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "GauntletsOfNobility"
+19.8.2008 21:06:48: 217.117.223.39: Serials: 0x40035968; 
+19.8.2008 21:07:06: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add VoiceOfTheFallenKing'
+19.8.2008 21:07:06: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6007, 613, 0) in Trammel: "VoiceOfTheFallenKing"
+19.8.2008 21:07:06: 217.117.223.39: Serials: 0x40035969; 
+19.8.2008 21:07:20: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add ArmsOfTacticalExcellence'
+19.8.2008 21:07:21: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "ArmsOfTacticalExcellence"
+19.8.2008 21:07:21: 217.117.223.39: Serials: 0x4003596A; 
+19.8.2008 21:07:42: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add BraceletOfHealth'
+19.8.2008 21:07:44: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "BraceletOfHealth"
+19.8.2008 21:07:44: 217.117.223.39: Serials: 0x4003596B; 
+19.8.2008 21:08:22: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add gloves'
+19.8.2008 21:08:26: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "GlovesOfThePugilist"
+19.8.2008 21:08:26: 217.117.223.39: Serials: 0x400359AB; 
+19.8.2008 21:10:15: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add stormgrip'
+19.8.2008 21:10:17: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "stormgrip"
+19.8.2008 21:10:17: 217.117.223.39: Serials: 0x400359AC; 
+19.8.2008 21:11:01: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add runebeetle carapace'
+19.8.2008 21:11:02: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 614, 0) in Trammel: "runebeetle" "carapace"
+19.8.2008 21:11:11: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add carapace'
+19.8.2008 21:11:14: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6007, 613, 0) in Trammel: "RuneBeetleCarapace"
+19.8.2008 21:11:14: 217.117.223.39: Serials: 0x400359AD; 
+19.8.2008 21:11:32: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add legs'
+19.8.2008 21:11:40: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 612, 0) in Trammel: "LegsOfStability"
+19.8.2008 21:11:40: 217.117.223.39: Serials: 0x400359B4; 
+19.8.2008 21:11:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add embers'
+19.8.2008 21:11:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6006, 612, 0) in Trammel: "LeggingsOfEmbers"
+19.8.2008 21:11:56: 85.70.219.31: Serials: 0x400359B5; 
+19.8.2008 21:12:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add cinctu'
+19.8.2008 21:12:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6006, 612, 0) in Trammel: "CrimsonCincture"
+19.8.2008 21:12:56: 85.70.219.31: Serials: 0x400359F5; 
+19.8.2008 21:13:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add rewardrobe'
+19.8.2008 21:13:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6006, 612, 0) in Trammel: "rewardrobe"
+19.8.2008 21:13:15: 85.70.219.31: Serials: 0x400359F6; 
+19.8.2008 21:13:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add rewardcloak'
+19.8.2008 21:13:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6007, 612, 0) in Trammel: "rewardcloak"
+19.8.2008 21:13:20: 85.70.219.31: Serials: 0x400359F7; 
+19.8.2008 21:13:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add arcane'
+19.8.2008 21:13:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add aegis'
+19.8.2008 21:13:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6008, 611, 0) in Trammel: "aegis"
+19.8.2008 21:13:45: 85.70.219.31: Serials: 0x40035A3C; 
+19.8.2008 21:14:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add arms'
+19.8.2008 21:14:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6007, 613, 0) in Trammel: "ArmsAndWeaponsPrimer"
+19.8.2008 21:14:15: 85.70.219.31: Serials: 0x40035AB7; 
+19.8.2008 21:14:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6006, 615, 0) in Trammel: "PaladinArms"
+19.8.2008 21:14:42: 85.70.219.31: Serials: 0x40035AF2; 
+19.8.2008 21:14:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6008, 611, 0) in Trammel: "PrimerOnArmsTalisman"
+19.8.2008 21:14:47: 85.70.219.31: Serials: 0x40035AF3; 
+19.8.2008 21:14:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6007, 615, 0) in Trammel: "RoyalZooPlateArms"
+19.8.2008 21:14:55: 85.70.219.31: Serials: 0x40035AF4; 
+19.8.2008 21:15:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6007, 616, 0) in Trammel: "RoyalZooLeatherArms"
+19.8.2008 21:15:01: 85.70.219.31: Serials: 0x40035AF5; 
+19.8.2008 21:15:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6008, 615, 0) in Trammel: "RoyalZooStuddedArms"
+19.8.2008 21:15:03: 85.70.219.31: Serials: 0x40035AF6; 
+19.8.2008 21:15:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add umbra'
+19.8.2008 21:15:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6006, 613, 0) in Trammel: "HoodedRobeOfUmbra"
+19.8.2008 21:15:34: 85.70.219.31: Serials: 0x40035B11; 
+19.8.2008 21:15:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6007, 614, 0) in Trammel: "HoodedShroudOfShadows"
+19.8.2008 21:15:41: 85.70.219.31: Serials: 0x40035B12; 
+19.8.2008 21:15:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add death'
+19.8.2008 21:15:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6008, 614, 0) in Trammel: "BlazeOfDeath"
+19.8.2008 21:15:55: 85.70.219.31: Serials: 0x40035B13; 
+19.8.2008 21:15:56: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add robe'
+19.8.2008 21:15:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6009, 616, 0) in Trammel: "DeathArms"
+19.8.2008 21:15:59: 85.70.219.31: Serials: 0x40035B14; 
+19.8.2008 21:16:01: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add elven'
+19.8.2008 21:16:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6008, 616, 0) in Trammel: "RedDeath"
+19.8.2008 21:16:09: 85.70.219.31: Serials: 0x97B2; 
+19.8.2008 21:16:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:16:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'kill '
+19.8.2008 21:16:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') killing 0x97B2 "a red death" (no account)
+19.8.2008 21:16:30: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6008, 612, 0) in Trammel: "MaleElvenRobe"
+19.8.2008 21:16:30: 217.117.223.39: Serials: 0x40035BAC; 
+19.8.2008 21:16:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:16:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035BAA (Corpse)
+19.8.2008 21:16:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (6008, 616, 0) in Trammel: "WordOfDeathScroll"
+19.8.2008 21:16:38: 85.70.219.31: Serials: 0x40035BAD; 
+19.8.2008 21:16:57: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add ear'
+19.8.2008 21:17:07: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6008, 612, 0) in Trammel: "EarOfCorn"
+19.8.2008 21:17:07: 217.117.223.39: Serials: 0x40035BAE; 
+19.8.2008 21:17:16: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6007, 612, 0) in Trammel: "AdminEarrings"
+19.8.2008 21:17:16: 217.117.223.39: Serials: 0x40035BAF; 
+19.8.2008 21:18:58: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add '
+19.8.2008 21:19:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:19:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400171CB (LargeTreasureBag)
+19.8.2008 21:20:26: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add DummyAssassin'
+19.8.2008 21:20:27: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6008, 612, 0) in Trammel: "DummyAssassin"
+19.8.2008 21:20:27: 217.117.223.39: Serials: 0x980E; 
+19.8.2008 21:20:58: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c hups :D'
+19.8.2008 21:21:34: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add healer'
+19.8.2008 21:21:35: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6008, 608, 0) in Trammel: "healer"
+19.8.2008 21:21:35: 217.117.223.39: Serials: 0x9810; 
+19.8.2008 21:21:52: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add gate'
+19.8.2008 21:22:00: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6009, 608, 0) in Trammel: "ResGate"
+19.8.2008 21:22:00: 217.117.223.39: Serials: 0x40035C0A; 
+19.8.2008 21:22:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:22:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035C0A (ResGate)
+19.8.2008 21:22:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'res '
+19.8.2008 21:22:57: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add resgate'
+19.8.2008 21:22:57: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6009, 609, 0) in Trammel: "resgate"
+19.8.2008 21:22:57: 217.117.223.39: Serials: 0x40035C12; 
+19.8.2008 21:23:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:23:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035C12 (ResGate)
+19.8.2008 21:23:05: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'res '
+19.8.2008 21:23:05: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') resurrecting 0x9680 "Ulrik Zkarsol" ('Ulrik')
+19.8.2008 21:23:49: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add gmrobe'
+19.8.2008 21:23:50: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 611, 0) in Trammel: "gmrobe"
+19.8.2008 21:23:50: 217.117.223.39: Serials: 0x40035C4E; 
+19.8.2008 21:24:02: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add boomstick'
+19.8.2008 21:24:03: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6006, 610, 0) in Trammel: "boomstick"
+19.8.2008 21:24:03: 217.117.223.39: Serials: 0x40035C4F; 
+19.8.2008 21:25:03: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add unicorn'
+19.8.2008 21:25:04: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6009, 617, 0) in Trammel: "unicorn"
+19.8.2008 21:25:04: 217.117.223.39: Serials: 0x9818; 
+19.8.2008 21:25:15: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add '
+19.8.2008 21:25:41: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add Pixie'
+19.8.2008 21:25:42: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6010, 614, 0) in Trammel: "Pixie"
+19.8.2008 21:25:42: 217.117.223.39: Serials: 0x9825; 
+19.8.2008 21:26:25: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'kill '
+19.8.2008 21:26:25: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') killing 0x9680 "Ulrik Zkarsol" ('Ulrik')
+19.8.2008 21:26:31: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'res '
+19.8.2008 21:26:31: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') resurrecting 0x9680 "Ulrik Zkarsol" ('Ulrik')
+19.8.2008 21:26:55: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'kill '
+19.8.2008 21:26:55: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') killing 0x9680 "Ulrik Zkarsol" ('Ulrik')
+19.8.2008 21:27:00: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'res '
+19.8.2008 21:27:01: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') resurrecting 0x9680 "Ulrik Zkarsol" ('Ulrik')
+19.8.2008 21:27:29: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add '
+19.8.2008 21:29:17: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add AdmiralsHeartyRum'
+19.8.2008 21:29:17: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6005, 613, 0) in Trammel: "AdmiralsHeartyRum"
+19.8.2008 21:29:18: 217.117.223.39: Serials: 0x40035D94; 
+19.8.2008 21:29:21: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add AdmiralsHeartyRum'
+19.8.2008 21:29:22: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add AdmiralsHeartyRum'
+19.8.2008 21:29:22: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add AdmiralsHeartyRum'
+19.8.2008 21:29:22: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'Add AdmiralsHeartyRum'
+19.8.2008 21:29:24: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6005, 613, 0) in Trammel: "AdmiralsHeartyRum"
+19.8.2008 21:29:24: 217.117.223.39: Serials: 0x40035D95; 
+19.8.2008 21:30:28: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add bottle'
+19.8.2008 21:30:28: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add rum'
+19.8.2008 21:30:28: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add '
+19.8.2008 21:30:28: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6005, 613, 0) in Trammel: "bottle"
+19.8.2008 21:30:28: 217.117.223.39: Serials: 0x40035DD3; 
+19.8.2008 21:30:39: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6005, 613, 0) in Trammel: "AdmiralsHeartyRum"
+19.8.2008 21:30:39: 217.117.223.39: Serials: 0x40035DD4; 
+19.8.2008 21:35:38: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'add admiral'
+19.8.2008 21:35:43: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6005, 613, 0) in Trammel: "AdmiralsHeartyRum"
+19.8.2008 21:35:43: 217.117.223.39: Serials: 0x40035EA3; 
+19.8.2008 21:35:44: 217.117.223.39: GameMaster 0x9680 "Ulrik Zkarsol" ('Ulrik') building at (6005, 614, 0) in Trammel: "AdmiralsHeartyRum"
+19.8.2008 21:35:44: 217.117.223.39: Serials: 0x40035EA4; 
+19.8.2008 21:43:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:43:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40014F9D (SpiritOfTheTotem)
+19.8.2008 21:43:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40028B1D (ApprenticeTunic)
+19.8.2008 21:43:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002249C (ApprenticeGloves)
+19.8.2008 21:43:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002BD71 (ApprenticeShield)
+19.8.2008 21:43:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40027B93 (ApprenticeLegs)
+19.8.2008 21:43:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40026A04 (ApprenticeSleeves)
+19.8.2008 21:43:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001BFE0 (ApprenticeGorget)
+19.8.2008 21:43:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40025337 (ApprenticeCap)
+19.8.2008 21:43:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002B5F3 (ApprenticeSword)
+19.8.2008 21:43:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002C13C (ApprenticeSword)
+19.8.2008 21:44:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001995A (ApprenticeEarrings)
+19.8.2008 21:44:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40014D39 (RewardCloak)
+19.8.2008 21:44:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002FC1E (MonsterStatuette)
+19.8.2008 21:44:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002FC1F (MonsterStatuette)
+19.8.2008 21:44:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035195 (MonsterStatuette)
+19.8.2008 21:44:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002FC1D (SilverBracelet)
+19.8.2008 21:44:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002DB1F (GoldRing)
+19.8.2008 21:44:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:44:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:44:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001E811 (TreasureBag)
+19.8.2008 21:45:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:45:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4002BFC9 (Gold)
+19.8.2008 21:45:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 21:45:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:45:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400313F9 (WinnerPaper)
+19.8.2008 21:45:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003585A (Bag)
+19.8.2008 21:45:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 21:46:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+19.8.2008 21:46:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'AccessLevel' of 0x9680 "Ulrik Zkarsol" ('Ulrik') to 'Player'
+19.8.2008 21:47:05: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+19.8.2008 21:47:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 21:47:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x9680 "Ulrik Zkarsol" ('Ulrik') to (5997, 616, 0)
+19.8.2008 21:47:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+19.8.2008 21:47:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x3590 "Alfray" ('Ulrik') to (5996, 618, 0)
+19.8.2008 21:47:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+19.8.2008 21:47:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (6004, 610, 0) to (6010, 618, 0) in Trammel (Items, Mobiles)
+19.8.2008 21:47:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+19.8.2008 21:47:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x9825 "Calee" (no account)
+19.8.2008 21:48:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account 671991
+19.8.2008 21:49:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Anthrax
+19.8.2008 21:49:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Apofis
+19.8.2008 21:49:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account axe
+19.8.2008 21:49:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account barca
+19.8.2008 21:49:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account bastik
+19.8.2008 21:50:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account deno
+19.8.2008 21:50:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Fanatic
+19.8.2008 21:50:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account hashak
+19.8.2008 21:50:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account ikko
+19.8.2008 21:51:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account lerif
+19.8.2008 21:52:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Povry
+19.8.2008 21:52:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account rody
+19.8.2008 21:52:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account satan
+19.8.2008 21:52:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Test
+19.8.2008 21:52:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Thomas1
+19.8.2008 21:53:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Thomas
+19.8.2008 21:53:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Thomas777
+19.8.2008 21:53:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Toy
+19.8.2008 21:53:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account vocas
+19.8.2008 21:54:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Vojta33
+19.8.2008 21:54:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Vojtas33
+19.8.2008 21:54:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account vrt
+19.8.2008 21:54:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Xardas
+19.8.2008 21:55:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account zevl
+19.8.2008 21:55:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Seer
+19.8.2008 21:56:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting account Svatej
+19.8.2008 23:36:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 88888888'
+19.8.2008 23:36:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '88888888'
+19.8.2008 23:36:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 888888880'
+19.8.2008 23:36:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '888888880'
+19.8.2008 23:48:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+19.8.2008 23:48:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: True)
+19.8.2008 23:48:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '

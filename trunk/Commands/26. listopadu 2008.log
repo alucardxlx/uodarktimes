@@ -1,0 +1,56 @@
+##############################
+Log started on 26.11.2008 12:08:01
+
+26.11.2008 15:19:19: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'who '
+26.11.2008 15:19:23: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') playing sound 1294 (toAll=True)
+26.11.2008 15:19:23: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'sound 1294'
+26.11.2008 15:19:27: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') playing sound 1294 (toAll=True)
+26.11.2008 15:19:27: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'sound 1294'
+26.11.2008 15:19:34: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') playing sound 1294 (toAll=True)
+26.11.2008 15:19:34: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'sound 1294'
+26.11.2008 15:19:37: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') playing sound 1316 (toAll=True)
+26.11.2008 15:19:37: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'sound 1316'
+26.11.2008 15:19:39: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') playing sound 1315 (toAll=True)
+26.11.2008 15:19:39: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'sound 1315'
+26.11.2008 15:19:45: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') playing sound 1328 (toAll=True)
+26.11.2008 15:19:45: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'sound 1328'
+26.11.2008 15:19:50: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'm tele'
+26.11.2008 15:20:35: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'm tele'
+26.11.2008 15:21:30: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'm tele'
+26.11.2008 15:21:37: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'set hue 1157'
+26.11.2008 15:21:39: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') set property 'hue' of 0x4002226A (LeatherNinjaBelt) to '1157'
+26.11.2008 15:21:43: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'm tele'
+##############################
+Log started on 26.11.2008 19:41:30
+
+26.11.2008 19:43:37: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'm tele'
+26.11.2008 19:43:52: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'speedboost '
+26.11.2008 19:44:44: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'who '
+26.11.2008 19:46:02: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'who '
+26.11.2008 19:46:05: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') bringing 0x952E "Kilingow" ('rastyCZ') to Location (916, 397, -83), Map Malas
+26.11.2008 19:46:13: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'props '
+26.11.2008 19:46:23: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') set property 'Velocity' of 0x4002FCF8 (WildfireBow) to '65'
+26.11.2008 19:46:36: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'add helm'
+26.11.2008 19:46:39: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') building at (913, 400, -83) in Malas: "DaimyosHelm"
+26.11.2008 19:46:39: 89.111.89.28: Serials: 0x400122FB; 
+26.11.2008 19:46:44: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') building at (915, 399, -83) in Malas: "GrizzleHelm"
+26.11.2008 19:46:44: 89.111.89.28: Serials: 0x400122FC; 
+26.11.2008 19:47:05: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'add travel'
+26.11.2008 19:47:09: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') building at (915, 398, -83) in Malas: "BookOfTravel"
+26.11.2008 19:47:09: 89.111.89.28: Serials: 0x40012316; 
+26.11.2008 19:47:18: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'set ninjitsu 300'
+26.11.2008 19:51:00: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'who '
+26.11.2008 19:51:06: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') going to 0x952E "Kilingow" ('rastyCZ'), Location (5162, 1007, 0), Map Felucca
+26.11.2008 19:51:13: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'props '
+26.11.2008 19:51:25: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') set property 'Velocity' of 0x4002FCF8 (WildfireBow) to '650'
+26.11.2008 19:51:37: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') set property 'MaxDamage' of 0x4002FCF8 (WildfireBow) to '10'
+26.11.2008 19:51:45: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') set property 'MinDamage' of 0x4002FCF8 (WildfireBow) to '5'
+26.11.2008 19:52:05: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') used command 'add titan'
+26.11.2008 19:52:06: 89.111.89.28: GameMaster 0x8D "Kakashi" ('osiriscz') building at (5163, 1009, 0) in Felucca: "titan"
+26.11.2008 19:52:06: 89.111.89.28: Serials: 0xB6; 
+26.11.2008 21:20:56: 90.177.215.159: Player 0x4710 "jimmy dragon X" ('darius03') used command 'c zdravicko'
+26.11.2008 21:21:01: 90.177.215.159: Player 0x4710 "jimmy dragon X" ('darius03') used command 'c je tu ubec nekdo?:)'
+26.11.2008 21:22:21: 90.177.215.159: Player 0x4710 "jimmy dragon X" ('darius03') used command 'c kurna to je tu tak mrtvo?:D'
+26.11.2008 21:25:26: 90.177.215.159: Player 0x72A "darius" ('darius03') used command 'c elaa si tu?:D'
+26.11.2008 21:27:20: 90.177.215.159: Player 0x72A "darius" ('darius03') used command 'c :)'
+26.11.2008 21:37:01: 90.177.215.159: Player 0x72A "darius" ('darius03') used command 'c je tu nekdo?'

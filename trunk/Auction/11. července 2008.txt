@@ -1,0 +1,53 @@
+###############################
+# 11.7.2008 - 10:49
+
+## New Auction : 332dfd8d-4682-4d86-ac16-1927509f3f3b
+# Black Dye Tub
+# Created on 11.7.2008 at 12:32
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 18.7.2008 at 12:32
+# Starting Bid: 10000. Reserve: 20000. Buy Now: Disabled
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. Black Dye Tub [0x40019D75] Type RewardBlackDyeTub Hue 1
+Properties: <basefont color=#FFFFFF><p>Black Dye Tub<br>Blessed<br>Weight: 10 Stones<br>
+
+## New Auction : 7069dd7b-f83f-4237-b82a-30a4c18bc2c6
+# Copper robe/cloak
+# Created on 11.7.2008 at 12:33
+# Owner : Elamorius [0x00000001] Account: Elamor
+# Expires on 18.7.2008 at 12:33
+# Starting Bid: 10000. Reserve: 20000. Buy Now: Disabled
+# Owner Description : Roba a cloak s +3% physical resist
+# Web Link : 
+#### Selling 2 Items
+# 0. Copper Robe [0x40019D6C] Type RewardRobe Hue 2413
+Properties: <basefont color=#FFFFFF><p>Copper Robe<br>Blessed<br>Weight: 3 Stones<br>Physical Resist 3%<br>Strength Requirement 10<br>
+# 1. Copper Cloak [0x40019D6D] Type RewardCloak Hue 2413
+Properties: <basefont color=#FFFFFF><p>Copper Cloak<br>Blessed<br>Weight: 5 Stones<br>Physical Resist 3%<br>Strength Requirement 10<br>
+
+###############################
+# 11.7.2008 - 12:39
+
+###############################
+# 11.7.2008 - 12:44
+
+###############################
+# 11.7.2008 - 12:50
+
+###############################
+# 11.7.2008 - 12:57
+
+###############################
+# 11.7.2008 - 13:00
+
+###############################
+# 11.7.2008 - 13:05
+
+###############################
+# 11.7.2008 - 13:14
+
+###############################
+# 11.7.2008 - 13:27
+

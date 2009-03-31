@@ -1,0 +1,888 @@
+21.8.2008 22:33:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'hide '
+21.8.2008 22:33:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') hiding 0x63BE "Povry" ('Povryna')
+21.8.2008 22:40:23: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'immortal '
+21.8.2008 22:40:24: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'blessed' of 0x63BE "Povry" ('Povryna') to 'True'
+21.8.2008 22:40:38: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'HairHue' of 0x63BE "Povry" ('Povryna') to '1272'
+21.8.2008 22:40:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'move '
+21.8.2008 22:40:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'props '
+21.8.2008 22:42:19: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+21.8.2008 22:42:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C655 (BagOfReagents)
+21.8.2008 22:42:25: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set hue 1272'
+21.8.2008 22:42:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'hue' of 0x4002C778 (ThighBoots) to '1272'
+21.8.2008 22:42:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+21.8.2008 22:42:34: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C672 (Shoes)
+21.8.2008 22:42:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+21.8.2008 22:42:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C669 (BlessScroll)
+21.8.2008 22:42:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C668 (ClumsyScroll)
+21.8.2008 22:42:47: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+21.8.2008 22:42:49: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C650 (Candle)
+21.8.2008 22:42:52: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C775 (PremiumStone)
+21.8.2008 22:42:54: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C776 (AdminStone)
+21.8.2008 22:42:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+21.8.2008 22:42:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C651 (LetterofApprenticeship)
+21.8.2008 22:42:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C64E (Gold)
+21.8.2008 22:43:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+21.8.2008 22:43:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C64D (RedBook)
+21.8.2008 22:43:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'speedboost '
+21.8.2008 22:43:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'props '
+21.8.2008 22:44:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'c nebo trenuj neco co pouziva dex'
+21.8.2008 22:44:16: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'c dobra volba'
+21.8.2008 22:44:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'WeaponDamage' of ... to '5000'
+23.8.2008 21:47:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm tele'
+23.8.2008 21:48:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add demonknight'
+23.8.2008 21:48:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6069, 610, 0) in Trammel: "demonknight"
+23.8.2008 21:48:03: 85.70.219.31: Serials: 0x200B; 
+23.8.2008 21:48:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'kill '
+23.8.2008 21:48:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') killing 0x200B "Heksen" (no account)
+23.8.2008 21:48:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'wipe '
+23.8.2008 21:48:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') wiping from (6063, 603, 0) to (6071, 608, 0) in Trammel (Items, Mobiles)
+23.8.2008 21:48:35: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'c '
+23.8.2008 21:48:42: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'c '
+23.8.2008 21:48:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'props '
+23.8.2008 21:49:19: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'speedboost '
+23.8.2008 21:49:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'go '
+23.8.2008 22:01:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm tele'
+23.8.2008 22:10:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm tele'
+23.8.2008 22:10:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm tele'
+23.8.2008 22:11:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm tele'
+23.8.2008 22:22:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm tele'
+23.8.2008 22:22:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add bag'
+23.8.2008 22:22:52: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6018, 601, 0) in Trammel: "bag"
+23.8.2008 22:22:52: 85.70.219.31: Serials: 0x40021739; 
+23.8.2008 22:23:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set hue 1272'
+23.8.2008 22:23:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'hue' of 0x40021739 (Bag) to '1272'
+23.8.2008 22:25:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add femaleleatherarmor'
+23.8.2008 22:25:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6018, 601, 0) in Trammel: "FemaleLeatherChest"
+23.8.2008 22:25:27: 85.70.219.31: Serials: 0x4002298D; 
+23.8.2008 22:26:08: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add female'
+23.8.2008 22:26:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 601, 0) in Trammel: "HideFemaleChest"
+23.8.2008 22:26:14: 85.70.219.31: Serials: 0x4002298E; 
+23.8.2008 22:26:22: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6018, 601, 0) in Trammel: "RoyalZooLeatherFemaleChest"
+23.8.2008 22:26:22: 85.70.219.31: Serials: 0x4002298F; 
+23.8.2008 22:26:31: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 601, 0) in Trammel: "FemaleKimono"
+23.8.2008 22:26:31: 85.70.219.31: Serials: 0x40022990; 
+23.8.2008 22:27:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add bag'
+23.8.2008 22:27:16: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6018, 603, 0) in Trammel: "bag"
+23.8.2008 22:27:16: 85.70.219.31: Serials: 0x40022E47; 
+23.8.2008 22:27:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 601, 0) in Trammel: "FemaleElvenRobe"
+23.8.2008 22:27:32: 85.70.219.31: Serials: 0x40022E58; 
+23.8.2008 22:27:49: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 602, 0) in Trammel: "FemaleLeafChest"
+23.8.2008 22:27:49: 85.70.219.31: Serials: 0x40022E6E; 
+23.8.2008 22:27:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 602, 0) in Trammel: "FemaleLeatherChest"
+23.8.2008 22:27:57: 85.70.219.31: Serials: 0x40022E6F; 
+23.8.2008 22:28:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:28:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022E6F (FemaleLeatherChest)
+23.8.2008 22:28:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 602, 0) in Trammel: "FemalePlateChest"
+23.8.2008 22:28:07: 85.70.219.31: Serials: 0x40022E70; 
+23.8.2008 22:28:16: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 603, 0) in Trammel: "FemaleStuddedChest"
+23.8.2008 22:28:16: 85.70.219.31: Serials: 0x40022E71; 
+23.8.2008 22:28:26: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6021, 602, 0) in Trammel: "HideFemaleChest"
+23.8.2008 22:28:26: 85.70.219.31: Serials: 0x40022E73; 
+23.8.2008 22:28:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:28:31: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022E73 (HideFemaleChest)
+23.8.2008 22:28:34: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6021, 602, 0) in Trammel: "RoyalZooLeatherFemaleChest"
+23.8.2008 22:28:34: 85.70.219.31: Serials: 0x40022E77; 
+23.8.2008 22:28:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:28:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022E77 (RoyalZooLeatherFemaleChest)
+23.8.2008 22:28:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6022, 602, 0) in Trammel: "RoyalZooLeatherFemaleChest"
+23.8.2008 22:28:44: 85.70.219.31: Serials: 0x40022F66; 
+23.8.2008 22:28:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:28:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022F66 (RoyalZooLeatherFemaleChest)
+23.8.2008 22:28:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6021, 602, 0) in Trammel: "RoyalZooPlateFemaleChest"
+23.8.2008 22:28:56: 85.70.219.31: Serials: 0x40022F69; 
+23.8.2008 22:29:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6022, 601, 0) in Trammel: "RoyalZooStuddedFemaleChest"
+23.8.2008 22:29:27: 85.70.219.31: Serials: 0x40022FB3; 
+23.8.2008 22:30:52: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6023, 597, 0) in Trammel: "ArmorOfFortune"
+23.8.2008 22:30:52: 85.70.219.31: Serials: 0x400235CD; 
+23.8.2008 22:32:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:32:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400235CD (ArmorOfFortune)
+23.8.2008 22:32:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022F69 (RoyalZooPlateFemaleChest)
+23.8.2008 22:32:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022E58 (FemaleElvenRobe)
+23.8.2008 22:32:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022FB3 (RoyalZooStuddedFemaleChest)
+23.8.2008 22:32:16: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002298D (FemaleLeatherChest)
+23.8.2008 22:32:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022E71 (FemaleStuddedChest)
+23.8.2008 22:32:22: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'go '
+23.8.2008 22:32:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6021, 602, 0) in Trammel: "ArmorOfFortune"
+23.8.2008 22:32:51: 85.70.219.31: Serials: 0x400244C9; 
+23.8.2008 22:33:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6023, 602, 0) in Trammel: "MinaxsArmor"
+23.8.2008 22:33:09: 85.70.219.31: Serials: 0x400244CA; 
+23.8.2008 22:33:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:33:34: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400244CA (MinaxsArmor)
+23.8.2008 22:33:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6024, 602, 0) in Trammel: "MinaxsArmor"
+23.8.2008 22:33:37: 85.70.219.31: Serials: 0x400244D8; 
+23.8.2008 22:33:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6022, 603, 0) in Trammel: "ReactiveArmorScroll"
+23.8.2008 22:33:43: 85.70.219.31: Serials: 0x400244D9; 
+23.8.2008 22:33:46: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:33:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400244D9 (ReactiveArmorScroll)
+23.8.2008 22:33:49: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400244D8 (MinaxsArmor)
+23.8.2008 22:33:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6023, 601, 0) in Trammel: "Armorer"
+23.8.2008 22:33:51: 85.70.219.31: Serials: 0x3ED9; 
+23.8.2008 22:33:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:33:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x3ED9 "Lacie" (no account)
+23.8.2008 22:34:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 602, 0) in Trammel: "FemalePlateChest"
+23.8.2008 22:34:32: 85.70.219.31: Serials: 0x4002481E; 
+23.8.2008 22:34:42: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:34:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002481E (FemalePlateChest)
+23.8.2008 22:36:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 603, 0) in Trammel: "Bonnet"
+23.8.2008 22:36:28: 85.70.219.31: Serials: 0x40024A76; 
+23.8.2008 22:36:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 603, 0) in Trammel: "ElvenDarkShirt"
+23.8.2008 22:36:40: 85.70.219.31: Serials: 0x40024A77; 
+23.8.2008 22:36:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 603, 0) in Trammel: "FormalShirt"
+23.8.2008 22:36:48: 85.70.219.31: Serials: 0x40024A7A; 
+23.8.2008 22:36:54: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 602, 0) in Trammel: "ElvenShirt"
+23.8.2008 22:36:54: 85.70.219.31: Serials: 0x40024D86; 
+23.8.2008 22:37:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 601, 0) in Trammel: "FemaleElvenRobe"
+23.8.2008 22:37:15: 85.70.219.31: Serials: 0x40024D87; 
+23.8.2008 22:37:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 602, 0) in Trammel: "FemaleLeafChest"
+23.8.2008 22:37:27: 85.70.219.31: Serials: 0x40024D88; 
+23.8.2008 22:37:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 603, 0) in Trammel: "LeafArms"
+23.8.2008 22:37:40: 85.70.219.31: Serials: 0x40024DB7; 
+23.8.2008 22:37:45: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 603, 0) in Trammel: "Leafblade"
+23.8.2008 22:37:45: 85.70.219.31: Serials: 0x40024DBA; 
+23.8.2008 22:37:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 603, 0) in Trammel: "LeafGloves"
+23.8.2008 22:37:50: 85.70.219.31: Serials: 0x40024DF7; 
+23.8.2008 22:37:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 603, 0) in Trammel: "LeafGorget"
+23.8.2008 22:37:57: 85.70.219.31: Serials: 0x40024DF8; 
+23.8.2008 22:38:05: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 603, 0) in Trammel: "LeafLegs"
+23.8.2008 22:38:05: 85.70.219.31: Serials: 0x40024DF9; 
+23.8.2008 22:38:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 603, 0) in Trammel: "LeafTonlet"
+23.8.2008 22:38:10: 85.70.219.31: Serials: 0x40024E04; 
+23.8.2008 22:38:31: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 603, 0) in Trammel: "LeafweaveGloves"
+23.8.2008 22:38:31: 85.70.219.31: Serials: 0x40024E08; 
+23.8.2008 22:39:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6021, 602, 0) in Trammel: "LeafweaveChest"
+23.8.2008 22:39:55: 85.70.219.31: Serials: 0x400252EC; 
+23.8.2008 22:39:59: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6021, 602, 0) in Trammel: "LeafweaveLegs"
+23.8.2008 22:39:59: 85.70.219.31: Serials: 0x40025310; 
+23.8.2008 22:40:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 602, 0) in Trammel: "LeafweavePauldrons"
+23.8.2008 22:40:03: 85.70.219.31: Serials: 0x4002532E; 
+23.8.2008 22:40:24: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'props '
+23.8.2008 22:40:52: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set race Elf'
+23.8.2008 22:40:54: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'race' of 0x63BE "Povry" ('Povryna') to 'Elf'
+23.8.2008 22:40:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'props '
+23.8.2008 22:41:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add bag'
+23.8.2008 22:41:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6018, 602, 0) in Trammel: "bag"
+23.8.2008 22:41:29: 85.70.219.31: Serials: 0x40025336; 
+23.8.2008 22:41:52: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 604, 0) in Trammel: "HunterArms"
+23.8.2008 22:41:52: 85.70.219.31: Serials: 0x40025337; 
+23.8.2008 22:41:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 604, 0) in Trammel: "HunterGloves"
+23.8.2008 22:41:55: 85.70.219.31: Serials: 0x40025338; 
+23.8.2008 22:41:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 603, 0) in Trammel: "HunterChest"
+23.8.2008 22:41:57: 85.70.219.31: Serials: 0x40025339; 
+23.8.2008 22:42:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 604, 0) in Trammel: "HunterLegs"
+23.8.2008 22:42:07: 85.70.219.31: Serials: 0x4002533A; 
+23.8.2008 22:42:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 604, 0) in Trammel: "HuntersHeaddress"
+23.8.2008 22:42:11: 85.70.219.31: Serials: 0x400254AA; 
+23.8.2008 22:42:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:42:23: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400254AA (HuntersHeaddress)
+23.8.2008 22:43:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 603, 0) in Trammel: "PaladinArms"
+23.8.2008 22:43:01: 85.70.219.31: Serials: 0x400254C4; 
+23.8.2008 22:43:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'wipe '
+23.8.2008 22:43:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') wiping from (6016, 598, 0) to (6020, 603, 0) in Trammel (Items, Mobiles)
+23.8.2008 22:43:13: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "PaladinGloves"
+23.8.2008 22:43:13: 85.70.219.31: Serials: 0x400254D1; 
+23.8.2008 22:43:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "PaladinGorget"
+23.8.2008 22:43:15: 85.70.219.31: Serials: 0x400254D6; 
+23.8.2008 22:43:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 596, 0) in Trammel: "PaladinHelm"
+23.8.2008 22:43:17: 85.70.219.31: Serials: 0x400254E5; 
+23.8.2008 22:43:19: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "PaladinChest"
+23.8.2008 22:43:19: 85.70.219.31: Serials: 0x400254E6; 
+23.8.2008 22:43:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6025, 596, 0) in Trammel: "PaladinLegs"
+23.8.2008 22:43:21: 85.70.219.31: Serials: 0x400254E7; 
+23.8.2008 22:43:23: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6025, 595, 0) in Trammel: "PaladinSword"
+23.8.2008 22:43:23: 85.70.219.31: Serials: 0x4002553C; 
+23.8.2008 22:44:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add '
+23.8.2008 22:44:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add SeerRobe'
+23.8.2008 22:44:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "SeerRobe"
+23.8.2008 22:44:50: 85.70.219.31: Serials: 0x400257FC; 
+23.8.2008 22:45:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'props '
+23.8.2008 22:45:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set hue 457'
+23.8.2008 22:45:13: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'hue' of 0x4002D2D3 (RewardCloak) to '457'
+23.8.2008 22:45:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set hue 457'
+23.8.2008 22:45:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'hue' of 0x4002C778 (ThighBoots) to '457'
+23.8.2008 22:45:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:45:26: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set hue 457'
+23.8.2008 22:45:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'hue' of 0x400257FC (SeerRobe) to '457'
+23.8.2008 22:45:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add SeerRobe'
+23.8.2008 22:45:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "SeerRobe"
+23.8.2008 22:45:33: 85.70.219.31: Serials: 0x400257FF; 
+23.8.2008 22:45:35: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'props '
+23.8.2008 22:45:42: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set hue 467'
+23.8.2008 22:45:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'hue' of 0x4002D2D3 (RewardCloak) to '467'
+23.8.2008 22:45:45: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set hue 467'
+23.8.2008 22:45:47: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'hue' of 0x4002C777 (AdminRobe) to '467'
+23.8.2008 22:45:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set hue 467'
+23.8.2008 22:45:49: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'hue' of 0x4002C778 (ThighBoots) to '467'
+23.8.2008 22:45:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:45:52: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400257FC (SeerRobe)
+23.8.2008 22:45:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400257FF (SeerRobe)
+23.8.2008 22:45:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add LordBlackthorneSuit'
+23.8.2008 22:45:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "LordBlackthorneSuit"
+23.8.2008 22:45:58: 85.70.219.31: Serials: 0x4002580A; 
+23.8.2008 22:46:06: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:46:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002580A (LordBlackthorneSuit)
+23.8.2008 22:46:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DupreSuit'
+23.8.2008 22:46:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 596, 0) in Trammel: "DupreSuit"
+23.8.2008 22:46:09: 85.70.219.31: Serials: 0x4002586E; 
+23.8.2008 22:46:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:46:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002586E (DupreSuit)
+23.8.2008 22:46:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add CounselorRobe'
+23.8.2008 22:46:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "CounselorRobe"
+23.8.2008 22:46:21: 85.70.219.31: Serials: 0x40025892; 
+23.8.2008 22:46:25: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:46:26: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025892 (CounselorRobe)
+23.8.2008 22:46:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add AdminRobe'
+23.8.2008 22:46:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "AdminRobe"
+23.8.2008 22:46:28: 85.70.219.31: Serials: 0x40025896; 
+23.8.2008 22:46:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:46:34: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025896 (AdminRobe)
+23.8.2008 22:46:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add LordBritishSuit'
+23.8.2008 22:46:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "LordBritishSuit"
+23.8.2008 22:46:40: 85.70.219.31: Serials: 0x40025897; 
+23.8.2008 22:46:45: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:46:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025897 (LordBritishSuit)
+23.8.2008 22:47:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add JesterSuit'
+23.8.2008 22:47:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "JesterSuit"
+23.8.2008 22:47:04: 85.70.219.31: Serials: 0x40025899; 
+23.8.2008 22:47:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Surcoat'
+23.8.2008 22:47:13: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "Surcoat"
+23.8.2008 22:47:13: 85.70.219.31: Serials: 0x4002589A; 
+23.8.2008 22:47:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add ElvenPants'
+23.8.2008 22:47:42: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "ElvenPants"
+23.8.2008 22:47:42: 85.70.219.31: Serials: 0x4002589B; 
+23.8.2008 22:47:52: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add HakamaShita'
+23.8.2008 22:47:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "HakamaShita"
+23.8.2008 22:47:53: 85.70.219.31: Serials: 0x4002589C; 
+23.8.2008 22:47:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:47:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002589B (ElvenPants)
+23.8.2008 22:48:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Hakama'
+23.8.2008 22:48:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "Hakama"
+23.8.2008 22:48:04: 85.70.219.31: Serials: 0x4002589D; 
+23.8.2008 22:48:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:48:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002589D (Hakama)
+23.8.2008 22:48:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add TattsukeHakama'
+23.8.2008 22:48:16: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "TattsukeHakama"
+23.8.2008 22:48:16: 85.70.219.31: Serials: 0x4002589E; 
+23.8.2008 22:48:31: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add SamuraiTabi'
+23.8.2008 22:48:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "SamuraiTabi"
+23.8.2008 22:48:32: 85.70.219.31: Serials: 0x4002589F; 
+23.8.2008 22:48:47: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Boots'
+23.8.2008 22:48:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "Boots"
+23.8.2008 22:48:48: 85.70.219.31: Serials: 0x400258A2; 
+23.8.2008 22:48:54: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add FancyShirt'
+23.8.2008 22:48:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "FancyShirt"
+23.8.2008 22:48:55: 85.70.219.31: Serials: 0x4002598C; 
+23.8.2008 22:49:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Skirt'
+23.8.2008 22:49:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "Skirt"
+23.8.2008 22:49:03: 85.70.219.31: Serials: 0x400259B1; 
+23.8.2008 22:49:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Doublet'
+23.8.2008 22:49:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "Doublet"
+23.8.2008 22:49:11: 85.70.219.31: Serials: 0x400259B4; 
+23.8.2008 22:49:16: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add BodySash'
+23.8.2008 22:49:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "BodySash"
+23.8.2008 22:49:17: 85.70.219.31: Serials: 0x400259BF; 
+23.8.2008 22:49:25: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add AncientFarmersKasa'
+23.8.2008 22:49:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 594, 0) in Trammel: "AncientFarmersKasa"
+23.8.2008 22:49:27: 85.70.219.31: Serials: 0x400259C0; 
+23.8.2008 22:49:36: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'set race human'
+23.8.2008 22:49:38: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') set property 'race' of 0x63BE "Povry" ('Povryna') to 'Human'
+23.8.2008 22:49:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:49:45: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400259C0 (AncientFarmersKasa)
+23.8.2008 22:49:47: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Bandana'
+23.8.2008 22:49:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 594, 0) in Trammel: "Bandana"
+23.8.2008 22:49:48: 85.70.219.31: Serials: 0x400259DB; 
+23.8.2008 22:49:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:49:52: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002589A (Surcoat)
+23.8.2008 22:49:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025899 (JesterSuit)
+23.8.2008 22:49:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400259BF (BodySash)
+23.8.2008 22:49:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400259DB (Bandana)
+23.8.2008 22:49:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add BlackLotusHood'
+23.8.2008 22:49:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "BlackLotusHood"
+23.8.2008 22:49:57: 85.70.219.31: Serials: 0x400259DC; 
+23.8.2008 22:50:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:50:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400259DC (BlackLotusHood)
+23.8.2008 22:50:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DivineCountenance'
+23.8.2008 22:50:05: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 595, 0) in Trammel: "DivineCountenance"
+23.8.2008 22:50:05: 85.70.219.31: Serials: 0x400259DD; 
+23.8.2008 22:50:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:50:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400259DD (DivineCountenance)
+23.8.2008 22:50:16: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'c '
+23.8.2008 22:50:19: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DreadPirateHat'
+23.8.2008 22:50:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "DreadPirateHat"
+23.8.2008 22:50:20: 85.70.219.31: Serials: 0x400259DE; 
+23.8.2008 22:50:25: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:50:26: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400259DE (DreadPirateHat)
+23.8.2008 22:50:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add HatOfTheMagi'
+23.8.2008 22:50:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "HatOfTheMagi"
+23.8.2008 22:50:33: 85.70.219.31: Serials: 0x400259DF; 
+23.8.2008 22:50:35: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:50:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400259DF (HatOfTheMagi)
+23.8.2008 22:50:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add HuntersHeaddress'
+23.8.2008 22:50:45: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "HuntersHeaddress"
+23.8.2008 22:50:45: 85.70.219.31: Serials: 0x40025A0C; 
+23.8.2008 22:50:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:50:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025A0C (HuntersHeaddress)
+23.8.2008 22:50:54: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add SavageMask'
+23.8.2008 22:50:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "SavageMask"
+23.8.2008 22:50:55: 85.70.219.31: Serials: 0x40025A0D; 
+23.8.2008 22:50:59: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:51:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025A0D (SavageMask)
+23.8.2008 22:51:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add SpiritOfTheTotem'
+23.8.2008 22:51:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "SpiritOfTheTotem"
+23.8.2008 22:51:04: 85.70.219.31: Serials: 0x40025A11; 
+23.8.2008 22:51:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:51:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025A11 (SpiritOfTheTotem)
+23.8.2008 22:51:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add KasaOfTheRajin'
+23.8.2008 22:51:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "KasaOfTheRajin"
+23.8.2008 22:51:15: 85.70.219.31: Serials: 0x40025BCB; 
+23.8.2008 22:51:24: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:51:25: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025BCB (KasaOfTheRajin)
+23.8.2008 22:51:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add SkullCap'
+23.8.2008 22:51:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "SkullCap"
+23.8.2008 22:51:29: 85.70.219.31: Serials: 0x40025BCC; 
+23.8.2008 22:51:35: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:51:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025BCC (SkullCap)
+23.8.2008 22:51:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add JesterHat'
+23.8.2008 22:51:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "JesterHat"
+23.8.2008 22:51:41: 85.70.219.31: Serials: 0x40025BCD; 
+23.8.2008 22:51:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:51:46: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025BCD (JesterHat)
+23.8.2008 22:51:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add StrawHat'
+23.8.2008 22:51:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "StrawHat"
+23.8.2008 22:51:48: 85.70.219.31: Serials: 0x40025BCE; 
+23.8.2008 22:51:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:51:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025BCE (StrawHat)
+23.8.2008 22:51:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add OrcishKinMask'
+23.8.2008 22:51:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "OrcishKinMask"
+23.8.2008 22:51:58: 85.70.219.31: Serials: 0x40025BCF; 
+23.8.2008 22:52:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:52:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025BCF (OrcishKinMask)
+23.8.2008 22:52:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add TallStrawHat'
+23.8.2008 22:52:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "TallStrawHat"
+23.8.2008 22:52:15: 85.70.219.31: Serials: 0x40025D39; 
+23.8.2008 22:52:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:52:23: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025D39 (TallStrawHat)
+23.8.2008 22:52:26: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add WideBrimHat'
+23.8.2008 22:52:26: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "WideBrimHat"
+23.8.2008 22:52:26: 85.70.219.31: Serials: 0x40025DBB; 
+23.8.2008 22:52:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:52:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025DBB (WideBrimHat)
+23.8.2008 22:52:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add WizardsHat'
+23.8.2008 22:52:34: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "WizardsHat"
+23.8.2008 22:52:34: 85.70.219.31: Serials: 0x40025DBC; 
+23.8.2008 22:52:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:52:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025DBC (WizardsHat)
+23.8.2008 22:52:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Cloak'
+23.8.2008 22:52:45: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "Cloak"
+23.8.2008 22:52:45: 85.70.219.31: Serials: 0x40025DBF; 
+23.8.2008 22:53:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DragonHelm'
+23.8.2008 22:53:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 596, 0) in Trammel: "DragonHelm"
+23.8.2008 22:53:01: 85.70.219.31: Serials: 0x40025DC2; 
+23.8.2008 22:53:06: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:53:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025DC2 (DragonHelm)
+23.8.2008 22:53:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add AegisOfGrace'
+23.8.2008 22:53:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "AegisOfGrace"
+23.8.2008 22:53:11: 85.70.219.31: Serials: 0x40025DFD; 
+23.8.2008 22:53:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:53:18: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40025DFD (AegisOfGrace)
+23.8.2008 22:53:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add OrcishVisage'
+23.8.2008 22:53:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "OrcishVisage"
+23.8.2008 22:53:28: 85.70.219.31: Serials: 0x40026128; 
+23.8.2008 22:53:31: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:53:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026128 (OrcishVisage)
+23.8.2008 22:53:34: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Bascinet'
+23.8.2008 22:53:35: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "Bascinet"
+23.8.2008 22:53:35: 85.70.219.31: Serials: 0x4002612F; 
+23.8.2008 22:53:38: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:53:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002612F (Bascinet)
+23.8.2008 22:53:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add NorseHelm'
+23.8.2008 22:53:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "NorseHelm"
+23.8.2008 22:53:41: 85.70.219.31: Serials: 0x40026130; 
+23.8.2008 22:53:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:53:46: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026130 (NorseHelm)
+23.8.2008 22:53:47: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Helmet'
+23.8.2008 22:53:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "Helmet"
+23.8.2008 22:53:48: 85.70.219.31: Serials: 0x40026132; 
+23.8.2008 22:53:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:53:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026132 (Helmet)
+23.8.2008 22:54:19: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add bag'
+23.8.2008 22:54:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6025, 596, 0) in Trammel: "bag"
+23.8.2008 22:54:21: 85.70.219.31: Serials: 0x40026160; 
+23.8.2008 22:54:38: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add RingmailArms'
+23.8.2008 22:54:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "RingmailArms"
+23.8.2008 22:54:39: 85.70.219.31: Serials: 0x40026177; 
+23.8.2008 22:54:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add RingmailChest'
+23.8.2008 22:54:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6029, 595, 0) in Trammel: "RingmailChest"
+23.8.2008 22:54:40: 85.70.219.31: Serials: 0x400261BB; 
+23.8.2008 22:54:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add RingmailGloves'
+23.8.2008 22:54:42: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "RingmailGloves"
+23.8.2008 22:54:42: 85.70.219.31: Serials: 0x400261BC; 
+23.8.2008 22:54:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add RingmailLegs'
+23.8.2008 22:54:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6029, 594, 0) in Trammel: "RingmailLegs"
+23.8.2008 22:54:43: 85.70.219.31: Serials: 0x400261BD; 
+23.8.2008 22:54:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:54:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400261BD (RingmailLegs)
+23.8.2008 22:54:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400261BB (RingmailChest)
+23.8.2008 22:54:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026177 (RingmailArms)
+23.8.2008 22:54:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400261BC (RingmailGloves)
+23.8.2008 22:55:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DaemonArms'
+23.8.2008 22:55:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "DaemonArms"
+23.8.2008 22:55:03: 85.70.219.31: Serials: 0x400264D2; 
+23.8.2008 22:55:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DaemonChest'
+23.8.2008 22:55:05: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "DaemonChest"
+23.8.2008 22:55:05: 85.70.219.31: Serials: 0x400264D4; 
+23.8.2008 22:55:06: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DaemonGloves'
+23.8.2008 22:55:06: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6029, 594, 0) in Trammel: "DaemonGloves"
+23.8.2008 22:55:06: 85.70.219.31: Serials: 0x400264D5; 
+23.8.2008 22:55:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DaemonGloves'
+23.8.2008 22:55:08: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DaemonHelm'
+23.8.2008 22:55:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6029, 595, 0) in Trammel: "DaemonHelm"
+23.8.2008 22:55:09: 85.70.219.31: Serials: 0x400264D6; 
+23.8.2008 22:55:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DaemonLegs'
+23.8.2008 22:55:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6029, 593, 0) in Trammel: "DaemonLegs"
+23.8.2008 22:55:11: 85.70.219.31: Serials: 0x400264DE; 
+23.8.2008 22:55:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:55:31: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400264DE (DaemonLegs)
+23.8.2008 22:55:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400264D4 (DaemonChest)
+23.8.2008 22:55:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400264D2 (DaemonArms)
+23.8.2008 22:55:34: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400264D6 (DaemonHelm)
+23.8.2008 22:55:35: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400264D5 (DaemonGloves)
+23.8.2008 22:55:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add ChainChest'
+23.8.2008 22:55:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "ChainChest"
+23.8.2008 22:55:40: 85.70.219.31: Serials: 0x400265BF; 
+23.8.2008 22:55:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add ChainLegs'
+23.8.2008 22:55:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6029, 594, 0) in Trammel: "ChainLegs"
+23.8.2008 22:55:43: 85.70.219.31: Serials: 0x400265C1; 
+23.8.2008 22:55:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add ChainCoif'
+23.8.2008 22:55:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "ChainCoif"
+23.8.2008 22:55:56: 85.70.219.31: Serials: 0x400265C2; 
+23.8.2008 22:55:59: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:56:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400265C2 (ChainCoif)
+23.8.2008 22:56:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400265BF (ChainChest)
+23.8.2008 22:56:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400265C1 (ChainLegs)
+23.8.2008 22:56:08: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add AegisOfGrace'
+23.8.2008 22:56:08: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "AegisOfGrace"
+23.8.2008 22:56:08: 85.70.219.31: Serials: 0x40026787; 
+23.8.2008 22:56:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DragonArms'
+23.8.2008 22:56:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 595, 0) in Trammel: "DragonArms"
+23.8.2008 22:56:09: 85.70.219.31: Serials: 0x4002678F; 
+23.8.2008 22:56:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DragonChest'
+23.8.2008 22:56:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 594, 0) in Trammel: "DragonChest"
+23.8.2008 22:56:11: 85.70.219.31: Serials: 0x40026792; 
+23.8.2008 22:56:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DragonGloves'
+23.8.2008 22:56:13: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6029, 594, 0) in Trammel: "DragonGloves"
+23.8.2008 22:56:13: 85.70.219.31: Serials: 0x40026793; 
+23.8.2008 22:56:18: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DragonLegs'
+23.8.2008 22:56:19: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6029, 595, 0) in Trammel: "DragonLegs"
+23.8.2008 22:56:19: 85.70.219.31: Serials: 0x40026796; 
+23.8.2008 22:56:24: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DragonHelm'
+23.8.2008 22:56:25: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "DragonHelm"
+23.8.2008 22:56:25: 85.70.219.31: Serials: 0x40026799; 
+23.8.2008 22:56:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:56:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026787 (AegisOfGrace)
+23.8.2008 22:56:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:56:38: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026799 (DragonHelm)
+23.8.2008 22:57:08: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DragonHelm'
+23.8.2008 22:57:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "DragonHelm"
+23.8.2008 22:57:09: 85.70.219.31: Serials: 0x400267A0; 
+23.8.2008 22:57:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Aegis'
+23.8.2008 22:57:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "Aegis"
+23.8.2008 22:57:28: 85.70.219.31: Serials: 0x400267C4; 
+23.8.2008 22:57:38: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add PlateArms'
+23.8.2008 22:57:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "PlateArms"
+23.8.2008 22:57:39: 85.70.219.31: Serials: 0x400267D7; 
+23.8.2008 22:57:42: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:57:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400267D7 (PlateArms)
+23.8.2008 22:58:16: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add BrambleCoat'
+23.8.2008 22:58:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "BrambleCoat"
+23.8.2008 22:58:17: 85.70.219.31: Serials: 0x400268ED; 
+23.8.2008 22:58:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:58:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400268ED (BrambleCoat)
+23.8.2008 22:58:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add IronwoodCrown'
+23.8.2008 22:58:45: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6029, 594, 0) in Trammel: "IronwoodCrown"
+23.8.2008 22:58:45: 85.70.219.31: Serials: 0x400269E6; 
+23.8.2008 22:58:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:58:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400269E6 (IronwoodCrown)
+23.8.2008 22:59:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add BladeDance'
+23.8.2008 22:59:31: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "BladeDance"
+23.8.2008 22:59:31: 85.70.219.31: Serials: 0x400269ED; 
+23.8.2008 22:59:35: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:59:38: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400269ED (BladeDance)
+23.8.2008 22:59:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Daisho'
+23.8.2008 22:59:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "Daisho"
+23.8.2008 22:59:40: 85.70.219.31: Serials: 0x400269EE; 
+23.8.2008 22:59:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:59:45: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400269EE (Daisho)
+23.8.2008 22:59:47: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add CrescentBlade'
+23.8.2008 22:59:47: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 594, 0) in Trammel: "CrescentBlade"
+23.8.2008 22:59:47: 85.70.219.31: Serials: 0x400269EF; 
+23.8.2008 22:59:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 22:59:52: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400269EF (CrescentBlade)
+23.8.2008 22:59:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add LunaLance'
+23.8.2008 22:59:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 595, 0) in Trammel: "LunaLance"
+23.8.2008 22:59:57: 85.70.219.31: Serials: 0x400269F2; 
+23.8.2008 23:00:06: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:00:08: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400269F2 (LunaLance)
+23.8.2008 23:00:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add ether'
+23.8.2008 23:00:23: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6025, 589, 0) in Trammel: "EtherealUnicorn"
+23.8.2008 23:00:23: 85.70.219.31: Serials: 0x400269F3; 
+23.8.2008 23:00:36: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add NoDachi'
+23.8.2008 23:00:36: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "NoDachi"
+23.8.2008 23:00:36: 85.70.219.31: Serials: 0x40026B43; 
+23.8.2008 23:00:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:00:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026B43 (NoDachi)
+23.8.2008 23:00:45: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add SoulSeeker'
+23.8.2008 23:00:46: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 587, 0) in Trammel: "SoulSeeker"
+23.8.2008 23:00:46: 85.70.219.31: Serials: 0x40026B9C; 
+23.8.2008 23:00:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:00:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026B9C (SoulSeeker)
+23.8.2008 23:01:06: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Bokuto'
+23.8.2008 23:01:06: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 587, 0) in Trammel: "Bokuto"
+23.8.2008 23:01:06: 85.70.219.31: Serials: 0x40026B9D; 
+23.8.2008 23:01:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:01:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026B9D (Bokuto)
+23.8.2008 23:01:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Pitchfork'
+23.8.2008 23:01:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 587, 0) in Trammel: "Pitchfork"
+23.8.2008 23:01:21: 85.70.219.31: Serials: 0x40026B9E; 
+23.8.2008 23:01:25: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:01:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026B9E (Pitchfork)
+23.8.2008 23:01:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add TribalSpear'
+23.8.2008 23:01:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "TribalSpear"
+23.8.2008 23:01:30: 85.70.219.31: Serials: 0x40026BA5; 
+23.8.2008 23:01:36: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:01:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026BA5 (TribalSpear)
+23.8.2008 23:01:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add EnchantedTitanLegBone'
+23.8.2008 23:01:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "EnchantedTitanLegBone"
+23.8.2008 23:01:40: 85.70.219.31: Serials: 0x40026BB0; 
+23.8.2008 23:01:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:01:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026BB0 (EnchantedTitanLegBone)
+23.8.2008 23:01:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add TheDryadBow'
+23.8.2008 23:01:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 587, 0) in Trammel: "TheDryadBow"
+23.8.2008 23:01:58: 85.70.219.31: Serials: 0x40026BC5; 
+23.8.2008 23:02:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:02:05: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026BC5 (TheDryadBow)
+23.8.2008 23:02:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add ElvenCompositeLongbow'
+23.8.2008 23:02:08: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 587, 0) in Trammel: "ElvenCompositeLongbow"
+23.8.2008 23:02:08: 85.70.219.31: Serials: 0x40026BCF; 
+23.8.2008 23:02:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:02:13: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026BCF (ElvenCompositeLongbow)
+23.8.2008 23:02:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add HanzosBow'
+23.8.2008 23:02:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "HanzosBow"
+23.8.2008 23:02:15: 85.70.219.31: Serials: 0x40026BDF; 
+23.8.2008 23:02:19: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:02:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026BDF (HanzosBow)
+23.8.2008 23:02:23: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add BlightGrippedLongbow'
+23.8.2008 23:02:23: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 586, 0) in Trammel: "BlightGrippedLongbow"
+23.8.2008 23:02:23: 85.70.219.31: Serials: 0x40026C10; 
+23.8.2008 23:02:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:02:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026C10 (BlightGrippedLongbow)
+23.8.2008 23:02:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add JukaBow'
+23.8.2008 23:02:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "JukaBow"
+23.8.2008 23:02:41: 85.70.219.31: Serials: 0x40026C20; 
+23.8.2008 23:02:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:02:49: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40026C20 (JukaBow)
+23.8.2008 23:02:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add SilvanisFeywoodBow'
+23.8.2008 23:02:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 585, 0) in Trammel: "SilvanisFeywoodBow"
+23.8.2008 23:02:56: 85.70.219.31: Serials: 0x400270B7; 
+23.8.2008 23:03:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add TheNightReaper'
+23.8.2008 23:03:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "TheNightReaper"
+23.8.2008 23:03:03: 85.70.219.31: Serials: 0x400270BC; 
+23.8.2008 23:03:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:03:13: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400270BC (TheNightReaper)
+23.8.2008 23:03:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400270B7 (SilvanisFeywoodBow)
+23.8.2008 23:03:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add LargeBattleAxe'
+23.8.2008 23:03:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "LargeBattleAxe"
+23.8.2008 23:03:28: 85.70.219.31: Serials: 0x40027109; 
+23.8.2008 23:03:31: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:03:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027109 (LargeBattleAxe)
+23.8.2008 23:03:34: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Pickaxe'
+23.8.2008 23:03:35: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "Pickaxe"
+23.8.2008 23:03:35: 85.70.219.31: Serials: 0x40027126; 
+23.8.2008 23:03:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:03:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027126 (Pickaxe)
+23.8.2008 23:03:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add TalonBite'
+23.8.2008 23:03:42: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "TalonBite"
+23.8.2008 23:03:42: 85.70.219.31: Serials: 0x40027127; 
+23.8.2008 23:03:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:03:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027127 (TalonBite)
+23.8.2008 23:03:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add WrathOfTheDryad'
+23.8.2008 23:03:59: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "WrathOfTheDryad"
+23.8.2008 23:03:59: 85.70.219.31: Serials: 0x400273B3; 
+23.8.2008 23:04:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:04:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400273B3 (WrathOfTheDryad)
+23.8.2008 23:04:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add QuarterStaff'
+23.8.2008 23:04:16: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "QuarterStaff"
+23.8.2008 23:04:16: 85.70.219.31: Serials: 0x400273B4; 
+23.8.2008 23:04:22: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:04:24: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400273B4 (QuarterStaff)
+23.8.2008 23:04:26: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add StaffOfPower'
+23.8.2008 23:04:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "StaffOfPower"
+23.8.2008 23:04:27: 85.70.219.31: Serials: 0x400273B5; 
+23.8.2008 23:04:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:04:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400273B5 (StaffOfPower)
+23.8.2008 23:04:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add WildStaff'
+23.8.2008 23:04:42: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "WildStaff"
+23.8.2008 23:04:42: 85.70.219.31: Serials: 0x400273B6; 
+23.8.2008 23:04:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add ChylothStaff'
+23.8.2008 23:04:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6027, 587, 0) in Trammel: "ChylothStaff"
+23.8.2008 23:04:50: 85.70.219.31: Serials: 0x40027425; 
+23.8.2008 23:04:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:04:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027425 (ChylothStaff)
+23.8.2008 23:04:59: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400273B6 (WildStaff)
+23.8.2008 23:05:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add PhantomStaff'
+23.8.2008 23:05:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "PhantomStaff"
+23.8.2008 23:05:01: 85.70.219.31: Serials: 0x40027426; 
+23.8.2008 23:05:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:05:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027426 (PhantomStaff)
+23.8.2008 23:05:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add GlacialStaff'
+23.8.2008 23:05:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 586, 0) in Trammel: "GlacialStaff"
+23.8.2008 23:05:17: 85.70.219.31: Serials: 0x40027427; 
+23.8.2008 23:05:24: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:05:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027427 (GlacialStaff)
+23.8.2008 23:05:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add GnarledStaff'
+23.8.2008 23:05:34: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6028, 585, 0) in Trammel: "GnarledStaff"
+23.8.2008 23:05:34: 85.70.219.31: Serials: 0x40027428; 
+23.8.2008 23:05:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DemonForks'
+23.8.2008 23:05:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 579, 0) in Trammel: "DemonForks"
+23.8.2008 23:05:44: 85.70.219.31: Serials: 0x4002742D; 
+23.8.2008 23:05:48: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:05:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002742D (DemonForks)
+23.8.2008 23:05:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DarkenedSky'
+23.8.2008 23:05:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 578, 0) in Trammel: "DarkenedSky"
+23.8.2008 23:05:56: 85.70.219.31: Serials: 0x40027433; 
+23.8.2008 23:06:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:06:05: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027433 (DarkenedSky)
+23.8.2008 23:06:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add ColdBlood'
+23.8.2008 23:06:08: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 579, 0) in Trammel: "ColdBlood"
+23.8.2008 23:06:08: 85.70.219.31: Serials: 0x400275D3; 
+23.8.2008 23:06:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:06:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400275D3 (ColdBlood)
+23.8.2008 23:06:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add RaedsGlory'
+23.8.2008 23:06:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 579, 0) in Trammel: "RaedsGlory"
+23.8.2008 23:06:28: 85.70.219.31: Serials: 0x400275DF; 
+23.8.2008 23:06:35: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:06:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add RuneCarvingKnife'
+23.8.2008 23:06:43: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 578, 0) in Trammel: "RuneCarvingKnife"
+23.8.2008 23:06:43: 85.70.219.31: Serials: 0x40027606; 
+23.8.2008 23:06:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Tekagi'
+23.8.2008 23:06:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 579, 0) in Trammel: "Tekagi"
+23.8.2008 23:06:51: 85.70.219.31: Serials: 0x4002760B; 
+23.8.2008 23:06:56: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:06:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002760B (Tekagi)
+23.8.2008 23:07:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add BlazeOfDeath'
+23.8.2008 23:07:04: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 579, 0) in Trammel: "BlazeOfDeath"
+23.8.2008 23:07:04: 85.70.219.31: Serials: 0x400276EF; 
+23.8.2008 23:07:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:07:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400276EF (BlazeOfDeath)
+23.8.2008 23:07:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Scythe'
+23.8.2008 23:07:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 579, 0) in Trammel: "Scythe"
+23.8.2008 23:07:12: 85.70.219.31: Serials: 0x40027874; 
+23.8.2008 23:07:19: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:07:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027874 (Scythe)
+23.8.2008 23:07:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add PilferedDancerFans'
+23.8.2008 23:07:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 579, 0) in Trammel: "PilferedDancerFans"
+23.8.2008 23:07:53: 85.70.219.31: Serials: 0x40027875; 
+23.8.2008 23:07:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:07:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027606 (RuneCarvingKnife)
+23.8.2008 23:08:07: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027875 (PilferedDancerFans)
+23.8.2008 23:08:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Maul'
+23.8.2008 23:08:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 579, 0) in Trammel: "Maul"
+23.8.2008 23:08:11: 85.70.219.31: Serials: 0x400279D8; 
+23.8.2008 23:08:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:08:18: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400279D8 (Maul)
+23.8.2008 23:08:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add Exiler'
+23.8.2008 23:08:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 579, 0) in Trammel: "Exiler"
+23.8.2008 23:08:20: 85.70.219.31: Serials: 0x400279F0; 
+23.8.2008 23:08:24: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:08:26: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400279F0 (Exiler)
+23.8.2008 23:08:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add DragonNunchaku'
+23.8.2008 23:08:28: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 579, 0) in Trammel: "DragonNunchaku"
+23.8.2008 23:08:28: 85.70.219.31: Serials: 0x400279FC; 
+23.8.2008 23:08:49: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:08:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400279FC (DragonNunchaku)
+23.8.2008 23:08:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'Add WarHammer'
+23.8.2008 23:08:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6019, 578, 0) in Trammel: "WarHammer"
+23.8.2008 23:08:57: 85.70.219.31: Serials: 0x40027A01; 
+23.8.2008 23:09:00: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+23.8.2008 23:09:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40027A01 (WarHammer)
+30.8.2008 10:48:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add pans'
+30.8.2008 10:48:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add shorts'
+30.8.2008 10:48:36: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6018, 583, 0) in Trammel: "LeatherShorts"
+30.8.2008 10:48:36: 85.70.219.31: Serials: 0x4001233F; 
+30.8.2008 10:48:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add shorts'
+30.8.2008 10:48:46: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 582, 0) in Trammel: "ShortSpear"
+30.8.2008 10:48:46: 85.70.219.31: Serials: 0x4001237F; 
+30.8.2008 10:49:09: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:49:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4001237F (ShortSpear)
+30.8.2008 10:49:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4001233F (LeatherShorts)
+30.8.2008 10:49:25: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add trousers'
+30.8.2008 10:50:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 584, 0) in Trammel: "ElvenPants"
+30.8.2008 10:50:01: 85.70.219.31: Serials: 0x40012893; 
+30.8.2008 10:50:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:50:13: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40012893 (ElvenPants)
+30.8.2008 10:50:17: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add pants'
+30.8.2008 10:50:22: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6022, 582, 0) in Trammel: "ElvenPants"
+30.8.2008 10:50:22: 85.70.219.31: Serials: 0x40013026; 
+30.8.2008 10:50:39: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:50:40: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400244C9 (ArmorOfFortune)
+30.8.2008 10:52:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add pants'
+30.8.2008 10:52:23: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6024, 580, 0) in Trammel: "HidePants"
+30.8.2008 10:52:23: 85.70.219.31: Serials: 0x40013028; 
+30.8.2008 10:52:51: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add pants'
+30.8.2008 10:52:55: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6024, 581, 0) in Trammel: "LeprechaunPants"
+30.8.2008 10:52:55: 85.70.219.31: Serials: 0x40013030; 
+30.8.2008 10:53:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:53:03: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40013030 (LeprechaunPants)
+30.8.2008 10:53:05: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6022, 581, 0) in Trammel: "LibraryFriendPants"
+30.8.2008 10:53:05: 85.70.219.31: Serials: 0x40013058; 
+30.8.2008 10:53:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:53:13: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40013058 (LibraryFriendPants)
+30.8.2008 10:53:15: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6023, 581, 0) in Trammel: "LongPants"
+30.8.2008 10:53:15: 85.70.219.31: Serials: 0x4001305A; 
+30.8.2008 10:53:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:53:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4001305A (LongPants)
+30.8.2008 10:53:32: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6026, 580, 0) in Trammel: "ShortPants"
+30.8.2008 10:53:32: 85.70.219.31: Serials: 0x40013091; 
+30.8.2008 10:53:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:53:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40013091 (ShortPants)
+30.8.2008 10:53:44: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6021, 580, 0) in Trammel: "ShortPants"
+30.8.2008 10:53:44: 85.70.219.31: Serials: 0x40013119; 
+30.8.2008 10:53:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:53:59: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40013119 (ShortPants)
+30.8.2008 10:54:02: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6023, 580, 0) in Trammel: "LeatherNinjaPants"
+30.8.2008 10:54:02: 85.70.219.31: Serials: 0x400134DF; 
+30.8.2008 10:54:14: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 582, 0) in Trammel: "ElvenPants"
+30.8.2008 10:54:14: 85.70.219.31: Serials: 0x400134E0; 
+30.8.2008 10:54:24: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:54:25: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400134DF (LeatherNinjaPants)
+30.8.2008 10:54:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:54:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x40013026 (ElvenPants)
+30.8.2008 10:55:42: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6017, 583, 0) in Trammel: "ElvenDarkShirt"
+30.8.2008 10:55:42: 85.70.219.31: Serials: 0x400134E3; 
+30.8.2008 10:55:49: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:55:50: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400134E3 (ElvenDarkShirt)
+30.8.2008 10:55:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 583, 0) in Trammel: "FormalShirt"
+30.8.2008 10:55:53: 85.70.219.31: Serials: 0x400134E4; 
+30.8.2008 10:55:57: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:55:58: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400134E4 (FormalShirt)
+30.8.2008 10:56:01: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6022, 580, 0) in Trammel: "FormalShirt"
+30.8.2008 10:56:01: 85.70.219.31: Serials: 0x400134E5; 
+30.8.2008 10:56:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:56:11: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400134E5 (FormalShirt)
+30.8.2008 10:56:13: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6020, 581, 0) in Trammel: "LeprechaunShirt"
+30.8.2008 10:56:13: 85.70.219.31: Serials: 0x400134E6; 
+30.8.2008 10:56:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:56:21: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400134E6 (LeprechaunShirt)
+30.8.2008 10:56:23: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6022, 582, 0) in Trammel: "Shirt"
+30.8.2008 10:56:23: 85.70.219.31: Serials: 0x400134FB; 
+30.8.2008 10:56:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 10:56:29: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C774 (RemoveStone)
+30.8.2008 10:56:31: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x400134FB (Shirt)
+30.8.2008 10:56:33: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (6021, 583, 0) in Trammel: "FancyShirt"
+30.8.2008 10:56:33: 85.70.219.31: Serials: 0x4001350A; 
+30.8.2008 10:58:20: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'go luna'
+30.8.2008 13:43:12: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'go luna'
+30.8.2008 13:44:27: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'props '
+30.8.2008 13:44:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'go '
+30.8.2008 13:44:54: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'go luna'
+30.8.2008 13:50:00: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'go '
+30.8.2008 13:54:06: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add skirt'
+30.8.2008 13:54:10: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (996, 514, -50) in Malas: "skirt"
+30.8.2008 13:54:10: 85.70.219.31: Serials: 0x4002BF6B; 
+30.8.2008 13:55:26: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'add remove'
+30.8.2008 13:55:30: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (991, 520, -50) in Malas: "RemoveStone"
+30.8.2008 13:55:30: 85.70.219.31: Serials: 0x4002C0A1; 
+30.8.2008 13:55:37: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 13:55:38: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C0A1 (RemoveStone)
+30.8.2008 13:55:41: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (992, 518, -50) in Malas: "RemoveStone"
+30.8.2008 13:55:41: 85.70.219.31: Serials: 0x4002C0A3; 
+30.8.2008 13:55:46: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+30.8.2008 13:55:47: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C0A3 (RemoveStone)
+30.8.2008 13:55:53: 85.70.219.31: Seer 0x63BE "Povry" ('Povryna') building at (989, 516, -50) in Malas: "RemoveStone"
+30.8.2008 13:55:53: 85.70.219.31: Serials: 0x4002C0A5; 
+6.9.2008 15:11:18: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm tele'
+6.9.2008 15:14:00: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'go '
+6.9.2008 15:17:52: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add female'
+6.9.2008 15:17:56: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6040, 600, 0) in Trammel: "FemaleElvenRobe"
+6.9.2008 15:17:56: 89.102.165.125: Serials: 0x40022BE3; 
+6.9.2008 15:18:30: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:18:31: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022BE3 (FemaleElvenRobe)
+6.9.2008 15:18:37: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6046, 598, 0) in Trammel: "FemaleLeafChest"
+6.9.2008 15:18:37: 89.102.165.125: Serials: 0x40022EF8; 
+6.9.2008 15:18:41: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:18:44: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40022EF8 (FemaleLeafChest)
+6.9.2008 15:18:48: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6048, 599, 0) in Trammel: "FemaleLeatherChest"
+6.9.2008 15:18:48: 89.102.165.125: Serials: 0x40023507; 
+6.9.2008 15:18:54: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:18:55: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40023507 (FemaleLeatherChest)
+6.9.2008 15:19:01: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6044, 598, 0) in Trammel: "FemaleStuddedChest"
+6.9.2008 15:19:01: 89.102.165.125: Serials: 0x40023508; 
+6.9.2008 15:19:05: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:19:06: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40023508 (FemaleStuddedChest)
+6.9.2008 15:19:28: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add boots'
+6.9.2008 15:19:30: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6047, 599, 0) in Trammel: "boots"
+6.9.2008 15:19:30: 89.102.165.125: Serials: 0x40023509; 
+6.9.2008 15:19:42: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:19:44: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40023509 (Boots)
+6.9.2008 15:19:48: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add '
+6.9.2008 15:20:01: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'Add MediumDragonBoatDeed'
+6.9.2008 15:20:02: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6045, 597, 0) in Trammel: "MediumDragonBoatDeed"
+6.9.2008 15:20:02: 89.102.165.125: Serials: 0x4002350A; 
+6.9.2008 15:20:05: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:20:06: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002350A (MediumDragonBoatDeed)
+6.9.2008 15:20:31: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add female'
+6.9.2008 15:20:44: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6049, 600, 0) in Trammel: "Boots"
+6.9.2008 15:20:44: 89.102.165.125: Serials: 0x40023546; 
+6.9.2008 15:20:47: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:20:51: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40023546 (Boots)
+6.9.2008 15:22:35: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6046, 598, 0) in Trammel: "ElvenBoots"
+6.9.2008 15:22:35: 89.102.165.125: Serials: 0x40023547; 
+6.9.2008 15:23:46: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6046, 597, 0) in Trammel: "FurBoots"
+6.9.2008 15:23:46: 89.102.165.125: Serials: 0x40023562; 
+6.9.2008 15:24:04: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6052, 604, 0) in Trammel: "LeprechaunBoots"
+6.9.2008 15:24:04: 89.102.165.125: Serials: 0x40023563; 
+6.9.2008 15:24:05: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6046, 598, 0) in Trammel: "LeprechaunBoots"
+6.9.2008 15:24:05: 89.102.165.125: Serials: 0x40023564; 
+6.9.2008 15:24:15: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:24:16: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40023563 (LeprechaunBoots)
+6.9.2008 15:24:17: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40023564 (LeprechaunBoots)
+6.9.2008 15:24:23: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6046, 597, 0) in Trammel: "ThighBoots"
+6.9.2008 15:24:23: 89.102.165.125: Serials: 0x40023566; 
+6.9.2008 15:24:44: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6047, 597, 0) in Trammel: "WaterloggedBoots"
+6.9.2008 15:24:44: 89.102.165.125: Serials: 0x40023567; 
+6.9.2008 15:24:53: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:24:54: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40023567 (WaterloggedBoots)
+6.9.2008 15:24:58: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6048, 597, 0) in Trammel: "ZooMemberThighBoots"
+6.9.2008 15:24:58: 89.102.165.125: Serials: 0x40023569; 
+6.9.2008 15:25:05: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+6.9.2008 15:25:06: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x40023569 (ZooMemberThighBoots)
+6.9.2008 15:25:59: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'go luna'
+9.9.2008 18:57:19: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'c '
+9.9.2008 18:57:42: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'c '
+11.9.2008 17:17:24: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'c '
+11.9.2008 17:19:33: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'go luna'
+11.9.2008 17:20:00: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add unicorn'
+11.9.2008 17:20:02: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6033, 625, 0) in Trammel: "unicorn"
+11.9.2008 17:20:02: 89.102.165.125: Serials: 0x8E5B; 
+11.9.2008 17:20:05: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+11.9.2008 17:20:06: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x8E5B "a unicorn" (no account)
+11.9.2008 17:20:14: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add cat'
+11.9.2008 17:20:15: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6033, 627, 0) in Trammel: "cat"
+11.9.2008 17:20:15: 89.102.165.125: Serials: 0x8E64; 
+11.9.2008 17:20:18: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+11.9.2008 17:20:19: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x8E64 "a cat" (no account)
+11.9.2008 17:20:25: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add '
+11.9.2008 17:20:29: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add '
+11.9.2008 17:20:35: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'add female'
+11.9.2008 17:20:46: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6026, 624, 0) in Trammel: "EtherealUnicorn"
+11.9.2008 17:20:46: 89.102.165.125: Serials: 0x4002DB69; 
+11.9.2008 17:20:51: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+11.9.2008 17:20:52: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002DB69 (EtherealUnicorn)
+11.9.2008 17:20:55: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') building at (6027, 625, 0) in Trammel: "UnicornRibs"
+11.9.2008 17:20:55: 89.102.165.125: Serials: 0x4002DB6A; 
+11.9.2008 17:20:58: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'm remove'
+11.9.2008 17:20:58: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002C0A5 (RemoveStone)
+11.9.2008 17:20:59: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') deleting 0x4002DB6A (UnicornRibs)
+11.9.2008 17:21:20: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'go luna'
+11.9.2008 17:21:32: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'bank '
+11.9.2008 17:21:41: 89.102.165.125: Seer 0x63BE "Povry" ('Povryna') used command 'bank '
+27.9.2008 19:48:19: 89.103.53.143: Seer 0x63BE "Povry" ('Povryna') used command 'c '

@@ -1,0 +1,79 @@
+##############################
+Log started on 13.1.2009 14:31:03
+
+13.1.2009 17:26:30: 89.102.165.93: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+13.1.2009 22:21:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+13.1.2009 22:21:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+13.1.2009 22:21:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3 "Isis" ('dias')
+13.1.2009 22:25:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add unho'
+13.1.2009 22:25:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1196, 1389, 0) in Felucca: "UnholySteed"
+13.1.2009 22:25:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1195, 1387, 0) in Felucca: "UnholySteed"
+13.1.2009 22:25:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1194, 1386, 0) in Felucca: "UnholySteed"
+13.1.2009 22:26:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1195, 1388, 0) in Felucca: "UnholyFamiliar"
+13.1.2009 22:26:02: 85.70.219.31: Serials: 0x786A; 
+13.1.2009 22:26:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1196, 1391, 0) in Felucca: "UnholyFamiliar"
+13.1.2009 22:26:04: 85.70.219.31: Serials: 0x786B; 
+13.1.2009 22:26:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1197, 1385, 0) in Felucca: "UnholyFamiliar"
+13.1.2009 22:26:05: 85.70.219.31: Serials: 0x786C; 
+13.1.2009 22:26:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+13.1.2009 22:26:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x786C "a dark wolf" (no account)
+13.1.2009 22:26:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x786A "a dark wolf" (no account)
+13.1.2009 22:26:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x786B "a dark wolf" (no account)
+13.1.2009 22:26:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add unhol'
+13.1.2009 22:26:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1196, 1388, 0) in Felucca: "UnholyBone"
+13.1.2009 22:26:15: 85.70.219.31: Serials: 0x40032865; 
+13.1.2009 22:26:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1193, 1387, 0) in Felucca: "UnholySteed"
+13.1.2009 22:26:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1194, 1386, 0) in Felucca: "UnholySteed"
+13.1.2009 22:26:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1197, 1386, 0) in Felucca: "UnholySteed"
+13.1.2009 22:26:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+13.1.2009 22:26:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x7871 "a skeletal knight" (no account)
+13.1.2009 22:26:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1196, 1390, 0) in Felucca: "UnholyBone"
+13.1.2009 22:26:28: 85.70.219.31: Serials: 0x4003289E; 
+13.1.2009 22:26:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1194, 1390, 0) in Felucca: "UnholyBone"
+13.1.2009 22:26:30: 85.70.219.31: Serials: 0x4003289F; 
+13.1.2009 22:26:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+13.1.2009 22:26:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x787E "a lich lord" (no account)
+13.1.2009 22:26:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x7874 "a bogle" (no account)
+13.1.2009 22:26:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add holy'
+13.1.2009 22:26:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1196, 1391, 0) in Felucca: "HolyMage"
+13.1.2009 22:26:52: 85.70.219.31: Serials: 0x7881; 
+13.1.2009 22:26:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1198, 1388, 0) in Felucca: "HolySword"
+13.1.2009 22:26:55: 85.70.219.31: Serials: 0x40032B86; 
+13.1.2009 22:26:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+13.1.2009 22:26:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x7881 "Platon" (no account)
+13.1.2009 22:27:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40032B86 (HolySword)
+13.1.2009 22:30:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+13.1.2009 22:31:35: 78.102.40.147: Player 0x3 "Isis" ('dias') used command 'f '
+13.1.2009 22:32:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add vipta'
+13.1.2009 22:32:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1386, 1750, 0) in Felucca: "ViPTalisman"
+13.1.2009 22:32:25: 85.70.219.31: Serials: 0x40033346; 
+13.1.2009 22:32:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+13.1.2009 22:32:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+13.1.2009 22:32:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+13.1.2009 22:33:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Kills' of 0x1 "Elamor" ('Elamor') to '5'
+13.1.2009 22:33:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Kills' of 0x1 "Elamor" ('Elamor') to '10'
+13.1.2009 22:34:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+13.1.2009 22:34:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x9BB2 "debeel" (no account)
+13.1.2009 22:35:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+13.1.2009 22:36:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Kills' of 0x3 "Isis" ('dias') to '10'
+13.1.2009 22:36:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Kills' of 0x3 "Isis" ('dias') to '5'
+13.1.2009 22:37:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'help '
+13.1.2009 22:38:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'factionreset '
+13.1.2009 22:38:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'factioncommander '
+13.1.2009 22:39:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+13.1.2009 22:39:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3 "Isis" ('dias')
+13.1.2009 22:39:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+13.1.2009 22:39:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3 "Isis" ('dias')
+13.1.2009 22:39:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c ale cim to?'
+13.1.2009 22:39:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+13.1.2009 22:39:55: 78.102.40.147: Player 0x3 "Isis" ('dias') used command 'c asi to nebylo aktivovany :)'
+13.1.2009 22:40:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3 "Isis" ('dias')
+13.1.2009 22:40:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+13.1.2009 22:40:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x3 "Isis" ('dias')
+13.1.2009 22:40:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+13.1.2009 22:40:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x3 "Isis" ('dias')
+13.1.2009 22:40:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+13.1.2009 22:40:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x3 "Isis" ('dias')
+13.1.2009 22:42:49: 78.102.40.147: Player 0x3 "Isis" ('dias') used command 'c musim je vyprudit, no :)'
+13.1.2009 23:38:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+13.1.2009 23:39:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'

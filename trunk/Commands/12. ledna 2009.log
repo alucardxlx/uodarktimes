@@ -1,0 +1,199 @@
+##############################
+Log started on 12.1.2009 6:00:24
+
+##############################
+Log started on 12.1.2009 15:32:30
+
+12.1.2009 16:07:09: 78.102.40.147: Player 0x6B7B "Dias" ('dias') used command 'help '
+12.1.2009 16:08:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 16:23:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add berser'
+12.1.2009 16:23:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3488, 2573, 21) in Trammel: "TheBeserkersMaul"
+12.1.2009 16:23:51: 85.70.219.31: Serials: 0x40015A3F; 
+12.1.2009 16:24:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:24:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015A3F (TheBeserkersMaul)
+12.1.2009 16:24:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add cev'
+12.1.2009 16:25:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3488, 2574, 21) in Trammel: "CavortingClub"
+12.1.2009 16:25:04: 85.70.219.31: Serials: 0x40015ABC; 
+12.1.2009 16:26:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add bagof'
+12.1.2009 16:26:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add mau'
+12.1.2009 16:26:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3483, 2582, 13) in Trammel: "MaulBear"
+12.1.2009 16:26:34: 85.70.219.31: Serials: 0x5D5; 
+12.1.2009 16:26:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:26:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x5D5 "Maul" (no account)
+12.1.2009 16:29:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add dais'
+12.1.2009 16:29:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3487, 2576, 20) in Trammel: "Daisho"
+12.1.2009 16:29:05: 85.70.219.31: Serials: 0x40015B47; 
+12.1.2009 16:29:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:29:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015B47 (Daisho)
+12.1.2009 16:30:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:30:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015ABC (CavortingClub)
+12.1.2009 16:30:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add fier'
+12.1.2009 16:30:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3488, 2577, 20) in Trammel: "FierceDragon"
+12.1.2009 16:30:55: 85.70.219.31: Serials: 0x5E3; 
+12.1.2009 16:31:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 5'
+12.1.2009 16:31:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x5E3 "a fierce dragon" (no account) to '5'
+12.1.2009 16:31:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:31:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40015BF8 (Corpse)
+12.1.2009 16:31:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 16:31:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+12.1.2009 16:37:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add smith'
+12.1.2009 16:37:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3468, 2543, 33) in Trammel: "SmithHammer"
+12.1.2009 16:37:42: 85.70.219.31: Serials: 0x40016208; 
+12.1.2009 16:37:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add waraxe'
+12.1.2009 16:37:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (3468, 2543, 33) in Trammel: "waraxe"
+12.1.2009 16:37:58: 85.70.219.31: Serials: 0x4001620E; 
+12.1.2009 16:38:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:38:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001620E (WarAxe)
+12.1.2009 16:41:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set amount 8000'
+12.1.2009 16:41:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'amount' of 0x40034148 (ValoriteIngot) to '8000'
+12.1.2009 16:42:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 16:42:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'WeaponDamage' of ... to '30'
+12.1.2009 16:42:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'WeaponSpeed' of ... to '25'
+12.1.2009 16:42:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HitLowerAttack' of ... to '50'
+12.1.2009 16:42:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HitLightning' of ... to '50'
+12.1.2009 16:43:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HitLeechStam' of ... to '100'
+12.1.2009 16:43:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HitLeechMana' of ... to '100'
+12.1.2009 16:43:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HitLeechHits' of ... to '100'
+12.1.2009 16:43:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HitLowerDefend' of ... to '50'
+12.1.2009 16:43:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SelfRepair' of ... to '10'
+12.1.2009 16:43:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MageWeapon' of ... to '1'
+12.1.2009 16:44:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 16:44:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MageWeapon' of ... to '-29'
+12.1.2009 16:44:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MageWeapon' of ... to '29'
+12.1.2009 16:44:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MageWeapon' of ... to '30'
+12.1.2009 16:44:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'LowerStatReq' of ... to '0'
+12.1.2009 16:45:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Cold' of ... to '0'
+12.1.2009 16:45:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direct' of ... to '100'
+12.1.2009 16:45:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 16:45:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Consecrated' of 0x400162BE (WarAxe) to 'True'
+12.1.2009 16:46:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'CastSpeed' of ... to '4'
+12.1.2009 16:46:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'CastRecovery' of ... to '6'
+12.1.2009 16:46:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AttackChance' of ... to '30'
+12.1.2009 16:46:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpellChanneling' of ... to '1'
+12.1.2009 16:46:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'RegenMana' of ... to '10'
+12.1.2009 16:46:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'RegenHits' of ... to '50'
+12.1.2009 16:46:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'ReflectPhysical' of ... to '75'
+12.1.2009 16:46:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'NightSight' of ... to '1'
+12.1.2009 16:47:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 16:48:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'UseBestSkill' of ... to '1'
+12.1.2009 16:49:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go doom'
+12.1.2009 16:49:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+12.1.2009 16:50:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 16:50:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+12.1.2009 16:51:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 16:51:06: 78.102.40.147: Player 0x6B7B "Dias" ('dias') used command 'c jak se to zapina? :D'
+12.1.2009 16:51:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'res '
+12.1.2009 16:52:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') resurrecting 0x6B7B "Dias" ('dias')
+12.1.2009 16:52:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+12.1.2009 16:52:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add banker'
+12.1.2009 16:52:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (483, 444, -1) in Malas: "banker"
+12.1.2009 16:52:11: 85.70.219.31: Serials: 0x706; 
+12.1.2009 16:52:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'hide '
+12.1.2009 16:52:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') hiding 0x6B7B "Dias" ('dias')
+12.1.2009 16:52:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+12.1.2009 16:52:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x2 "Vendodroth" (no account) to (475, 447, -1)
+12.1.2009 16:53:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add stormg'
+12.1.2009 16:54:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (484, 445, -1) in Malas: "Stormgrip"
+12.1.2009 16:54:00: 85.70.219.31: Serials: 0x400169D8; 
+12.1.2009 16:54:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add quiver'
+12.1.2009 16:54:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (484, 444, -1) in Malas: "QuiverOfInfinity"
+12.1.2009 16:54:11: 85.70.219.31: Serials: 0x400169D9; 
+12.1.2009 16:54:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add crimson'
+12.1.2009 16:54:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (484, 446, -1) in Malas: "CrimsonCincture"
+12.1.2009 16:54:19: 85.70.219.31: Serials: 0x400169DB; 
+12.1.2009 16:54:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add aosro'
+12.1.2009 16:54:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (484, 444, -1) in Malas: "ArcheryPvPRobe"
+12.1.2009 16:54:36: 85.70.219.31: Serials: 0x40016AA6; 
+12.1.2009 16:54:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (485, 447, -1) in Malas: "OdricsRobe"
+12.1.2009 16:54:51: 85.70.219.31: Serials: 0x40016AAB; 
+12.1.2009 16:54:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:54:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40016AAB (OdricsRobe)
+12.1.2009 16:55:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 16:55:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:55:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 16:55:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:56:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40016AA6 (ArcheryPvPRobe)
+12.1.2009 16:56:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+12.1.2009 16:56:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x2 "Vendodroth" (no account) to (484, 451, -1)
+12.1.2009 16:56:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 9'
+12.1.2009 16:56:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x2 "Vendodroth" (no account) to '9'
+12.1.2009 16:58:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 16:58:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x706 "Madelon" (no account)
+12.1.2009 16:58:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c delete bankera :D'
+12.1.2009 16:59:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 17:03:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 17:03:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 17:03:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Energy' of ... to '0'
+12.1.2009 17:03:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direct' of ... to '100'
+12.1.2009 17:05:15: 85.70.219.31: Player 0x39F "Elraldo" ('Anthrax') used command 'c tohle nemam rad :D'
+12.1.2009 17:05:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 17:06:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'unhide '
+12.1.2009 17:06:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') unhiding 0x760 "Uhn" (no account)
+12.1.2009 17:13:16: 85.70.219.31: Player 0x39F "Elraldo" ('Anthrax') used command 'c vedu ho na molo aby summonoval do vody'
+12.1.2009 17:15:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 17:15:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 1'
+12.1.2009 17:15:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x7C2 "Keelus" (no account) to '1'
+12.1.2009 17:15:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set karma 20000'
+12.1.2009 17:15:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'karma' of 0x39F "Elraldo" ('Anthrax') to '20000'
+12.1.2009 17:15:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set fame 20000'
+12.1.2009 17:15:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'fame' of 0x39F "Elraldo" ('Anthrax') to '20000'
+12.1.2009 19:55:09: 85.70.63.55: Player 0x9C92 "Jsem chuda" ('Kardis') used command 'c '
+12.1.2009 19:55:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+12.1.2009 19:55:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+12.1.2009 19:55:17: 85.70.63.55: Player 0x9C92 "Jsem chuda" ('Kardis') used command 'c jsem tady'
+12.1.2009 19:55:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 19:57:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add gold 2000'
+12.1.2009 19:57:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (960, 595, -90) in Malas: "gold" "2000"
+12.1.2009 19:57:03: 85.70.219.31: Serials: 0x4002C1DD; 
+12.1.2009 19:57:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set amount 5000'
+12.1.2009 19:57:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'amount' of 0x4002C1DD (Gold) to '5000'
+12.1.2009 20:00:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'openbrowser http://www.darktimes.kx.cz/forum/viewtopic.php?f=14&t=30&start=0'
+12.1.2009 20:00:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') requesting to open web browser of 0x9C92 "Jsem chuda" ('Kardis') to http://www.darktimes.kx.cz/forum/viewtopic.php?f=14&t=30&start=0
+12.1.2009 20:00:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go britain'
+12.1.2009 20:01:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+12.1.2009 20:01:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+12.1.2009 20:01:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add xmlspawner'
+12.1.2009 20:02:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1306, 1814, 0) in Felucca: "xmlspawner"
+12.1.2009 20:02:20: 85.70.219.31: Serials: 0x4002C6AE; 
+12.1.2009 20:03:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x4002C6AE 'Spawner' [1306, 1814] (Felucca) : sheep
+12.1.2009 20:03:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x4002C6AE 'Spawner' [1306, 1814] (Felucca) : goat
+12.1.2009 20:05:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add milk'
+12.1.2009 20:05:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1320, 1804, 0) in Felucca: "MilkBucket"
+12.1.2009 20:05:32: 85.70.219.31: Serials: 0x4002C8FA; 
+12.1.2009 20:05:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+12.1.2009 20:05:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002C8FA (MilkBucket)
+12.1.2009 20:05:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add cheese'
+12.1.2009 20:05:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1319, 1805, 0) in Felucca: "CheeseForm"
+12.1.2009 20:05:41: 85.70.219.31: Serials: 0x4002C8FB; 
+12.1.2009 20:05:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 20:06:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 20:08:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add cheeseform'
+12.1.2009 20:08:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1305, 1818, 0) in Felucca: "cheeseform"
+12.1.2009 20:08:27: 85.70.219.31: Serials: 0x4002CA32; 
+12.1.2009 20:08:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add cheeseform'
+12.1.2009 20:08:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1306, 1818, 0) in Felucca: "cheeseform"
+12.1.2009 20:08:29: 85.70.219.31: Serials: 0x4002CA39; 
+12.1.2009 20:10:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 20:12:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 20:12:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'm_StadeFermentation' of 0x4002C2FD (CheeseForm) to '99'
+12.1.2009 20:12:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 20:12:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'm_StadeFermentation' of 0x4002C2F5 (CheeseForm) to '99'
+12.1.2009 20:12:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 20:12:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 20:12:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'm_StadeFermentation' of 0x4002C8FB (CheeseForm) to '99'
+12.1.2009 20:12:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 20:12:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'm_StadeFermentation' of 0x4002CA32 (CheeseForm) to '99'
+12.1.2009 20:12:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+12.1.2009 20:12:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'm_StadeFermentation' of 0x4002CA39 (CheeseForm) to '99'
+12.1.2009 20:16:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add bagofal'
+12.1.2009 20:16:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1304, 1819, 0) in Felucca: "BagOfAllReagents"
+12.1.2009 20:16:56: 85.70.219.31: Serials: 0x4002CDD2; 
+12.1.2009 20:17:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c jj'
+12.1.2009 20:17:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+12.1.2009 20:19:06: 85.70.63.55: Player 0x9C92 "Jsem chuda" ('Kardis') used command 'c uz padlo dexterity'
+12.1.2009 21:05:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go doom'
+12.1.2009 21:05:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+12.1.2009 21:12:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') changed XmlSpawner 0x4001DC4E 'Doom#18' [395, 33] (Malas) : vampirebat to Restless
+12.1.2009 21:12:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') changed XmlSpawner 0x4001DC4E 'Doom#18' [395, 33] (Malas) : Restless to RestlessSoul
+12.1.2009 21:13:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+12.1.2009 21:14:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'

@@ -1,0 +1,219 @@
+##############################
+Log started on 9.8.2008 7:22:50
+
+9.8.2008 11:28:58: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'pm ela'
+9.8.2008 13:26:55: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c Ulrik zdravi shard :)'
+9.8.2008 13:26:57: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+9.8.2008 14:16:10: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+9.8.2008 14:23:19: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+9.8.2008 14:32:02: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+9.8.2008 16:03:15: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+9.8.2008 18:04:20: 82.117.137.133: Player 0x4F31 "Lerif" ('lerif') used command 'c '
+9.8.2008 18:05:10: 82.117.137.133: Player 0x4F31 "Lerif" ('lerif') used command 'c zdravim'
+9.8.2008 18:10:09: 85.160.93.203: Player 0x95C7 "Li" ('Equites') used command 'g je tu nekdo?'
+9.8.2008 18:10:57: 85.160.93.203: Player 0x95C7 "Li" ('Equites') used command 'pm elamorius'
+9.8.2008 18:11:39: 85.160.93.203: Player 0x95C7 "Li" ('Equites') used command 'pm svatousek'
+9.8.2008 18:15:34: 85.160.93.203: Player 0x95C7 "Li" ('Equites') used command 'g kde ma'
+9.8.2008 18:15:44: 85.160.93.203: Player 0x95C7 "Li" ('Equites') used command 'c kde mam boomstick?'
+9.8.2008 18:25:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add boomstick'
+9.8.2008 18:25:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (987, 522, -50) in Malas: "boomstick"
+9.8.2008 18:25:31: 85.70.219.31: Serials: 0x400353E0; 
+9.8.2008 18:25:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 18:26:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+9.8.2008 18:26:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 18:27:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 18:28:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999'
+9.8.2008 18:28:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '99999999'
+9.8.2008 18:33:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add firecolumn'
+9.8.2008 18:33:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (987, 520, -50) in Malas: "FireColumnAddon"
+9.8.2008 18:33:45: 85.70.219.31: Serials: 0x40035607; 
+9.8.2008 18:33:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.8.2008 18:33:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40035608 (AddonComponent)
+9.8.2008 18:53:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 18:53:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+9.8.2008 20:04:34: 217.117.223.39: Player 0x3590 "Alfray" ('Ulrik') used command 'chat '
+9.8.2008 21:34:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 21:47:02: 85.160.93.203: Player 0x95C7 "Li" ('Equites') used command 'g je tu nekdoo?'
+9.8.2008 21:47:11: 85.160.93.203: Player 0x95C7 "Li" ('Equites') used command 'c je tu nekdo?'
+9.8.2008 22:33:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 23:08:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 23:09:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+9.8.2008 23:12:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 9.8.2008 23:15:00
+
+9.8.2008 23:23:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 9.8.2008 23:25:45
+
+9.8.2008 23:30:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c Tak co je to tady?'
+9.8.2008 23:30:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 23:30:17: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c coco co kde jak?:)'
+9.8.2008 23:30:36: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c chaaaaaaa mam 1skill detecthidden'
+9.8.2008 23:30:43: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c :D hele ela chudak pes:D'
+9.8.2008 23:30:45: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c a kocka_D'
+9.8.2008 23:31:04: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c na me to nesvedes ja se dneska koupal:)'
+9.8.2008 23:31:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add fis'
+9.8.2008 23:31:22: 85.160.93.203: Player 0xC46 "Ki" ('Equites') used command 'g uz asi du'
+9.8.2008 23:31:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3692, 2675, 14) in Trammel: "Fish"
+9.8.2008 23:31:25: 85.70.219.31: Serials: 0x4001661F; 
+9.8.2008 23:31:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3693, 2669, 15) in Trammel: "Fish"
+9.8.2008 23:31:25: 85.70.219.31: Serials: 0x40016630; 
+9.8.2008 23:31:26: 85.160.93.203: Player 0xC46 "Ki" ('Equites') used command 'c uz asi du'
+9.8.2008 23:31:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3692, 2671, 14) in Trammel: "Fish"
+9.8.2008 23:31:26: 85.70.219.31: Serials: 0x40016631; 
+9.8.2008 23:31:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3697, 2670, 20) in Trammel: "Fish"
+9.8.2008 23:31:27: 85.70.219.31: Serials: 0x40016640; 
+9.8.2008 23:31:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3698, 2675, 20) in Trammel: "Fish"
+9.8.2008 23:31:27: 85.70.219.31: Serials: 0x40016641; 
+9.8.2008 23:31:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3696, 2672, 17) in Trammel: "Fish"
+9.8.2008 23:31:28: 85.70.219.31: Serials: 0x40016644; 
+9.8.2008 23:31:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3691, 2667, 10) in Trammel: "Fish"
+9.8.2008 23:31:29: 85.70.219.31: Serials: 0x40016645; 
+9.8.2008 23:31:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3691, 2665, 10) in Trammel: "Fish"
+9.8.2008 23:31:30: 85.70.219.31: Serials: 0x40016646; 
+9.8.2008 23:31:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3690, 2662, 8) in Trammel: "Fish"
+9.8.2008 23:31:30: 85.70.219.31: Serials: 0x40016648; 
+9.8.2008 23:31:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3687, 2661, 4) in Trammel: "Fish"
+9.8.2008 23:31:31: 85.70.219.31: Serials: 0x40016650; 
+9.8.2008 23:31:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3685, 2657, 0) in Trammel: "Fish"
+9.8.2008 23:31:31: 85.70.219.31: Serials: 0x40016653; 
+9.8.2008 23:31:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3683, 2655, 0) in Trammel: "Fish"
+9.8.2008 23:31:32: 85.70.219.31: Serials: 0x40016658; 
+9.8.2008 23:31:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3683, 2652, 0) in Trammel: "Fish"
+9.8.2008 23:31:32: 85.70.219.31: Serials: 0x4001665E; 
+9.8.2008 23:31:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3683, 2650, 0) in Trammel: "Fish"
+9.8.2008 23:31:33: 85.70.219.31: Serials: 0x4001666C; 
+9.8.2008 23:31:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3683, 2648, 0) in Trammel: "Fish"
+9.8.2008 23:31:33: 85.70.219.31: Serials: 0x4001667C; 
+9.8.2008 23:31:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3683, 2646, 0) in Trammel: "Fish"
+9.8.2008 23:31:34: 85.70.219.31: Serials: 0x400166F5; 
+9.8.2008 23:31:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3685, 2645, 1) in Trammel: "Fish"
+9.8.2008 23:31:34: 85.70.219.31: Serials: 0x400166F6; 
+9.8.2008 23:31:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3690, 2644, 5) in Trammel: "Fish"
+9.8.2008 23:31:35: 85.70.219.31: Serials: 0x400166F7; 
+9.8.2008 23:31:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3694, 2647, 15) in Trammel: "Fish"
+9.8.2008 23:31:36: 85.70.219.31: Serials: 0x400166F8; 
+9.8.2008 23:31:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3695, 2652, 16) in Trammel: "Fish"
+9.8.2008 23:31:41: 85.70.219.31: Serials: 0x4001674D; 
+9.8.2008 23:31:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3692, 2649, 9) in Trammel: "Fish"
+9.8.2008 23:31:41: 85.70.219.31: Serials: 0x4001674E; 
+9.8.2008 23:31:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3689, 2646, 3) in Trammel: "Fish"
+9.8.2008 23:31:42: 85.70.219.31: Serials: 0x4001675D; 
+9.8.2008 23:31:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3687, 2648, 1) in Trammel: "Fish"
+9.8.2008 23:31:42: 85.70.219.31: Serials: 0x4001680A; 
+9.8.2008 23:31:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3684, 2654, 0) in Trammel: "Fish"
+9.8.2008 23:31:44: 85.70.219.31: Serials: 0x4001680C; 
+9.8.2008 23:31:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3685, 2656, 0) in Trammel: "Fish"
+9.8.2008 23:31:44: 85.70.219.31: Serials: 0x4001680D; 
+9.8.2008 23:31:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3687, 2659, 2) in Trammel: "Fish"
+9.8.2008 23:31:45: 85.70.219.31: Serials: 0x4001680F; 
+9.8.2008 23:31:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3691, 2662, 9) in Trammel: "Fish"
+9.8.2008 23:31:45: 85.70.219.31: Serials: 0x40016810; 
+9.8.2008 23:31:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3691, 2665, 10) in Trammel: "Fish"
+9.8.2008 23:31:46: 85.70.219.31: Serials: 0x40016811; 
+9.8.2008 23:31:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3692, 2669, 13) in Trammel: "Fish"
+9.8.2008 23:31:46: 85.70.219.31: Serials: 0x40016812; 
+9.8.2008 23:31:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3696, 2676, 15) in Trammel: "Fish"
+9.8.2008 23:31:48: 85.70.219.31: Serials: 0x40016814; 
+9.8.2008 23:31:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3695, 2678, 17) in Trammel: "Fish"
+9.8.2008 23:31:48: 85.70.219.31: Serials: 0x40016815; 
+9.8.2008 23:32:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlsp'
+9.8.2008 23:32:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3685, 2647, 1) in Trammel: "XmlSpawner"
+9.8.2008 23:32:05: 85.70.219.31: Serials: 0x400169B9; 
+9.8.2008 23:32:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : fish
+9.8.2008 23:32:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x400169B9 (XmlSpawner) to '15'
+9.8.2008 23:32:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : fish to peach
+9.8.2008 23:33:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : peach to carrot
+9.8.2008 23:33:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : carrot to carbage
+9.8.2008 23:33:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : carbage to Carrot
+9.8.2008 23:33:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Carrot to Crossbow
+9.8.2008 23:34:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Crossbow to MeatPie
+9.8.2008 23:34:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : MeatPie to Cheesepizza
+9.8.2008 23:34:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Cheesepizza to LambLeg
+9.8.2008 23:35:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : LambLeg to demon
+9.8.2008 23:35:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : demon to daemon
+9.8.2008 23:36:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : daemon to Holy
+9.8.2008 23:36:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Holy to HolyFamiliar
+9.8.2008 23:36:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : HolyFamiliar to HolyKnightsBreastplate
+9.8.2008 23:37:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : HolyKnightsBreastplate to NystulsWizardsHat
+9.8.2008 23:38:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : NystulsWizardsHat to RandomTalisman
+9.8.2008 23:38:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : RandomTalisman to RandomArtifactDeed
+9.8.2008 23:39:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : RandomArtifactDeed to Harrower
+9.8.2008 23:39:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Harrower to Trueh
+9.8.2008 23:39:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Trueh to OrnateCrownOfTheHarrower
+9.8.2008 23:40:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : OrnateCrownOfTheHarrower to Boomstick
+9.8.2008 23:40:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Boomstick to CrimsonCincture
+9.8.2008 23:41:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : CrimsonCincture to SilverSteed
+9.8.2008 23:41:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : SilverSteed to Chicken
+9.8.2008 23:42:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:42:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'AI' of 0x9C91 "a chicken" (no account) to 'AI_Melee'
+9.8.2008 23:42:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add chicken'
+9.8.2008 23:42:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3684, 2642, 1) in Trammel: "chicken"
+9.8.2008 23:42:46: 85.70.219.31: Serials: 0x9F95; 
+9.8.2008 23:42:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:43:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'FightMode' of 0x9F95 "a chicken" (no account) to 'Evil'
+9.8.2008 23:43:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Chicken to Chicken/fightmode/Evil
+9.8.2008 23:44:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x400169B9 (XmlSpawner) to '6'
+9.8.2008 23:45:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Chicken/fightmode/Evil to Chicken/fightmode/Evil/bodyvalue/152
+9.8.2008 23:45:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Chicken/fightmode/Evil/bodyvalue/152 to Chicken/fightmode/Evil/bodyvalue/1520
+9.8.2008 23:45:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Chicken/fightmode/Evil/bodyvalue/1520 to Chicken/fightmode/Evil/bodyvalue/852
+9.8.2008 23:45:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Chicken/fightmode/Evil/bodyvalue/852 to Chicken/fightmode/Evil/bodyvalue/85
+9.8.2008 23:46:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Chicken/fightmode/Evil/bodyvalue/85 to Chicken/fightmode/Evil/bodyvalue/85/name/Zabijak
+9.8.2008 23:47:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Chicken/fightmode/Evil/bodyvalue/85/name/Zabijak to swoop/fightmode/Evil/bodyvalue/200/name/a Chicken
+9.8.2008 23:48:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : swoop/fightmode/Evil/bodyvalue/200/name/a Chicken to Direwolf/fightmode/Evil/bodyvalue/250/name/a Chicken
+9.8.2008 23:48:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 999999999'
+9.8.2008 23:48:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '999999999'
+9.8.2008 23:49:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Direwolf/fightmode/Evil/bodyvalue/250/name/a Chicken to Cat/fightmode/Evil/bodyvalue/600/name/a Chicken
+9.8.2008 23:49:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawner' [3685, 2647] (Trammel) : Cat/fightmode/Evil/bodyvalue/600/name/a Chicken to Cat/fightmode/Evil/bodyvalue/400/name/a Chicken
+9.8.2008 23:50:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x400169B9 'Spawnerposlouchej ty zvuky :D' [3685, 2647] (Trammel) : Cat/fightmode/Evil/bodyvalue/400/name/a Chicken to Cat/fightmode/Evil/name/a Chicken
+9.8.2008 23:52:48: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c grr au'
+9.8.2008 23:52:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 23:53:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') resurrecting 0xCE "jimmy dragon X" ('darius03')
+9.8.2008 23:53:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.8.2008 23:53:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400169B9 (XmlSpawner)
+9.8.2008 23:53:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.8.2008 23:53:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4003133B (Corpse)
+9.8.2008 23:53:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'wipe '
+9.8.2008 23:53:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') wiping from (3684, 2634, 0) to (3697, 2647, 20) in Trammel (Items, Mobiles)
+9.8.2008 23:53:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add goldring'
+9.8.2008 23:53:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3694, 2640, 17) in Trammel: "goldring"
+9.8.2008 23:53:35: 85.70.219.31: Serials: 0x40031366; 
+9.8.2008 23:53:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:53:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_1_Name' of ... to 'Necromancy'
+9.8.2008 23:54:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_1_Value' of ... to '-50'
+9.8.2008 23:54:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:54:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:54:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_1_Value' of ... to '0,1'
+9.8.2008 23:55:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:55:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_1_Value' of ... to '0,0001'
+9.8.2008 23:55:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_1_Value' of ... to '0,1'
+9.8.2008 23:55:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:55:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Skill_1_Value' of ... to '-1'
+9.8.2008 23:55:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.8.2008 23:55:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40031366 (GoldRing)
+9.8.2008 23:56:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+9.8.2008 23:56:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001667C (Fish)
+9.8.2008 23:56:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400166F5 (Fish)
+9.8.2008 23:56:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001665E (Fish)
+9.8.2008 23:56:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001680A (Fish)
+9.8.2008 23:56:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001674E (Fish)
+9.8.2008 23:56:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add largetre'
+9.8.2008 23:56:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3694, 2645, 16) in Trammel: "LargeTreasureBag"
+9.8.2008 23:56:59: 85.70.219.31: Serials: 0x400313E7; 
+9.8.2008 23:56:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3696, 2645, 20) in Trammel: "LargeTreasureBag"
+9.8.2008 23:56:59: 85.70.219.31: Serials: 0x400313EC; 
+9.8.2008 23:57:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3698, 2646, 20) in Trammel: "LargeTreasureBag"
+9.8.2008 23:57:00: 85.70.219.31: Serials: 0x400313F1; 
+9.8.2008 23:57:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3699, 2645, 20) in Trammel: "LargeTreasureBag"
+9.8.2008 23:57:01: 85.70.219.31: Serials: 0x400313F7; 
+9.8.2008 23:58:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:58:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'PlayerName' of 0x400245D9 (Head) to 'Li'
+9.8.2008 23:58:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:58:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+9.8.2008 23:58:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+9.8.2008 23:59:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Name' of 0x400245D9 (Head) to 'the head of Li'
+9.8.2008 23:59:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+10.8.2008 1:25:08: 89.103.54.169: Player 0xA6DA "Yuki" ('Yukio') used command 'c '
+10.8.2008 1:31:19: 89.103.54.169: Player 0xA6DA "Yuki" ('Yukio') used command 'e '
+10.8.2008 1:45:42: 89.103.54.169: Player 0xA6DA "Yuki" ('Yukio') used command 'c '

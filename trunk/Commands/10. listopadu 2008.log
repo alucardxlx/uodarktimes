@@ -1,0 +1,270 @@
+##############################
+Log started on 10.11.2008 14:09:45
+
+10.11.2008 17:35:07: 82.117.137.133: Player 0x745 "Lerif" ('lerif') used command 'c '
+10.11.2008 18:50:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+10.11.2008 18:51:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'unhide '
+10.11.2008 18:51:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') unhiding 0x8D "Kentar" ('osiriscz')
+10.11.2008 18:51:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add canno'
+10.11.2008 18:51:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (958, 439, -90) in Malas: "SiegeCannon"
+10.11.2008 18:51:38: 89.111.89.28: Serials: 0x400295E7; 
+10.11.2008 18:51:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (955, 438, -90) in Malas: "SiegeCannon"
+10.11.2008 18:51:41: 89.111.89.28: Serials: 0x400295EF; 
+10.11.2008 18:51:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 18:51:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400295E9 (SiegeComponent)
+10.11.2008 18:51:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add canno'
+10.11.2008 18:51:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (959, 438, -90) in Malas: "SiegeCannon"
+10.11.2008 18:51:49: 89.111.89.28: Serials: 0x400295F6; 
+10.11.2008 18:54:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 18:54:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400295FC (SiegeComponent)
+10.11.2008 18:54:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 18:54:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x400295F0 (SiegeComponent)
+10.11.2008 20:07:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+10.11.2008 20:08:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set amount 48346'
+10.11.2008 20:08:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'amount' of 0x40032F75 (Gold) to '48346'
+10.11.2008 20:09:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 20:10:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Skill_2_Value' of ... to '18'
+10.11.2008 20:12:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'c kuaa jetu nekdo'
+10.11.2008 20:12:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'unhide '
+10.11.2008 20:12:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') unhiding 0x8D "Kentar" ('osiriscz')
+10.11.2008 20:12:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') playing sound 499 (toAll=True)
+10.11.2008 20:12:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'sound 499'
+10.11.2008 20:43:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+10.11.2008 20:43:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'm tele'
+10.11.2008 20:43:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add demo'
+10.11.2008 20:43:51: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1068, 498, -90) in Malas: "DemonTriumvirate"
+10.11.2008 20:43:51: 89.111.89.28: Serials: 0x941C; 
+10.11.2008 20:44:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:44:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x941C "Demon Triumvirate" (no account)
+10.11.2008 20:44:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add demo'
+10.11.2008 20:44:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1064, 499, -90) in Malas: "DemonKnight"
+10.11.2008 20:44:12: 89.111.89.28: Serials: 0x9441; 
+10.11.2008 20:44:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1066, 493, -90) in Malas: "DemonForks"
+10.11.2008 20:44:16: 89.111.89.28: Serials: 0x4002E51E; 
+10.11.2008 20:44:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set speed 50000'
+10.11.2008 20:44:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'speed' of 0x4002E51E (DemonForks) to '50000'
+10.11.2008 20:45:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:45:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FBCC (Corpse)
+10.11.2008 20:45:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add bone'
+10.11.2008 20:45:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add bon'
+10.11.2008 20:45:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1063, 486, -90) in Malas: "BoneMachete"
+10.11.2008 20:45:46: 89.111.89.28: Serials: 0x4002FBF7; 
+10.11.2008 20:45:51: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1065, 485, -90) in Malas: "GrizzledBones"
+10.11.2008 20:45:51: 89.111.89.28: Serials: 0x4002FBF9; 
+10.11.2008 20:45:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1064, 484, -90) in Malas: "BonePile"
+10.11.2008 20:45:57: 89.111.89.28: Serials: 0x4002FBFA; 
+10.11.2008 20:46:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1061, 485, -90) in Malas: "Bonesmasher"
+10.11.2008 20:46:01: 89.111.89.28: Serials: 0x4002FBFC; 
+10.11.2008 20:46:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1066, 485, -90) in Malas: "QuestDaemonBone"
+10.11.2008 20:46:13: 89.111.89.28: Serials: 0x4002FBFD; 
+10.11.2008 20:46:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 483, -90) in Malas: "UnholyBone"
+10.11.2008 20:46:16: 89.111.89.28: Serials: 0x4002FBFE; 
+10.11.2008 20:46:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'wipe '
+10.11.2008 20:46:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') wiping from (1061, 483, -90) to (1069, 485, -90) in Malas (Items, Mobiles)
+10.11.2008 20:46:23: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'wipe '
+10.11.2008 20:46:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') wiping from (1062, 485, -90) to (1064, 488, -90) in Malas (Items, Mobiles)
+10.11.2008 20:46:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1066, 483, -90) in Malas: "BowOfTheJukaKing"
+10.11.2008 20:46:36: 89.111.89.28: Serials: 0x4002FBFF; 
+10.11.2008 20:46:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:46:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FBFF (BowOfTheJukaKing)
+10.11.2008 20:47:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1068, 482, -90) in Malas: "ElvenCompositeLongbow"
+10.11.2008 20:47:06: 89.111.89.28: Serials: 0x4002FC3B; 
+10.11.2008 20:47:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:47:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FC3B (ElvenCompositeLongbow)
+10.11.2008 20:47:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 483, -90) in Malas: "FruitBowl"
+10.11.2008 20:47:13: 89.111.89.28: Serials: 0x4002FC3C; 
+10.11.2008 20:47:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1068, 483, -90) in Malas: "FrozenLongbow"
+10.11.2008 20:47:22: 89.111.89.28: Serials: 0x4002FCEF; 
+10.11.2008 20:47:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:47:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FCEF (FrozenLongbow)
+10.11.2008 20:47:41: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1068, 484, -90) in Malas: "HanzosBow"
+10.11.2008 20:47:41: 89.111.89.28: Serials: 0x4002FCF0; 
+10.11.2008 20:47:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:47:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FCF0 (HanzosBow)
+10.11.2008 20:47:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1068, 484, -90) in Malas: "NoxRangersHeavyCrossbow"
+10.11.2008 20:47:48: 89.111.89.28: Serials: 0x4002FCF1; 
+10.11.2008 20:47:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:47:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FCF1 (NoxRangersHeavyCrossbow)
+10.11.2008 20:48:02: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 482, -90) in Malas: "SlayerLongbow"
+10.11.2008 20:48:02: 89.111.89.28: Serials: 0x4002FCF2; 
+10.11.2008 20:48:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:48:05: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FCF2 (SlayerLongbow)
+10.11.2008 20:48:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1071, 485, -90) in Malas: "TheDryadBow"
+10.11.2008 20:48:10: 89.111.89.28: Serials: 0x4002FCF5; 
+10.11.2008 20:48:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1069, 483, -90) in Malas: "WildfireBow"
+10.11.2008 20:48:19: 89.111.89.28: Serials: 0x4002FCF8; 
+10.11.2008 20:49:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1065, 485, -90) in Malas: "ShaminoCrossbow"
+10.11.2008 20:49:15: 89.111.89.28: Serials: 0x4002FE32; 
+10.11.2008 20:49:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1066, 485, -90) in Malas: "RepeatingCrossbow"
+10.11.2008 20:49:17: 89.111.89.28: Serials: 0x4002FE3A; 
+10.11.2008 20:49:26: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:49:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FE32 (ShaminoCrossbow)
+10.11.2008 20:49:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:49:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FE3A (RepeatingCrossbow)
+10.11.2008 20:49:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:49:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4002FCF5 (TheDryadBow)
+10.11.2008 20:49:39: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 20:49:51: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'MaxDamage' of 0x4002FCF8 (WildfireBow) to '27'
+10.11.2008 20:49:59: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'MinDamage' of 0x4002FCF8 (WildfireBow) to '23'
+10.11.2008 20:50:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Slayer2' of 0x4002FCF8 (WildfireBow) to 'Repond'
+10.11.2008 20:50:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Slayer' of 0x4002FCF8 (WildfireBow) to 'Vacuum'
+10.11.2008 20:50:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'HitLightning' of ... to '86'
+10.11.2008 20:50:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'SelfRepair' of ... to '34'
+10.11.2008 20:51:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Speed' of 0x4002FCF8 (WildfireBow) to '86'
+10.11.2008 20:51:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Skill_1_Name' of ... to 'Tactics'
+10.11.2008 20:51:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Skill_2_Name' of ... to 'Archery'
+10.11.2008 20:51:39: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Skill_1_Value' of ... to '100'
+10.11.2008 20:51:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Skill_2_Value' of ... to '100'
+10.11.2008 20:52:04: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Velocity' of 0x4002FCF8 (WildfireBow) to '1500'
+10.11.2008 20:52:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Balanced' of 0x4002FCF8 (WildfireBow) to 'True'
+10.11.2008 20:52:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'MaxRange' of 0x4002FCF8 (WildfireBow) to '24'
+10.11.2008 20:52:51: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Weight' of 0x4002FCF8 (WildfireBow) to '0'
+10.11.2008 20:53:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1153'
+10.11.2008 20:53:02: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4002FCF8 (WildfireBow) to '1153'
+10.11.2008 20:53:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1152'
+10.11.2008 20:53:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4002FCF8 (WildfireBow) to '1152'
+10.11.2008 20:53:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1151'
+10.11.2008 20:53:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4002FCF8 (WildfireBow) to '1151'
+10.11.2008 20:53:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1156'
+10.11.2008 20:53:16: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4002FCF8 (WildfireBow) to '1156'
+10.11.2008 20:53:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 20:53:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusHits' of ... to '836'
+10.11.2008 20:53:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusInt' of ... to '564'
+10.11.2008 20:53:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusMana' of ... to '999'
+10.11.2008 20:54:02: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusStr' of ... to '100'
+10.11.2008 20:54:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'DefendChance' of ... to '1000'
+10.11.2008 20:54:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'RegenHits' of ... to '23'
+10.11.2008 20:54:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'RegenMana' of ... to '65'
+10.11.2008 20:54:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'RegenHits' of ... to '43'
+10.11.2008 20:54:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'WeaponDamage' of ... to '135'
+10.11.2008 20:54:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1154'
+10.11.2008 20:54:51: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4002FCF8 (WildfireBow) to '1154'
+10.11.2008 20:54:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1155'
+10.11.2008 20:54:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4002FCF8 (WildfireBow) to '1155'
+10.11.2008 20:55:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1156'
+10.11.2008 20:55:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4002FCF8 (WildfireBow) to '1156'
+10.11.2008 20:55:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add hoode'
+10.11.2008 20:55:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1069, 484, -90) in Malas: "HoodedRobeOfUmbra"
+10.11.2008 20:55:08: 89.111.89.28: Serials: 0x40030267; 
+10.11.2008 20:55:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 20:55:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 20:55:26: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1155'
+10.11.2008 20:55:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4002FCF8 (WildfireBow) to '1155'
+10.11.2008 20:55:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add ring'
+10.11.2008 20:55:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 486, -90) in Malas: "LeatherArms"
+10.11.2008 20:55:52: 89.111.89.28: Serials: 0x40030324; 
+10.11.2008 20:56:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:56:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40030324 (LeatherArms)
+10.11.2008 20:56:15: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1068, 487, -90) in Malas: "AssassinArms"
+10.11.2008 20:56:15: 89.111.89.28: Serials: 0x40030325; 
+10.11.2008 20:56:17: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1069, 486, -90) in Malas: "AssassinGloves"
+10.11.2008 20:56:17: 89.111.89.28: Serials: 0x40030328; 
+10.11.2008 20:56:20: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1068, 486, -90) in Malas: "AssassinChest"
+10.11.2008 20:56:20: 89.111.89.28: Serials: 0x40030329; 
+10.11.2008 20:56:25: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 486, -90) in Malas: "AssassinLegs"
+10.11.2008 20:56:25: 89.111.89.28: Serials: 0x4003032A; 
+10.11.2008 20:56:28: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1066, 487, -90) in Malas: "AssassinSpike"
+10.11.2008 20:56:28: 89.111.89.28: Serials: 0x4003032B; 
+10.11.2008 20:56:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:56:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003032B (AssassinSpike)
+10.11.2008 20:56:34: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1066, 488, -90) in Malas: "AssassinsShortbow"
+10.11.2008 20:56:34: 89.111.89.28: Serials: 0x4003032C; 
+10.11.2008 20:56:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:56:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003032C (AssassinsShortbow)
+10.11.2008 20:56:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 487, -90) in Malas: "MagekillerAssassinSpike"
+10.11.2008 20:56:45: 89.111.89.28: Serials: 0x4003032D; 
+10.11.2008 20:56:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:56:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x4003032D (MagekillerAssassinSpike)
+10.11.2008 20:56:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 20:57:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'DurabilityBonus' of ... to '1000'
+10.11.2008 20:57:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'SelfRepair' of ... to '100'
+10.11.2008 20:59:45: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'who '
+10.11.2008 20:59:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') bringing 0x952E "Kilingow" ('rastyCZ') to Location (1068, 484, -90), Map Malas
+10.11.2008 20:59:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:59:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40030456 (ShortPants)
+10.11.2008 20:59:56: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 20:59:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40030455 (FancyShirt)
+10.11.2008 21:00:10: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 21:00:11: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40030453 (Bow)
+10.11.2008 21:00:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 21:00:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'SpellChanneling' of ... to '1'
+10.11.2008 21:01:35: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add eth'
+10.11.2008 21:01:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 486, -90) in Malas: "EtherealHorse"
+10.11.2008 21:01:40: 89.111.89.28: Serials: 0x4003046F; 
+10.11.2008 21:01:43: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 21:01:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1109'
+10.11.2008 21:01:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4003046F (EtherealHorse) to '1109'
+10.11.2008 21:01:54: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1109'
+10.11.2008 21:01:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40014F80 (Sandals) to '1109'
+10.11.2008 21:01:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'dupe '
+10.11.2008 21:02:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') duping 0x40014F80 (Sandals) (inBag=False; amount=1)
+10.11.2008 21:02:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') duped 0x40014F80 (Sandals) creating 0x40030484 (Sandals)
+10.11.2008 21:02:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'delete '
+10.11.2008 21:02:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') deleting 0x40030457 (Shoes)
+10.11.2008 21:02:12: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1109'
+10.11.2008 21:02:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4003044C (Backpack) to '1109'
+10.11.2008 21:02:14: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1109'
+10.11.2008 21:02:29: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1109'
+10.11.2008 21:02:30: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x40033D6F (HoodedShroudOfShadows) to '1109'
+10.11.2008 21:02:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 21:02:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'AttackChance' of ... to '100'
+10.11.2008 21:02:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusDex' of ... to '100'
+10.11.2008 21:02:53: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusHits' of ... to '100'
+10.11.2008 21:02:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusInt' of ... to '100'
+10.11.2008 21:03:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusMana' of ... to '100'
+10.11.2008 21:03:08: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusStam' of ... to '100'
+10.11.2008 21:03:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'DefendChance' of ... to '100'
+10.11.2008 21:03:21: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'WeaponSpeed' of ... to '20'
+10.11.2008 21:03:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1109'
+10.11.2008 21:03:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x4002FCF8 (WildfireBow) to '1109'
+10.11.2008 21:04:02: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'setallskills 50'
+10.11.2008 21:04:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'EverySkill.Base' of 0x952E "Kilingow" ('rastyCZ') to '50'
+10.11.2008 21:04:40: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set skill healing 100'
+10.11.2008 21:04:51: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'setskill healing 100'
+10.11.2008 21:04:53: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Healing.Base' of 0x952E "Kilingow" ('rastyCZ') to '100'
+10.11.2008 21:05:04: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'setskill healing 300'
+10.11.2008 21:05:06: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Healing.Base' of 0x952E "Kilingow" ('rastyCZ') to '300'
+10.11.2008 21:05:13: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'setskill anatomy 300'
+10.11.2008 21:05:18: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'setskill anatomy 500'
+10.11.2008 21:05:19: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Anatomy.Base' of 0x952E "Kilingow" ('rastyCZ') to '500'
+10.11.2008 21:05:31: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set amount 1000'
+10.11.2008 21:05:33: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'amount' of 0x40030452 (Arrow) to '1000'
+10.11.2008 21:05:38: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add quiver'
+10.11.2008 21:05:42: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 481, -90) in Malas: "QuiverOfRage"
+10.11.2008 21:05:42: 89.111.89.28: Serials: 0x400304D0; 
+10.11.2008 21:05:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set hue 1109'
+10.11.2008 21:05:52: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'hue' of 0x400304D0 (QuiverOfRage) to '1109'
+10.11.2008 21:06:22: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add titan'
+10.11.2008 21:06:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1068, 479, -90) in Malas: "titan"
+10.11.2008 21:06:24: 89.111.89.28: Serials: 0x95A1; 
+10.11.2008 21:06:46: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set maxdamage 1'
+10.11.2008 21:06:49: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'maxdamage' of 0x4002FCF8 (WildfireBow) to '1'
+10.11.2008 21:06:55: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'set mindamage 1'
+10.11.2008 21:06:57: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'mindamage' of 0x4002FCF8 (WildfireBow) to '1'
+10.11.2008 21:07:00: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add titan'
+10.11.2008 21:07:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 478, -90) in Malas: "titan"
+10.11.2008 21:07:01: 89.111.89.28: Serials: 0x95D3; 
+10.11.2008 21:07:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 21:07:36: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusStr' of ... to '30'
+10.11.2008 21:07:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add titan'
+10.11.2008 21:07:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1066, 472, -90) in Malas: "titan"
+10.11.2008 21:07:48: 89.111.89.28: Serials: 0x95ED; 
+10.11.2008 21:08:26: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 21:08:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'WeaponDamage' of ... to '0'
+10.11.2008 21:08:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add titan'
+10.11.2008 21:08:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 473, -90) in Malas: "titan"
+10.11.2008 21:08:48: 89.111.89.28: Serials: 0x95EE; 
+10.11.2008 21:08:58: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 21:09:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') playing sound 499 (toAll=True)
+10.11.2008 21:09:24: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'sound 499'
+10.11.2008 21:09:37: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'HitLightning' of ... to '67'
+10.11.2008 21:09:47: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'ResistFireBonus' of ... to '0'
+10.11.2008 21:10:01: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'Speed' of 0x4002FCF8 (WildfireBow) to '46'
+10.11.2008 21:10:32: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'props '
+10.11.2008 21:10:44: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') set property 'BonusDex' of ... to '30'
+10.11.2008 21:10:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add titan'
+10.11.2008 21:10:48: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1067, 474, -90) in Malas: "titan"
+10.11.2008 21:10:48: 89.111.89.28: Serials: 0x95FC; 
+10.11.2008 21:11:03: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') used command 'add demo'
+10.11.2008 21:11:07: 89.111.89.28: GameMaster 0x8D "Kentar" ('osiriscz') building at (1066, 476, -90) in Malas: "DemonKnightLeader"
+10.11.2008 21:11:07: 89.111.89.28: Serials: 0x95FD; 

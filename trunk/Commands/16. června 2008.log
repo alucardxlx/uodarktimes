@@ -1,0 +1,1339 @@
+##############################
+Log started on 16.6.2008 1:00:26
+
+16.6.2008 1:00:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add music'
+16.6.2008 1:00:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (933, 618, -83) in Malas: "DawnsMusicBox"
+16.6.2008 1:00:43: 85.70.219.31: Serials: 0x40012999; 
+16.6.2008 1:02:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add music'
+16.6.2008 1:02:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (935, 618, -83) in Malas: "MusicBoxGears"
+16.6.2008 1:02:28: 85.70.219.31: Serials: 0x40013733; 
+16.6.2008 1:02:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (935, 618, -83) in Malas: "MusicBoxGears"
+16.6.2008 1:02:43: 85.70.219.31: Serials: 0x40013734; 
+16.6.2008 1:02:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 1:02:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'IsRewardItem' of 0x40012999 (DawnsMusicBox) to 'True'
+16.6.2008 1:03:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add music'
+16.6.2008 1:03:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (935, 618, -83) in Malas: "MusicBoxGears"
+16.6.2008 1:03:38: 85.70.219.31: Serials: 0x4001373B; 
+16.6.2008 1:03:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (935, 618, -83) in Malas: "MusicBoxGears"
+16.6.2008 1:03:39: 85.70.219.31: Serials: 0x4001373C; 
+16.6.2008 1:03:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (935, 618, -83) in Malas: "MusicBoxGears"
+16.6.2008 1:03:39: 85.70.219.31: Serials: 0x4001373D; 
+16.6.2008 1:03:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (935, 618, -83) in Malas: "MusicBoxGears"
+16.6.2008 1:03:39: 85.70.219.31: Serials: 0x4001373E; 
+16.6.2008 1:04:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 1:04:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001373D (MusicBoxGears)
+16.6.2008 1:04:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add music'
+16.6.2008 1:04:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (934, 618, -83) in Malas: "MusicBoxGears"
+16.6.2008 1:04:17: 85.70.219.31: Serials: 0x4001373F; 
+16.6.2008 1:04:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add book'
+16.6.2008 1:04:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (934, 618, -83) in Malas: "BookOfTravel"
+16.6.2008 1:04:39: 85.70.219.31: Serials: 0x40013740; 
+16.6.2008 1:06:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add random'
+16.6.2008 1:06:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (429, 44, -28) in Ilshenar: "RandomTalisman"
+16.6.2008 1:06:28: 85.70.219.31: Serials: 0x40013787; 
+16.6.2008 1:06:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (429, 44, -28) in Ilshenar: "RandomArtifactDeed"
+16.6.2008 1:06:32: 85.70.219.31: Serials: 0x40013788; 
+16.6.2008 1:06:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 1:06:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013787 (RandomTalisman)
+16.6.2008 1:06:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add randomartifactdeed'
+16.6.2008 1:06:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (429, 44, -28) in Ilshenar: "randomartifactdeed"
+16.6.2008 1:06:50: 85.70.219.31: Serials: 0x4001378A; 
+16.6.2008 1:06:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add randomartifactdeed'
+16.6.2008 1:06:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (429, 45, -28) in Ilshenar: "randomartifactdeed"
+16.6.2008 1:06:55: 85.70.219.31: Serials: 0x4001378C; 
+16.6.2008 1:07:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add randomartifactdeed'
+16.6.2008 1:07:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (429, 45, -28) in Ilshenar: "randomartifactdeed"
+16.6.2008 1:07:00: 85.70.219.31: Serials: 0x4001378E; 
+16.6.2008 1:07:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add randomartifactdeed'
+16.6.2008 1:07:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (429, 44, -28) in Ilshenar: "randomartifactdeed"
+16.6.2008 1:07:05: 85.70.219.31: Serials: 0x40013790; 
+16.6.2008 1:07:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add randomartifactdeed'
+16.6.2008 1:07:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (428, 44, -28) in Ilshenar: "randomartifactdeed"
+16.6.2008 1:07:09: 85.70.219.31: Serials: 0x40013792; 
+16.6.2008 1:07:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add randomartifactdeed'
+16.6.2008 1:07:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (429, 44, -28) in Ilshenar: "randomartifactdeed"
+16.6.2008 1:07:14: 85.70.219.31: Serials: 0x40013794; 
+16.6.2008 1:07:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add randomartifactdeed'
+16.6.2008 1:07:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (429, 44, -28) in Ilshenar: "randomartifactdeed"
+16.6.2008 1:07:19: 85.70.219.31: Serials: 0x40013796; 
+16.6.2008 1:07:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add randomartifactdeed'
+16.6.2008 1:07:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (429, 44, -28) in Ilshenar: "randomartifactdeed"
+16.6.2008 1:07:20: 85.70.219.31: Serials: 0x40013797; 
+16.6.2008 1:07:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 1:07:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013795 (TitansHammer)
+16.6.2008 1:07:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001378F (ShadowDancerLeggings)
+16.6.2008 1:07:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013799 (StaffOfTheMagi)
+16.6.2008 1:07:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001378B (ShadowDancerLeggings)
+16.6.2008 1:07:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013791 (MidnightBracers)
+16.6.2008 1:07:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001378D (HelmOfInsight)
+16.6.2008 1:07:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013798 (RingOfTheVile)
+16.6.2008 1:07:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013793 (TitansHammer)
+16.6.2008 1:07:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013789 (BreathOfTheDead)
+16.6.2008 1:07:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+##############################
+Log started on 16.6.2008 11:47:49
+
+16.6.2008 12:22:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add housec'
+16.6.2008 12:22:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (920, 624, -90) in Malas: "HousePlacementTool"
+16.6.2008 12:22:19: 85.70.219.31: Serials: 0x40015ED9; 
+16.6.2008 12:23:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 12:23:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 12:26:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 12:26:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 12:26:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40015FB9 (Static) to (906, 638, -88)
+16.6.2008 12:26:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 12:26:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40015FBB (HouseSign) to (906, 639, -95)
+16.6.2008 12:26:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 12:26:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40015FB9 (Static) to (906, 639, -95)
+16.6.2008 12:26:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 12:26:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40015FBA (Static) to (907, 638, -88)
+16.6.2008 12:26:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 12:26:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40015FBA (Static) to (906, 638, -88)
+16.6.2008 12:27:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 13:23:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 13:35:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'save '
+##############################
+Log started on 16.6.2008 13:46:21
+
+16.6.2008 13:56:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 13:56:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add plateglowes'
+16.6.2008 13:56:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (990, 520, -50) in Malas: "PlateGloves"
+16.6.2008 13:56:26: 85.70.219.31: Serials: 0x40013964; 
+16.6.2008 13:57:20: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'c kovar k vasim sluzbam'
+16.6.2008 13:58:25: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'c '
+16.6.2008 13:58:44: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'c '
+16.6.2008 13:59:47: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'c '
+16.6.2008 13:59:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 14:02:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 14:02:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SuccessBonus' of 0x4001652D (RandomTalisman) to '50'
+16.6.2008 14:03:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'ExceptionalBonus' of 0x4001652D (RandomTalisman) to '100'
+16.6.2008 14:06:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add ess'
+16.6.2008 14:06:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (982, 512, -50) in Malas: "EssenceOfBattle"
+16.6.2008 14:06:33: 85.70.219.31: Serials: 0x40013AF3; 
+16.6.2008 14:06:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 14:06:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Crafter' of 0x40013AF3 (EssenceOfBattle) to '0x681 "Thunderhammer"'
+16.6.2008 14:07:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Resource' of 0x40013AF3 (EssenceOfBattle) to 'Valorite'
+16.6.2008 14:07:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 14:10:30: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Scriptuju'
+16.6.2008 14:11:10: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Scriptuju'
+16.6.2008 14:12:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 14:12:49: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'c [afk xxx kde xxx je sprava co delas'
+16.6.2008 14:19:28: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'bank '
+16.6.2008 14:19:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') opening bank box of 0x681 "Thunderhammer" ('Anthrax')
+16.6.2008 14:20:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'bank '
+16.6.2008 14:20:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') opening bank box of 0xD2A "Theogil" ('Theogil')
+16.6.2008 14:22:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 14:22:40: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 14:22:42: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4002FF49 (FullNinjitsuSpellbook)
+16.6.2008 14:22:44: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4002ED12 (IolosLute)
+16.6.2008 14:22:45: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4002F558 (LunaLance)
+16.6.2008 14:22:46: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400169B4 (PadsOfTheCuSidhe)
+16.6.2008 14:22:48: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4002F171 (CavortingClub)
+16.6.2008 14:22:50: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400165DC (CompositeBow)
+16.6.2008 14:22:52: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 14:23:04: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'Resource' of 0x40017882 (RunicSewingKit) to 'SpinedLeather'
+16.6.2008 14:23:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'Resource' of 0x40017882 (RunicSewingKit) to 'Valorite'
+16.6.2008 14:23:32: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'Resource' of 0x40017882 (RunicSewingKit) to 'BarbedLeather'
+16.6.2008 14:24:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 14:24:23: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 14:24:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40013AF0 (Robe)
+16.6.2008 14:25:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+16.6.2008 14:25:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add board'
+16.6.2008 14:25:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (931, 520, -90) in Malas: "board"
+16.6.2008 14:25:30: 85.70.219.31: Serials: 0x400166DB; 
+16.6.2008 14:25:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set amount 5000'
+16.6.2008 14:25:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'amount' of 0x400166DB (Board) to '5000'
+16.6.2008 14:25:47: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'admin '
+16.6.2008 14:25:47: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk Scriptuju'
+16.6.2008 14:25:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'bank '
+16.6.2008 14:25:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') opening bank box of 0x681 "Thunderhammer" ('Anthrax')
+16.6.2008 14:26:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'admin '
+16.6.2008 14:27:23: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Scriptuju'
+16.6.2008 14:28:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'Set Hue 4'
+16.6.2008 14:28:39: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'Set Hue 4'
+16.6.2008 14:28:48: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 14:28:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (7001, 354, 0) in Felucca: "XmlSpawner"
+16.6.2008 14:28:53: 89.102.63.77: Serials: 0x40016768; 
+16.6.2008 14:29:01: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 14:29:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'spawner '
+16.6.2008 14:32:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'spawner '
+16.6.2008 14:39:06: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 14:39:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add atlas'
+16.6.2008 14:39:48: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (7001, 381, 0) in Felucca: "BookOfTravel"
+16.6.2008 14:39:48: 89.102.63.77: Serials: 0x400168B6; 
+16.6.2008 14:40:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (7001, 382, 0) in Felucca: "BookOfNinjitsu"
+16.6.2008 14:40:05: 89.102.63.77: Serials: 0x400168B7; 
+16.6.2008 14:40:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add book'
+16.6.2008 14:40:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (891, 639, -95) in Malas: "BookOfTravel"
+16.6.2008 14:40:37: 85.70.219.31: Serials: 0x40016901; 
+16.6.2008 14:41:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 14:41:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'save '
+16.6.2008 14:41:51: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'spawner '
+16.6.2008 14:41:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'createworld '
+16.6.2008 14:41:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'spawner '
+16.6.2008 14:42:01: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'decorate '
+16.6.2008 14:42:12: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'doorgen '
+16.6.2008 14:42:12: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'moongen '
+16.6.2008 14:42:12: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'signgen '
+16.6.2008 14:42:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'telgen '
+16.6.2008 14:42:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'gengauntlet '
+16.6.2008 14:42:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'genchampions '
+16.6.2008 14:42:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'genkhaldun '
+16.6.2008 14:42:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'generatefactions '
+16.6.2008 14:42:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'genstealarties '
+16.6.2008 14:43:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'editor '
+16.6.2008 14:43:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'spawner '
+16.6.2008 14:44:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 14:44:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') shutting down server (Restart: True) (Save: False)
+##############################
+Log started on 16.6.2008 14:44:33
+
+16.6.2008 14:44:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'save '
+16.6.2008 14:46:08: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Buduju!'
+16.6.2008 14:46:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+16.6.2008 14:46:58: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'admin '
+16.6.2008 14:47:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 14:48:46: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'admin '
+16.6.2008 14:49:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'Set AccessLevel Player'
+16.6.2008 14:50:49: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'dupeinbag '
+16.6.2008 14:50:50: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') duping 0x40018A66 (AxeOfTheHeavens) (inBag=True; amount=1)
+16.6.2008 14:50:51: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') duped 0x40018A66 (AxeOfTheHeavens) creating 0x400137E3 (AxeOfTheHeavens)
+16.6.2008 14:51:01: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'dupeinbag '
+16.6.2008 14:51:04: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') duping 0x40018A66 (AxeOfTheHeavens) (inBag=True; amount=1)
+16.6.2008 14:51:04: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') duped 0x40018A66 (AxeOfTheHeavens) creating 0x400137E4 (AxeOfTheHeavens)
+16.6.2008 14:51:08: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 14:51:10: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400137E3 (AxeOfTheHeavens)
+16.6.2008 14:51:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400137E4 (AxeOfTheHeavens)
+16.6.2008 14:52:58: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') adding new account: Thomas
+16.6.2008 14:54:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'admin '
+16.6.2008 14:54:39: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'resurrect '
+16.6.2008 14:54:40: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') resurrecting 0xD2A "Theogil" ('Theogil')
+16.6.2008 14:55:04: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'c překlik'
+16.6.2008 14:55:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c ?'
+16.6.2008 14:55:52: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 14:55:59: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Buduju!'
+16.6.2008 14:56:24: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Buduju!'
+16.6.2008 14:59:27: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk Nudim se'
+16.6.2008 15:01:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add bridge'
+16.6.2008 15:02:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 15:02:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 15:02:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 15:02:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x681 "Thunderhammer" ('Anthrax') to (898, 632, -68)
+16.6.2008 15:03:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add banker'
+16.6.2008 15:03:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (895, 633, -68) in Malas: "banker"
+16.6.2008 15:03:39: 85.70.219.31: Serials: 0x694; 
+16.6.2008 15:03:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add barkee'
+16.6.2008 15:03:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (899, 629, -68) in Malas: "BarkeepContract"
+16.6.2008 15:03:53: 85.70.219.31: Serials: 0x40013A13; 
+16.6.2008 15:03:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (899, 630, -68) in Malas: "BarkeepContract"
+16.6.2008 15:03:53: 85.70.219.31: Serials: 0x40013A14; 
+16.6.2008 15:05:07: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Buduju!'
+16.6.2008 15:06:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 15:07:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HairItemID' of 0x695 "Kai" (no account) to '82'
+16.6.2008 15:07:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HairItemID' of 0x695 "Kai" (no account) to '8258'
+16.6.2008 15:09:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:09:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 15:10:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+16.6.2008 15:10:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x530A "an imp" (no account)
+16.6.2008 15:10:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:10:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:13:22: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:13:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (3075, 1935, -2), Map Felucca
+16.6.2008 15:14:42: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 15:14:43: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40031223 (ResGate)
+16.6.2008 15:14:49: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 15:16:35: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 15:16:50: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:16:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') bringing 0x50A "Slay with honor" ('hashak') to Location (2759, 2166, -2), Map Felucca
+16.6.2008 15:16:58: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') bringing 0x50A "Slay with honor" ('hashak') to Location (2759, 2166, -2), Map Felucca
+16.6.2008 15:17:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+16.6.2008 15:18:22: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:18:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (1015, 521, -70), Map Malas
+16.6.2008 15:21:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'set name Thomas'
+16.6.2008 15:21:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'name' of 0x787 "Thomas je zmrd" ('Thomas1') to 'Thomas'
+16.6.2008 15:21:52: 85.248.66.116: Player 0x787 "Thomas" ('Thomas1') used command 'help '
+16.6.2008 15:22:01: 85.248.66.116: Player 0x787 "Thomas" ('Thomas1') used command 'afk Thomas smrdi'
+16.6.2008 15:22:10: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 15:22:42: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'admin '
+16.6.2008 15:22:51: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'kick '
+16.6.2008 15:22:52: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') kicking 0x787 "Thomas" ('Thomas1')
+16.6.2008 15:23:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:24:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 15:24:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400166DF (Throne)
+16.6.2008 15:24:11: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 15:24:26: 85.248.66.116: Player 0x787 "Thomas" ('Thomas1') used command 'AFK Thomas neumi nic je to nup'
+16.6.2008 15:24:28: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'set name Eleanor'
+16.6.2008 15:24:43: 85.248.66.116: Player 0x787 "Thomas" ('Thomas1') used command 'AFK Thomas neumi nic je to nup'
+16.6.2008 15:24:52: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'name' of 0x787 "Thomas" ('Thomas1') to 'Eleanor'
+16.6.2008 15:26:22: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:27:37: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'admin '
+16.6.2008 15:28:08: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:28:23: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1216, 468, -13), Map Ilshenar
+16.6.2008 15:28:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1536, 1340, -3), Map Ilshenar
+16.6.2008 15:28:35: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1521, 1326, -15), Map Ilshenar
+16.6.2008 15:28:36: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1517, 1327, -17), Map Ilshenar
+16.6.2008 15:28:36: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1514, 1330, -14), Map Ilshenar
+16.6.2008 15:28:37: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1510, 1330, -13), Map Ilshenar
+16.6.2008 15:28:37: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1508, 1330, -13), Map Ilshenar
+16.6.2008 15:28:38: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1506, 1330, -13), Map Ilshenar
+16.6.2008 15:28:38: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1506, 1330, -13), Map Ilshenar
+16.6.2008 15:28:39: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1505, 1331, -13), Map Ilshenar
+16.6.2008 15:28:40: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1501, 1331, -13), Map Ilshenar
+16.6.2008 15:28:56: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 15:29:09: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (2219, 1233, -5) in Ilshenar: "Changeling"
+16.6.2008 15:29:09: 89.102.63.77: Serials: 0x7B7; 
+16.6.2008 15:29:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'all restart 15 sec'
+16.6.2008 15:29:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 16.6.2008 15:31:31
+
+16.6.2008 15:31:59: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:32:06: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (986, 518, -50), Map Malas
+16.6.2008 15:33:56: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (794, 1198, 25), Map Tokuno
+16.6.2008 15:35:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c restart'
+16.6.2008 15:36:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'pages '
+16.6.2008 15:36:04: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c ymdri'
+16.6.2008 15:36:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+16.6.2008 15:36:11: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c zmrdi "'
+##############################
+Log started on 16.6.2008 15:36:28
+
+16.6.2008 15:37:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:37:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 15:37:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+16.6.2008 15:37:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:37:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:37:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:37:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:37:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:37:34: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1479, 1495, -27), Map Ilshenar
+16.6.2008 15:37:42: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c je tu nejake GM ?'
+16.6.2008 15:37:59: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'g na COD sou PK'
+16.6.2008 15:39:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (1001, 520, -50), Map Malas
+16.6.2008 15:39:28: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'jail 5 20'
+16.6.2008 15:39:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'jail 0 14 0 0 Vulgarita vuci GM'
+16.6.2008 15:39:47: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (5296, 1164, 0), Map Felucca
+16.6.2008 15:39:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:40:11: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c mam mute'
+16.6.2008 15:40:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 15:40:42: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 15:41:46: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:41:49: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (743, 968, 27), Map Tokuno
+16.6.2008 15:41:54: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'admin '
+16.6.2008 15:42:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:42:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (744, 966, 27), Map Tokuno
+16.6.2008 15:42:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:42:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0xD2A "Theogil" ('Theogil'), Location (763, 1196, 25), Map Tokuno
+16.6.2008 15:43:00: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (741, 972, 28), Map Tokuno
+16.6.2008 15:43:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+16.6.2008 15:43:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:43:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add samurai'
+16.6.2008 15:43:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (762, 1228, 25) in Tokuno: "samurai"
+16.6.2008 15:43:35: 85.70.219.31: Serials: 0x5AD; 
+16.6.2008 15:43:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+16.6.2008 15:43:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x5AD "Jolene" (no account)
+16.6.2008 15:43:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 15:43:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001655A (Corpse)
+16.6.2008 15:44:57: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 15:45:33: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'help '
+16.6.2008 15:45:36: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e '
+16.6.2008 15:45:40: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'ma '
+16.6.2008 15:45:51: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'whatisit '
+16.6.2008 15:45:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 15:45:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40012519 (Static)
+16.6.2008 15:45:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40012515 (Static)
+16.6.2008 15:45:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40012513 (Static)
+16.6.2008 15:45:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001251B (Static)
+16.6.2008 15:45:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40012518 (Static)
+16.6.2008 15:45:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001251A (Static)
+16.6.2008 15:45:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40012514 (Static)
+16.6.2008 15:45:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40012512 (Static)
+16.6.2008 15:46:02: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'whatisit '
+16.6.2008 15:46:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add xmls'
+16.6.2008 15:46:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (634, 1232, 25) in Tokuno: "XmlSpawner"
+16.6.2008 15:46:24: 85.70.219.31: Serials: 0x40016720; 
+16.6.2008 15:46:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 15:46:32: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (736, 1256, 30) in Tokuno: "XmlSpawner"
+16.6.2008 15:46:32: 89.102.63.77: Serials: 0x4001672E; 
+16.6.2008 15:46:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') added to XmlSpawner 0x40016720 'Spawner' [634, 1232] (Tokuno) : Samurai
+16.6.2008 15:46:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') added to XmlSpawner 0x4001672E 'Spawner' [736, 1256] (Tokuno) : samurai
+16.6.2008 15:47:06: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') changed XmlSpawner 0x4001672E 'Spawner' [736, 1256] (Tokuno) : samurai to Samurai
+16.6.2008 15:47:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 15:47:30: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:31: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40016720 (XmlSpawner)
+16.6.2008 15:47:33: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add premiumsp'
+16.6.2008 15:47:37: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (634, 1232, 25) in Tokuno: "PremiumSpawner"
+16.6.2008 15:47:37: 85.70.219.31: Serials: 0x400168BF; 
+16.6.2008 15:47:41: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:45: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:47: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:51: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HomeRange' of 0x400168BF (PremiumSpawner) to '0'
+16.6.2008 15:47:52: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:53: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:54: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:47:57: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:48:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'SpawnRange' of 0x4001672E (XmlSpawner) to '50'
+16.6.2008 15:48:09: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'ShowBounds' of 0x4001672E (XmlSpawner) to 'True'
+16.6.2008 15:48:12: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:48:13: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:48:14: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:48:15: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:48:16: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:48:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 15:48:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x400168BF (PremiumSpawner) to '1'
+16.6.2008 15:48:43: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'ShowBounds' of 0x4001672E (XmlSpawner) to 'False'
+16.6.2008 15:48:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:49:09: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'HomeRange' of 0x4001672E (XmlSpawner) to '50'
+16.6.2008 15:49:20: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') added to XmlSpawner 0x4001672E 'Spawner' [736, 1256] (Tokuno) : Ninja
+16.6.2008 15:49:40: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss)'
+16.6.2008 15:49:44: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:49:49: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:49:53: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'jailinfo '
+16.6.2008 15:49:56: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'e kiss'
+16.6.2008 15:52:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 15:52:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:52:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 15:53:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go luna'
+16.6.2008 15:53:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add stadl'
+16.6.2008 15:53:53: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'help '
+16.6.2008 15:53:58: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 15:54:14: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'go doom'
+16.6.2008 15:54:21: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:54:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (5279, 1185, 0), Map Felucca
+16.6.2008 15:54:35: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:54:39: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (556, 1168, 25), Map Tokuno
+16.6.2008 15:55:02: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:55:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (910, 629, -90) in Malas: "CoMWarHorse"
+16.6.2008 15:55:06: 85.70.219.31: Serials: 0x886; 
+16.6.2008 15:55:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 15:55:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x886 "a war horse" (no account)
+16.6.2008 15:55:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (910, 630, -90) in Malas: "Horse"
+16.6.2008 15:55:37: 85.70.219.31: Serials: 0x887; 
+16.6.2008 15:55:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (911, 628, -90) in Malas: "Horse"
+16.6.2008 15:55:37: 85.70.219.31: Serials: 0x889; 
+16.6.2008 15:55:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 15:56:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'CantWalk' of 0x887 "a horse" (no account) to 'True'
+16.6.2008 15:56:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 15:56:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set cantwalk true'
+16.6.2008 15:56:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'cantwalk' of 0x889 "a horse" (no account) to 'True'
+16.6.2008 15:56:28: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (624, 1250, 25), Map Tokuno
+16.6.2008 15:56:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 15:56:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x887 "a horse" (no account) to (906, 625, -88)
+16.6.2008 15:56:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 15:56:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x889 "a horse" (no account) to (904, 625, -88)
+16.6.2008 15:56:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 15:57:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Frozen True'
+16.6.2008 15:57:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Frozen' of 0x887 "a horse" (no account) to 'True'
+16.6.2008 15:57:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Frozen True'
+16.6.2008 15:57:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Frozen' of 0x889 "a horse" (no account) to 'True'
+16.6.2008 15:57:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Blessed True'
+16.6.2008 15:57:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Blessed' of 0x887 "a horse" (no account) to 'True'
+16.6.2008 15:57:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Blessed True'
+16.6.2008 15:57:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Blessed' of 0x889 "a horse" (no account) to 'True'
+16.6.2008 15:57:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 15:59:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x887 "a horse" (no account) to 'North'
+16.6.2008 15:59:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set direction north'
+16.6.2008 15:59:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'direction' of 0x889 "a horse" (no account) to 'North'
+16.6.2008 15:59:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 15:59:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x887 "a horse" (no account) to (906, 626, -88)
+16.6.2008 15:59:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 15:59:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 15:59:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x889 "a horse" (no account) to (904, 626, -88)
+16.6.2008 16:00:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add sadl'
+16.6.2008 16:00:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 625, -88) in Malas: "SaddleArtifact"
+16.6.2008 16:00:21: 85.70.219.31: Serials: 0x40019979; 
+16.6.2008 16:00:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (904, 625, -88) in Malas: "SaddleArtifact"
+16.6.2008 16:00:24: 85.70.219.31: Serials: 0x4001997B; 
+16.6.2008 16:00:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 16:01:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'MinTameSkill' of 0x887 "a horse" (no account) to '500'
+16.6.2008 16:01:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set mintameskill 500'
+16.6.2008 16:01:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'mintameskill' of 0x889 "a horse" (no account) to '500'
+16.6.2008 16:01:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set mintameskill 500'
+16.6.2008 16:01:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'mintameskill' of 0x887 "a horse" (no account) to '500'
+16.6.2008 16:04:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add saw'
+16.6.2008 16:04:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 626, -88) in Malas: "saw"
+16.6.2008 16:04:56: 85.70.219.31: Serials: 0x40019AC5; 
+16.6.2008 16:06:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add ston'
+16.6.2008 16:06:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (899, 629, -68) in Malas: "AdminStone"
+16.6.2008 16:06:37: 85.70.219.31: Serials: 0x40019AEC; 
+16.6.2008 16:06:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 16:06:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40019AEC (AdminStone)
+16.6.2008 16:09:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (899, 630, -68) in Malas: "CobblestonesFloor"
+16.6.2008 16:09:02: 85.70.219.31: Serials: 0x40019B70; 
+16.6.2008 16:09:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:09:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40019B70 (CobblestonesFloor)
+16.6.2008 16:09:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (891, 622, -68) in Malas: "GamblingStone"
+16.6.2008 16:09:17: 85.70.219.31: Serials: 0x40019B74; 
+16.6.2008 16:09:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:09:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x694 "Nicole" (no account) to (894, 635, -68)
+16.6.2008 16:10:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 628, -68) in Malas: "JoinStone"
+16.6.2008 16:10:10: 85.70.219.31: Serials: 0x40019B80; 
+16.6.2008 16:10:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 16:10:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40019B80 (JoinStone)
+16.6.2008 16:10:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add mediumstone'
+16.6.2008 16:10:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 636, -68) in Malas: "MediumStoneTableSouthAddon"
+16.6.2008 16:10:38: 85.70.219.31: Serials: 0x40019DE4; 
+16.6.2008 16:11:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:11:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40019DE9 (AddonComponent)
+16.6.2008 16:11:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 636, -68) in Malas: "MediumStoneTableEastAddon"
+16.6.2008 16:11:33: 85.70.219.31: Serials: 0x4001A406; 
+16.6.2008 16:11:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (898, 636, -68) in Malas: "MediumStoneTableEastAddon"
+16.6.2008 16:11:35: 85.70.219.31: Serials: 0x4001A413; 
+16.6.2008 16:11:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:11:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001A416 (AddonComponent)
+16.6.2008 16:14:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (899, 636, -68) in Malas: "MediumStoneTableEastAddon"
+16.6.2008 16:14:49: 85.70.219.31: Serials: 0x4001B3C6; 
+16.6.2008 16:14:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 631, -68) in Malas: "MediumStoneTableEastAddon"
+16.6.2008 16:14:53: 85.70.219.31: Serials: 0x4001B4DE; 
+16.6.2008 16:14:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (899, 631, -68) in Malas: "MediumStoneTableEastAddon"
+16.6.2008 16:14:59: 85.70.219.31: Serials: 0x4001B58D; 
+16.6.2008 16:15:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 626, -68) in Malas: "MediumStoneTableEastAddon"
+16.6.2008 16:15:10: 85.70.219.31: Serials: 0x4001B5CC; 
+16.6.2008 16:15:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:15:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001B599 (AddonComponent) to (900, 631, -68)
+16.6.2008 16:15:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:15:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001B4F9 (AddonComponent) to (897, 631, -68)
+16.6.2008 16:16:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:16:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001B4F9 (AddonComponent) to (897, 632, -68)
+16.6.2008 16:16:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:16:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001A40D (AddonComponent) to (897, 636, -68)
+16.6.2008 16:16:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:16:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:16:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001A40D (AddonComponent) to (896, 636, -68)
+16.6.2008 16:16:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:16:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001B5D7 (AddonComponent) to (897, 625, -68)
+16.6.2008 16:16:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:16:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001B5D7 (AddonComponent) to (897, 626, -68)
+16.6.2008 16:16:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (900, 626, -68) in Malas: "LargeStoneTableSouthAddon"
+16.6.2008 16:16:57: 85.70.219.31: Serials: 0x4001C324; 
+16.6.2008 16:17:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:17:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001C329 (AddonComponent) to (900, 627, -68)
+16.6.2008 16:17:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add stonec'
+16.6.2008 16:17:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (895, 630, -68) in Malas: "RunicStone"
+16.6.2008 16:17:59: 85.70.219.31: Serials: 0x4001C5F4; 
+16.6.2008 16:18:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:18:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001C5F5 (BagOfRunicTools)
+16.6.2008 16:18:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001C5F4 (RunicStone)
+16.6.2008 16:18:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (898, 632, -68) in Malas: "StoneChair"
+16.6.2008 16:18:38: 85.70.219.31: Serials: 0x4001C83E; 
+16.6.2008 16:18:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (898, 631, -68) in Malas: "StoneChair"
+16.6.2008 16:18:38: 85.70.219.31: Serials: 0x4001C846; 
+16.6.2008 16:18:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (899, 631, -68) in Malas: "StoneChair"
+16.6.2008 16:18:39: 85.70.219.31: Serials: 0x4001C847; 
+16.6.2008 16:18:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (899, 632, -68) in Malas: "StoneChair"
+16.6.2008 16:18:40: 85.70.219.31: Serials: 0x4001C84A; 
+16.6.2008 16:18:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (901, 632, -68) in Malas: "StoneChair"
+16.6.2008 16:18:41: 85.70.219.31: Serials: 0x4001C84B; 
+16.6.2008 16:18:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (901, 631, -68) in Malas: "StoneChair"
+16.6.2008 16:18:42: 85.70.219.31: Serials: 0x4001C84E; 
+16.6.2008 16:18:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (900, 636, -68) in Malas: "StoneChair"
+16.6.2008 16:18:43: 85.70.219.31: Serials: 0x4001C854; 
+16.6.2008 16:18:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 632, -68) in Malas: "StoneChair"
+16.6.2008 16:18:46: 85.70.219.31: Serials: 0x4001C886; 
+16.6.2008 16:18:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 631, -68) in Malas: "StoneChair"
+16.6.2008 16:18:47: 85.70.219.31: Serials: 0x4001C88A; 
+16.6.2008 16:18:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 636, -68) in Malas: "StoneChair"
+16.6.2008 16:18:49: 85.70.219.31: Serials: 0x4001C88E; 
+16.6.2008 16:18:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (898, 636, -68) in Malas: "StoneChair"
+16.6.2008 16:18:49: 85.70.219.31: Serials: 0x4001C890; 
+16.6.2008 16:18:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (895, 637, -68) in Malas: "StoneChair"
+16.6.2008 16:18:52: 85.70.219.31: Serials: 0x4001C893; 
+16.6.2008 16:18:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (895, 636, -68) in Malas: "StoneChair"
+16.6.2008 16:18:53: 85.70.219.31: Serials: 0x4001C898; 
+16.6.2008 16:18:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (898, 637, -68) in Malas: "StoneChair"
+16.6.2008 16:18:56: 85.70.219.31: Serials: 0x4001C8A2; 
+16.6.2008 16:18:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 637, -68) in Malas: "StoneChair"
+16.6.2008 16:18:58: 85.70.219.31: Serials: 0x4001C8F3; 
+16.6.2008 16:19:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (900, 637, -68) in Malas: "StoneChair"
+16.6.2008 16:19:00: 85.70.219.31: Serials: 0x4001C8FD; 
+16.6.2008 16:19:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (898, 625, -68) in Malas: "StoneChair"
+16.6.2008 16:19:03: 85.70.219.31: Serials: 0x4001C974; 
+16.6.2008 16:19:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 625, -68) in Malas: "StoneChair"
+16.6.2008 16:19:04: 85.70.219.31: Serials: 0x4001C975; 
+16.6.2008 16:19:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 626, -68) in Malas: "StoneChair"
+16.6.2008 16:19:05: 85.70.219.31: Serials: 0x4001C9AA; 
+16.6.2008 16:19:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (898, 626, -68) in Malas: "StoneChair"
+16.6.2008 16:19:05: 85.70.219.31: Serials: 0x4001C9B1; 
+16.6.2008 16:19:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (901, 628, -68) in Malas: "StoneChair"
+16.6.2008 16:19:06: 85.70.219.31: Serials: 0x4001C9D8; 
+16.6.2008 16:19:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (902, 628, -68) in Malas: "StoneChair"
+16.6.2008 16:19:07: 85.70.219.31: Serials: 0x4001C9E0; 
+16.6.2008 16:19:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (900, 628, -68) in Malas: "StoneChair"
+16.6.2008 16:19:07: 85.70.219.31: Serials: 0x4001C9E5; 
+16.6.2008 16:19:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (902, 626, -68) in Malas: "StoneChair"
+16.6.2008 16:19:10: 85.70.219.31: Serials: 0x4001CA3A; 
+16.6.2008 16:19:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (901, 626, -68) in Malas: "StoneChair"
+16.6.2008 16:19:11: 85.70.219.31: Serials: 0x4001CA3E; 
+16.6.2008 16:19:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (900, 626, -68) in Malas: "StoneChair"
+16.6.2008 16:19:12: 85.70.219.31: Serials: 0x4001CA43; 
+16.6.2008 16:19:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'I wish to secure this'
+16.6.2008 16:19:37: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'jailinfo '
+16.6.2008 16:20:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 16:20:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013A21 (Throne)
+16.6.2008 16:20:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 16:20:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x4001C886 (StoneChair) to 'East'
+16.6.2008 16:20:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x4001C886 (StoneChair) to 'West'
+16.6.2008 16:20:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x4001C886 (StoneChair) to 'Mask'
+16.6.2008 16:20:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x4001C886 (StoneChair) to 'West'
+16.6.2008 16:21:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set direction west'
+16.6.2008 16:21:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'direction' of 0x4001C886 (StoneChair) to 'West'
+16.6.2008 16:21:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add house'
+16.6.2008 16:21:25: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk Sleeping'
+16.6.2008 16:21:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 633, -68) in Malas: "InteriorDecorator"
+16.6.2008 16:21:32: 85.70.219.31: Serials: 0x4001E0D4; 
+16.6.2008 16:23:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 16:24:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'GamblePot' of 0x40019B74 (GamblingStone) to '50000'
+16.6.2008 16:24:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add large'
+16.6.2008 16:24:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (891, 622, -88) in Malas: "LargeStoneTableEastAddon"
+16.6.2008 16:24:56: 85.70.219.31: Serials: 0x4001EAF2; 
+16.6.2008 16:24:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (891, 626, -88) in Malas: "LargeStoneTableEastAddon"
+16.6.2008 16:24:59: 85.70.219.31: Serials: 0x4001EB02; 
+16.6.2008 16:25:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 626, -88) in Malas: "ElvenStoveEastAddon"
+16.6.2008 16:25:33: 85.70.219.31: Serials: 0x4001EB2B; 
+16.6.2008 16:25:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:25:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 16:25:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001EB30 (AddonComponent) to (891, 625, -88)
+16.6.2008 16:25:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add case'
+16.6.2008 16:26:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add basin'
+16.6.2008 16:26:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 623, -88) in Malas: "ElvenWashBasinEastAddon"
+16.6.2008 16:26:40: 85.70.219.31: Serials: 0x4001EBD0; 
+16.6.2008 16:26:41: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 16:26:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 16:26:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001EBD2 (AddonComponent)
+16.6.2008 16:26:51: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 16:26:54: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x1 "Elamor" ('Elamor'), Location (894, 630, -48), Map Malas
+16.6.2008 16:27:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 630, -48) in Malas: "ElvenWashBasinSouthAddon"
+16.6.2008 16:27:02: 85.70.219.31: Serials: 0x4001EE21; 
+16.6.2008 16:27:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 625, -48) in Malas: "ElvenWashBasinSouthAddon"
+16.6.2008 16:27:03: 85.70.219.31: Serials: 0x4001EE28; 
+16.6.2008 16:27:56: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 16:27:59: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (578, 1171, 25), Map Tokuno
+16.6.2008 16:28:31: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x1 "Elamor" ('Elamor'), Location (894, 625, -88), Map Malas
+16.6.2008 16:28:34: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 16:28:40: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 16:28:48: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (561, 1163, 25), Map Tokuno
+16.6.2008 16:28:50: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (561, 1161, 25) in Tokuno: "RuneBeetleCarapace"
+16.6.2008 16:28:50: 89.102.63.77: Serials: 0x40020CBB; 
+16.6.2008 16:29:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 622, -88) in Malas: "Armoire"
+16.6.2008 16:29:16: 85.70.219.31: Serials: 0x40020D60; 
+16.6.2008 16:29:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (895, 622, -88) in Malas: "FancyArmoire"
+16.6.2008 16:29:19: 85.70.219.31: Serials: 0x40020D61; 
+16.6.2008 16:29:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:29:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40020D60 (Armoire)
+16.6.2008 16:29:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 622, -88) in Malas: "MapleArmoire"
+16.6.2008 16:29:37: 85.70.219.31: Serials: 0x40020D6A; 
+16.6.2008 16:29:37: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 16:29:38: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40020CBB (RuneBeetleCarapace)
+16.6.2008 16:29:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:29:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40020D6A (MapleArmoire)
+16.6.2008 16:29:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (893, 622, -88) in Malas: "CherryArmoire"
+16.6.2008 16:29:43: 85.70.219.31: Serials: 0x40020D73; 
+16.6.2008 16:29:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:29:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40020D73 (CherryArmoire)
+16.6.2008 16:29:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 622, -88) in Malas: "FancyElvenArmoire"
+16.6.2008 16:29:49: 85.70.219.31: Serials: 0x40020D80; 
+16.6.2008 16:29:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:29:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40020D80 (FancyElvenArmoire)
+16.6.2008 16:29:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (893, 622, -88) in Malas: "ElegantArmoire"
+16.6.2008 16:29:58: 85.70.219.31: Serials: 0x40020DB2; 
+16.6.2008 16:30:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:30:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40020DB2 (ElegantArmoire)
+16.6.2008 16:30:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 622, -88) in Malas: "FancyArmoire"
+16.6.2008 16:30:03: 85.70.219.31: Serials: 0x40020DB5; 
+16.6.2008 16:30:08: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 16:30:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add board'
+16.6.2008 16:30:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 626, -88) in Malas: "board"
+16.6.2008 16:30:46: 85.70.219.31: Serials: 0x40020E30; 
+16.6.2008 16:31:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set amount 25'
+16.6.2008 16:31:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'amount' of 0x40020E30 (Board) to '25'
+16.6.2008 16:31:08: 85.70.219.31: Crafting 0x40020E54 (EmptyBookcase) with craft system DefCarpentry
+16.6.2008 16:31:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (562, 1143, 42), Map Tokuno
+16.6.2008 16:31:31: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (562, 1141, 44), Map Tokuno
+16.6.2008 16:31:32: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (562, 1141, 44), Map Tokuno
+16.6.2008 16:31:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add armoi'
+16.6.2008 16:31:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 622, -88) in Malas: "FancyArmoire"
+16.6.2008 16:31:54: 85.70.219.31: Serials: 0x40020E9E; 
+16.6.2008 16:32:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+16.6.2008 16:32:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x4001EB00 (AddonComponent) (inBag=False; amount=1)
+16.6.2008 16:32:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+16.6.2008 16:32:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x4001EB04 (AddonComponent) (inBag=False; amount=1)
+16.6.2008 16:32:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add largesto'
+16.6.2008 16:32:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 625, -88) in Malas: "LargeStoneTableSouthAddon"
+16.6.2008 16:32:20: 85.70.219.31: Serials: 0x40020F97; 
+16.6.2008 16:32:21: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (564, 1105, 35), Map Tokuno
+16.6.2008 16:32:23: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (558, 1097, 33), Map Tokuno
+16.6.2008 16:32:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (551, 1091, 30), Map Tokuno
+16.6.2008 16:32:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (547, 1087, 25), Map Tokuno
+16.6.2008 16:32:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (547, 1081, 30), Map Tokuno
+16.6.2008 16:32:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (547, 1075, 30), Map Tokuno
+16.6.2008 16:32:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (547, 1067, 31), Map Tokuno
+16.6.2008 16:32:28: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (543, 1063, 37), Map Tokuno
+16.6.2008 16:32:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (542, 1065, 33), Map Tokuno
+16.6.2008 16:32:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (536, 1062, 22), Map Tokuno
+16.6.2008 16:32:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (532, 1059, 21), Map Tokuno
+16.6.2008 16:32:31: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (526, 1055, 19), Map Tokuno
+16.6.2008 16:32:32: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (521, 1050, 20), Map Tokuno
+16.6.2008 16:32:32: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (516, 1045, 21), Map Tokuno
+16.6.2008 16:32:33: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (513, 1042, 23), Map Tokuno
+16.6.2008 16:32:34: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (511, 1038, 26), Map Tokuno
+16.6.2008 16:32:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add cook'
+16.6.2008 16:32:34: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (511, 1030, 27), Map Tokuno
+16.6.2008 16:32:35: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (512, 1026, 26), Map Tokuno
+16.6.2008 16:32:36: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (513, 1025, 26), Map Tokuno
+16.6.2008 16:32:36: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (514, 1019, 17), Map Tokuno
+16.6.2008 16:32:37: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (516, 1015, 16), Map Tokuno
+16.6.2008 16:32:37: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (522, 1009, 21), Map Tokuno
+16.6.2008 16:32:38: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (528, 1003, 30), Map Tokuno
+16.6.2008 16:32:39: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (531, 998, 47), Map Tokuno
+16.6.2008 16:32:39: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (529, 996, 30), Map Tokuno
+16.6.2008 16:32:40: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (529, 996, 30), Map Tokuno
+16.6.2008 16:34:14: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 16:34:46: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 16:34:50: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (537, 953, 34) in Tokuno: "XmlSpawner"
+16.6.2008 16:34:50: 89.102.63.77: Serials: 0x4002122E; 
+16.6.2008 16:34:59: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') added to XmlSpawner 0x4002122E 'Spawner' [537, 953] (Tokuno) : hiryu
+16.6.2008 16:34:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add pan'
+16.6.2008 16:35:06: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') changed XmlSpawner 0x4002122E 'Spawner' [537, 953] (Tokuno) : hiryu to Hiryu
+16.6.2008 16:35:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 623, -88) in Malas: "RollingPin"
+16.6.2008 16:35:12: 85.70.219.31: Serials: 0x40021288; 
+16.6.2008 16:35:12: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'MaxDelay' of 0x4002122E (XmlSpawner) to '00:00:00'
+16.6.2008 16:35:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'MinDelay' of 0x4002122E (XmlSpawner) to '00:00:00'
+16.6.2008 16:35:21: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'SpawnRange' of 0x4002122E (XmlSpawner) to '0'
+16.6.2008 16:35:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'HomeRange' of 0x4002122E (XmlSpawner) to '0'
+16.6.2008 16:35:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add foodde'
+16.6.2008 16:36:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 16:36:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 623, -88) in Malas: "Dough"
+16.6.2008 16:36:12: 85.70.219.31: Serials: 0x40021C0A; 
+16.6.2008 16:36:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 623, -88) in Malas: "JarHoney"
+16.6.2008 16:36:22: 85.70.219.31: Serials: 0x40021C1D; 
+16.6.2008 16:36:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'ToTTotalMonsterFame' of 0x50A "Slay with honor" ('hashak') to '229000'
+16.6.2008 16:36:27: 85.70.219.31: Crafting 0x40021C1F (FoodEngraver) with craft system DefCooking
+16.6.2008 16:36:45: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 16:36:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set changes 30000'
+16.6.2008 16:36:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set changes 30000'
+16.6.2008 16:36:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 16:37:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'UsesRemaining' of 0x40021C1F (FoodEngraver) to '50000'
+16.6.2008 16:37:17: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 16:37:19: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4ACE "a hiryu" (no account)
+16.6.2008 16:37:21: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400221D8 (Corpse)
+16.6.2008 16:37:21: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4002210F (Corpse)
+16.6.2008 16:37:22: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400220BF (Corpse)
+16.6.2008 16:37:22: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021FA4 (Corpse)
+16.6.2008 16:37:23: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021F67 (Corpse)
+16.6.2008 16:37:23: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021F30 (Corpse)
+16.6.2008 16:37:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021EB5 (Corpse)
+16.6.2008 16:37:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021E9B (Corpse)
+16.6.2008 16:37:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021E71 (Corpse)
+16.6.2008 16:37:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021DF5 (Corpse)
+16.6.2008 16:37:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021D58 (Corpse)
+16.6.2008 16:37:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021D02 (Corpse)
+16.6.2008 16:37:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021C58 (Corpse)
+16.6.2008 16:37:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021BD3 (Corpse)
+16.6.2008 16:37:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021BA7 (Corpse)
+16.6.2008 16:37:28: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021B6E (Corpse)
+16.6.2008 16:37:28: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021B25 (Corpse)
+16.6.2008 16:37:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021AD3 (Corpse)
+16.6.2008 16:37:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021A77 (Corpse)
+16.6.2008 16:37:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021A20 (Corpse)
+16.6.2008 16:37:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400219EC (Corpse)
+16.6.2008 16:37:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400217DA (Corpse)
+16.6.2008 16:37:31: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021755 (Corpse)
+16.6.2008 16:37:31: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021648 (Corpse)
+16.6.2008 16:37:32: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40021535 (Corpse)
+16.6.2008 16:37:33: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4AE4 "a hiryu" (no account)
+16.6.2008 16:37:36: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4002122E (XmlSpawner)
+16.6.2008 16:37:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add unbaked'
+16.6.2008 16:37:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (891, 624, -82) in Malas: "UnbakedMeatPie"
+16.6.2008 16:37:51: 85.70.219.31: Serials: 0x400228FB; 
+16.6.2008 16:37:56: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 16:37:59: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 16:38:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 16:38:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add innke'
+16.6.2008 16:38:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'ToTTotalMonsterFame' of 0x50A "Slay with honor" ('hashak') to '590000'
+16.6.2008 16:38:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (893, 626, -88) in Malas: "InnKeeper"
+16.6.2008 16:38:32: 85.70.219.31: Serials: 0x4AE8; 
+16.6.2008 16:38:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 16:38:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4AE8 "Collin" (no account)
+16.6.2008 16:38:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add che'
+16.6.2008 16:38:48: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x1 "Elamor" ('Elamor'), Location (893, 623, -88), Map Malas
+16.6.2008 16:38:51: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x1 "Elamor" ('Elamor'), Location (893, 623, -88), Map Malas
+16.6.2008 16:38:54: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (515, 968, 33), Map Tokuno
+16.6.2008 16:39:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'staff :D'
+16.6.2008 16:39:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add dough'
+16.6.2008 16:39:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 625, -82) in Malas: "dough"
+16.6.2008 16:39:11: 85.70.219.31: Serials: 0x40022D38; 
+16.6.2008 16:39:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add dough'
+16.6.2008 16:39:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 625, -82) in Malas: "dough"
+16.6.2008 16:39:13: 85.70.219.31: Serials: 0x40022D79; 
+16.6.2008 16:39:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add flour'
+16.6.2008 16:39:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (893, 627, -88) in Malas: "SackFlour"
+16.6.2008 16:39:31: 85.70.219.31: Serials: 0x40022EB7; 
+16.6.2008 16:39:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 626, -88) in Malas: "BowlFlour"
+16.6.2008 16:39:33: 85.70.219.31: Serials: 0x40022EBD; 
+16.6.2008 16:39:34: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x1 "Elamor" ('Elamor'), Location (893, 626, -88), Map Malas
+16.6.2008 16:40:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (532, 995, 56), Map Tokuno
+16.6.2008 16:40:43: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x1 "Elamor" ('Elamor'), Location (893, 627, -88), Map Malas
+16.6.2008 16:42:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'ToTTotalMonsterFame' of 0x50A "Slay with honor" ('hashak') to '650000'
+16.6.2008 16:42:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 16:42:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x887 "a horse" (no account)
+16.6.2008 16:43:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add golbet'
+16.6.2008 16:43:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add tinkertools'
+16.6.2008 16:43:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 627, -68) in Malas: "tinkertools"
+16.6.2008 16:43:53: 85.70.219.31: Serials: 0x40023E0A; 
+16.6.2008 16:44:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add goblet'
+16.6.2008 16:44:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 626, -62) in Malas: "goblet"
+16.6.2008 16:44:38: 85.70.219.31: Serials: 0x40023FAF; 
+16.6.2008 16:45:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:45:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40023CFB (Pitcher)
+16.6.2008 16:46:10: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 16:46:14: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x787 "Eleanor" ('Thomas1'), Location (5282, 1184, 0), Map Felucca
+16.6.2008 16:46:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 16:46:18: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0xD2A "Theogil" ('Theogil'), Location (957, 545, -30), Map Malas
+16.6.2008 16:46:34: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 16:46:57: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Oziram se'
+16.6.2008 16:47:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk Chlastam s Thunderem'
+16.6.2008 16:47:33: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Chlastam s Elamorem'
+16.6.2008 16:47:37: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Chlastam s Elamorem'
+16.6.2008 16:47:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 16:48:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x694 "Nicole" (no account)
+16.6.2008 16:48:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add premiumsp'
+16.6.2008 16:48:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 632, -68) in Malas: "PremiumSpawner"
+16.6.2008 16:48:20: 85.70.219.31: Serials: 0x40024820; 
+16.6.2008 16:48:22: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk Sleeping'
+16.6.2008 16:48:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'SpawnRange' of 0x40024820 (PremiumSpawner) to '1'
+16.6.2008 16:48:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HomeRange' of 0x40024820 (PremiumSpawner) to '1'
+16.6.2008 16:49:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 16:49:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4EE7 "Drucilla" (no account)
+16.6.2008 16:49:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'HomeRange' of 0x40024820 (PremiumSpawner) to '0'
+16.6.2008 16:52:07: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 16:54:07: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 16:57:03: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 16:57:35: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 16:59:21: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 17:00:31: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:00:33: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:00:37: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'help '
+16.6.2008 17:00:54: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'ma '
+16.6.2008 17:00:57: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'msg '
+16.6.2008 17:01:00: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'mu '
+16.6.2008 17:01:06: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'mult '
+16.6.2008 17:01:10: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'st '
+16.6.2008 17:01:22: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e '
+16.6.2008 17:02:03: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 17:02:55: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk Sleeping'
+16.6.2008 17:08:57: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e '
+16.6.2008 17:09:42: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e '
+16.6.2008 17:11:42: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e '
+16.6.2008 17:12:25: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'jailinfo '
+16.6.2008 17:21:31: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e '
+16.6.2008 17:24:00: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 17:33:30: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:33:33: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:33:35: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:33:44: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e '
+16.6.2008 17:33:45: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:34:15: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:34:25: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:34:26: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:34:27: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:34:27: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:34:28: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:34:28: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:34:29: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:34:41: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e '
+16.6.2008 17:34:48: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c '
+16.6.2008 17:36:06: 90.183.248.253: Player 0x8337 "Nicitel ONAN" ('Apofis') used command 'c Wooot ?'
+16.6.2008 17:36:14: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e '
+16.6.2008 17:37:03: 90.183.248.253: Player 0x8337 "Nicitel ONAN" ('Apofis') used command 'c Kdy dostanu toho totema ??'
+16.6.2008 17:37:15: 90.183.248.253: Player 0x8337 "Nicitel ONAN" ('Apofis') used command 'c '
+16.6.2008 17:37:30: 90.183.248.253: Player 0x8337 "Nicitel ONAN" ('Apofis') used command 'c '
+16.6.2008 17:37:31: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'e hejj'
+16.6.2008 17:37:34: 85.248.66.116: Player 0x787 "Eleanor" ('Thomas1') used command 'c heeeej'
+16.6.2008 17:40:57: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk Sleeping'
+16.6.2008 17:43:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 17:44:14: 85.248.66.7: Player 0x90F4 "Zevl" ('zevl') used command 'c kde sou ty totemy ?'
+16.6.2008 17:44:34: 90.183.248.253: Player 0x8337 "Nicitel ONAN" ('Apofis') used command 'c jo !'
+16.6.2008 17:48:15: 85.248.66.7: Player 0x90F4 "Zevl" ('zevl') used command 'c help'
+16.6.2008 17:48:22: 85.248.66.7: Player 0x90F4 "Zevl" ('zevl') used command 'c v buku je PK'
+16.6.2008 17:48:41: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'c njn, felluca je pro PKcka :P'
+16.6.2008 17:48:54: 83.208.83.118: Player 0x90F2 "Pokemon" ('bastik') used command 'c nemel'
+16.6.2008 17:49:03: 83.208.83.118: Player 0x90F2 "Pokemon" ('bastik') used command 'c muhaha'
+16.6.2008 17:49:14: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Chlastam s Elamorem'
+16.6.2008 17:49:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 17:50:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 17:50:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c doufam ze to tu nebude same PK'
+16.6.2008 17:51:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 17:54:50: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk zevle...'
+16.6.2008 17:54:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 17:55:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 17:56:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 17:57:17: 85.248.66.7: Player 0x90F4 "Zevl" ('zevl') used command 'c kupim lrc a chci totem'
+16.6.2008 17:57:49: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk sleeping'
+16.6.2008 17:58:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 17:58:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002D05A (DeathRobe)
+16.6.2008 17:58:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002CEE1 (DeathRobe)
+16.6.2008 17:58:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002CF1E (DeathRobe)
+16.6.2008 17:58:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002E6FE (DeathRobe)
+16.6.2008 17:58:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002D03F (DeathRobe)
+16.6.2008 17:58:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002D027 (DeathRobe)
+16.6.2008 17:59:52: 85.248.66.7: Player 0x90F4 "Zevl" ('zevl') used command 'c '
+16.6.2008 18:00:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'speedboost '
+16.6.2008 18:01:45: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add cont'
+16.6.2008 18:01:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 628, -68) in Malas: "BarkeepContract"
+16.6.2008 18:01:48: 85.70.219.31: Serials: 0x4002EBE0; 
+16.6.2008 18:02:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 18:02:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002EBE6 (HalfApron)
+16.6.2008 18:04:46: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk sleeping'
+16.6.2008 18:05:58: 90.183.248.253: Player 0x9144 "Thermoregulator" ('Apofis') used command 'c '
+16.6.2008 18:09:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add deedst'
+16.6.2008 18:09:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 628, -68) in Malas: "PlayerBBEast"
+16.6.2008 18:09:22: 85.70.219.31: Serials: 0x4002F06A; 
+16.6.2008 18:09:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 18:09:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4002F06A (PlayerBBEast)
+16.6.2008 18:12:53: 85.248.66.7: Player 0x90F4 "Zevl" ('zevl') used command 'c '
+16.6.2008 18:15:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 18:16:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go haven'
+16.6.2008 18:16:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go '
+16.6.2008 18:16:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go newhaven'
+16.6.2008 18:17:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 18:17:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'kill '
+16.6.2008 18:17:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') killing 0x945F "Sugbu" (no account)
+16.6.2008 18:17:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 18:18:37: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 18:52:45: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 18:53:25: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk sleeping'
+16.6.2008 19:03:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 19:08:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 19:27:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 19:28:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 19:28:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40021C1F (FoodEngraver)
+16.6.2008 19:29:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'bank '
+16.6.2008 19:29:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') opening bank box of 0x50A "Slay with honor" ('hashak')
+16.6.2008 19:30:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 19:33:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c Restart 1 minuta'
+16.6.2008 19:34:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c restart 30 sec'
+16.6.2008 19:34:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 19:34:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c 5 sec'
+16.6.2008 19:35:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 16.6.2008 19:42:41
+
+16.6.2008 19:43:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 19:44:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'freeze '
+16.6.2008 19:44:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') invoking freeze from (904, 626) to (904, 626) in Malas
+16.6.2008 19:44:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 19:44:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Frozen True'
+16.6.2008 19:44:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Frozen' of 0x889 "a horse" (no account) to 'True'
+16.6.2008 19:44:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 19:44:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 19:44:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x889 "a horse" (no account) to 'AI_Vendor'
+16.6.2008 19:44:58: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 19:45:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x889 "a horse" (no account) to 'North'
+16.6.2008 19:46:19: 85.70.219.31: Player 0x681 "Thunderhammer" ('Anthrax') used command 'afk Spolecenska unava...'
+16.6.2008 19:46:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk Chlasta s Thunderhammerem'
+16.6.2008 19:48:20: 85.160.25.36: Player 0x50A "Slay with honor" ('hashak') used command 'c '
+16.6.2008 19:53:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 19:53:06: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (1425, 1688, 0), Map Felucca
+16.6.2008 19:53:36: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'bank '
+16.6.2008 19:53:37: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') opening bank box of 0x50A "Slay with honor" ('hashak')
+16.6.2008 19:54:12: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 19:54:39: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 19:54:43: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x681 "Thunderhammer" ('Anthrax'), Location (898, 626, -68), Map Malas
+16.6.2008 19:55:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'go luna'
+16.6.2008 19:55:54: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 19:55:58: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x50A "Slay with honor" ('hashak'), Location (1428, 1691, 0), Map Felucca
+16.6.2008 19:56:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') Opening Skills gump of 0x50A "Slay with honor" ('hashak') 
+16.6.2008 20:04:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 20:05:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 20:11:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 20:11:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add admin'
+16.6.2008 20:11:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 627, -68) in Malas: "AdminRobe"
+16.6.2008 20:11:57: 85.70.219.31: Serials: 0x40013AFF; 
+16.6.2008 20:12:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 20:12:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40013AFF (AdminRobe)
+16.6.2008 20:16:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 20:16:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 20:19:45: 85.70.206.163: Player 0x9306 "Gamabunta" ('KingLukas') used command 'c '
+16.6.2008 20:19:53: 85.70.206.163: Player 0x9306 "Gamabunta" ('KingLukas') used command 'c '
+16.6.2008 20:20:08: 85.70.206.163: Player 0x9306 "Gamabunta" ('KingLukas') used command 'c '
+16.6.2008 20:20:24: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk sleeping'
+16.6.2008 20:27:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 20:27:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'speedboost '
+16.6.2008 20:28:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c budu muset destart. Bylo pridano Message of the day.'
+16.6.2008 20:28:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c restart'
+16.6.2008 20:28:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c 30 sec'
+16.6.2008 20:28:21: 85.70.206.163: Player 0x9306 "Gamabunta" ('KingLukas') used command 'c '
+16.6.2008 20:29:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 16.6.2008 20:31:23
+
+16.6.2008 20:33:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'totd '
+16.6.2008 20:33:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'totd Zahajeno upozornovani na novinky pomoci totd'
+16.6.2008 20:35:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 16.6.2008 20:37:10
+
+16.6.2008 20:37:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:37:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:39:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 20:39:08: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x1 "Elamor" ('Elamor'), Location (896, 626, -68), Map Malas
+16.6.2008 20:39:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 20:39:34: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 20:43:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:43:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:43:57: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:44:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:44:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:44:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:45:09: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:45:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:47:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:47:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'motd '
+16.6.2008 20:47:26: 85.70.206.163: Player 0x9306 "Gamabunta" ('KingLukas') used command 'c '
+16.6.2008 20:47:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 20:47:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 20:48:01: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'ActiveSpeed' of 0x889 "a horse" (no account) to '0'
+16.6.2008 20:48:10: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 20:48:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') telling 0x9306 "Gamabunta" ('KingLukas') "neutečeš" 
+16.6.2008 20:48:19: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (987, 528, -50), Map Malas
+16.6.2008 20:48:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 20:48:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c MOTD je funkcni. KDykoliv napisete motd otevre se vam okno ve kterem se snad uz budete'
+16.6.2008 20:48:51: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (915, 625, -90), Map Malas
+16.6.2008 20:48:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c orientovat. Po pristim restartu jiz bude v cestine'
+16.6.2008 20:49:08: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 20:49:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set hits 30000'
+16.6.2008 20:49:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'hits' of 0x9367 "Patrik" ('Gamemaster1') to '30000'
+16.6.2008 20:49:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 20:50:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Blessed True'
+16.6.2008 20:50:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Blessed' of 0x9306 "Gamabunta" ('KingLukas') to 'True'
+16.6.2008 20:50:18: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'noinvul '
+16.6.2008 20:50:21: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'blessed' of 0x9306 "Gamabunta" ('KingLukas') to 'False'
+16.6.2008 20:50:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'Set Hidden False'
+16.6.2008 20:50:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Hidden' of 0x9306 "Gamabunta" ('KingLukas') to 'False'
+16.6.2008 20:50:58: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'invul '
+16.6.2008 20:50:59: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'blessed' of 0x9367 "Patrik" ('Gamemaster1') to 'True'
+16.6.2008 20:51:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 20:51:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'afk chlastam'
+16.6.2008 20:51:38: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'speedboost '
+16.6.2008 20:52:01: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'props '
+16.6.2008 20:52:08: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'GamblePot' of 0x40019B74 (GamblingStone) to '521000'
+16.6.2008 20:52:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 20:53:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 20:53:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x9367 "Patrik" ('Gamemaster1') to (943, 617, -83)
+16.6.2008 20:53:49: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk Uklizim'
+16.6.2008 20:53:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk '
+16.6.2008 20:53:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk Delam veceri'
+16.6.2008 20:55:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 20:56:27: 85.70.206.163: Player 0x9306 "Gamabunta" ('KingLukas') used command 'c '
+16.6.2008 20:57:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 20:57:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001CA43 (StoneChair)
+16.6.2008 20:57:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x73A "a blade spirit" (no account)
+16.6.2008 20:57:11: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+16.6.2008 20:57:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duping 0x4001CA3E (StoneChair) (inBag=False; amount=1)
+16.6.2008 20:57:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') duped 0x4001CA3E (StoneChair) creating 0x40016726 (StoneChair)
+16.6.2008 20:57:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 20:57:17: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40016726 (StoneChair) to (900, 626, -68)
+16.6.2008 20:57:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 20:57:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 20:57:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x73B "a blade spirit" (no account) to (893, 613, -95)
+16.6.2008 20:57:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 20:57:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x73C "a blade spirit" (no account) to (896, 615, -95)
+16.6.2008 20:57:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 20:57:37: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x9306 "Gamabunta" ('KingLukas') to (884, 629, -95)
+16.6.2008 20:57:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 20:57:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x9306 "Gamabunta" ('KingLukas') to (879, 626, -95)
+16.6.2008 20:58:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk Delam veceri'
+16.6.2008 20:58:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'jail 0 0 0 1 Vandalismus'
+16.6.2008 20:59:20: 85.70.206.163: Player 0x9306 "Gamabunta" ('KingLukas') used command 'jailinfo '
+16.6.2008 20:59:21: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 21:00:33: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 21:00:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 21:01:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'AI' of 0x889 "a horse" (no account) to 'AI_Animal'
+16.6.2008 21:01:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Controlled' of 0x889 "a horse" (no account) to 'True'
+16.6.2008 21:01:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'ControlOrder' of 0x889 "a horse" (no account) to 'Stay'
+16.6.2008 21:01:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x889 "a horse" (no account) to 'North'
+16.6.2008 21:01:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x889 "a horse" (no account) to 'East'
+16.6.2008 21:01:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x889 "a horse" (no account) to 'North'
+16.6.2008 21:02:49: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (901, 630, -28), Map Malas
+16.6.2008 21:02:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 21:02:52: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (895, 627, -28), Map Malas
+16.6.2008 21:02:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (894, 626, -28), Map Malas
+16.6.2008 21:02:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (892, 624, -28), Map Malas
+16.6.2008 21:02:54: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (893, 623, -28), Map Malas
+16.6.2008 21:02:54: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (893, 623, -28), Map Malas
+16.6.2008 21:02:54: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (893, 623, -28), Map Malas
+16.6.2008 21:02:54: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (893, 623, -28), Map Malas
+16.6.2008 21:02:55: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (896, 635, -48), Map Malas
+16.6.2008 21:02:55: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (896, 635, -48), Map Malas
+16.6.2008 21:02:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x4001578D (BagOfAllReagents) to (896, 627, -68)
+16.6.2008 21:02:55: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (896, 635, -48), Map Malas
+16.6.2008 21:02:56: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (896, 635, -48), Map Malas
+16.6.2008 21:02:56: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (896, 635, -48), Map Malas
+16.6.2008 21:02:57: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (896, 635, -48), Map Malas
+16.6.2008 21:02:57: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (896, 635, -48), Map Malas
+16.6.2008 21:02:57: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (896, 635, -48), Map Malas
+16.6.2008 21:02:57: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (897, 636, -48), Map Malas
+16.6.2008 21:02:58: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (897, 636, -48), Map Malas
+16.6.2008 21:02:58: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (896, 635, -48), Map Malas
+16.6.2008 21:03:00: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (895, 626, -28), Map Malas
+16.6.2008 21:03:02: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (900, 629, -28), Map Malas
+16.6.2008 21:03:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (900, 630, -28), Map Malas
+16.6.2008 21:03:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (898, 630, -28), Map Malas
+16.6.2008 21:03:04: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (898, 628, -28), Map Malas
+16.6.2008 21:03:04: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (897, 627, -28), Map Malas
+16.6.2008 21:03:04: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (895, 627, -28), Map Malas
+16.6.2008 21:03:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (894, 627, -28), Map Malas
+16.6.2008 21:03:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (892, 625, -28), Map Malas
+16.6.2008 21:03:06: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (893, 623, -28), Map Malas
+16.6.2008 21:03:06: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') going to 0x9306 "Gamabunta" ('KingLukas'), Location (893, 624, -28), Map Malas
+16.6.2008 21:03:17: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') bringing 0x9306 "Gamabunta" ('KingLukas') to Location (897, 636, -48), Map Malas
+16.6.2008 21:03:20: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+16.6.2008 21:03:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') moving 0x9306 "Gamabunta" ('KingLukas') to (895, 627, -68)
+16.6.2008 21:03:56: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'bank '
+16.6.2008 21:04:00: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') opening bank box of 0x9306 "Gamabunta" ('KingLukas')
+16.6.2008 21:04:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 21:04:05: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x40016674 (BagOfReagents) to (896, 627, -68)
+16.6.2008 21:04:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'bank '
+16.6.2008 21:04:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'bank '
+16.6.2008 21:04:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') opening bank box of 0x9306 "Gamabunta" ('KingLukas')
+16.6.2008 21:05:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'bank '
+16.6.2008 21:05:00: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') opening bank box of 0x9306 "Gamabunta" ('KingLukas')
+16.6.2008 21:05:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk Delam veceri'
+16.6.2008 21:06:23: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') bringing 0x9306 "Gamabunta" ('KingLukas') to Location (898, 626, -68), Map Malas
+16.6.2008 21:06:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') moving 0x9306 "Gamabunta" ('KingLukas') to (898, 625, -67)
+16.6.2008 21:06:32: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 21:06:34: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x768 "a blade spirit" (no account)
+16.6.2008 21:06:36: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 21:06:47: 85.70.206.163: Player 0x9306 "Gamabunta" ('KingLukas') used command 'c '
+16.6.2008 21:06:48: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 625, -62) in Malas: "Cake"
+16.6.2008 21:06:48: 89.102.63.77: Serials: 0x40016A48; 
+16.6.2008 21:06:49: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 626, -61) in Malas: "Cake"
+16.6.2008 21:06:49: 89.102.63.77: Serials: 0x40016A49; 
+16.6.2008 21:06:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 626, -62) in Malas: "Cake"
+16.6.2008 21:06:53: 89.102.63.77: Serials: 0x40016A4A; 
+16.6.2008 21:06:54: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 625, -62) in Malas: "Cake"
+16.6.2008 21:06:54: 89.102.63.77: Serials: 0x40016A4B; 
+16.6.2008 21:06:59: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 625, -62) in Malas: "Cake"
+16.6.2008 21:06:59: 89.102.63.77: Serials: 0x40016A4E; 
+16.6.2008 21:07:00: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 625, -62) in Malas: "Cake"
+16.6.2008 21:07:00: 89.102.63.77: Serials: 0x40016A4F; 
+16.6.2008 21:07:00: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 625, -62) in Malas: "Cake"
+16.6.2008 21:07:00: 89.102.63.77: Serials: 0x40016A50; 
+16.6.2008 21:07:02: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 626, -62) in Malas: "Cake"
+16.6.2008 21:07:02: 89.102.63.77: Serials: 0x40016A51; 
+16.6.2008 21:07:02: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 626, -62) in Malas: "Cake"
+16.6.2008 21:07:02: 89.102.63.77: Serials: 0x40016A52; 
+16.6.2008 21:07:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 626, -62) in Malas: "Cake"
+16.6.2008 21:07:03: 89.102.63.77: Serials: 0x40016A53; 
+16.6.2008 21:07:09: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (900, 627, -62) in Malas: "Cake"
+16.6.2008 21:07:09: 89.102.63.77: Serials: 0x40016A54; 
+16.6.2008 21:07:10: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (902, 627, -62) in Malas: "Cake"
+16.6.2008 21:07:10: 89.102.63.77: Serials: 0x40016A56; 
+16.6.2008 21:07:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (900, 631, -62) in Malas: "Cake"
+16.6.2008 21:07:11: 89.102.63.77: Serials: 0x40016A57; 
+16.6.2008 21:07:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (900, 632, -62) in Malas: "Cake"
+16.6.2008 21:07:11: 89.102.63.77: Serials: 0x40016A58; 
+16.6.2008 21:07:12: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (901, 627, -62) in Malas: "Cake"
+16.6.2008 21:07:12: 89.102.63.77: Serials: 0x40016A59; 
+16.6.2008 21:07:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 632, -62) in Malas: "Cake"
+16.6.2008 21:07:13: 89.102.63.77: Serials: 0x40016A5A; 
+16.6.2008 21:07:13: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 631, -62) in Malas: "Cake"
+16.6.2008 21:07:13: 89.102.63.77: Serials: 0x40016A5B; 
+16.6.2008 21:07:14: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (899, 636, -62) in Malas: "Cake"
+16.6.2008 21:07:14: 89.102.63.77: Serials: 0x40016A5C; 
+16.6.2008 21:07:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (896, 636, -62) in Malas: "Cake"
+16.6.2008 21:07:16: 89.102.63.77: Serials: 0x40016A5D; 
+16.6.2008 21:07:17: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 638, -48) in Malas: "Cake"
+16.6.2008 21:07:17: 89.102.63.77: Serials: 0x40016A5E; 
+16.6.2008 21:07:18: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (899, 637, -62) in Malas: "Cake"
+16.6.2008 21:07:18: 89.102.63.77: Serials: 0x40016A60; 
+16.6.2008 21:07:20: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 638, -48) in Malas: "Cake"
+16.6.2008 21:07:20: 89.102.63.77: Serials: 0x40016A61; 
+16.6.2008 21:07:22: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (896, 637, -62) in Malas: "Cake"
+16.6.2008 21:07:22: 89.102.63.77: Serials: 0x40016A62; 
+16.6.2008 21:07:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 625, -62) in Malas: "RewardCake"
+16.6.2008 21:07:25: 89.102.63.77: Serials: 0x40016A63; 
+16.6.2008 21:07:36: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 628, -68) in Malas: "CakeMix"
+16.6.2008 21:07:36: 89.102.63.77: Serials: 0x40016A64; 
+16.6.2008 21:07:42: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 21:07:45: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40016A63 (RewardCake)
+16.6.2008 21:07:46: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40016A64 (CakeMix)
+16.6.2008 21:08:01: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 625, -62) in Malas: "CheesePizza"
+16.6.2008 21:08:01: 89.102.63.77: Serials: 0x40016A65; 
+16.6.2008 21:08:02: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 626, -62) in Malas: "CheesePizza"
+16.6.2008 21:08:02: 89.102.63.77: Serials: 0x40016A66; 
+16.6.2008 21:08:06: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 21:08:07: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40016A58 (Cake)
+16.6.2008 21:08:08: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40016A57 (Cake)
+16.6.2008 21:08:09: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40016A5B (Cake)
+16.6.2008 21:08:09: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40016A5A (Cake)
+16.6.2008 21:08:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40016A62 (Cake)
+16.6.2008 21:08:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40016A5D (Cake)
+16.6.2008 21:08:17: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (900, 632, -62) in Malas: "CheesePizza"
+16.6.2008 21:08:17: 89.102.63.77: Serials: 0x40016AB3; 
+16.6.2008 21:08:17: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (900, 631, -62) in Malas: "CheesePizza"
+16.6.2008 21:08:17: 89.102.63.77: Serials: 0x40016AD2; 
+16.6.2008 21:08:20: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 631, -62) in Malas: "SausagePizza"
+16.6.2008 21:08:20: 89.102.63.77: Serials: 0x40016AD4; 
+16.6.2008 21:08:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (897, 632, -62) in Malas: "SausagePizza"
+16.6.2008 21:08:24: 89.102.63.77: Serials: 0x40016C39; 
+16.6.2008 21:08:28: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (898, 628, -68) in Malas: "UncookedCheesePizza"
+16.6.2008 21:08:28: 89.102.63.77: Serials: 0x40016C3A; 
+16.6.2008 21:08:34: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+16.6.2008 21:08:35: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40016C3A (UncookedCheesePizza)
+16.6.2008 21:08:37: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') building at (896, 636, -62) in Malas: "CheesePizza"
+16.6.2008 21:08:37: 89.102.63.77: Serials: 0x40016C3B; 
+16.6.2008 21:23:09: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 21:28:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 21:28:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'restart '
+##############################
+Log started on 16.6.2008 21:30:31
+
+16.6.2008 21:31:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 21:31:10: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'c zk'
+16.6.2008 21:31:15: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'c paráááááádá!!!'
+16.6.2008 21:31:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'c patrik je mentál'
+16.6.2008 21:31:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'c kdo to řek!'
+16.6.2008 21:31:34: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'g ten je rek'
+16.6.2008 21:31:39: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'c tak ten je rek'
+16.6.2008 21:31:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk koukame na film'
+16.6.2008 21:31:42: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add '
+16.6.2008 21:31:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 21:31:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'afk koukame na film'
+16.6.2008 21:31:52: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 21:36:12: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+16.6.2008 21:36:23: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'dupe '
+16.6.2008 21:36:35: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 21:43:20: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+16.6.2008 21:48:56: 83.240.75.46: Player 0x6A2 "Alik" ('aldam') used command 'c '
+16.6.2008 22:02:58: 83.240.75.46: Player 0x6A2 "Alik" ('aldam') used command 'c '
+16.6.2008 22:03:43: 83.240.75.46: Player 0x6A2 "Alik" ('aldam') used command 'c '
+16.6.2008 22:04:17: 83.240.75.46: Player 0x6A2 "Alik" ('aldam') used command 'c halooo'
+16.6.2008 22:07:28: 83.240.75.46: Player 0x6A2 "Alik" ('aldam') used command 'afk '
+16.6.2008 22:08:04: 83.240.75.46: Player 0x6A2 "Alik" ('aldam') used command 'afk odpočívám'
+16.6.2008 22:08:10: 83.240.75.46: Player 0x6A2 "Alik" ('aldam') used command 'afk odpočívám'
+16.6.2008 23:10:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'c '
+16.6.2008 23:11:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 23:11:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x6A2 "Alik" ('aldam') to (898, 626, -68)
+16.6.2008 23:12:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set afk enabled'
+16.6.2008 23:14:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add stool'
+16.6.2008 23:14:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (893, 631, -68) in Malas: "stool"
+16.6.2008 23:14:30: 85.70.219.31: Serials: 0x400177F1; 
+16.6.2008 23:14:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 23:14:36: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0x400177F1 (Stool) to (894, 631, -68)
+16.6.2008 23:14:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add stool'
+16.6.2008 23:14:52: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 630, -68) in Malas: "stool"
+16.6.2008 23:14:52: 85.70.219.31: Serials: 0x400177F2; 
+16.6.2008 23:14:54: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add stoo'
+16.6.2008 23:14:59: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (896, 629, -68) in Malas: "AmeliasToolbox"
+16.6.2008 23:14:59: 85.70.219.31: Serials: 0x400177F3; 
+16.6.2008 23:15:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 23:15:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400177F3 (AmeliasToolbox)
+16.6.2008 23:15:20: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 629, -68) in Malas: "Stool"
+16.6.2008 23:15:20: 85.70.219.31: Serials: 0x400177F5; 
+16.6.2008 23:15:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 628, -68) in Malas: "Stool"
+16.6.2008 23:15:21: 85.70.219.31: Serials: 0x400177F6; 
+16.6.2008 23:15:22: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 632, -68) in Malas: "Stool"
+16.6.2008 23:15:22: 85.70.219.31: Serials: 0x400177F7; 
+16.6.2008 23:15:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 633, -68) in Malas: "Stool"
+16.6.2008 23:15:23: 85.70.219.31: Serials: 0x400177F8; 
+16.6.2008 23:15:23: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (894, 634, -68) in Malas: "Stool"
+16.6.2008 23:15:23: 85.70.219.31: Serials: 0x400177F9; 
+16.6.2008 23:16:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add barek'
+16.6.2008 23:16:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (892, 623, -68) in Malas: "BarkeepContract"
+16.6.2008 23:16:24: 85.70.219.31: Serials: 0x400177FB; 
+16.6.2008 23:16:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add stoo'
+16.6.2008 23:16:53: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (892, 622, -68) in Malas: "FootStool"
+16.6.2008 23:16:53: 85.70.219.31: Serials: 0x40017806; 
+16.6.2008 23:17:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 23:17:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 23:17:07: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017806 (FootStool)
+16.6.2008 23:17:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add stoo'
+16.6.2008 23:17:12: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (892, 622, -68) in Malas: "Stool"
+16.6.2008 23:17:12: 85.70.219.31: Serials: 0x40017807; 
+16.6.2008 23:17:18: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 23:17:50: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Direction' of 0x892 "Bandele" (no account) to 'West'
+16.6.2008 23:18:24: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 23:18:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017802 (HalfApron)
+16.6.2008 23:18:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400177FE (ShortPants)
+16.6.2008 23:18:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400177FC (Shirt)
+16.6.2008 23:18:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x400177FD (Boots)
+16.6.2008 23:18:39: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'props '
+16.6.2008 23:19:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Name' of 0x695 "Kai" (no account) to 'Yennefer'
+16.6.2008 23:19:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'Name' of 0x695 "Yennefer" (no account) to 'Yennefer'
+16.6.2008 23:20:42: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'set name Marko'
+16.6.2008 23:20:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') set property 'name' of 0x892 "Bandele" (no account) to 'Marko'
+16.6.2008 23:21:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'dupe '
+16.6.2008 23:21:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add contr'
+16.6.2008 23:21:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 629, -68) in Malas: "BarkeepContract"
+16.6.2008 23:21:32: 85.70.219.31: Serials: 0x400178E6; 
+16.6.2008 23:21:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 629, -67) in Malas: "BarkeepContract"
+16.6.2008 23:21:33: 85.70.219.31: Serials: 0x400178E7; 
+16.6.2008 23:21:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 629, -66) in Malas: "BarkeepContract"
+16.6.2008 23:21:33: 85.70.219.31: Serials: 0x400178E8; 
+16.6.2008 23:21:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 629, -65) in Malas: "BarkeepContract"
+16.6.2008 23:21:34: 85.70.219.31: Serials: 0x400178E9; 
+16.6.2008 23:21:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 629, -64) in Malas: "BarkeepContract"
+16.6.2008 23:21:34: 85.70.219.31: Serials: 0x400179DD; 
+16.6.2008 23:21:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (897, 629, -64) in Malas: "BarkeepContract"
+16.6.2008 23:21:34: 85.70.219.31: Serials: 0x400179E1; 
+16.6.2008 23:22:14: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 23:22:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017AC8 (HalfApron)
+16.6.2008 23:22:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'delete '
+16.6.2008 23:22:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017AF8 (HalfApron)
+16.6.2008 23:23:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 23:23:26: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017B00 (HalfApron)
+16.6.2008 23:23:27: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017AFD (ShortPants)
+16.6.2008 23:23:28: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017AFB (Doublet)
+16.6.2008 23:23:29: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017AFC (Boots)
+16.6.2008 23:23:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add chain'
+16.6.2008 23:23:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "ChainCoif"
+16.6.2008 23:23:40: 85.70.219.31: Serials: 0x40017BBF; 
+16.6.2008 23:23:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "ChainLegs"
+16.6.2008 23:23:43: 85.70.219.31: Serials: 0x40017BC0; 
+16.6.2008 23:23:47: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "ChainChest"
+16.6.2008 23:23:47: 85.70.219.31: Serials: 0x40017BC1; 
+16.6.2008 23:24:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 23:24:03: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017BC1 (ChainChest)
+16.6.2008 23:24:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017BC0 (ChainLegs)
+16.6.2008 23:24:16: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "PlateArms"
+16.6.2008 23:24:16: 85.70.219.31: Serials: 0x40017BC2; 
+16.6.2008 23:24:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "PlateGloves"
+16.6.2008 23:24:25: 85.70.219.31: Serials: 0x40017BC3; 
+16.6.2008 23:24:31: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "PlateChest"
+16.6.2008 23:24:31: 85.70.219.31: Serials: 0x40017BCF; 
+16.6.2008 23:24:35: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "PlateLegs"
+16.6.2008 23:24:35: 85.70.219.31: Serials: 0x40017BD1; 
+16.6.2008 23:24:44: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "PlateHelm"
+16.6.2008 23:24:44: 85.70.219.31: Serials: 0x40017BD4; 
+16.6.2008 23:24:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 23:24:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017BD4 (PlateHelm)
+16.6.2008 23:25:10: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "ResolvesBridle"
+16.6.2008 23:25:10: 85.70.219.31: Serials: 0x40017BD5; 
+16.6.2008 23:25:13: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 23:25:15: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017BD5 (ResolvesBridle)
+16.6.2008 23:25:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "AgapiteHammer"
+16.6.2008 23:25:34: 85.70.219.31: Serials: 0x40017C54; 
+16.6.2008 23:25:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 23:25:43: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x40017C54 (AgapiteHammer)
+16.6.2008 23:25:56: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 636, -68) in Malas: "Bardiche"
+16.6.2008 23:25:56: 85.70.219.31: Serials: 0x40017C55; 
+16.6.2008 23:26:30: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (906, 637, -68) in Malas: "HireBardArcher"
+16.6.2008 23:26:30: 85.70.219.31: Serials: 0xA33; 
+16.6.2008 23:26:41: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 23:26:46: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0xA33 "Finley" (no account) to (893, 634, -68)
+16.6.2008 23:26:48: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'move '
+16.6.2008 23:26:51: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') moving 0xA33 "Finley" (no account) to (898, 632, -68)
+16.6.2008 23:27:02: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+16.6.2008 23:27:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0xA33 "Finley" (no account)
+16.6.2008 23:27:25: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+16.6.2008 23:27:40: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add down'
+16.6.2008 23:28:06: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (893, 622, -68) in Malas: "DawnsMusicBox"
+16.6.2008 23:28:06: 85.70.219.31: Serials: 0x40017C8C; 
+16.6.2008 23:50:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'admin '
+16.6.2008 23:50:32: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') shutting down server (Restart: False) (Save: True)
+16.6.2008 23:50:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'save '

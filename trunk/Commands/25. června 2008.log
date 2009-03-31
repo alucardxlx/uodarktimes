@@ -1,0 +1,349 @@
+##############################
+Log started on 25.6.2008 10:00:34
+
+25.6.2008 10:46:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add board'
+25.6.2008 10:46:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (991, 518, -50) in Malas: "board"
+25.6.2008 10:46:48: 85.70.219.31: Serials: 0x40015C98; 
+25.6.2008 10:46:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set amount 20000'
+25.6.2008 10:46:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'amount' of 0x40015C98 (Board) to '20000'
+25.6.2008 10:47:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+25.6.2008 10:47:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add arcane'
+25.6.2008 10:47:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (949, 613, -23) in Malas: "ArcaneCircleDeed"
+25.6.2008 10:47:44: 85.70.219.31: Serials: 0x40015ED2; 
+25.6.2008 10:48:34: 85.70.219.31: Crafting 0x40015EE6 (AlchemistTableSouthDeed) with craft system DefCarpentry
+25.6.2008 10:48:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 10:48:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40015EE8 (AddonComponent) to (946, 613, -43)
+25.6.2008 10:48:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 10:48:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40015EE8 (AddonComponent) to (944, 613, -43)
+25.6.2008 10:48:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 10:48:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40015EE8 (AddonComponent) to (944, 613, -43)
+25.6.2008 10:48:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 10:48:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40015EE8 (AddonComponent) to (945, 613, -43)
+25.6.2008 10:49:08: 85.70.219.31: Crafting 0x40015EE9 (AlchemistTableSouthDeed) with craft system DefCarpentry
+25.6.2008 10:49:10: 85.70.219.31: Crafting 0x40015EEA (AlchemistTableSouthDeed) with craft system DefCarpentry
+25.6.2008 10:49:31: 85.70.219.31: Crafting 0x40015EEB (ElvenLoveseatSouthDeed) with craft system DefCarpentry
+25.6.2008 10:49:42: 85.70.219.31: Crafting 0x40015EED (ParrotPerchAddonDeed) with craft system DefCarpentry
+25.6.2008 10:49:54: 85.70.219.31: Crafting 0x40015EEE (ElvenBedEastDeed) with craft system DefCarpentry
+25.6.2008 10:50:23: 85.70.219.31: Crafting 0x40015EF2 (PentagramDeed) with craft system DefCarpentry
+25.6.2008 10:50:26: 85.70.219.31: Crafting 0x40015EF3 (PentagramDeed) with craft system DefCarpentry
+25.6.2008 10:50:29: 85.70.219.31: Crafting 0x40015EF5 (PentagramDeed) with craft system DefCarpentry
+25.6.2008 10:50:30: 85.70.219.31: Crafting 0x40015EF6 (PentagramDeed) with craft system DefCarpentry
+25.6.2008 10:50:32: 85.70.219.31: Crafting 0x40015EF7 (PentagramDeed) with craft system DefCarpentry
+25.6.2008 10:50:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set charges 3000'
+25.6.2008 10:50:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+25.6.2008 10:51:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'UsesRemaining' of 0x40019AC5 (Saw) to '2200'
+25.6.2008 10:51:18: 85.70.219.31: Crafting 0x40015EF8 (PlayerBBEast) with craft system DefCarpentry
+25.6.2008 10:51:30: 85.70.219.31: Crafting 0x40015EFA (ElvenForgeDeed) with craft system DefCarpentry
+25.6.2008 10:51:54: 85.70.219.31: Crafting 0x40015EFC (ElvenStoveEastDeed) with craft system DefCarpentry
+25.6.2008 10:52:00: 85.70.219.31: Crafting 0x40015EFD (ElvenSpinningwheelSouthDeed) with craft system DefCarpentry
+25.6.2008 10:52:14: 85.70.219.31: Crafting 0x40015EFE (WaterTroughEastDeed) with craft system DefCarpentry
+25.6.2008 10:52:27: 85.70.219.31: Crafting 0x40015EFF (BambooFlute) with craft system DefCarpentry
+25.6.2008 10:52:37: 85.70.219.31: Crafting 0x40015F04 (BambooFlute) with craft system DefCarpentry
+25.6.2008 10:53:34: 85.70.219.31: Crafting 0x40015F91 (ElvenWashBasinEastDeed) with craft system DefCarpentry
+25.6.2008 10:53:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add axe'
+25.6.2008 10:53:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (948, 615, -43) in Malas: "axe"
+25.6.2008 10:53:50: 85.70.219.31: Serials: 0x40015F97; 
+25.6.2008 10:54:14: 85.70.219.31: Crafting 0x40015F9A (FancyElvenTableEastDeed) with craft system DefCarpentry
+25.6.2008 10:54:17: 85.70.219.31: Crafting 0x40015F9B (FancyElvenTableEastDeed) with craft system DefCarpentry
+25.6.2008 10:54:20: 85.70.219.31: Crafting 0x40015F9F (FancyElvenTableSouthDeed) with craft system DefCarpentry
+25.6.2008 10:54:23: 85.70.219.31: Crafting 0x40015FA0 (FancyElvenTableSouthDeed) with craft system DefCarpentry
+25.6.2008 10:54:42: 85.70.219.31: Crafting 0x40015FA2 (ElvenPodium) with craft system DefCarpentry
+25.6.2008 10:55:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add arcaneboo'
+25.6.2008 10:55:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (949, 614, -43) in Malas: "ArcaneBookshelfEastDeed"
+25.6.2008 10:55:09: 85.70.219.31: Serials: 0x40015FA4; 
+25.6.2008 10:55:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (949, 615, -43) in Malas: "ArcaneBookshelfEastDeed"
+25.6.2008 10:55:10: 85.70.219.31: Serials: 0x40015FA5; 
+25.6.2008 10:55:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (949, 614, -43) in Malas: "ArcaneBookshelfSouthDeed"
+25.6.2008 10:55:12: 85.70.219.31: Serials: 0x40015FA6; 
+25.6.2008 10:55:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (949, 614, -43) in Malas: "ArcaneBookshelfSouthDeed"
+25.6.2008 10:55:13: 85.70.219.31: Serials: 0x40015FA7; 
+25.6.2008 10:55:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add ornatee'
+25.6.2008 10:55:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -43) in Malas: "OrnateElvenChair"
+25.6.2008 10:55:30: 85.70.219.31: Serials: 0x40015FAA; 
+25.6.2008 10:55:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -43) in Malas: "OrnateElvenChair"
+25.6.2008 10:55:31: 85.70.219.31: Serials: 0x40015FAB; 
+25.6.2008 10:55:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -43) in Malas: "OrnateElvenChair"
+25.6.2008 10:55:32: 85.70.219.31: Serials: 0x40015FAC; 
+25.6.2008 10:55:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -43) in Malas: "OrnateElvenChair"
+25.6.2008 10:55:32: 85.70.219.31: Serials: 0x40015FAE; 
+25.6.2008 10:55:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -43) in Malas: "OrnateElvenChair"
+25.6.2008 10:55:32: 85.70.219.31: Serials: 0x40016595; 
+25.6.2008 10:55:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -43) in Malas: "OrnateElvenChair"
+25.6.2008 10:55:32: 85.70.219.31: Serials: 0x40016596; 
+25.6.2008 10:55:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -43) in Malas: "OrnateElvenChair"
+25.6.2008 10:55:33: 85.70.219.31: Serials: 0x40016597; 
+25.6.2008 10:55:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -43) in Malas: "OrnateElvenChest"
+25.6.2008 10:55:35: 85.70.219.31: Serials: 0x40016598; 
+25.6.2008 10:55:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -35) in Malas: "OrnateElvenChest"
+25.6.2008 10:55:35: 85.70.219.31: Serials: 0x40016599; 
+25.6.2008 10:55:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -35) in Malas: "OrnateElvenChest"
+25.6.2008 10:55:35: 85.70.219.31: Serials: 0x400165A7; 
+25.6.2008 10:55:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -35) in Malas: "OrnateElvenChest"
+25.6.2008 10:55:36: 85.70.219.31: Serials: 0x400165C5; 
+25.6.2008 10:55:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -35) in Malas: "OrnateElvenChest"
+25.6.2008 10:55:36: 85.70.219.31: Serials: 0x400165F4; 
+25.6.2008 10:55:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -35) in Malas: "OrnateElvenChest"
+25.6.2008 10:55:36: 85.70.219.31: Serials: 0x400165F5; 
+25.6.2008 10:55:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 614, -35) in Malas: "OrnateElvenChest"
+25.6.2008 10:55:36: 85.70.219.31: Serials: 0x400165F6; 
+25.6.2008 10:55:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 614, -43) in Malas: "OrnateElvenTableEastDeed"
+25.6.2008 10:55:42: 85.70.219.31: Serials: 0x400165F7; 
+25.6.2008 10:55:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 614, -43) in Malas: "OrnateElvenTableEastDeed"
+25.6.2008 10:55:42: 85.70.219.31: Serials: 0x400165F8; 
+25.6.2008 10:55:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 614, -43) in Malas: "OrnateElvenTableSouthDeed"
+25.6.2008 10:55:45: 85.70.219.31: Serials: 0x400165F9; 
+25.6.2008 10:55:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 614, -43) in Malas: "OrnateElvenTableSouthDeed"
+25.6.2008 10:55:45: 85.70.219.31: Serials: 0x400165FB; 
+25.6.2008 10:56:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add decorati'
+25.6.2008 10:56:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -43) in Malas: "DecorativeBox"
+25.6.2008 10:56:11: 85.70.219.31: Serials: 0x40016605; 
+25.6.2008 10:56:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:11: 85.70.219.31: Serials: 0x40016606; 
+25.6.2008 10:56:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:12: 85.70.219.31: Serials: 0x40016607; 
+25.6.2008 10:56:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:12: 85.70.219.31: Serials: 0x40016608; 
+25.6.2008 10:56:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:12: 85.70.219.31: Serials: 0x40016609; 
+25.6.2008 10:56:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:12: 85.70.219.31: Serials: 0x4001660A; 
+25.6.2008 10:56:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:12: 85.70.219.31: Serials: 0x40016614; 
+25.6.2008 10:56:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:13: 85.70.219.31: Serials: 0x40016617; 
+25.6.2008 10:56:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:13: 85.70.219.31: Serials: 0x40016619; 
+25.6.2008 10:56:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:13: 85.70.219.31: Serials: 0x4001661B; 
+25.6.2008 10:56:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:13: 85.70.219.31: Serials: 0x4001661C; 
+25.6.2008 10:56:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:13: 85.70.219.31: Serials: 0x4001661D; 
+25.6.2008 10:56:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:14: 85.70.219.31: Serials: 0x4001661E; 
+25.6.2008 10:56:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:14: 85.70.219.31: Serials: 0x40016621; 
+25.6.2008 10:56:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:14: 85.70.219.31: Serials: 0x40016622; 
+25.6.2008 10:56:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:14: 85.70.219.31: Serials: 0x40016623; 
+25.6.2008 10:56:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:14: 85.70.219.31: Serials: 0x40016624; 
+25.6.2008 10:56:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:14: 85.70.219.31: Serials: 0x40016625; 
+25.6.2008 10:56:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:15: 85.70.219.31: Serials: 0x40016626; 
+25.6.2008 10:56:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (950, 616, -38) in Malas: "DecorativeBox"
+25.6.2008 10:56:15: 85.70.219.31: Serials: 0x40016627; 
+25.6.2008 10:56:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -43) in Malas: "RarewoodChest"
+25.6.2008 10:56:29: 85.70.219.31: Serials: 0x40016628; 
+25.6.2008 10:56:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:29: 85.70.219.31: Serials: 0x40016629; 
+25.6.2008 10:56:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:30: 85.70.219.31: Serials: 0x4001662A; 
+25.6.2008 10:56:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:30: 85.70.219.31: Serials: 0x4001662B; 
+25.6.2008 10:56:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:30: 85.70.219.31: Serials: 0x4001662C; 
+25.6.2008 10:56:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:30: 85.70.219.31: Serials: 0x4001662D; 
+25.6.2008 10:56:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:30: 85.70.219.31: Serials: 0x4001662E; 
+25.6.2008 10:56:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:31: 85.70.219.31: Serials: 0x40016633; 
+25.6.2008 10:56:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:31: 85.70.219.31: Serials: 0x40016634; 
+25.6.2008 10:56:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:31: 85.70.219.31: Serials: 0x40016636; 
+25.6.2008 10:56:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:31: 85.70.219.31: Serials: 0x40016637; 
+25.6.2008 10:56:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:31: 85.70.219.31: Serials: 0x40016638; 
+25.6.2008 10:56:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 615, -38) in Malas: "RarewoodChest"
+25.6.2008 10:56:31: 85.70.219.31: Serials: 0x40016647; 
+25.6.2008 10:59:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add pentagr'
+25.6.2008 10:59:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (949, 614, -43) in Malas: "PentagramAddon"
+25.6.2008 10:59:41: 85.70.219.31: Serials: 0x40016670; 
+25.6.2008 10:59:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 10:59:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40016678 (AddonComponent) to (950, 615, -43)
+25.6.2008 11:04:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+25.6.2008 11:04:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add parro'
+25.6.2008 11:04:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 617, -83) in Malas: "PetParrot"
+25.6.2008 11:04:41: 85.70.219.31: Serials: 0x43A; 
+25.6.2008 11:04:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:04:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x43A "a pet parrot" (no account)
+25.6.2008 11:04:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 612, -83) in Malas: "Parrot"
+25.6.2008 11:04:54: 85.70.219.31: Serials: 0x43B; 
+25.6.2008 11:04:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 611, -83) in Malas: "Parrot"
+25.6.2008 11:04:56: 85.70.219.31: Serials: 0x43C; 
+25.6.2008 11:04:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (955, 612, -83) in Malas: "Parrot"
+25.6.2008 11:04:58: 85.70.219.31: Serials: 0x43D; 
+25.6.2008 11:05:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (958, 612, -83) in Malas: "ParrotWafer"
+25.6.2008 11:05:04: 85.70.219.31: Serials: 0x400177E8; 
+25.6.2008 11:05:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:05:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400177E8 (ParrotWafer)
+25.6.2008 11:05:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 610, -83) in Malas: "Parrot"
+25.6.2008 11:05:21: 85.70.219.31: Serials: 0x43E; 
+25.6.2008 11:05:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add skoop'
+25.6.2008 11:05:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (967, 660, -90) in Malas: "Swoop"
+25.6.2008 11:05:46: 85.70.219.31: Serials: 0x441; 
+25.6.2008 11:05:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (969, 659, -90) in Malas: "Swoop"
+25.6.2008 11:05:46: 85.70.219.31: Serials: 0x442; 
+25.6.2008 11:05:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (971, 659, -90) in Malas: "Swoop"
+25.6.2008 11:05:47: 85.70.219.31: Serials: 0x443; 
+25.6.2008 11:05:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (972, 658, -90) in Malas: "Swoop"
+25.6.2008 11:05:47: 85.70.219.31: Serials: 0x444; 
+25.6.2008 11:06:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+25.6.2008 11:06:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Hue' of 0x40017874 (ParrotItem) to '35'
+25.6.2008 11:07:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Hue' of 0x40017874 (ParrotItem) to '32'
+25.6.2008 11:07:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+25.6.2008 11:07:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+25.6.2008 11:07:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Hue' of 0x40017874 (ParrotItem) to '53'
+25.6.2008 11:08:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set name Korzár'
+25.6.2008 11:08:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'name' of 0x454 "a pet parrot" (no account) to 'Korzár'
+25.6.2008 11:09:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add elvenlo'
+25.6.2008 11:09:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 605, -83) in Malas: "ElvenLoveseatEastAddon"
+25.6.2008 11:09:04: 85.70.219.31: Serials: 0x40017BF0; 
+25.6.2008 11:09:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add mounted'
+25.6.2008 11:09:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 616, -83) in Malas: "MountedDreadHorn"
+25.6.2008 11:09:35: 85.70.219.31: Serials: 0x40017C8F; 
+25.6.2008 11:10:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add arcani'
+25.6.2008 11:10:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (954, 618, -83) in Malas: "ArcanistStatueSouthAddon"
+25.6.2008 11:10:27: 85.70.219.31: Serials: 0x40017D8D; 
+25.6.2008 11:10:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:10:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40017D8E (AddonComponent)
+25.6.2008 11:10:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (954, 618, -83) in Malas: "ArcanistStatueEastAddon"
+25.6.2008 11:10:36: 85.70.219.31: Serials: 0x40017D90; 
+25.6.2008 11:10:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (954, 615, -83) in Malas: "ArcanistStatueEastAddon"
+25.6.2008 11:10:37: 85.70.219.31: Serials: 0x40017D92; 
+25.6.2008 11:10:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 609, -83) in Malas: "WarriorStatueSouthAddon"
+25.6.2008 11:10:55: 85.70.219.31: Serials: 0x40017D96; 
+25.6.2008 11:11:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 610, -83) in Malas: "AlbinoSquirrelImprisonedInCrystal"
+25.6.2008 11:11:11: 85.70.219.31: Serials: 0x40017DDA; 
+25.6.2008 11:12:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 618, -83) in Malas: "SquirrelStatueSouthAddon"
+25.6.2008 11:12:13: 85.70.219.31: Serials: 0x40018017; 
+25.6.2008 11:12:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (958, 618, -83) in Malas: "SquirrelStatueSouthAddon"
+25.6.2008 11:12:14: 85.70.219.31: Serials: 0x4001801C; 
+25.6.2008 11:12:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 616, -83) in Malas: "BronzeStatueMaker"
+25.6.2008 11:12:28: 85.70.219.31: Serials: 0x40018063; 
+25.6.2008 11:14:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (958, 612, -83) in Malas: "BakeKitsuneStatue"
+25.6.2008 11:14:29: 85.70.219.31: Serials: 0x400183ED; 
+25.6.2008 11:14:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:14:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400183ED (BakeKitsuneStatue)
+25.6.2008 11:14:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (958, 612, -83) in Malas: "CrystalBallStatuette"
+25.6.2008 11:14:39: 85.70.219.31: Serials: 0x400183F7; 
+25.6.2008 11:14:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:14:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400183F7 (CrystalBallStatuette)
+25.6.2008 11:14:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 611, -83) in Malas: "ChampionStatue"
+25.6.2008 11:14:53: 85.70.219.31: Serials: 0x400183F8; 
+25.6.2008 11:14:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:14:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400183F8 (ChampionStatue)
+25.6.2008 11:15:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 611, -83) in Malas: "IslandStatue"
+25.6.2008 11:15:00: 85.70.219.31: Serials: 0x400183F9; 
+25.6.2008 11:15:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:15:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400183F9 (IslandStatue)
+25.6.2008 11:15:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 610, -83) in Malas: "GrizzledMareStatuette"
+25.6.2008 11:15:12: 85.70.219.31: Serials: 0x400183FA; 
+25.6.2008 11:15:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:15:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400183FA (GrizzledMareStatuette)
+25.6.2008 11:15:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 610, -83) in Malas: "MantraEffervescenceStatuette"
+25.6.2008 11:15:24: 85.70.219.31: Serials: 0x2D94; 
+25.6.2008 11:15:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 611, -83) in Malas: "MantraEffervescenceStatuette"
+25.6.2008 11:15:25: 85.70.219.31: Serials: 0x2D94; 
+25.6.2008 11:15:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 611, -83) in Malas: "MonsterStatuette"
+25.6.2008 11:15:29: 85.70.219.31: Serials: 0x400184AE; 
+25.6.2008 11:15:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 611, -83) in Malas: "MonsterStatuette"
+25.6.2008 11:15:31: 85.70.219.31: Serials: 0x400184B0; 
+25.6.2008 11:15:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:15:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184AE (MonsterStatuette)
+25.6.2008 11:15:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184B0 (MonsterStatuette)
+25.6.2008 11:15:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 611, -83) in Malas: "ParoxysmusSwampDragonStatuette"
+25.6.2008 11:15:38: 85.70.219.31: Serials: 0x400184B7; 
+25.6.2008 11:15:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:15:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184B7 (ParoxysmusSwampDragonStatuette)
+25.6.2008 11:15:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 611, -83) in Malas: "SnakeStatue"
+25.6.2008 11:15:49: 85.70.219.31: Serials: 0x400184B8; 
+25.6.2008 11:15:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:15:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184B8 (SnakeStatue)
+25.6.2008 11:16:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 611, -83) in Malas: "SpecialAchievementZooStatuette"
+25.6.2008 11:16:05: 85.70.219.31: Serials: 0x400184B9; 
+25.6.2008 11:16:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:16:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184B9 (SpecialAchievementZooStatuette)
+25.6.2008 11:16:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 611, -83) in Malas: "StatueNorth"
+25.6.2008 11:16:11: 85.70.219.31: Serials: 0x400184BC; 
+25.6.2008 11:16:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 612, -83) in Malas: "StatueNorth"
+25.6.2008 11:16:12: 85.70.219.31: Serials: 0x400184BD; 
+25.6.2008 11:16:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:16:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184BD (StatueNorth)
+25.6.2008 11:16:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184BC (StatueNorth)
+25.6.2008 11:16:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (954, 609, -83) in Malas: "SquirrelStatueSouthAddon"
+25.6.2008 11:16:20: 85.70.219.31: Serials: 0x400184BE; 
+25.6.2008 11:16:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:16:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184BF (AddonComponent)
+25.6.2008 11:16:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add runed'
+25.6.2008 11:16:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (957, 611, -83) in Malas: "RunedPrism"
+25.6.2008 11:16:47: 85.70.219.31: Serials: 0x400184C3; 
+25.6.2008 11:16:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (956, 612, -83) in Malas: "RunedSwitch"
+25.6.2008 11:16:51: 85.70.219.31: Serials: 0x400184C5; 
+25.6.2008 11:17:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:17:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184C3 (RunedPrism)
+25.6.2008 11:17:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400184C5 (RunedSwitch)
+25.6.2008 11:17:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+25.6.2008 11:18:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 11:18:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40014FD6 (GenericHouseDoor) to (954, 616, -83)
+25.6.2008 11:18:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 11:18:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x83C "Elamor" ('Anthrax') to (948, 610, -83)
+25.6.2008 11:18:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 11:18:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40014FD6 (GenericHouseDoor) to (953, 616, -83)
+25.6.2008 11:18:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 11:18:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x469 "a squirrel" (no account) to (950, 607, -83)
+25.6.2008 11:19:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'teleport '
+25.6.2008 11:19:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:19:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018E34 (AddonComponent)
+25.6.2008 11:19:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018E3B (AddonComponent)
+25.6.2008 11:19:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018E42 (AddonComponent)
+25.6.2008 11:19:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40018E1D (AddonComponent)
+25.6.2008 11:19:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 11:19:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40018E0D (AddonComponent) to (944, 617, -63)
+25.6.2008 11:19:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 11:19:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 11:19:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x40018BE6 (AddonComponent) to (944, 616, -63)
+25.6.2008 11:19:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:19:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015EEA (AlchemistTableSouthDeed)
+25.6.2008 11:20:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015F9B (FancyElvenTableEastDeed)
+25.6.2008 11:20:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400165F7 (OrnateElvenTableEastDeed)
+25.6.2008 11:20:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015FA0 (FancyElvenTableSouthDeed)
+25.6.2008 11:20:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:20:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015FA7 (ArcaneBookshelfSouthDeed)
+25.6.2008 11:20:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015FA6 (ArcaneBookshelfSouthDeed)
+25.6.2008 11:20:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015FA5 (ArcaneBookshelfEastDeed)
+25.6.2008 11:20:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015FA4 (ArcaneBookshelfEastDeed)
+25.6.2008 11:21:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add .add ston'
+25.6.2008 11:21:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (944, 614, -63) in Malas: "BlueSoulstone"
+25.6.2008 11:21:50: 85.70.219.31: Serials: 0x4001928D; 
+25.6.2008 11:22:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go compassion'
+25.6.2008 11:22:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+25.6.2008 11:23:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add stonecra'
+25.6.2008 11:23:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (1015, 521, -70) in Malas: "StoneCrafter"
+25.6.2008 11:23:06: 85.70.219.31: Serials: 0x4A2; 
+25.6.2008 11:23:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'delete '
+25.6.2008 11:23:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4A2 "Dee" (no account)
+25.6.2008 11:24:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add anvil'
+25.6.2008 11:24:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add anvi'
+25.6.2008 11:24:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+25.6.2008 11:24:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 604, -63) in Malas: "StoneAnvilSouthAddon"
+25.6.2008 11:24:43: 85.70.219.31: Serials: 0x4001933B; 
+25.6.2008 11:24:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (951, 605, -63) in Malas: "StoneAnvilEastAddon"
+25.6.2008 11:24:46: 85.70.219.31: Serials: 0x4001933E; 
+25.6.2008 11:24:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+25.6.2008 11:24:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x4001933C (AnvilComponent)
+25.6.2008 11:24:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+25.6.2008 11:24:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001933F (AnvilComponent) to (951, 604, -63)
+25.6.2008 11:24:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+25.6.2008 12:08:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+25.6.2008 12:08:29: 85.70.219.31: Player 0x83C "Elamor" ('Anthrax') used command 'afk JSem v Teplicich u pritelkyne a nakoupit ;)'
+25.6.2008 13:31:12: 89.102.72.219: Player 0x966 "Xaaron" ('Xaaron') used command 'afk '
+25.6.2008 13:45:18: 89.102.72.219: Player 0x966 "Xaaron" ('Xaaron') used command 'afk venku'
+##############################
+Log started on 25.6.2008 18:18:02
+

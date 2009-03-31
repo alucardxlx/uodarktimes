@@ -1,0 +1,86 @@
+##############################
+Log started on 6.7.2008 8:56:50
+
+6.7.2008 13:09:45: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'add a'
+6.7.2008 13:09:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'dupe '
+6.7.2008 13:09:59: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+6.7.2008 13:10:15: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'speedboost '
+6.7.2008 13:10:44: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+6.7.2008 13:11:18: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+6.7.2008 13:11:43: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+6.7.2008 13:12:22: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') set property 'ShowBounds' of 0x400199E7 (XmlSpawner) to 'False'
+6.7.2008 13:12:32: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+6.7.2008 13:13:52: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm tele'
+6.7.2008 13:50:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'm remove'
+6.7.2008 13:50:59: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40025817 (Exiler)
+6.7.2008 13:51:38: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400305AF (RuneBeetleCarapace)
+6.7.2008 13:51:39: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030657 (RuneBeetleCarapace)
+6.7.2008 13:51:40: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400309B7 (RuneBeetleCarapace)
+6.7.2008 13:51:41: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400304C1 (RuneBeetleCarapace)
+6.7.2008 13:51:50: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030427 (RuneBeetleCarapace)
+6.7.2008 13:51:51: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400304FD (RuneBeetleCarapace)
+6.7.2008 13:51:52: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400305D7 (RuneBeetleCarapace)
+6.7.2008 13:51:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307C7 (RuneBeetleCarapace)
+6.7.2008 13:51:53: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307CC (RuneBeetleCarapace)
+6.7.2008 13:51:56: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400305D0 (RuneBeetleCarapace)
+6.7.2008 13:51:57: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400304FC (RuneBeetleCarapace)
+6.7.2008 13:51:59: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307CA (RuneBeetleCarapace)
+6.7.2008 13:52:01: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307CD (RuneBeetleCarapace)
+6.7.2008 13:52:02: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400304A3 (RuneBeetleCarapace)
+6.7.2008 13:52:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400304C0 (RuneBeetleCarapace)
+6.7.2008 13:52:03: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4003061C (RuneBeetleCarapace)
+6.7.2008 13:52:04: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400306B0 (RuneBeetleCarapace)
+6.7.2008 13:52:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400306F7 (RuneBeetleCarapace)
+6.7.2008 13:52:05: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307C8 (RuneBeetleCarapace)
+6.7.2008 13:52:06: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4003043F (RuneBeetleCarapace)
+6.7.2008 13:52:07: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400302AB (RuneBeetleCarapace)
+6.7.2008 13:52:07: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030560 (RuneBeetleCarapace)
+6.7.2008 13:52:08: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400306F9 (RuneBeetleCarapace)
+6.7.2008 13:52:09: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030510 (RuneBeetleCarapace)
+6.7.2008 13:52:09: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030428 (RuneBeetleCarapace)
+6.7.2008 13:52:10: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030440 (RuneBeetleCarapace)
+6.7.2008 13:52:10: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030486 (RuneBeetleCarapace)
+6.7.2008 13:52:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030425 (RuneBeetleCarapace)
+6.7.2008 13:52:11: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030517 (RuneBeetleCarapace)
+6.7.2008 13:52:12: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030561 (RuneBeetleCarapace)
+6.7.2008 13:52:15: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400306B1 (RuneBeetleCarapace)
+6.7.2008 13:52:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4003055E (RuneBeetleCarapace)
+6.7.2008 13:52:16: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307CB (RuneBeetleCarapace)
+6.7.2008 13:52:17: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400305CD (RuneBeetleCarapace)
+6.7.2008 13:52:18: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4003066E (RuneBeetleCarapace)
+6.7.2008 13:52:18: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030702 (RuneBeetleCarapace)
+6.7.2008 13:52:20: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4003049C (RuneBeetleCarapace)
+6.7.2008 13:52:21: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4003055C (RuneBeetleCarapace)
+6.7.2008 13:52:22: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307CF (RuneBeetleCarapace)
+6.7.2008 13:52:22: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030426 (RuneBeetleCarapace)
+6.7.2008 13:52:23: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400302AD (RuneBeetleCarapace)
+6.7.2008 13:52:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4003033F (RuneBeetleCarapace)
+6.7.2008 13:52:24: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400302AE (RuneBeetleCarapace)
+6.7.2008 13:52:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4003043E (RuneBeetleCarapace)
+6.7.2008 13:52:25: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400302A9 (RuneBeetleCarapace)
+6.7.2008 13:52:26: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030441 (RuneBeetleCarapace)
+6.7.2008 13:52:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4003055F (RuneBeetleCarapace)
+6.7.2008 13:52:27: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307C9 (RuneBeetleCarapace)
+6.7.2008 13:52:28: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x40030703 (RuneBeetleCarapace)
+6.7.2008 13:52:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307C6 (RuneBeetleCarapace)
+6.7.2008 13:52:29: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400307CE (RuneBeetleCarapace)
+6.7.2008 13:52:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x400306F8 (RuneBeetleCarapace)
+6.7.2008 13:52:30: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') deleting 0x4002FE24 (Bag)
+6.7.2008 13:52:52: 89.102.63.77: Administrator 0x9367 "Patrik" ('Gamemaster1') used command 'who '
+6.7.2008 15:41:27: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+6.7.2008 16:14:05: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+6.7.2008 16:44:40: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+6.7.2008 16:45:49: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+6.7.2008 16:57:10: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+6.7.2008 17:01:50: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+6.7.2008 19:48:38: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk sleeping'
+6.7.2008 19:56:54: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+6.7.2008 20:20:29: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+6.7.2008 20:21:03: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'c '
+6.7.2008 20:32:40: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'c '
+6.7.2008 20:34:21: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'c '
+6.7.2008 20:42:54: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c u portu cisto'
+6.7.2008 20:43:43: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'c '
+6.7.2008 20:55:03: 89.102.85.219: Player 0xD2A "Theogil" ('Theogil') used command 'afk sleeping'
+6.7.2008 22:37:32: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '
+6.7.2008 23:02:57: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c '

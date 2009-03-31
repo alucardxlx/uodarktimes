@@ -1,0 +1,13 @@
+##############################
+Log started on 3.2.2009 15:45:31
+
+3.2.2009 15:45:55: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'go doom'
+3.2.2009 15:46:04: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm tele'
+##############################
+Log started on 3.2.2009 22:39:02
+
+3.2.2009 22:39:19: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'add soulsee'
+3.2.2009 22:39:21: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') building at (1171, 2595, 0) in Felucca: "SoulSeeker"
+3.2.2009 22:39:21: 85.70.219.31: Serials: 0x4001230B; 
+3.2.2009 22:39:33: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') used command 'm remove'
+3.2.2009 22:39:34: 85.70.219.31: Owner 0x1 "Elamor" ('Elamor') deleting 0x4001230B (SoulSeeker)

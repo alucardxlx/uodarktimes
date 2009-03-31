@@ -1,0 +1,21 @@
+###############################
+# 11.8.2008 - 10:21
+
+###############################
+# 11.8.2008 - 23:23
+
+## New Auction : ce78f790-256e-49e2-b1f2-b326df9c4158
+# ring +dex +int + luck
+# Created on 11.8.2008 at 23:42
+# Owner : Ulrik Zkarsol [0x00009680] Account: Ulrik
+# Expires on 18.8.2008 at 23:42
+# Starting Bid: 3000. Reserve: 3100. Buy Now: 15000
+# Owner Description : 
+# Web Link : 
+#### Selling 1 Items
+# 0. ring [0x4002E4F9] Type SilverRing Hue 0
+Properties: <basefont color=#FFFFFF><p>Ring<br>Weight: 1 Stone<br>Dexterity Bonus 4<br>Intelligence Bonus 4<br>Luck 50<br>Fire Resist 1%<br>
+
+###############################
+# 11.8.2008 - 23:56
+

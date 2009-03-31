@@ -1,0 +1,393 @@
+##############################
+Log started on 17.8.2008 10:18:17
+
+17.8.2008 13:09:13: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+17.8.2008 13:34:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 13:34:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'freeze '
+17.8.2008 13:35:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+17.8.2008 13:35:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 13:36:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+17.8.2008 13:36:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 17.8.2008 14:19:54
+
+##############################
+Log started on 17.8.2008 14:20:13
+
+##############################
+Log started on 17.8.2008 14:25:30
+
+##############################
+Log started on 17.8.2008 14:40:00
+
+##############################
+Log started on 17.8.2008 14:52:04
+
+##############################
+Log started on 17.8.2008 15:26:08
+
+17.8.2008 15:32:53: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+17.8.2008 15:32:59: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c hura uz to bezi :))'
+17.8.2008 15:33:12: 85.70.219.31: Player 0x6C4 "Robeek" ('Anthrax') used command 'c '
+17.8.2008 15:33:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+17.8.2008 15:35:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+17.8.2008 15:36:59: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 80'
+17.8.2008 15:37:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '80'
+17.8.2008 15:37:55: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 15:37:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') resurrecting 0x1 "Elamorius" ('Elamor')
+17.8.2008 15:38:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+17.8.2008 15:38:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400134E1 (Corpse)
+17.8.2008 15:39:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 15:39:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 0'
+17.8.2008 15:39:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '0'
+17.8.2008 15:40:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set rawstr 100'
+17.8.2008 15:40:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'rawstr' of 0x1 "Elamorius" ('Elamor') to '100'
+17.8.2008 15:40:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set skill tactics 50'
+17.8.2008 15:40:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+17.8.2008 15:40:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+17.8.2008 15:40:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property '[Tactics: 100].Base' of 0x1 "Elamorius" ('Elamor') to '100'
+17.8.2008 15:40:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property '[Wrestling: 50].Base' of 0x1 "Elamorius" ('Elamor') to '50'
+17.8.2008 15:41:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set rawstr 5000'
+17.8.2008 15:41:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'rawstr' of 0x1 "Elamorius" ('Elamor') to '5000'
+17.8.2008 15:41:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set rawstr 500000'
+17.8.2008 15:41:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'rawstr' of 0x1 "Elamorius" ('Elamor') to '500000'
+17.8.2008 15:42:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+17.8.2008 15:42:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 15:48:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 17.8.2008 15:52:12
+
+17.8.2008 15:53:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setskill magery 50'
+17.8.2008 15:53:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Magery.Base' of 0x1 "Elamorius" ('Elamor') to '50'
+17.8.2008 15:54:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+17.8.2008 15:55:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+17.8.2008 15:55:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400134DF (LegsOfStability)
+17.8.2008 15:56:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 15:56:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: False)
+##############################
+Log started on 17.8.2008 15:59:55
+
+17.8.2008 16:03:20: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+17.8.2008 16:03:28: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'c skill roste ale ne jako ggs'
+17.8.2008 16:08:43: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+17.8.2008 16:15:56: 217.117.223.39: Player 0x9680 "Ulrik Zkarsol" ('Ulrik') used command 'chat '
+17.8.2008 17:37:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 17:37:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: True)
+17.8.2008 17:37:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '
+##############################
+Log started on 17.8.2008 17:40:02
+
+##############################
+Log started on 17.8.2008 17:42:54
+
+17.8.2008 17:44:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'skills '
+17.8.2008 17:44:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property '[Tinkering: 100].Base' of 0x6C4 "Robeek" ('Anthrax') to '100'
+17.8.2008 17:44:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add tinker'
+17.8.2008 17:44:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add tinkers'
+17.8.2008 17:44:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 517, -50) in Malas: "TinkerTools"
+17.8.2008 17:44:47: 85.70.219.31: Serials: 0x400101F7; 
+17.8.2008 17:44:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+17.8.2008 17:44:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'UsesRemaining' of 0x400101F7 (TinkerTools) to '2800'
+##############################
+Log started on 17.8.2008 17:51:03
+
+17.8.2008 17:51:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add tinkertool'
+17.8.2008 17:51:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 516, -50) in Malas: "TinkerTools"
+17.8.2008 17:51:33: 85.70.219.31: Serials: 0x4000F8A9; 
+17.8.2008 17:51:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+17.8.2008 17:51:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'UsesRemaining' of 0x4000F8A9 (TinkerTools) to '3700'
+17.8.2008 17:51:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '
+17.8.2008 17:51:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '
+17.8.2008 17:52:31: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setskill tinkering 100'
+17.8.2008 17:52:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Tinkering.Base' of 0x6C4 "Robeek" ('Anthrax') to '100'
+17.8.2008 18:06:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 18:06:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: False)
+##############################
+Log started on 17.8.2008 18:08:56
+
+##############################
+Log started on 17.8.2008 18:19:40
+
+##############################
+Log started on 17.8.2008 18:27:06
+
+17.8.2008 18:40:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add hour'
+17.8.2008 18:40:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 516, -50) in Malas: "Hourglass"
+17.8.2008 18:40:06: 85.70.219.31: Serials: 0x40015187; 
+17.8.2008 18:40:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+17.8.2008 18:40:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015187 (Hourglass)
+17.8.2008 18:40:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add hour'
+17.8.2008 18:40:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (989, 516, -50) in Malas: "Clock"
+17.8.2008 18:40:23: 85.70.219.31: Serials: 0x40015190; 
+17.8.2008 18:40:35: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+17.8.2008 18:40:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x40015190 (Clock)
+17.8.2008 18:50:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'Set Movable false'
+17.8.2008 18:54:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspa'
+17.8.2008 18:54:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3412, 2602, 60) in Trammel: "XmlSpawner"
+17.8.2008 18:54:11: 85.70.219.31: Serials: 0x40016498; 
+17.8.2008 18:54:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x40016498 'Spawner' [3412, 2602] (Trammel) : actor
+17.8.2008 18:54:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x40016498 'Spawner' [3412, 2602] (Trammel) : actor to Actor
+17.8.2008 18:54:57: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c jo pekny_¨'
+17.8.2008 18:55:00: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c :)'
+17.8.2008 18:55:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jeste lesy kolem'
+17.8.2008 18:55:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c se mrkni do stareho Havenu ;)'
+17.8.2008 18:55:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 18:55:23: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c a jak?:D'
+17.8.2008 18:55:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c pesky'
+17.8.2008 18:55:41: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g kde je starej havwen'
+17.8.2008 18:55:46: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c kde je starej haven'
+17.8.2008 18:55:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 18:55:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c dolu :D'
+17.8.2008 18:56:09: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c xD ok'
+17.8.2008 18:56:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 18:56:46: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 18:57:05: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c napsalo mi to neco dole v levym rohu neco s GGS neco s +5 a statama bo co'
+17.8.2008 18:57:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c +5?'
+17.8.2008 18:57:23: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'g  asi tak'
+17.8.2008 18:59:15: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c auuuuu oni carujou prez budovy a zdi:('
+17.8.2008 19:02:44: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c chro chro:('
+17.8.2008 19:07:18: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c zas mi to neco napsalo'
+17.8.2008 19:07:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 19:07:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+17.8.2008 19:11:19: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ela uz tu si?'
+17.8.2008 19:18:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 19:19:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'openbrowser http://www.darktimes.kx.cz/forum/viewtopic.php?f=14&t=30&p=72#p72'
+17.8.2008 19:19:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'openbrowser http://www.darktimes.kx.cz/forum/viewtopic.php?f=14&t=30&p=72#p72'
+17.8.2008 19:19:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') requesting to open web browser of 0xCE "jimmy dragon X" ('darius03') to http://www.darktimes.kx.cz/forum/viewtopic.php?f=14&t=30&p=72#p72
+17.8.2008 19:19:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm remove'
+17.8.2008 19:19:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') deleting 0x400134DF (LegsOfStability)
+17.8.2008 19:21:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 99999999999'
+17.8.2008 19:21:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 9999999999'
+17.8.2008 19:21:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set hits 999999999'
+17.8.2008 19:21:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'hits' of 0x1 "Elamorius" ('Elamor') to '999999999'
+17.8.2008 19:21:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setallskills 255'
+17.8.2008 19:21:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'EverySkill.Base' of 0x1 "Elamorius" ('Elamor') to '255'
+17.8.2008 19:22:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'setskill focus 99'
+17.8.2008 19:22:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Focus.Base' of 0x1 "Elamorius" ('Elamor') to '99'
+17.8.2008 19:22:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'set skillcap 9999999999'
+17.8.2008 19:25:04: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c uz smenujes?'
+17.8.2008 19:25:08: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c itwemy:)'
+17.8.2008 19:25:38: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c hmm'
+17.8.2008 19:25:43: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c doctu si tu blbinku'
+17.8.2008 19:28:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c '
+17.8.2008 19:29:22: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'C ELA SI TU?'
+17.8.2008 19:29:33: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c ela smenujes uz ty itemy?'
+17.8.2008 19:29:35: 90.177.215.159: Player 0xCE "jimmy dragon X" ('darius03') used command 'c :)'
+17.8.2008 19:30:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+17.8.2008 20:03:42: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+17.8.2008 20:03:49: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c je tu nekdo?????'
+17.8.2008 20:18:30: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+17.8.2008 20:18:36: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'afk '
+17.8.2008 20:20:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go britain'
+17.8.2008 20:21:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+17.8.2008 20:24:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'restart '
+##############################
+Log started on 17.8.2008 20:27:02
+
+17.8.2008 20:50:37: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+17.8.2008 20:50:46: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'afk sleeping'
+17.8.2008 21:37:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 21:37:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 21:38:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changing password of account Seer
+17.8.2008 21:38:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+17.8.2008 21:39:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 21:39:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:40:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:40:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40016901 (BookOfTravel) (inBag=False; amount=1)
+17.8.2008 21:40:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40016901 (BookOfTravel) creating 0x4001AD9F (BookOfTravel)
+17.8.2008 21:40:39: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:40:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4002E9DA (RemoveStone) (inBag=False; amount=1)
+17.8.2008 21:40:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4002E9DA (RemoveStone) creating 0x4001ADA0 (RemoveStone)
+17.8.2008 21:40:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:40:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001914F (TeleportStone) (inBag=False; amount=1)
+17.8.2008 21:40:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001914F (TeleportStone) creating 0x4001ADA1 (TeleportStone)
+17.8.2008 21:40:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:40:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40019150 (GoStone) (inBag=False; amount=1)
+17.8.2008 21:40:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40019150 (GoStone) creating 0x4001ADA2 (GoStone)
+17.8.2008 21:40:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:40:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40019155 (AdminStone) (inBag=False; amount=1)
+17.8.2008 21:40:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40019155 (AdminStone) creating 0x4001ADA3 (AdminStone)
+17.8.2008 21:41:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:41:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40019151 (GMHidingStone) (inBag=False; amount=1)
+17.8.2008 21:41:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40019151 (GMHidingStone) creating 0x4001ADA7 (GMHidingStone)
+17.8.2008 21:41:08: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:41:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001914E (PropsStone) (inBag=False; amount=1)
+17.8.2008 21:41:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001914E (PropsStone) creating 0x4001ADA8 (PropsStone)
+17.8.2008 21:41:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:41:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x40019152 (SpeedStone) (inBag=False; amount=1)
+17.8.2008 21:41:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x40019152 (SpeedStone) creating 0x4001ADA9 (SpeedStone)
+17.8.2008 21:42:56: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'speedboost '
+17.8.2008 21:46:16: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+17.8.2008 21:46:25: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c je tu nekdo??,'
+17.8.2008 21:46:26: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+17.8.2008 21:46:30: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jasne ;)'
+17.8.2008 21:46:37: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c zdravim:-D'
+17.8.2008 21:46:37: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c '
+17.8.2008 21:46:48: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'chat '
+17.8.2008 21:46:49: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jak to jde??'
+17.8.2008 21:47:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c dobry... jen prace hodne. Ted az odesla navsteva'
+17.8.2008 21:47:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 21:47:31: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'speedboost '
+17.8.2008 21:47:31: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jjj co ted delas jestli se muzu zeptat???:-D'
+17.8.2008 21:48:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c dam na net novinku o zitrku a bodech a pak na forum vysvetleni o GGS'
+17.8.2008 21:48:13: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c pak si dam koupel a pujdu si lehnout'
+17.8.2008 21:48:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 21:48:37: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jjj tak to jo...hele v britu uz nejsou titani???'
+17.8.2008 21:48:38: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspawner'
+17.8.2008 21:48:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3599, 2453, 14) in Trammel: "xmlspawner"
+17.8.2008 21:48:41: 85.70.219.31: Serials: 0x4001AEC9; 
+17.8.2008 21:48:47: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c ee, semidar padnul'
+17.8.2008 21:49:05: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c aha...ale etinove a trolovee tam jsou este'
+17.8.2008 21:49:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4001AEC9 'Spawner' [3599, 2453] (Trammel) : Skeleton
+17.8.2008 21:49:12: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c a kdo ho zabil???'
+17.8.2008 21:49:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4001AEC9 'Spawner' [3599, 2453] (Trammel) : Wraith
+17.8.2008 21:49:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4001AEC9 'Spawner' [3599, 2453] (Trammel) : Zombie
+17.8.2008 21:49:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'SpawnRange' of 0x4001AEC9 (XmlSpawner) to '10'
+17.8.2008 21:49:42: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRange' of 0x4001AEC9 (XmlSpawner) to '10'
+17.8.2008 21:49:57: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'g '
+17.8.2008 21:50:04: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c '
+17.8.2008 21:50:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 21:50:10: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'f '
+17.8.2008 21:50:15: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c se bez podivat :D'
+17.8.2008 21:50:22: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'pm '
+17.8.2008 21:50:24: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c kam??,'
+17.8.2008 21:50:28: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c do britu'
+17.8.2008 21:50:34: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'go britain'
+17.8.2008 21:50:56: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c najdu tam neco oskliveho??:-D'
+17.8.2008 21:51:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c ee, prave ze nic'
+17.8.2008 21:51:08: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c oki...'
+17.8.2008 21:51:58: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c skoda ZE JSEM tu nebyl o vikendu:-D'
+17.8.2008 21:52:20: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c '
+17.8.2008 21:52:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c zkus .c ;)'
+17.8.2008 21:52:31: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c '
+17.8.2008 21:52:36: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c hoj'
+17.8.2008 21:52:43: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+17.8.2008 21:52:50: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c mno parada :-d'
+17.8.2008 21:52:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:52:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001E59F (XmlSpawner) (inBag=False; amount=1)
+17.8.2008 21:52:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001E59F (XmlSpawner) creating 0x4001AFB6 (XmlSpawner)
+17.8.2008 21:52:56: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c zdravim all'
+17.8.2008 21:52:56: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c kdo jsi??'
+17.8.2008 21:53:07: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:53:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001AFB6 (XmlSpawner) (inBag=False; amount=1)
+17.8.2008 21:53:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001AFB6 (XmlSpawner) creating 0x4001AFB8 (XmlSpawner)
+17.8.2008 21:53:09: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:53:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001AFB6 (XmlSpawner) (inBag=False; amount=1)
+17.8.2008 21:53:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001AFB6 (XmlSpawner) creating 0x4001AFBB (XmlSpawner)
+17.8.2008 21:53:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 21:53:15: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c GM noob na tomhle sharde'
+17.8.2008 21:53:37: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c aha...GM...tak tebe este neznam:-D'
+17.8.2008 21:53:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 21:53:52: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c ok .. tak ne GM ... ae tak neco :-D'
+17.8.2008 21:53:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+17.8.2008 21:54:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001AFB6 (XmlSpawner) to (3397, 2566, 10)
+17.8.2008 21:54:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 21:54:12: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+17.8.2008 21:54:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001AFBB (XmlSpawner) to (3382, 2649, 30)
+17.8.2008 21:54:18: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jjj...neces neco podniknout???'
+17.8.2008 21:54:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:54:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001AFB8 (XmlSpawner) (inBag=False; amount=1)
+17.8.2008 21:54:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001AFB8 (XmlSpawner) creating 0x4001AFE3 (XmlSpawner)
+17.8.2008 21:54:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:54:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001AFB8 (XmlSpawner) (inBag=False; amount=1)
+17.8.2008 21:54:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001AFB8 (XmlSpawner) creating 0x4001AFE4 (XmlSpawner)
+17.8.2008 21:54:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'dupe '
+17.8.2008 21:54:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duping 0x4001AFE4 (XmlSpawner) (inBag=False; amount=1)
+17.8.2008 21:54:25: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') duped 0x4001AFE4 (XmlSpawner) creating 0x4001B02C (XmlSpawner)
+17.8.2008 21:54:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+17.8.2008 21:54:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 21:54:35: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c podle toho co .. dneska uz moc casu nemam'
+17.8.2008 21:54:37: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+17.8.2008 21:54:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001B02C (XmlSpawner) to (3427, 2694, 51)
+17.8.2008 21:54:51: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c neco maleho:-D'
+17.8.2008 21:54:56: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 21:54:59: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c :-D pekne ...'
+17.8.2008 21:55:01: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'c '
+17.8.2008 21:55:02: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+17.8.2008 21:55:05: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001AFE4 (XmlSpawner) to (3400, 2729, 26)
+17.8.2008 21:55:12: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c tak pojd do luny domluvime se'
+17.8.2008 21:55:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 21:55:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+17.8.2008 21:55:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001AFB8 (XmlSpawner) to (3467, 2766, 47)
+17.8.2008 21:55:32: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'speedboost '
+17.8.2008 21:55:59: 62.77.119.62: Counselor 0x2AEC "Terrezinka" ('Seer') used command 'go luna'
+17.8.2008 21:56:13: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+17.8.2008 21:56:51: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'add xmlspaw'
+17.8.2008 21:56:53: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') building at (3517, 2769, 9) in Trammel: "XmlSpawner"
+17.8.2008 21:56:53: 85.70.219.31: Serials: 0x4001B2DC; 
+17.8.2008 21:57:14: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') added to XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental
+17.8.2008 21:57:23: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'HomeRange' of 0x4001B2DC (XmlSpawner) to '20'
+17.8.2008 21:57:27: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+17.8.2008 21:57:49: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Debug' of 0x3DBE "an earth elemental" (no account) to 'True'
+17.8.2008 21:57:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Debug' of 0x3DBE "an earth elemental" (no account) to 'False'
+17.8.2008 21:58:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') set property 'Blessed' of 0x3DBE "an earth elemental" (no account) to 'True'
+17.8.2008 21:59:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental to EarthElemental/bllesed/true
+17.8.2008 21:59:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental/bllesed/true to EarthElemental/blessed/true
+17.8.2008 21:59:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental/blessed/true to EarthElemental/blessed/true/name/Strazce Kopacu
+17.8.2008 22:00:02: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+17.8.2008 22:00:11: 62.77.119.62: Player 0x852 "Terrisek" ('aldric') used command 'c sem'
+17.8.2008 22:00:18: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c kde??'
+17.8.2008 22:00:19: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental/blessed/true/name/Strazce Kopacu to EarthElemental/blessed/true/Bodyvalue/5985
+17.8.2008 22:00:24: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental/blessed/true/Bodyvalue/5985 to EarthElemental/blessed/true/Bodyvalue/598
+17.8.2008 22:00:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental/blessed/true/Bodyvalue/598 to EarthElemental/blessed/true/Bodyvalue/59
+17.8.2008 22:00:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental/blessed/true/Bodyvalue/59 to EarthElemental/blessed/true/Bodyvalue/111
+17.8.2008 22:00:40: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental/blessed/true/Bodyvalue/111 to EarthElemental/blessed/true/Bodyvalue/112
+17.8.2008 22:00:46: 62.77.119.62: Player 0x852 "Terrisek" ('aldric') used command 'c skoro jak to tak odhaduju tak asi tukuno'
+17.8.2008 22:00:50: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c kde jses'
+17.8.2008 22:00:59: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jaky???'
+17.8.2008 22:01:11: 62.77.119.62: Player 0x852 "Terrisek" ('aldric') used command 'c u zacatku'
+17.8.2008 22:01:11: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') changed XmlSpawner 0x4001B2DC 'Spawner' [3517, 2769] (Trammel) : EarthElemental/blessed/true/Bodyvalue/112 to EarthElemental/blessed/true/Bodyvalue/112/Name/Strazce Hory
+17.8.2008 22:01:16: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 22:01:21: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 22:01:25: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c co vrazdis???'
+17.8.2008 22:01:35: 62.77.119.62: Player 0x852 "Terrisek" ('aldric') used command 'c nic'
+17.8.2008 22:01:50: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c a co je kolem??? jaky obludy???'
+17.8.2008 22:01:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 22:02:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 22:02:18: 62.77.119.62: Player 0x852 "Terrisek" ('aldric') used command 'c hmm :-D zadny'
+17.8.2008 22:02:26: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jses ve meste???'
+17.8.2008 22:02:29: 62.77.119.62: Player 0x852 "Terrisek" ('aldric') used command 'c sem skoro v NB vesnici'
+17.8.2008 22:02:39: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c aha:-D'
+17.8.2008 22:02:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'move '
+17.8.2008 22:02:44: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') moving 0x4001AFE3 (XmlSpawner) to (3452, 2450, 3)
+17.8.2008 22:03:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c je v New havenu ;)'
+17.8.2008 22:03:06: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 22:03:11: 62.77.119.62: Player 0x852 "Terrisek" ('aldric') used command 'c mno :-D'
+17.8.2008 22:03:11: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jjj'
+17.8.2008 22:04:14: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c to je to mesto kde se narodim vid?'
+17.8.2008 22:04:22: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c jj'
+17.8.2008 22:04:33: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 22:05:41: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'props '
+17.8.2008 22:06:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go felucca'
+17.8.2008 22:06:10: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 22:07:29: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go britain'
+17.8.2008 22:07:32: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 22:07:51: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c hele elamoriusi...jsem zjistil ze mam docela slusnej pocet sperku:-D'
+17.8.2008 22:08:17: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c dobre zjisteni'
+17.8.2008 22:08:18: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c ;)'
+17.8.2008 22:08:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 22:08:39: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c dobre co???co tim myslis??:-D'
+17.8.2008 22:08:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c nody...'
+17.8.2008 22:08:50: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c body...'
+17.8.2008 22:08:57: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 22:09:04: 62.77.119.62: Player 0x852 "Terrisek" ('aldric') used command 'afk '
+17.8.2008 22:09:10: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c jo takhle:-D...mam jich 5 u sebe a zbytek v bance:-D'
+17.8.2008 22:09:20: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'm tele'
+17.8.2008 22:09:34: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'go luna'
+17.8.2008 22:09:43: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c mno uvidi se v utery'
+17.8.2008 22:09:45: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c ;)'
+17.8.2008 22:09:58: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'c brb'
+17.8.2008 22:10:01: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c v utery uz budou ty body hotovy???'
+17.8.2008 22:11:55: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c neaky PRASE v lune vrazdi zmutovany kraliky:_D'
+17.8.2008 22:22:50: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c '
+17.8.2008 22:25:04: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c hele ja nemuzu davat predmety do banky'
+17.8.2008 22:26:26: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'c elamorius'
+17.8.2008 22:26:38: 89.102.85.252: Player 0x38F "Eldrod" ('Theogil') used command 'pm elamorius'
+17.8.2008 22:28:36: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 22:29:00: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'hide '
+17.8.2008 22:29:01: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') hiding 0x38F "Eldrod" ('Theogil')
+17.8.2008 22:29:03: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'bank '
+17.8.2008 22:29:04: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') opening bank box of 0x38F "Eldrod" ('Theogil')
+17.8.2008 22:29:48: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'admin '
+17.8.2008 22:29:52: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') shutting down server (Restart: False) (Save: True)
+17.8.2008 22:29:54: 85.70.219.31: Owner 0x1 "Elamorius" ('Elamor') used command 'save '
