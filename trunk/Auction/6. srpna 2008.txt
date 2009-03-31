@@ -1,6 +1,0 @@
-###############################
-# 6.8.2008 - 10:10
-
-## Ending Auction 3cbbaceb-b6b5-4ed5-a631-5b1bf3063ee5
-# Status : NoBids
-
